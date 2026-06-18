@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ScholarMe — Redesign Preview</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ind-0:#120f2b; --ind-1:#1b1745; --ind-2:#252058; --ind-3:#322c73;
+    --blue:#3b82f6; --blue-br:#60a5fa; --gold:#f59e0b; --gold-br:#fbbf24;
+    --ink:#ECEAFF; --muted:#9b95c7;
+    --disp:'Sora',sans-serif; --body:'Plus Jakarta Sans',sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:radial-gradient(900px 600px at 80% -150px,#2a2370 0%,transparent 60%),radial-gradient(700px 500px at 10% 10%,#1c3a8a 0%,transparent 55%),#0c0a1f;
+    color:var(--ink);font-family:var(--body);min-height:100vh;padding:48px 20px 80px;
+  }
+  .intro{max-width:780px;margin:0 auto 44px;text-align:center}
+  .intro h1{font-family:var(--disp);font-weight:800;font-size:46px;letter-spacing:-1px;color:#fff}
+  .intro h1 span{background:linear-gradient(120deg,var(--blue-br),var(--gold-br));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .intro p{color:var(--muted);font-weight:300;margin-top:10px;font-size:15px;line-height:1.6}
+  .stage{display:flex;gap:34px;flex-wrap:wrap;justify-content:center;align-items:flex-start;max-width:1500px;margin:0 auto}
+  .frameWrap{display:flex;flex-direction:column;align-items:center;gap:14px}
+  .frameLabel{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--blue-br);font-weight:700}
+
+  .phone{width:330px;height:715px;border-radius:46px;padding:13px;background:linear-gradient(160deg,#322c5e,#0c0a1f);
+    box-shadow:0 40px 80px -20px rgba(0,0,0,.7),0 0 0 2px rgba(96,165,250,.14),inset 0 0 0 1px rgba(255,255,255,.04);position:relative}
+  .screen{width:100%;height:100%;border-radius:34px;overflow:hidden;position:relative;
+    background:radial-gradient(420px 260px at 50% -40px,rgba(96,165,250,.22),transparent 70%),linear-gradient(180deg,var(--ind-1),var(--ind-0))}
+  .notch{position:absolute;top:0;left:50%;transform:translateX(-50%);width:120px;height:26px;background:#0c0a1f;border-radius:0 0 16px 16px;z-index:5}
+  .statusbar{display:flex;justify-content:space-between;padding:14px 26px 0;font-size:12px;color:var(--ink);font-weight:600;position:relative;z-index:4}
+  .pad{padding:22px 24px;position:relative;height:calc(100% - 34px)}
+
+  .btn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:16px;border:none;border-radius:18px;
+    font-family:var(--disp);font-weight:700;font-size:15px;cursor:pointer;color:#1a1340;
+    background:linear-gradient(120deg,var(--gold-br),var(--gold));box-shadow:0 12px 26px -8px rgba(245,158,11,.55)}
+  .btn-blue{background:linear-gradient(120deg,var(--blue-br),var(--blue));color:#fff;box-shadow:0 12px 26px -8px rgba(59,130,246,.55)}
+  .tag{display:inline-block;padding:5px 11px;border-radius:999px;font-size:11px;font-weight:600;letter-spacing:.3px}
+  .tag-gold{background:rgba(245,158,11,.16);color:var(--gold-br);border:1px solid rgba(245,158,11,.35)}
+  .tag-blue{background:rgba(96,165,250,.16);color:var(--blue-br);border:1px solid rgba(96,165,250,.35)}
+
+  /* WELCOME */
+  .w-logo{font-family:var(--disp);font-weight:800;font-size:26px;text-align:center;margin-top:34px;
+    background:linear-gradient(120deg,var(--blue-br),var(--gold-br));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .w-orb{position:absolute;top:120px;left:50%;transform:translateX(-50%);width:160px;height:160px;border-radius:42px;
+    background:linear-gradient(135deg,var(--blue),var(--gold));box-shadow:0 24px 60px -10px rgba(96,165,250,.5);display:flex;align-items:center;justify-content:center;font-size:74px;transform:translateX(-50%) rotate(-8deg)}
+  .w-title{font-family:var(--disp);font-weight:800;font-size:40px;line-height:1.08;text-align:center;color:#fff;margin-top:240px;letter-spacing:-1px}
+  .w-title span{color:var(--gold-br)}
+  .w-sub{text-align:center;color:var(--muted);font-size:14px;margin-top:14px;line-height:1.6;padding:0 10px}
+  .w-foot{position:absolute;left:24px;right:24px;bottom:34px}
+  .w-small{text-align:center;color:var(--muted);font-size:11px;margin-top:12px}
+
+  /* DISCOVER (swipe) */
+  .d-top{display:flex;justify-content:space-between;align-items:center}
+  .d-h{font-family:var(--disp);font-weight:700;font-size:20px;color:#fff}
+  .d-count{font-size:12px;color:var(--muted)}
+  .d-count b{color:var(--gold-br)}
+  .card{position:absolute;left:24px;right:24px;top:96px;border-radius:26px;padding:22px;
+    background:linear-gradient(165deg,#2a2566,#1c1847);border:1px solid rgba(255,255,255,.08);box-shadow:0 30px 50px -20px rgba(0,0,0,.6)}
+  .card.behind{top:108px;left:34px;right:34px;opacity:.4;transform:scale(.97);z-index:0}
+  .match{position:absolute;top:18px;right:18px;background:linear-gradient(120deg,var(--gold-br),var(--gold));color:#1a1340;font-family:var(--disp);font-weight:800;font-size:13px;padding:7px 12px;border-radius:999px}
+  .org{width:48px;height:48px;border-radius:14px;background:linear-gradient(135deg,var(--blue),var(--ind-3));display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:14px}
+  .c-name{font-family:var(--disp);font-weight:700;font-size:21px;color:#fff;line-height:1.2}
+  .c-org{font-size:13px;color:var(--muted);margin-top:4px}
+  .c-amt{font-family:var(--disp);font-weight:800;font-size:38px;color:var(--gold-br);margin-top:18px;letter-spacing:-1px}
+  .c-meta{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+  .c-dead{font-size:12px;color:var(--muted);margin-top:16px}
+  .c-dead b{color:var(--ink)}
+  .swipe-actions{position:absolute;left:24px;right:24px;bottom:34px;display:flex;justify-content:center;gap:20px}
+  .sw{width:62px;height:62px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:26px;border:1.5px solid rgba(255,255,255,.15)}
+  .sw.pass{color:#fb7185;background:rgba(251,113,133,.1)}
+  .sw.save{color:var(--gold-br);background:rgba(245,158,11,.14);border-color:rgba(245,158,11,.4);width:72px;height:72px;font-size:32px}
+
+  /* DETAIL */
+  .dt-amt{font-family:var(--disp);font-weight:800;font-size:34px;color:var(--gold-br);letter-spacing:-1px}
+  .dt-name{font-family:var(--disp);font-weight:700;font-size:19px;color:#fff;margin-top:4px;line-height:1.25}
+  .dt-org{font-size:13px;color:var(--muted);margin-top:3px}
+  .dt-count{margin-top:18px;border-radius:16px;padding:14px;background:rgba(96,165,250,.1);border:1px solid rgba(96,165,250,.25);display:flex;justify-content:space-between;align-items:center}
+  .dt-count .lbl{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+  .dt-count .val{font-family:var(--disp);font-weight:700;color:var(--blue-br);font-size:18px}
+  .dt-sec{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1.5px;margin-top:22px;margin-bottom:10px;font-weight:600}
+  .dt-chips{display:flex;gap:8px;flex-wrap:wrap}
+  .dt-reason{display:flex;gap:10px;align-items:center;font-size:13px;color:var(--ink);margin-top:10px}
+  .dt-reason .ck{width:20px;height:20px;border-radius:50%;background:rgba(245,158,11,.18);color:var(--gold-br);display:flex;align-items:center;justify-content:center;flex:0 0 auto;font-size:12px}
+  .dt-foot{position:absolute;left:24px;right:24px;bottom:30px}
+
+  /* PAYWALL */
+  .p-h{font-family:var(--disp);font-weight:800;font-size:28px;color:#fff;text-align:center;margin-top:24px;line-height:1.15;letter-spacing:-.5px}
+  .p-h span{color:var(--gold-br)}
+  .p-sub{text-align:center;color:var(--muted);font-size:13px;margin-top:8px}
+  .p-feat{margin-top:22px;display:flex;flex-direction:column;gap:13px}
+  .p-row{display:flex;align-items:center;gap:12px;font-size:13px;color:var(--ink)}
+  .p-row .ck{width:24px;height:24px;border-radius:8px;background:linear-gradient(135deg,var(--blue),var(--gold));display:flex;align-items:center;justify-content:center;color:#fff;flex:0 0 auto;font-size:13px}
+  .p-plans{display:flex;gap:12px;margin-top:24px}
+  .p-plan{flex:1;border-radius:18px;padding:16px 10px;text-align:center;border:1.5px solid rgba(255,255,255,.12);background:rgba(255,255,255,.03);position:relative}
+  .p-plan.best{border-color:var(--gold);background:rgba(245,158,11,.12)}
+  .p-badge{position:absolute;top:-10px;left:50%;transform:translateX(-50%);background:linear-gradient(120deg,var(--gold-br),var(--gold));color:#1a1340;font-size:9px;font-weight:800;padding:3px 9px;border-radius:999px}
+  .p-price{font-family:var(--disp);font-weight:800;font-size:26px;color:#fff}
+  .p-per{font-size:11px;color:var(--muted)}
+  .p-plan.best .p-price{color:var(--gold-br)}
+
+  @media(max-width:520px){.phone{transform:scale(.82);transform-origin:top center;margin-bottom:-110px}}
+</style>
+</head>
+<body>
+  <div class="intro">
+    <h1>Scholar<span>Me</span> &mdash; Redesign Preview</h1>
+    <p>Modern refresh of the indigo &amp; blue identity, warmed with gold. Headlines in Sora (bold geometric), body in Plus Jakarta Sans. Energetic gradients, a hero swipe card, and a clear gold match score. Web mockup &mdash; approve it and I port it into the real app.</p>
+  </div>
+
+  <div class="stage">
+
+    <!-- WELCOME -->
+    <div class="frameWrap">
+      <div class="frameLabel">Welcome</div>
+      <div class="phone"><div class="screen"><div class="notch"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128246;</span></div>
+        <div class="pad">
+          <div class="w-logo">ScholarMe</div>
+          <div class="w-orb">&#127891;</div>
+          <div class="w-title">Swipe your way to <span>free college</span></div>
+          <div class="w-sub">Build a quick profile and get matched with real scholarships made for you. Swipe right to save, left to pass.</div>
+          <div class="w-foot">
+            <button class="btn">Get Started</button>
+            <div class="w-small">Free to start &bull; No account needed</div>
+          </div>
+        </div>
+      </div></div>
+    </div>
+
+    <!-- DISCOVER -->
+    <div class="frameWrap">
+      <div class="frameLabel">Discover</div>
+      <div class="phone"><div class="screen"><div class="notch"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128246;</span></div>
+        <div class="pad">
+          <div class="d-top">
+            <div class="d-h">Discover</div>
+            <div class="d-count"><b>3</b> / 5 today</div>
+          </div>
+          <div class="card behind"></div>
+          <div class="card">
+            <div class="match">92% match</div>
+            <div class="org">&#127870;</div>
+            <div class="c-name">Coca-Cola Scholars Program</div>
+            <div class="c-org">The Coca-Cola Scholars Foundation</div>
+            <div class="c-amt">$20,000</div>
+            <div class="c-meta">
+              <span class="tag tag-blue">Leadership</span>
+              <span class="tag tag-gold">National</span>
+            </div>
+            <div class="c-dead">Deadline <b>Sep 30, 2026</b> &middot; 104 days left</div>
+          </div>
+          <div class="swipe-actions">
+            <div class="sw pass">&#10005;</div>
+            <div class="sw save">&#9829;</div>
+          </div>
+        </div>
+      </div></div>
+    </div>
+
+    <!-- DETAIL -->
+    <div class="frameWrap">
+      <div class="frameLabel">Detail</div>
+      <div class="phone"><div class="screen"><div class="notch"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128246;</span></div>
+        <div class="pad">
+          <div class="org" style="margin-top:6px">&#127891;</div>
+          <div class="dt-amt">$50,000</div>
+          <div class="dt-name">The Gates Scholarship</div>
+          <div class="dt-org">Bill &amp; Melinda Gates Foundation</div>
+          <div class="dt-count">
+            <div><div class="lbl">Deadline</div><div class="val">Sep 15, 2026</div></div>
+            <span class="tag tag-gold">89% match</span>
+          </div>
+          <div class="dt-sec">Why you match</div>
+          <div class="dt-reason"><span class="ck">&#10003;</span> Full cost of attendance covered</div>
+          <div class="dt-reason"><span class="ck">&#10003;</span> Fits your GPA and grade level</div>
+          <div class="dt-reason"><span class="ck">&#10003;</span> Considers financial need</div>
+          <div class="dt-sec">Eligibility</div>
+          <div class="dt-chips">
+            <span class="tag tag-blue">HS Senior</span>
+            <span class="tag tag-blue">GPA 3.3+</span>
+            <span class="tag tag-blue">Need-based</span>
+          </div>
+          <div class="dt-foot"><button class="btn-blue btn">Apply Now</button></div>
+        </div>
+      </div></div>
+    </div>
+
+    <!-- PAYWALL -->
+    <div class="frameWrap">
+      <div class="frameLabel">Premium</div>
+      <div class="phone"><div class="screen"><div class="notch"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128246;</span></div>
+        <div class="pad">
+          <div class="w-orb" style="position:relative;top:0;margin:6px auto 0;width:64px;height:64px;border-radius:18px;font-size:30px;transform:rotate(-8deg)">&#9733;</div>
+          <div class="p-h">Unlock every <span>match</span></div>
+          <div class="p-sub">See all scholarships you qualify for</div>
+          <div class="p-feat">
+            <div class="p-row"><span class="ck">&#8734;</span> Unlimited daily matches</div>
+            <div class="p-row"><span class="ck">&#9202;</span> Deadline reminders</div>
+            <div class="p-row"><span class="ck">&#128202;</span> Match-score ranking</div>
+            <div class="p-row"><span class="ck">&#128203;</span> Application tracker</div>
+          </div>
+          <div class="p-plans">
+            <div class="p-plan"><div class="p-price">$15</div><div class="p-per">/ month</div></div>
+            <div class="p-plan best"><div class="p-badge">SAVE 44%</div><div class="p-price">$99.99</div><div class="p-per">/ year</div></div>
+          </div>
+          <div style="margin-top:18px"><button class="btn">Start Premium</button></div>
+        </div>
+      </div></div>
+    </div>
+
+  </div>
+</body>
+</html>
