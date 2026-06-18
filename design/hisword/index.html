@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>His Word — Redesign Preview</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy-0:#0e0e18; --navy-1:#15151f; --navy-2:#1c1c2b; --navy-3:#26263a;
+    --gold:#d4a574; --gold-bright:#e7c79a; --gold-deep:#b8895a;
+    --cream:#f4ecdf; --muted:#a59db1;
+    --serif:'Cormorant',Georgia,serif; --sans:'Montserrat',sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:radial-gradient(1200px 700px at 50% -200px,#1d2236 0%,#0c0c14 60%);
+    color:var(--cream);font-family:var(--sans);min-height:100vh;padding:48px 20px 80px;
+  }
+  .intro{max-width:760px;margin:0 auto 44px;text-align:center}
+  .intro h1{font-family:var(--serif);font-weight:600;font-size:46px;letter-spacing:.5px;color:#fff}
+  .intro h1 span{color:var(--gold)}
+  .intro p{color:var(--muted);font-weight:300;margin-top:10px;font-size:15px;line-height:1.6}
+  .stage{display:flex;gap:34px;flex-wrap:wrap;justify-content:center;align-items:flex-start;max-width:1500px;margin:0 auto}
+  .frameWrap{display:flex;flex-direction:column;align-items:center;gap:14px}
+  .frameLabel{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:600}
+
+  /* phone shell */
+  .phone{
+    width:330px;height:715px;border-radius:46px;padding:13px;
+    background:linear-gradient(160deg,#2a2a3a,#0c0c14);
+    box-shadow:0 40px 80px -20px rgba(0,0,0,.7),0 0 0 2px rgba(212,165,116,.12),inset 0 0 0 1px rgba(255,255,255,.04);
+    position:relative;
+  }
+  .screen{
+    width:100%;height:100%;border-radius:34px;overflow:hidden;position:relative;
+    background:
+      radial-gradient(520px 300px at 50% -60px,rgba(212,165,116,.20),transparent 70%),
+      linear-gradient(180deg,var(--navy-1),var(--navy-0));
+  }
+  .grain{position:absolute;inset:0;opacity:.05;pointer-events:none;mix-blend-mode:overlay;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");}
+  .notch{position:absolute;top:0;left:50%;transform:translateX(-50%);width:120px;height:26px;background:#0c0c14;border-radius:0 0 16px 16px;z-index:5}
+  .statusbar{display:flex;justify-content:space-between;padding:14px 26px 0;font-size:12px;color:var(--cream);font-weight:500;position:relative;z-index:4}
+  .pad{padding:22px 26px}
+
+  /* shared */
+  .chip{display:inline-flex;align-items:center;gap:7px;padding:7px 14px;border-radius:999px;
+    border:1px solid rgba(212,165,116,.35);background:rgba(212,165,116,.08);
+    color:var(--gold-bright);font-size:11px;letter-spacing:1.5px;text-transform:uppercase;font-weight:600}
+  .btn-gold{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:16px;border:none;border-radius:18px;
+    background:linear-gradient(135deg,var(--gold-bright),var(--gold-deep));color:#231b10;font-weight:600;font-size:15px;font-family:var(--sans);
+    box-shadow:0 10px 24px -8px rgba(212,165,116,.6),inset 0 1px 0 rgba(255,255,255,.45);cursor:pointer}
+  .hair{height:1px;background:linear-gradient(90deg,transparent,rgba(212,165,116,.5),transparent)}
+  .icbtn{width:52px;height:52px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    border:1px solid rgba(244,236,223,.18);background:rgba(255,255,255,.04);color:var(--cream)}
+  .icbtn.active{border-color:var(--gold);background:rgba(212,165,116,.16);color:var(--gold-bright)}
+
+  /* WELCOME */
+  .w-glow{position:absolute;top:-40px;left:50%;transform:translateX(-50%);width:300px;height:300px;border-radius:50%;
+    background:radial-gradient(circle,rgba(212,165,116,.35),transparent 65%);filter:blur(6px)}
+  .w-mark{font-family:var(--serif);font-size:30px;color:var(--gold);text-align:center;margin-top:30px;letter-spacing:1px}
+  .w-title{font-family:var(--serif);font-weight:600;font-size:52px;line-height:1.05;text-align:center;color:#fff;margin-top:120px}
+  .w-title em{font-style:italic;color:var(--gold-bright)}
+  .w-sub{text-align:center;color:var(--muted);font-weight:300;font-size:14px;margin-top:18px;line-height:1.7;padding:0 14px}
+  .w-foot{position:absolute;left:26px;right:26px;bottom:34px}
+  .w-foot .small{text-align:center;color:var(--muted);font-size:11px;margin-top:14px;letter-spacing:.5px}
+
+  /* VERSE */
+  .v-date{text-align:center;color:var(--muted);font-size:12px;letter-spacing:2px;text-transform:uppercase;margin-top:6px}
+  .v-chipwrap{display:flex;justify-content:center;margin-top:20px}
+  .v-quote{font-family:var(--serif);font-style:italic;font-weight:500;font-size:31px;line-height:1.42;text-align:center;color:var(--cream);margin:46px 4px 0;
+    text-shadow:0 2px 30px rgba(212,165,116,.18)}
+  .v-mark{font-family:var(--serif);font-size:60px;color:rgba(212,165,116,.32);text-align:center;line-height:0;height:24px;margin-top:30px}
+  .v-ref{text-align:center;margin-top:40px}
+  .v-ref .ln{width:46px;margin:0 auto 14px}
+  .v-ref .r{font-family:var(--serif);font-size:19px;color:var(--gold-bright);letter-spacing:.5px}
+  .v-ref .t{font-size:11px;color:var(--muted);letter-spacing:1.5px;margin-top:3px}
+  .v-actions{position:absolute;left:26px;right:26px;bottom:96px;display:flex;justify-content:center;gap:18px}
+  .v-new{position:absolute;left:26px;right:26px;bottom:30px}
+
+  /* CATEGORIES */
+  .c-h{font-family:var(--serif);font-size:30px;color:#fff;font-weight:600}
+  .c-sub{color:var(--muted);font-size:13px;font-weight:300;margin-top:4px}
+  .c-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:22px}
+  .c-card{border-radius:18px;padding:16px 14px;min-height:92px;display:flex;flex-direction:column;justify-content:space-between;
+    background:linear-gradient(160deg,rgba(255,255,255,.06),rgba(255,255,255,.02));border:1px solid rgba(244,236,223,.08);position:relative}
+  .c-card.sel{border-color:var(--gold);background:linear-gradient(160deg,rgba(212,165,116,.22),rgba(212,165,116,.05));box-shadow:0 8px 22px -10px rgba(212,165,116,.5)}
+  .c-card .ic{width:30px;height:30px;color:var(--gold-bright)}
+  .c-card .nm{font-size:13px;font-weight:500;color:var(--cream);line-height:1.3}
+  .c-card.lock{opacity:.62}
+  .c-lock{position:absolute;top:12px;right:12px;color:var(--gold)}
+  .c-tick{position:absolute;top:12px;right:12px;width:20px;height:20px;border-radius:50%;background:var(--gold);display:flex;align-items:center;justify-content:center;color:#231b10}
+
+  /* PAYWALL */
+  .p-crown{width:46px;height:46px;color:var(--gold-bright);margin:14px auto 0;display:block}
+  .p-h{font-family:var(--serif);font-size:30px;font-weight:600;text-align:center;color:#fff;margin-top:12px;line-height:1.15}
+  .p-sub{text-align:center;color:var(--muted);font-size:13px;font-weight:300;margin-top:8px;padding:0 12px;line-height:1.6}
+  .p-feat{margin-top:22px;display:flex;flex-direction:column;gap:13px}
+  .p-feat .row{display:flex;align-items:center;gap:12px;font-size:13px;color:var(--cream)}
+  .p-feat .ck{width:22px;height:22px;border-radius:50%;background:rgba(212,165,116,.18);display:flex;align-items:center;justify-content:center;color:var(--gold-bright);flex:0 0 auto}
+  .p-plans{display:flex;gap:12px;margin-top:24px}
+  .p-plan{flex:1;border-radius:18px;padding:16px 10px;text-align:center;border:1.5px solid rgba(244,236,223,.12);background:rgba(255,255,255,.03);position:relative}
+  .p-plan.best{border-color:var(--gold);background:rgba(212,165,116,.12)}
+  .p-badge{position:absolute;top:-10px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,var(--gold-bright),var(--gold-deep));color:#231b10;font-size:9px;font-weight:700;letter-spacing:.5px;padding:3px 9px;border-radius:999px}
+  .p-price{font-family:var(--serif);font-size:27px;color:#fff;font-weight:600}
+  .p-per{font-size:11px;color:var(--muted)}
+  .p-plan.best .p-price{color:var(--gold-bright)}
+
+  @media(max-width:520px){.phone{transform:scale(.82);transform-origin:top center;margin-bottom:-110px}}
+</style>
+</head>
+<body>
+  <div class="intro">
+    <h1>His <span>Word</span> &mdash; Redesign Preview</h1>
+    <p>Modern refresh of the navy &amp; gold identity. Scripture set in Cormorant (elegant serif), UI in Montserrat. Softer depth, gold hairlines, ambient light. This is a web mockup of the proposed look &mdash; once you approve it, I port it into the real app screens.</p>
+  </div>
+
+  <div class="stage">
+
+    <!-- WELCOME -->
+    <div class="frameWrap">
+      <div class="frameLabel">Welcome</div>
+      <div class="phone"><div class="screen"><div class="grain"></div><div class="notch"></div>
+        <div class="w-glow"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128246;</span></div>
+        <div class="pad" style="position:relative;height:calc(100% - 34px)">
+          <div class="w-mark">&#10070;</div>
+          <div class="w-title">A verse<br>chosen <em>just</em><br>for you</div>
+          <div class="w-sub">Begin each day with scripture that meets you where you are. Choose the themes on your heart and receive a verse made personal.</div>
+          <div class="w-foot">
+            <button class="btn-gold">Begin Your Journey</button>
+            <div class="small">Free to start &bull; No account needed</div>
+          </div>
+        </div>
+      </div></div>
+    </div>
+
+    <!-- VERSE -->
+    <div class="frameWrap">
+      <div class="frameLabel">Daily Verse</div>
+      <div class="phone"><div class="screen"><div class="grain"></div><div class="notch"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128268;</span></div>
+        <div class="pad" style="position:relative;height:calc(100% - 34px)">
+          <div class="v-date">Wednesday, June 18</div>
+          <div class="v-chipwrap"><span class="chip">&#10070; Faith &amp; Trust</span></div>
+          <div class="v-mark">&ldquo;</div>
+          <div class="v-quote">The Lord is my shepherd; I shall not want.</div>
+          <div class="v-ref">
+            <div class="ln hair"></div>
+            <div class="r">Psalm 23:1</div>
+            <div class="t">KING JAMES VERSION</div>
+          </div>
+          <div class="v-actions">
+            <div class="icbtn active">&#9829;</div>
+            <div class="icbtn">&#10138;</div>
+          </div>
+          <div class="v-new"><button class="btn-gold">&#10038;&nbsp; New Verse</button></div>
+        </div>
+      </div></div>
+    </div>
+
+    <!-- CATEGORIES -->
+    <div class="frameWrap">
+      <div class="frameLabel">Categories</div>
+      <div class="phone"><div class="screen"><div class="grain"></div><div class="notch"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128268;</span></div>
+        <div class="pad" style="height:calc(100% - 34px);overflow:hidden">
+          <div class="c-h">Choose your themes</div>
+          <div class="c-sub">Pick the topics on your heart</div>
+          <div class="c-grid">
+            <div class="c-card sel"><div class="c-tick">&#10003;</div><div class="ic">&#9728;</div><div class="nm">Anxiety &amp; Peace</div></div>
+            <div class="c-card sel"><div class="c-tick">&#10003;</div><div class="ic">&#9819;</div><div class="nm">Strength &amp; Courage</div></div>
+            <div class="c-card"><div class="ic">&#9825;</div><div class="nm">Love &amp; Relationships</div></div>
+            <div class="c-card sel"><div class="c-tick">&#10003;</div><div class="ic">&#10047;</div><div class="nm">Gratitude</div></div>
+            <div class="c-card"><div class="ic">&#9788;</div><div class="nm">Joy &amp; Hope</div></div>
+            <div class="c-card lock"><div class="c-lock">&#128274;</div><div class="ic">&#9961;</div><div class="nm">Wisdom</div></div>
+          </div>
+          <div style="margin-top:18px"><button class="btn-gold">Continue</button></div>
+        </div>
+      </div></div>
+    </div>
+
+    <!-- PAYWALL -->
+    <div class="frameWrap">
+      <div class="frameLabel">Premium</div>
+      <div class="phone"><div class="screen"><div class="grain"></div><div class="notch"></div>
+        <div class="statusbar"><span>9:41</span><span>&#128268;</span></div>
+        <div class="pad" style="height:calc(100% - 34px);overflow:hidden">
+          <div class="p-crown">&#9819;</div>
+          <div class="p-h">Deepen your<br>daily practice</div>
+          <div class="p-sub">Unlock every theme and verse</div>
+          <div class="p-feat">
+            <div class="row"><span class="ck">&#10003;</span> Unlimited verses, any time</div>
+            <div class="row"><span class="ck">&#10003;</span> All 14 spiritual categories</div>
+            <div class="row"><span class="ck">&#10003;</span> Unlimited saved favorites</div>
+            <div class="row"><span class="ck">&#10003;</span> Multiple daily reminders</div>
+          </div>
+          <div class="p-plans">
+            <div class="p-plan"><div class="p-price">$3.99</div><div class="p-per">/ month</div></div>
+            <div class="p-plan best"><div class="p-badge">SAVE 37%</div><div class="p-price">$29.99</div><div class="p-per">/ year</div></div>
+          </div>
+          <div style="margin-top:18px"><button class="btn-gold">Start Premium</button></div>
+        </div>
+      </div></div>
+    </div>
+
+  </div>
+</body>
+</html>
