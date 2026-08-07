@@ -112,6 +112,41 @@ Notes on the fields that are easy to get wrong:
 - Valid majors: `stem`, `business`, `arts`, `healthcare`, `education`, `law`,
   `engineering`, `computer_science`, `liberal_arts`, `undecided`.
 
+## Freshness fields
+
+The app tolerates additive fields, so three exist purely to make staleness
+visible rather than invisible.
+
+- `deadlinesVerifiedAs` (root, `YYYY-MM`): the month the deadlines in this file
+  were last reasoned about. If it is more than a year behind today, treat every
+  approximate deadline as untrustworthy.
+- `verifiedAt` (per entry, `YYYY-MM-DD`): when that entry's sponsor and URL were
+  last checked.
+- `deadlineApprox` (per entry, `true` or absent): the sponsor rotates this
+  deadline annually and the exact date for the upcoming cycle was not confirmed.
+  The value is the sponsor's usual month, set to the next upcoming occurrence.
+  Absent means the date was taken from a stated, dated sponsor deadline.
+
+Most entries carry `deadlineApprox`. That is honest rather than sloppy: almost
+no sponsor publishes next year's exact date a year ahead. Students should always
+be sent to the sponsor page for the real date, which is what the card's link
+does.
+
+## Curation rules
+
+The dataset is the product, and a wrong link costs a student a real opportunity.
+
+- Only well-known, legitimate sponsors: major foundations, national
+  corporations, professional associations, federal and state agencies,
+  established nonprofits.
+- Every URL must resolve. Check before publishing. A host that answers 403 to
+  scripted requests but is plainly alive in a browser is acceptable; a host that
+  does not answer at all is not, and the entry goes.
+- Never invent a sponsor, an amount, or a URL. Fewer accurate entries beat more
+  shaky ones.
+- No pay-to-join honor societies and no lead-generation listings dressed up as
+  scholarships.
+
 ## Adding a scholarship
 
 Give it the next unused `id`, fill in every required field, and run the
