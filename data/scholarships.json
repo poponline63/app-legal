@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-08-06",
+  "version": 3,
+  "updatedAt": "2026-08-10",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
     {
@@ -7195,6 +7195,4647 @@
         "nc-state"
       ],
       "verifiedAt": "2026-08-06",
+      "deadlineApprox": true
+    },
+    {
+      "id": 185,
+      "name": "New Jersey Tuition Aid Grant",
+      "organization": "New Jersey Higher Education Student Assistance Authority",
+      "amount": 7000,
+      "amountLabel": "Varies by institution",
+      "deadline": "2027-04-15",
+      "description": "Need based state grant for New Jersey residents attending eligible in state colleges.",
+      "url": "https://www.hesaa.org/Pages/NJGrantsHome.aspx",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Jersey"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "new-jersey",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 186,
+      "name": "Washington College Grant",
+      "organization": "Washington Student Achievement Council",
+      "amount": 12000,
+      "amountLabel": "Up to full tuition",
+      "deadline": "2027-01-31",
+      "description": "Need based grant covering up to full tuition for eligible Washington residents.",
+      "url": "https://wsac.wa.gov/wcg",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Washington"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "washington",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 187,
+      "name": "Arizona Community Foundation Scholarships",
+      "organization": "Arizona Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-01",
+      "description": "One application covering hundreds of scholarship funds for Arizona students.",
+      "url": "https://www.azfoundation.org/apply-for-a-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "arizona",
+        "community-foundation",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 188,
+      "name": "MASSGrant",
+      "organization": "Massachusetts Department of Higher Education",
+      "amount": 1900,
+      "amountLabel": "Varies by need",
+      "deadline": "2027-05-01",
+      "description": "Need based grant for Massachusetts residents with high financial need.",
+      "url": "https://www.mass.edu/osfa/programs/massgrant.asp",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Massachusetts"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "massachusetts",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 189,
+      "name": "John and Abigail Adams Scholarship",
+      "organization": "Massachusetts Department of Higher Education",
+      "amount": 2000,
+      "amountLabel": "Tuition credit",
+      "deadline": "2027-05-01",
+      "description": "Tuition credit for top scoring Massachusetts high school students at state colleges.",
+      "url": "https://www.mass.edu/osfa/programs/adams.asp",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Massachusetts"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "massachusetts",
+        "state-grant",
+        "merit",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 190,
+      "name": "Frank O'Bannon Grant",
+      "organization": "Indiana Commission for Higher Education",
+      "amount": 4000,
+      "amountLabel": "Varies by need",
+      "deadline": "2027-04-15",
+      "description": "Need based tuition grant for Indiana residents at eligible colleges.",
+      "url": "https://www.in.gov/che/state-financial-aid/state-financial-aid-by-program/frank-obannon-grant/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Indiana"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "indiana",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 191,
+      "name": "Indiana 21st Century Scholars",
+      "organization": "Indiana Commission for Higher Education",
+      "amount": 9000,
+      "amountLabel": "Up to full tuition",
+      "deadline": "2027-06-30",
+      "description": "Covers up to four years of tuition for income eligible Indiana students who enroll in middle school and complete the pledge.",
+      "url": "https://learnmoreindiana.org/scholars/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Indiana"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "indiana",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 192,
+      "name": "Access Missouri Grant",
+      "organization": "Missouri Department of Higher Education and Workforce Development",
+      "amount": 1500,
+      "amountLabel": "$300 to $2,850",
+      "deadline": "2027-02-01",
+      "description": "Need based grant for Missouri residents attending participating colleges.",
+      "url": "https://dhewd.mo.gov/ppc/grants-scholarships/access-mo",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Missouri"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "missouri",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 193,
+      "name": "Missouri Bright Flight Scholarship",
+      "organization": "Missouri Department of Higher Education and Workforce Development",
+      "amount": 3000,
+      "amountLabel": "Up to $3,000 per year",
+      "deadline": "2027-02-01",
+      "description": "Merit award for top scoring Missouri high school graduates at in state colleges.",
+      "url": "https://dhewd.mo.gov/ppc/grants-scholarships/bright-flight",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Missouri"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "missouri",
+        "state-grant",
+        "merit",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 194,
+      "name": "Maryland Guaranteed Access Grant",
+      "organization": "Maryland Higher Education Commission",
+      "amount": 5000,
+      "amountLabel": "Up to full demonstrated need",
+      "deadline": "2027-03-01",
+      "description": "Need based grant covering demonstrated financial need for Maryland residents.",
+      "url": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/descriptions.aspx",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maryland"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "maryland",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 195,
+      "name": "Wisconsin Grant",
+      "organization": "Wisconsin Higher Educational Aids Board",
+      "amount": 3000,
+      "amountLabel": "$250 to $3,150",
+      "deadline": "2027-03-01",
+      "description": "Need based grant for Wisconsin residents at eligible in state institutions.",
+      "url": "https://heab.state.wi.us/programs.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Wisconsin"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "wisconsin",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 196,
+      "name": "Boettcher Scholarship",
+      "organization": "Boettcher Foundation",
+      "amount": 20000,
+      "amountLabel": "Full tuition plus stipend",
+      "deadline": "2026-11-01",
+      "description": "Full ride merit scholarship for outstanding Colorado high school seniors attending a Colorado college.",
+      "url": "https://boettcherfoundation.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Colorado"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "colorado",
+        "merit",
+        "high-value",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 197,
+      "name": "Minnesota State Grant",
+      "organization": "Minnesota Office of Higher Education",
+      "amount": 4000,
+      "amountLabel": "Varies by need",
+      "deadline": "2027-06-30",
+      "description": "Need based grant for Minnesota residents attending eligible colleges.",
+      "url": "https://www.ohe.state.mn.us/mPg.cfm?pageID=138",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Minnesota"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "minnesota",
+        "state-grant",
+        "need-based",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 198,
+      "name": "Virginia Tuition Assistance Grant",
+      "organization": "State Council of Higher Education for Virginia",
+      "amount": 5250,
+      "amountLabel": "Around $5,250 per year",
+      "deadline": "2026-09-15",
+      "description": "Grant for Virginia residents attending eligible private nonprofit colleges in the state.",
+      "url": "https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid/virginia-tuition-assistance-grant-program",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "virginia",
+        "state-grant",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 199,
+      "name": "Alabama Student Grant Program",
+      "organization": "Alabama Commission on Higher Education",
+      "amount": 3000,
+      "amountLabel": "Up to $3,000 per year",
+      "deadline": "2026-09-15",
+      "description": "State grant for Alabama residents attending eligible independent colleges in Alabama.",
+      "url": "https://www.ache.edu/index.php/alabama-student-grant-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Alabama"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "alabama",
+        "state-grant",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 200,
+      "name": "Tennessee HOPE Scholarship",
+      "organization": "Tennessee Student Assistance Corporation",
+      "amount": 5700,
+      "amountLabel": "Up to $5,700 per year",
+      "deadline": "2026-09-01",
+      "description": "Lottery funded merit scholarship for Tennessee high school graduates attending in state colleges.",
+      "url": "https://www.collegefortn.org/tennessee-hope-scholarship-3/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Tennessee"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "tennessee",
+        "state-grant",
+        "merit",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 201,
+      "name": "Palmetto Fellows Scholarship",
+      "organization": "South Carolina Commission on Higher Education",
+      "amount": 7500,
+      "amountLabel": "Up to $7,500 per year",
+      "deadline": "2026-12-15",
+      "description": "Merit scholarship for top ranked South Carolina high school seniors attending in state colleges.",
+      "url": "https://www.che.sc.gov/node/296",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "South Carolina"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "south-carolina",
+        "state-grant",
+        "merit",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 202,
+      "name": "Louisiana TOPS Award",
+      "organization": "Louisiana Office of Student Financial Assistance",
+      "amount": 8000,
+      "amountLabel": "Up to full tuition",
+      "deadline": "2027-07-01",
+      "description": "Merit based tuition award for Louisiana residents attending in state colleges.",
+      "url": "https://mylosfa.la.gov/tops/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Louisiana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "louisiana",
+        "state-grant",
+        "merit",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 203,
+      "name": "Imagine America High School Scholarship",
+      "organization": "Imagine America Foundation",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-12-31",
+      "description": "Tuition award for graduating high school seniors attending participating career and technical colleges.",
+      "url": "https://imagine-america.org/scholarships/high-school-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "technical",
+        "career-college"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 204,
+      "name": "AGC Education and Research Foundation Scholarships",
+      "organization": "Associated General Contractors of America",
+      "amount": 2500,
+      "amountLabel": "$2,500 to $7,500",
+      "deadline": "2026-11-01",
+      "description": "Scholarships for students pursuing construction management and civil engineering degrees.",
+      "url": "https://www.agc.org/learn/agc-education-and-research-foundation",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "construction",
+        "engineering"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 205,
+      "name": "NAWIC Founders Scholarship",
+      "organization": "NAWIC Founders Scholarship Foundation",
+      "amount": 2000,
+      "amountLabel": "$2,000 and up",
+      "deadline": "2027-02-28",
+      "description": "Scholarships for students pursuing construction related degrees and trades.",
+      "url": "https://nawic.org/nfsf-scholarships/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "construction"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 206,
+      "name": "Automotive Hall of Fame Scholarships",
+      "organization": "Automotive Hall of Fame",
+      "amount": 1500,
+      "amountLabel": "$1,000 to $10,000",
+      "deadline": "2027-05-31",
+      "description": "Scholarships for students preparing for careers in the automotive industry.",
+      "url": "https://automotivehalloffame.org/automotive-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "automotive",
+        "technical"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 207,
+      "name": "AEA Educational Foundation Scholarships",
+      "organization": "Aircraft Electronics Association",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-02-15",
+      "description": "Scholarships for students entering aviation maintenance and avionics fields.",
+      "url": "https://aea.net/educationalfoundation/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "aviation",
+        "avionics"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 208,
+      "name": "American Culinary Federation Scholarships",
+      "organization": "American Culinary Federation",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-03-15",
+      "description": "Scholarships for students enrolled in accredited culinary and pastry programs.",
+      "url": "https://www.acfchefs.org/ACF/Education/Scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "culinary",
+        "hospitality"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 209,
+      "name": "Beauty Changes Lives Scholarships",
+      "organization": "Beauty Changes Lives Foundation",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students pursuing cosmetology, esthetics, and barbering careers.",
+      "url": "https://beautychangeslives.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "cosmetology",
+        "beauty"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 210,
+      "name": "NBAA Aviation Scholarships",
+      "organization": "National Business Aviation Association",
+      "amount": 3000,
+      "amountLabel": "$1,000 to $10,000",
+      "deadline": "2027-04-01",
+      "description": "Scholarships for students pursuing careers in business aviation and aviation maintenance.",
+      "url": "https://nbaa.org/professional-development/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "aviation",
+        "technical"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 211,
+      "name": "Horatio Alger Career and Technical Scholarship",
+      "organization": "Horatio Alger Association",
+      "amount": 2500,
+      "amountLabel": "Up to $2,500",
+      "deadline": "2026-12-15",
+      "description": "Awards for students who have faced adversity and are pursuing career or technical education.",
+      "url": "https://www.horatioalger.org/scholarships/career-technical/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "technical",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 212,
+      "name": "ACI Foundation Scholarships",
+      "organization": "American Concrete Institute Foundation",
+      "amount": 5000,
+      "amountLabel": "$2,000 to $15,000",
+      "deadline": "2026-11-01",
+      "description": "Scholarships and fellowships for students in concrete and construction related engineering.",
+      "url": "https://www.acifoundation.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "trades",
+        "construction",
+        "engineering"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 213,
+      "name": "Prudential Emerging Visionaries",
+      "organization": "Prudential Financial",
+      "amount": 5000,
+      "amountLabel": "$5,000 to $15,000",
+      "deadline": "2026-11-02",
+      "description": "Recognition awards for young people ages 14 to 18 solving financial and social challenges in their communities.",
+      "url": "https://www.changemakers.com/en/challenge/emergingvisionaries",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community-service",
+        "leadership",
+        "young-students"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 214,
+      "name": "Gloria Barron Prize for Young Heroes",
+      "organization": "Gloria Barron Prize for Young Heroes",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2027-04-15",
+      "description": "Awards for public spirited young leaders ages 8 to 18 who have made a positive difference.",
+      "url": "https://barronprize.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community-service",
+        "leadership",
+        "young-students"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 215,
+      "name": "C-SPAN StudentCam Competition",
+      "organization": "C-SPAN",
+      "amount": 1500,
+      "amountLabel": "$250 to $5,000",
+      "deadline": "2027-01-20",
+      "description": "National documentary competition for middle and high school students on issues facing the country.",
+      "url": "https://www.studentcam.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "creative",
+        "video",
+        "competition"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 216,
+      "name": "Jack Kent Cooke Young Scholars Program",
+      "organization": "Jack Kent Cooke Foundation",
+      "amount": 10000,
+      "amountLabel": "Support through high school",
+      "deadline": "2027-04-15",
+      "description": "Selective program supporting high achieving students with financial need beginning in eighth grade through high school.",
+      "url": "https://www.jkcf.org/our-scholarships/young-scholars-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "merit",
+        "need-based",
+        "young-students"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 217,
+      "name": "United States Senate Youth Program",
+      "organization": "Hearst Foundations",
+      "amount": 10000,
+      "amountLabel": "$10,000",
+      "deadline": "2026-10-15",
+      "description": "Award and Washington week for two high school student leaders from each state serving in student government.",
+      "url": "https://ussenateyouth.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "leadership",
+        "civics",
+        "competition"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 218,
+      "name": "Toshiba ExploraVision",
+      "organization": "Toshiba and National Science Teaching Association",
+      "amount": 5000,
+      "amountLabel": "Up to $10,000 in savings bonds",
+      "deadline": "2027-02-08",
+      "description": "Team science competition for students in kindergarten through grade twelve imagining future technology.",
+      "url": "https://www.exploravision.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "competition",
+        "young-students"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 219,
+      "name": "Army Educational Outreach Program",
+      "organization": "U.S. Army Educational Outreach Program",
+      "amount": 2000,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-28",
+      "description": "Apprenticeships, competitions, and scholarships for students exploring science and engineering careers.",
+      "url": "https://usaeop.com/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "competition",
+        "young-students"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 220,
+      "name": "NFMC Competitions and Awards",
+      "organization": "National Federation of Music Clubs",
+      "amount": 2000,
+      "amountLabel": "$500 to $20,000",
+      "deadline": "2027-03-01",
+      "description": "Competitions and awards for young musicians, composers, and vocalists at multiple levels.",
+      "url": "https://www.nfmc-music.org/competitions-awards/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "arts",
+        "music",
+        "competition"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 221,
+      "name": "National Sculpture Society Scholarships",
+      "organization": "National Sculpture Society",
+      "amount": 2000,
+      "amountLabel": "$2,000 to $5,000",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for students pursuing figurative and representational sculpture.",
+      "url": "https://nationalsculpture.org/awards/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "arts",
+        "sculpture"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 222,
+      "name": "BMI Foundation Awards",
+      "organization": "BMI Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-15",
+      "description": "Awards and competitions for young composers and songwriters across genres.",
+      "url": "https://bmifoundation.org/by-application",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "arts",
+        "music",
+        "composition"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 223,
+      "name": "Chopin Foundation Scholarships",
+      "organization": "Chopin Foundation of the United States",
+      "amount": 2000,
+      "amountLabel": "Up to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships and competition support for young American classical pianists.",
+      "url": "https://www.chopin.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "arts",
+        "music",
+        "piano"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 224,
+      "name": "Television Academy Foundation Programs",
+      "organization": "Television Academy Foundation",
+      "amount": 2000,
+      "amountLabel": "Varies",
+      "deadline": "2027-01-31",
+      "description": "College Television Awards and internships for students pursuing careers in television and media.",
+      "url": "https://www.emmys.com/foundation/programs",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "creative",
+        "film",
+        "media"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 225,
+      "name": "Project Yellow Light Scholarship",
+      "organization": "Project Yellow Light",
+      "amount": 5000,
+      "amountLabel": "$5,000 to $10,000",
+      "deadline": "2027-04-15",
+      "description": "Scholarship contest for high school and college students creating messages against distracted driving.",
+      "url": "https://www.projectyellowlight.com/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "creative",
+        "video",
+        "competition"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 226,
+      "name": "Poetry Out Loud",
+      "organization": "National Endowment for the Arts and Poetry Foundation",
+      "amount": 1000,
+      "amountLabel": "Up to $20,000 in prizes",
+      "deadline": "2027-02-01",
+      "description": "National recitation competition for high school students with awards at state and national levels.",
+      "url": "https://poetryoutloud.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "arts",
+        "poetry",
+        "competition"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 227,
+      "name": "American Legion Legacy Scholarship",
+      "organization": "The American Legion",
+      "amount": 5000,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-15",
+      "description": "Need based scholarships for children of service members who died or became disabled on active duty.",
+      "url": "https://www.legion.org/get-involved/scholarships/the-american-legion-legacy-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "military",
+        "family",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 228,
+      "name": "Freedom Alliance Scholarship",
+      "organization": "Freedom Alliance",
+      "amount": 5000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-06-01",
+      "description": "Scholarships for children of service members killed or permanently disabled in the line of duty.",
+      "url": "https://freedomalliance.org/military-support-programs/scholarship-fund/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "military",
+        "family"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 229,
+      "name": "Children of Fallen Patriots Scholarship",
+      "organization": "Children of Fallen Patriots Foundation",
+      "amount": 5000,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "Scholarships and counseling for children who lost a parent in the line of military duty.",
+      "url": "https://fallenpatriots.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "military",
+        "family",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 230,
+      "name": "Coast Guard Foundation Scholarships",
+      "organization": "Coast Guard Foundation",
+      "amount": 3000,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-15",
+      "description": "Scholarships for college age children of active duty, reserve, and retired Coast Guard members.",
+      "url": "https://coastguardfoundation.org/education",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "military",
+        "family",
+        "coast-guard"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 231,
+      "name": "Anchor Scholarship Foundation",
+      "organization": "Anchor Scholarship Foundation",
+      "amount": 3500,
+      "amountLabel": "Around $3,500",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for dependents and spouses of members and veterans of specified Navy commands.",
+      "url": "https://www.anchorscholarship.com/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "military",
+        "family",
+        "navy"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 232,
+      "name": "American Legion Auxiliary Scholarships",
+      "organization": "American Legion Auxiliary",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for veterans and their children, grandchildren, and great grandchildren.",
+      "url": "https://www.legion-aux.org/Scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "military",
+        "family"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 233,
+      "name": "FRA Education Foundation Scholarships",
+      "organization": "Fleet Reserve Association",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-04-15",
+      "description": "Scholarships for members and dependents of the Navy, Marine Corps, and Coast Guard.",
+      "url": "https://www.fra.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "military",
+        "family"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 234,
+      "name": "Esperanza Education Fund Scholarship",
+      "organization": "Esperanza Education Fund",
+      "amount": 5000,
+      "amountLabel": "$5,000 renewable",
+      "deadline": "2027-03-15",
+      "description": "Scholarships for immigrant students in the Washington DC area regardless of immigration status.",
+      "url": "https://www.esperanzafund.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "immigrant",
+        "first-generation",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 235,
+      "name": "EWI Adult Students in Scholastic Transition",
+      "organization": "Executive Women International",
+      "amount": 2000,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Awards for adults facing life changes who are returning to school.",
+      "url": "https://www.ewiconnect.com/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "nontraditional",
+        "adult-learner",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 236,
+      "name": "ESA Foundation Scholarships",
+      "organization": "ESA Foundation",
+      "amount": 1500,
+      "amountLabel": "$500 to $5,000",
+      "deadline": "2027-02-01",
+      "description": "Scholarships from the Epsilon Sigma Alpha service organization for students of all ages.",
+      "url": "https://www.esaonline.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "merit",
+        "service",
+        "adult-learner"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 237,
+      "name": "Gen and Kelly Tanabe Scholarship",
+      "organization": "Gen and Kelly Tanabe Scholarship",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-12-31",
+      "description": "Merit based award open to high school, college, and graduate students with a short application.",
+      "url": "https://www.genkellyscholarship.com/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "merit",
+        "one-application"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 238,
+      "name": "Cameron Impact Scholarship",
+      "organization": "Bryan Cameron Education Foundation",
+      "amount": 20000,
+      "amountLabel": "Up to $40,000",
+      "deadline": "2027-01-15",
+      "description": "Highly selective scholarship for outstanding graduating high school seniors nationwide.",
+      "url": "https://www.bryancameroneducationfoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "merit",
+        "high-value",
+        "leadership"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 239,
+      "name": "Stamps Scholars",
+      "organization": "Stamps Scholars",
+      "amount": 15000,
+      "amountLabel": "Up to full cost of attendance",
+      "deadline": "2026-12-01",
+      "description": "Merit scholarships awarded through partner colleges covering tuition and enrichment funds.",
+      "url": "https://www.stampsscholars.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "merit",
+        "high-value",
+        "renewable"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 240,
+      "name": "Jimmy Rane Foundation Scholarship",
+      "organization": "Jimmy Rane Foundation",
+      "amount": 5000,
+      "amountLabel": "$1,000 to $10,000",
+      "deadline": "2027-04-01",
+      "description": "Scholarships for hardworking students, with preference for those in the Southeast.",
+      "url": "https://www.jimmyranefoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "merit",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 241,
+      "name": "Google Lime Scholarship",
+      "organization": "Lime Connect and Google",
+      "amount": 10000,
+      "amountLabel": "$10,000",
+      "deadline": "2026-12-15",
+      "description": "Scholarships for students with disabilities pursuing computer science and technology degrees.",
+      "url": "https://www.limeconnect.com/programs/page/google-lime-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "computer_science",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "disability",
+        "stem",
+        "technology"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 242,
+      "name": "Microsoft Disability Scholarship",
+      "organization": "Microsoft",
+      "amount": 5000,
+      "amountLabel": "$5,000 per year",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for high school seniors with disabilities planning technology careers.",
+      "url": "https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "computer_science",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "disability",
+        "stem",
+        "technology"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 243,
+      "name": "AAHD Frederick J. Krause Scholarship",
+      "organization": "American Association on Health and Disability",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-11-15",
+      "description": "Scholarships for students with disabilities, with a focus on health and disability related fields.",
+      "url": "https://aahd.us/best-practice/aahd-scholarship-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "disability",
+        "healthcare"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 244,
+      "name": "National Federation of the Blind Scholarships",
+      "organization": "National Federation of the Blind",
+      "amount": 3000,
+      "amountLabel": "$3,000 to $12,000",
+      "deadline": "2027-03-31",
+      "description": "Merit scholarships for blind students pursuing full time postsecondary study.",
+      "url": "https://nfb.org/programs-services/scholarships-and-awards/scholarship-program",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "disability",
+        "blind",
+        "merit"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 245,
+      "name": "AG Bell College Scholarship",
+      "organization": "Alexander Graham Bell Association for the Deaf and Hard of Hearing",
+      "amount": 5000,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students with hearing loss who use listening and spoken language.",
+      "url": "https://www.agbell.org/Programs/Scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "disability",
+        "hearing-loss"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 246,
+      "name": "IEEE PES Scholarship Plus Initiative",
+      "organization": "IEEE Power and Energy Society",
+      "amount": 2000,
+      "amountLabel": "$2,000 to $7,000",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for undergraduate electrical engineering students pursuing power and energy careers.",
+      "url": "https://ieee-pes.org/about-pes/awards-scholarships/pes-scholar/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "engineering",
+        "energy"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 247,
+      "name": "SPIE Optics and Photonics Scholarships",
+      "organization": "SPIE",
+      "amount": 3000,
+      "amountLabel": "$2,000 to $10,000",
+      "deadline": "2027-02-15",
+      "description": "Scholarships for students in optics, photonics, and related sciences.",
+      "url": "https://spie.org/membership/student-hub/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem",
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "optics",
+        "engineering"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 248,
+      "name": "American Nuclear Society Scholarships",
+      "organization": "American Nuclear Society",
+      "amount": 3000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-04-01",
+      "description": "Scholarships for undergraduate and graduate students in nuclear science and engineering.",
+      "url": "https://www.ans.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "nuclear",
+        "engineering"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 249,
+      "name": "Society of Physics Students Scholarships",
+      "organization": "Society of Physics Students",
+      "amount": 2000,
+      "amountLabel": "$2,000 to $5,000",
+      "deadline": "2027-03-15",
+      "description": "Scholarships for undergraduate physics students and society members.",
+      "url": "https://www.spsnational.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "physics"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 250,
+      "name": "Center for Cyber Safety and Education Scholarships",
+      "organization": "Center for Cyber Safety and Education",
+      "amount": 5000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students pursuing cybersecurity and information security degrees.",
+      "url": "https://www.iamcybersafe.org/s/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "computer_science",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "cybersecurity",
+        "technology"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 251,
+      "name": "IISE Scholarships",
+      "organization": "Institute of Industrial and Systems Engineers",
+      "amount": 2000,
+      "amountLabel": "$500 to $5,000",
+      "deadline": "2027-02-15",
+      "description": "Scholarships for industrial and systems engineering students who are active members.",
+      "url": "https://www.iise.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "engineering",
+        "membership"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 252,
+      "name": "ASSP Foundation Scholarships",
+      "organization": "American Society of Safety Professionals Foundation",
+      "amount": 3000,
+      "amountLabel": "$1,000 to $10,000",
+      "deadline": "2026-12-01",
+      "description": "Scholarships for students studying occupational safety and health.",
+      "url": "https://foundation.assp.org/academic-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem",
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "safety",
+        "engineering"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 253,
+      "name": "TMS Scholarships",
+      "organization": "The Minerals, Metals and Materials Society",
+      "amount": 2500,
+      "amountLabel": "$2,000 to $10,000",
+      "deadline": "2027-04-01",
+      "description": "Scholarships for undergraduate and graduate students in materials science and engineering.",
+      "url": "https://www.tms.org/portal/EDUCATION/Scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "materials",
+        "engineering"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 254,
+      "name": "ASM Materials Education Foundation Scholarships",
+      "organization": "ASM Materials Education Foundation",
+      "amount": 2000,
+      "amountLabel": "$1,000 to $10,000",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for undergraduates studying materials science and metallurgical engineering.",
+      "url": "https://www.asmfoundation.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "materials",
+        "engineering"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 255,
+      "name": "ASNE Scholarships",
+      "organization": "American Society of Naval Engineers",
+      "amount": 4000,
+      "amountLabel": "$3,000 to $4,000",
+      "deadline": "2027-02-15",
+      "description": "Scholarships for students in engineering fields related to naval and marine work.",
+      "url": "https://www.navalengineers.org/Education/Scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "engineering",
+        "naval"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 256,
+      "name": "SNAME Scholarships",
+      "organization": "Society of Naval Architects and Marine Engineers",
+      "amount": 3000,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students pursuing naval architecture and marine engineering.",
+      "url": "https://sname.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "engineering",
+        "marine"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 257,
+      "name": "ASABE Scholarships",
+      "organization": "American Society of Agricultural and Biological Engineers",
+      "amount": 2000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-04-15",
+      "description": "Scholarships for students in agricultural and biological engineering.",
+      "url": "https://www.asabe.org/awards-competitions/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "engineering",
+        "agriculture"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 258,
+      "name": "AAPG Foundation Scholarships",
+      "organization": "American Association of Petroleum Geologists Foundation",
+      "amount": 2000,
+      "amountLabel": "$500 to $4,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students in the geosciences and earth science research.",
+      "url": "https://foundation.aapg.org/students/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "geoscience"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 259,
+      "name": "SEG Scholarships",
+      "organization": "Society of Exploration Geophysicists",
+      "amount": 2500,
+      "amountLabel": "$500 to $10,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students pursuing geophysics and applied earth sciences.",
+      "url": "https://seg.org/community/students/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "geophysics"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 260,
+      "name": "APS Minority Scholarship in Physics",
+      "organization": "American Physical Society",
+      "amount": 2000,
+      "amountLabel": "$2,000 to $3,000",
+      "deadline": "2027-02-01",
+      "description": "Scholarships for underrepresented minority students majoring in physics.",
+      "url": "https://www.aps.org/programs/minorities/honors/scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "african_american",
+          "hispanic",
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "stem",
+        "physics",
+        "minority"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 261,
+      "name": "APA Planning Scholarships",
+      "organization": "American Planning Association",
+      "amount": 3000,
+      "amountLabel": "$2,000 to $5,000",
+      "deadline": "2027-04-30",
+      "description": "Scholarships for students pursuing urban and regional planning degrees.",
+      "url": "https://www.planning.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "planning",
+        "public-service"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 262,
+      "name": "Architects Foundation Scholarships",
+      "organization": "Architects Foundation",
+      "amount": 5000,
+      "amountLabel": "Varies",
+      "deadline": "2027-01-15",
+      "description": "Scholarships supporting students in accredited architecture programs, including diversity awards.",
+      "url": "https://architectsfoundation.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "design",
+        "architecture"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 263,
+      "name": "Landscape Architecture Foundation Scholarships",
+      "organization": "Landscape Architecture Foundation",
+      "amount": 3000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-02-01",
+      "description": "Scholarships for students pursuing landscape architecture.",
+      "url": "https://www.lafoundation.org/what-we-do/scholarships/student-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "design",
+        "landscape-architecture"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 264,
+      "name": "Tylenol Future Care Scholarship",
+      "organization": "Tylenol",
+      "amount": 5000,
+      "amountLabel": "$5,000 to $10,000",
+      "deadline": "2027-06-15",
+      "description": "Scholarships for students pursuing careers in healthcare and related fields.",
+      "url": "https://www.tylenol.com/tylenol-future-care-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "merit"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 265,
+      "name": "ADA Foundation Dental Scholarships",
+      "organization": "American Dental Association Foundation",
+      "amount": 2500,
+      "amountLabel": "$2,500 and up",
+      "deadline": "2027-04-15",
+      "description": "Scholarships for students in dental and allied dental education programs.",
+      "url": "https://www.adafoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "dental"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 266,
+      "name": "AVMF Veterinary Scholarships",
+      "organization": "American Veterinary Medical Foundation",
+      "amount": 2500,
+      "amountLabel": "$2,000 to $5,000",
+      "deadline": "2027-03-15",
+      "description": "Scholarships for veterinary medical students.",
+      "url": "https://www.avmf.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "veterinary"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 267,
+      "name": "ADHA Institute Scholarships",
+      "organization": "American Dental Hygienists Association",
+      "amount": 2000,
+      "amountLabel": "$1,000 to $2,000",
+      "deadline": "2027-02-01",
+      "description": "Scholarships for students enrolled in dental hygiene programs.",
+      "url": "https://www.adha.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "dental-hygiene"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 268,
+      "name": "AOTF Scholarships",
+      "organization": "American Occupational Therapy Foundation",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for occupational therapy and occupational therapy assistant students.",
+      "url": "https://www.aotf.org/educational-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "occupational-therapy"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 269,
+      "name": "APTA Scholarships and Awards",
+      "organization": "American Physical Therapy Association",
+      "amount": 5000,
+      "amountLabel": "Varies",
+      "deadline": "2026-12-01",
+      "description": "Scholarships and awards for physical therapy and physical therapist assistant students.",
+      "url": "https://www.apta.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "physical-therapy"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 270,
+      "name": "ASHFoundation Graduate Scholarships",
+      "organization": "American Speech Language Hearing Foundation",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for graduate students in speech language pathology and audiology.",
+      "url": "https://www.ashfoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "speech-pathology"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 271,
+      "name": "AMBUCS Scholars for Therapists",
+      "organization": "National AMBUCS",
+      "amount": 6000,
+      "amountLabel": "$500 to $6,000",
+      "deadline": "2027-04-15",
+      "description": "Scholarships for graduate students in physical, occupational, speech therapy, and audiology.",
+      "url": "https://ambucs.org/scholars/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "therapy"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 272,
+      "name": "American Medical Technologists Scholarships",
+      "organization": "American Medical Technologists",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2027-04-01",
+      "description": "Scholarships for students pursuing careers in allied health and medical laboratory fields.",
+      "url": "https://americanmedtech.org/resource-library/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "allied-health"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 273,
+      "name": "APhA Foundation Student Scholarships",
+      "organization": "American Pharmacists Association Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-15",
+      "description": "Scholarships and awards for student pharmacists.",
+      "url": "https://www.aphafoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "pharmacy"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 274,
+      "name": "NATA Foundation Scholarships",
+      "organization": "National Athletic Trainers Association Foundation",
+      "amount": 2300,
+      "amountLabel": "$2,300",
+      "deadline": "2027-02-01",
+      "description": "Scholarships for student members pursuing athletic training.",
+      "url": "https://www.natafoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "athletic-training"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 275,
+      "name": "Sons of Norway Foundation Scholarships",
+      "organization": "Sons of Norway Foundation",
+      "amount": 2000,
+      "amountLabel": "$500 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students of Norwegian heritage and those studying Norwegian culture.",
+      "url": "https://www.sofn.com/foundation/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "heritage",
+        "norwegian"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 276,
+      "name": "AHEPA Scholarships",
+      "organization": "American Hellenic Educational Progressive Association",
+      "amount": 2000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-03-31",
+      "description": "Scholarships for students of Greek heritage and members of the AHEPA family.",
+      "url": "https://ahepa.org/programs/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "heritage",
+        "greek"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 277,
+      "name": "Korean American Scholarship Foundation",
+      "organization": "Korean American Scholarship Foundation",
+      "amount": 2000,
+      "amountLabel": "$500 to $5,000",
+      "deadline": "2027-06-30",
+      "description": "Scholarships for Korean American students and Korean students studying in the United States.",
+      "url": "https://www.kasf.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "asian"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "heritage",
+        "korean",
+        "asian"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 278,
+      "name": "United Methodist Higher Education Foundation Scholarships",
+      "organization": "United Methodist Higher Education Foundation",
+      "amount": 1500,
+      "amountLabel": "$1,000 and up",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for active United Methodist students attending affiliated colleges.",
+      "url": "https://umhef.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "religious",
+        "methodist"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 279,
+      "name": "Knights of Columbus Scholarships",
+      "organization": "Knights of Columbus",
+      "amount": 1500,
+      "amountLabel": "Up to $1,500 per year",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for members and children of members attending Catholic colleges.",
+      "url": "https://www.kofc.org/resources/scholarships/us-undergraduate-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "religious",
+        "catholic",
+        "membership"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 280,
+      "name": "Women's Sports Foundation Grants",
+      "organization": "Women's Sports Foundation",
+      "amount": 3000,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-15",
+      "description": "Grants and scholarships supporting female athletes and their training.",
+      "url": "https://www.womenssportsfoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": true
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "women",
+        "athletics"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 281,
+      "name": "AWM Student Essay Contest",
+      "organization": "Association for Women in Mathematics",
+      "amount": 1000,
+      "amountLabel": "$500 to $1,000",
+      "deadline": "2027-01-31",
+      "description": "Essay contest about women in mathematics open to middle school, high school, and college students.",
+      "url": "https://awm-math.org/awards/student-essay-contest/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "essay",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "math",
+        "essay",
+        "women"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 282,
+      "name": "NRF Foundation Scholarships",
+      "organization": "National Retail Federation Foundation",
+      "amount": 5000,
+      "amountLabel": "$2,500 to $25,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students pursuing careers in retail and related industries.",
+      "url": "https://nrffoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "business",
+        "retail"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 283,
+      "name": "PRSSA Scholarships",
+      "organization": "Public Relations Society of America",
+      "amount": 2000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for college students pursuing public relations and communications.",
+      "url": "https://www.prsa.org/prssa/scholarships-competitions",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "communications",
+        "public-relations"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 284,
+      "name": "STC Scholarships",
+      "organization": "Society for Technical Communication",
+      "amount": 2000,
+      "amountLabel": "$1,000 to $3,000",
+      "deadline": "2027-02-15",
+      "description": "Scholarships for students in technical communication programs.",
+      "url": "https://www.stc.org/membership/awards-honors/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "communications",
+        "technical-writing"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 285,
+      "name": "ALA Library Science Scholarships",
+      "organization": "American Library Association",
+      "amount": 3000,
+      "amountLabel": "$1,500 to $7,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for graduate students pursuing library and information science degrees.",
+      "url": "https://www.ala.org/educationcareers/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "library-science",
+        "graduate"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 286,
+      "name": "National Honor Society Scholarship",
+      "organization": "National Honor Society",
+      "amount": 3200,
+      "amountLabel": "$3,200 to $25,000",
+      "deadline": "2026-12-04",
+      "description": "Scholarships for National Honor Society senior members demonstrating scholarship and service.",
+      "url": "https://www.nationalhonorsociety.org/the-nhs-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "merit",
+        "service",
+        "membership"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 287,
+      "name": "Kiwanis Childrens Fund Scholarships",
+      "organization": "Kiwanis International",
+      "amount": 1000,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Scholarship opportunities for Key Club and Circle K members engaged in community service.",
+      "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community-service",
+        "membership"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 288,
+      "name": "Business Professionals of America Scholarships",
+      "organization": "Business Professionals of America",
+      "amount": 1000,
+      "amountLabel": "$500 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for student members pursuing business and information technology careers.",
+      "url": "https://bpa.org/awards-and-scholarships/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "business",
+        "membership",
+        "technical"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 289,
+      "name": "Schwarzman Scholars",
+      "organization": "Schwarzman Scholars",
+      "amount": 50000,
+      "amountLabel": "Full masters funding",
+      "deadline": "2026-09-24",
+      "description": "Fully funded one year masters program in global affairs at Tsinghua University in Beijing.",
+      "url": "https://www.schwarzmanscholars.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "international",
+        "graduate",
+        "high-value"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 290,
+      "name": "Churchill Scholarship",
+      "organization": "Winston Churchill Foundation of the United States",
+      "amount": 60000,
+      "amountLabel": "Full year of study",
+      "deadline": "2026-11-05",
+      "description": "Funded year of graduate study in science, math, or engineering at the University of Cambridge.",
+      "url": "https://www.churchillscholarship.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem",
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "international",
+        "stem",
+        "high-value"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 291,
+      "name": "Mitchell Scholarship",
+      "organization": "US Ireland Alliance",
+      "amount": 40000,
+      "amountLabel": "Full year of study",
+      "deadline": "2026-10-01",
+      "description": "Funded year of postgraduate study at universities in Ireland and Northern Ireland.",
+      "url": "https://us-irelandalliance.org/mitchellscholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "international",
+        "graduate",
+        "high-value"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 292,
+      "name": "Freeman-ASIA Study Abroad Award",
+      "organization": "Institute of International Education",
+      "amount": 5000,
+      "amountLabel": "$3,000 to $7,000",
+      "deadline": "2027-03-01",
+      "description": "Awards for undergraduates with financial need studying abroad in East or Southeast Asia.",
+      "url": "https://www.iie.org/programs/freeman-asia/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "international",
+        "study-abroad",
+        "need-based"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 293,
+      "name": "Charles B. Rangel International Affairs Program",
+      "organization": "Charles B. Rangel International Affairs Program",
+      "amount": 20000,
+      "amountLabel": "Full funding plus stipend",
+      "deadline": "2026-09-15",
+      "description": "Fellowship preparing students for careers in the United States Foreign Service.",
+      "url": "https://rangelprogram.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "public-service",
+        "international",
+        "graduate"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 294,
+      "name": "Thomas R. Pickering Foreign Affairs Fellowship",
+      "organization": "Thomas R. Pickering Foreign Affairs Fellowship",
+      "amount": 20000,
+      "amountLabel": "Full funding plus stipend",
+      "deadline": "2026-09-15",
+      "description": "Fellowship supporting students preparing for United States Foreign Service careers.",
+      "url": "https://pickeringfellowship.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "public-service",
+        "international",
+        "graduate"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 295,
+      "name": "Garden Club of America Scholarships",
+      "organization": "Garden Club of America",
+      "amount": 3000,
+      "amountLabel": "$1,000 to $8,000",
+      "deadline": "2027-02-01",
+      "description": "Scholarships and fellowships across horticulture, ecology, and environmental studies.",
+      "url": "https://www.gcamerica.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "environment",
+        "horticulture",
+        "stem"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 296,
+      "name": "Vegetarian Resource Group Scholarship",
+      "organization": "Vegetarian Resource Group",
+      "amount": 5000,
+      "amountLabel": "$5,000 to $10,000",
+      "deadline": "2027-02-20",
+      "description": "Awards for graduating high school students who have promoted vegetarianism in their communities.",
+      "url": "https://www.vrg.org/student/scholar.htm",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community-service",
+        "food"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 297,
+      "name": "AZA Zoo and Aquarium Scholarships",
+      "organization": "Association of Zoos and Aquariums",
+      "amount": 3000,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-01",
+      "description": "Scholarships for students pursuing careers in zoo and aquarium science and conservation.",
+      "url": "https://www.aza.org/aza-scholarship-programs",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "conservation",
+        "animals"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 298,
+      "name": "Academy of Nutrition and Dietetics Foundation Scholarships",
+      "organization": "Academy of Nutrition and Dietetics Foundation",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-04-01",
+      "description": "Scholarships for students in dietetics and nutrition programs.",
+      "url": "https://www.eatrightfoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "nutrition"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 299,
+      "name": "Institute of Food Technologists Scholarships",
+      "organization": "Institute of Food Technologists",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-02-15",
+      "description": "Scholarships for students studying food science and technology.",
+      "url": "https://www.ift.org/community/students",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "food-science"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 300,
+      "name": "NSCA Foundation Scholarships",
+      "organization": "National Strength and Conditioning Association",
+      "amount": 1500,
+      "amountLabel": "$1,500 and up",
+      "deadline": "2027-03-15",
+      "description": "Scholarships for students in strength and conditioning and exercise science.",
+      "url": "https://www.nsca.com/education/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "healthcare",
+        "exercise-science"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 301,
+      "name": "NACME Scholars Program",
+      "organization": "National Action Council for Minorities in Engineering",
+      "amount": 5000,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "Scholarships and support for underrepresented minority students in engineering.",
+      "url": "https://www.nacme.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "african_american",
+          "hispanic",
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "engineering",
+        "minority"
+      ],
+      "verifiedAt": "2026-08-10",
+      "deadlineApprox": true
+    },
+    {
+      "id": 302,
+      "name": "NSPS Surveying Scholarships",
+      "organization": "National Society of Professional Surveyors",
+      "amount": 2000,
+      "amountLabel": "$1,000 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students pursuing surveying and geomatics degrees.",
+      "url": "https://www.nsps.us.com/page/Scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "surveying",
+        "technical"
+      ],
+      "verifiedAt": "2026-08-10",
       "deadlineApprox": true
     }
   ]
