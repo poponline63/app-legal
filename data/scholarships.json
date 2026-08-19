@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-08-19",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -12233,6 +12233,124 @@
         "vocational"
       ],
       "id": 312,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "AWS Foundation Welding Scholarships",
+      "organization": "American Welding Society Foundation",
+      "amount": 5000,
+      "amountLabel": "$1,000-$5,000+",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for students enrolled (or enrolling) in welding programs or programs with 50%+ welding coursework, at trade schools, community colleges, or universities. National, district, and section awards; some consider financial need.",
+      "url": "https://www.aws.org/foundation/page/scholarships",
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "trades",
+        "welding",
+        "vocational",
+        "career"
+      ],
+      "id": 313,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "NBNA Scholarship Program",
+      "organization": "National Black Nurses Association",
+      "amount": 1000,
+      "amountLabel": "$1,000+",
+      "deadline": "2027-03-15",
+      "description": "Scholarships for Black nursing students currently enrolled (LPN/LVN, ADN, BSN, Master's, or Doctorate) with at least one year of school remaining. Requires NBNA membership. Over $257K awarded in a recent year.",
+      "url": "https://www.nbna.org/scholarships",
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": [
+          "african_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "nursing",
+        "black",
+        "healthcare"
+      ],
+      "id": 314,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "Horatio Alger National Scholarship",
+      "organization": "Horatio Alger Association",
+      "amount": 25000,
+      "amountLabel": "$25,000",
+      "deadline": "2026-10-25",
+      "description": "For high school seniors who have faced and overcome significant adversity, demonstrate financial need (family income under ~$55,000), are involved in their communities, and plan to pursue a bachelor's degree. 2.0 GPA minimum.",
+      "url": "https://scholars.horatioalger.org/",
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 2.0,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "tags": [
+        "need-based",
+        "adversity",
+        "national",
+        "high-value"
+      ],
+      "id": 315,
       "verifiedAt": "2026-08-19"
     }
   ]
