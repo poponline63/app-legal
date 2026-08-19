@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-08-10",
+  "version": 4,
+  "updatedAt": "2026-08-19",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
     {
@@ -11837,6 +11837,201 @@
       ],
       "verifiedAt": "2026-08-10",
       "deadlineApprox": true
+    },
+    {
+      "name": "SoFi $2,500 Scholarship Giveaway",
+      "organization": "SoFi (Social Finance, Inc.)",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2026-09-30",
+      "recurring": "monthly",
+      "description": "No-essay monthly sweepstakes. One $2,500 award drawn every month toward tuition, housing, or other college costs. Enter in two quick steps; open to students and those planning to enroll.",
+      "url": "https://www.sofi.com/scholarship-giveaway/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "national",
+        "quick-apply"
+      ],
+      "id": 303,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "BigFuture Scholarships",
+      "organization": "College Board",
+      "amount": 40000,
+      "amountLabel": "$500-$40,000",
+      "deadline": "2026-09-30",
+      "recurring": "monthly",
+      "description": "No essay. Earn entries into monthly $500 and $40,000 drawings by completing college-planning steps (building a college list, searching scholarships, completing the FAFSA). No minimum GPA.",
+      "url": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "no-gpa",
+        "high-value"
+      ],
+      "id": 304,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "Sallie No Essay $2,000 Scholarship",
+      "organization": "Sallie Mae",
+      "amount": 2000,
+      "amountLabel": "$2,000",
+      "deadline": "2026-09-30",
+      "recurring": "monthly",
+      "description": "A $2,000 no-essay scholarship awarded monthly. Register once and you are entered; open to students 17+ enrolled or planning to enroll in college.",
+      "url": "https://www.sallie.com/scholarships",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "national",
+        "quick-apply"
+      ],
+      "id": 305,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "Dell Scholars Program",
+      "organization": "Michael & Susan Dell Foundation",
+      "amount": 20000,
+      "amountLabel": "$20,000 + laptop",
+      "deadline": "2027-02-15",
+      "description": "$20,000 flexible scholarship plus a laptop, textbook credits, and emergency aid, for Pell-eligible high school seniors in an approved college-readiness program. Focus on grit and need over grades (2.4 GPA minimum).",
+      "url": "https://www.dellscholars.org/scholarship/",
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "eligibility": {
+        "gpa_min": 2.4,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "need-based",
+        "first-gen",
+        "renewable",
+        "high-value"
+      ],
+      "id": 306,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "The Gates Scholarship",
+      "organization": "Bill & Melinda Gates Foundation",
+      "amount": 50000,
+      "amountLabel": "Full cost of attendance",
+      "deadline": "2026-09-15",
+      "description": "A last-dollar scholarship covering the full cost of attendance not met by other aid, for outstanding Pell-eligible minority high school seniors (3.3 GPA). One of the most generous awards in the country.",
+      "url": "https://www.thegatesscholarship.org/scholarship",
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "eligibility": {
+        "gpa_min": 3.3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "african_american",
+          "hispanic",
+          "native_american",
+          "asian",
+          "pacific_islander"
+        ],
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "minority",
+        "first-gen",
+        "need-based",
+        "full-ride",
+        "high-value"
+      ],
+      "id": 307,
+      "verifiedAt": "2026-08-19"
     }
   ]
 }
