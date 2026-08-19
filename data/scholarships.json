@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-08-19",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -12031,6 +12031,208 @@
         "high-value"
       ],
       "id": 307,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "Hispanic Scholarship Fund",
+      "organization": "Hispanic Scholarship Fund",
+      "amount": 5000,
+      "amountLabel": "$500-$5,000",
+      "deadline": "2027-02-15",
+      "description": "Need-based awards of $500-$5,000 for students of Hispanic heritage (U.S. citizens, permanent residents, or DACA). Also unlocks HSF mentorship, career services, and leadership programs. FAFSA required.",
+      "url": "https://www.hsf.net/scholarship",
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "hispanic",
+        "need-based",
+        "national"
+      ],
+      "id": 308,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "APIA Scholars Scholarship",
+      "organization": "Asian & Pacific Islander American Scholars",
+      "amount": 20000,
+      "amountLabel": "$2,500-$20,000",
+      "deadline": "2027-01-15",
+      "description": "For Asian and Pacific Islander American undergraduates, especially those who live at or below the poverty line, are first in their family to attend college, or represent underserved AAPI communities. One-year and multi-year awards.",
+      "url": "https://apiascholars.org/scholarship/apia-scholarship/",
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "asian",
+          "pacific_islander"
+        ],
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "asian",
+        "pacific-islander",
+        "first-gen",
+        "need-based"
+      ],
+      "id": 309,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "American Indian College Fund Full Circle Scholarship",
+      "organization": "American Indian College Fund",
+      "amount": 3000,
+      "amountLabel": "~$2,500 (varies)",
+      "deadline": "2027-05-31",
+      "description": "Need- and merit-based support for American Indian and Alaska Native students at tribal or accredited nonprofit colleges. One application matches students to hundreds of Full Circle and Tribal College scholarships.",
+      "url": "https://collegefund.org/students/scholarships/",
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "native-american",
+        "tribal",
+        "need-based"
+      ],
+      "id": 310,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "Point Foundation Flagship Scholarship",
+      "organization": "Point Foundation (National LGBTQ Scholarship Fund)",
+      "amount": 15000,
+      "amountLabel": "Need-based (renewable)",
+      "deadline": "2026-11-20",
+      "description": "The nation's largest LGBTQ+ scholarship. Need-based financial support renewable for up to four years, plus mentorship, leadership training, and community, for LGBTQ+ and ally students pursuing undergraduate, graduate, or professional degrees.",
+      "url": "https://pointfoundation.org/scholarships/flagship",
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "lgbtq",
+        "need-based",
+        "renewable",
+        "mentorship"
+      ],
+      "id": 311,
+      "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "Soroptimist Live Your Dream Award",
+      "organization": "Soroptimist International of the Americas",
+      "amount": 16000,
+      "amountLabel": "Up to $16,000",
+      "deadline": "2026-11-15",
+      "description": "For women who are the primary financial support for their families (including single mothers) and are enrolled in or accepted to an undergraduate or vocational program. Cash awards for tuition, books, childcare, or transportation. Over $3M awarded yearly.",
+      "url": "https://www.liveyourdream.org/our-dream/opportunity-through-education/education-grants.html",
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "single-parent",
+        "women",
+        "need-based",
+        "vocational"
+      ],
+      "id": 312,
       "verifiedAt": "2026-08-19"
     }
   ]
