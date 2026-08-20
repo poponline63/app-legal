@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -13803,6 +13803,217 @@
         "niche"
       ],
       "id": 350,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "American Dream Scholarship for Nurses",
+      "organization": "Bold.org",
+      "amount": 3000,
+      "amountLabel": "$3,000",
+      "deadline": "2026-10-14",
+      "description": "A $3,000 no-essay award for students pursuing a nursing degree. No essay required — apply with a free Bold.org profile.",
+      "url": "https://bold.org/scholarships/american-dream-scholarship-for-nurses/",
+      "category": "stem",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "quick-apply",
+        "nursing",
+        "healthcare"
+      ],
+      "id": 351,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "American Dream Scholarship for Practical Nurses",
+      "organization": "Bold.org",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2026-10-14",
+      "description": "A $1,500 no-essay award for students pursuing practical/vocational nursing (LPN/LVN). No essay required — apply with a free Bold.org profile.",
+      "url": "https://bold.org/scholarships/american-dream-scholarship-for-practical-nurses/",
+      "category": "stem",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "quick-apply",
+        "nursing",
+        "healthcare",
+        "vocational"
+      ],
+      "id": 352,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Diversity in Music Education Scholarship",
+      "organization": "Bold.org",
+      "amount": 2000,
+      "amountLabel": "$2,000",
+      "deadline": "2027-05-16",
+      "description": "A $2,000 no-essay award supporting diversity among future music educators. No essay required — apply with a free Bold.org profile.",
+      "url": "https://bold.org/scholarships/diversity-in-music-education-scholarship/",
+      "category": "creative",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "quick-apply",
+        "music",
+        "diversity",
+        "education"
+      ],
+      "id": 353,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "InnovateHERs Scholarship Challenge",
+      "organization": "Bold.org",
+      "amount": 500,
+      "amountLabel": "$500",
+      "deadline": "2026-09-29",
+      "description": "A no-essay award for women driving innovation in their fields. No essay required — apply with a free Bold.org profile.",
+      "url": "https://bold.org/scholarships/innovatehers-scholarship-challenge/",
+      "category": "identity",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "quick-apply",
+        "women",
+        "stem",
+        "innovation"
+      ],
+      "id": 354,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Lucas Jeffery STEAM Scholarship",
+      "organization": "Bold.org",
+      "amount": 500,
+      "amountLabel": "$500",
+      "deadline": "2027-03-19",
+      "description": "A no-essay award for students pursuing STEAM (science, technology, engineering, arts, math). No essay required — apply with a free Bold.org profile.",
+      "url": "https://bold.org/scholarships/lucas-jeffery-steam-scholarship/",
+      "category": "stem",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "quick-apply",
+        "stem",
+        "steam"
+      ],
+      "id": 355,
       "verifiedAt": "2026-08-20"
     }
   ]
