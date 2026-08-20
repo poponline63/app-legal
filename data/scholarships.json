@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-08-19",
+  "version": 7,
+  "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
     {
@@ -12352,6 +12352,253 @@
       ],
       "id": 315,
       "verifiedAt": "2026-08-19"
+    },
+    {
+      "name": "$25,000 \"Be Bold\" No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 25000,
+      "amountLabel": "$25,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A no-essay scholarship awarded to the boldest profile. Build a free Bold.org profile (education, goals, activities) and apply in one click — no essays, transcripts, or recommendation letters. New winner each cycle; earlier applicants are favored.",
+      "url": "https://bold.org/scholarships/the-be-bold-no-essay-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "high-value",
+        "quick-apply"
+      ],
+      "id": 316,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "The No Sweat Scholarship",
+      "organization": "Cirkled In",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2026-10-19",
+      "description": "A $2,500 no-essay, no-GPA scholarship usable for any educational expense. Apply in two steps: create a free Cirkled In account and complete your profile/portfolio. Open to students of all ages.",
+      "url": "https://www.cirkledin.com/scholarships/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "no-gpa",
+        "quick-apply",
+        "national"
+      ],
+      "id": 317,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Unigo Do-Over Scholarship",
+      "organization": "Unigo",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2026-10-01",
+      "description": "Quick-apply scholarship from Unigo. If you could get one 'do-over' in life, what would it be and why? No transcripts or recommendation letters — just a short written response. Open to U.S. students 13+.",
+      "url": "https://www.unigo.com/scholarships/our-scholarships/do-over-scholarship",
+      "category": "essay",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "quick-apply",
+        "short-answer",
+        "monthly",
+        "national"
+      ],
+      "id": 318,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Unigo Superpower Scholarship",
+      "organization": "Unigo",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2026-10-01",
+      "description": "Quick-apply scholarship from Unigo. Which superpower would you most want, and how would you use it? No transcripts or recommendation letters — just a short written response. Open to U.S. students 13+.",
+      "url": "https://www.unigo.com/scholarships/our-scholarships/superpower-scholarship",
+      "category": "essay",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "quick-apply",
+        "short-answer",
+        "monthly",
+        "national"
+      ],
+      "id": 319,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Unigo All About Education Scholarship",
+      "organization": "Unigo",
+      "amount": 3000,
+      "amountLabel": "$3,000",
+      "deadline": "2026-10-01",
+      "description": "Quick-apply scholarship from Unigo. A short response about your education goals. No transcripts or recommendation letters — just a short written response. Open to U.S. students 13+.",
+      "url": "https://www.unigo.com/scholarships/our-scholarships/all-about-education-scholarship",
+      "category": "essay",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "quick-apply",
+        "short-answer",
+        "monthly",
+        "national"
+      ],
+      "id": 320,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Unigo Fifth Month Scholarship",
+      "organization": "Unigo",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2026-10-01",
+      "description": "Quick-apply scholarship from Unigo. A brief creative response to the monthly prompt. No transcripts or recommendation letters — just a short written response. Open to U.S. students 13+.",
+      "url": "https://www.unigo.com/scholarships/our-scholarships/fifth-month-scholarship",
+      "category": "essay",
+      "noEssay": false,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "quick-apply",
+        "short-answer",
+        "monthly",
+        "national"
+      ],
+      "id": 321,
+      "verifiedAt": "2026-08-20"
     }
   ]
 }
