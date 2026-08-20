@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -13720,6 +13720,89 @@
         "quick-apply"
       ],
       "id": 348,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Finance Your Education No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $1,000 no-essay award to help students finance their education. No essay or documents — one-click apply with a free Bold.org profile.",
+      "url": "https://bold.org/scholarships/finance-education-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply"
+      ],
+      "id": 349,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Olivia Rodrigo Fan Scholarship",
+      "organization": "Bold.org",
+      "amount": 500,
+      "amountLabel": "$500",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A fun $500 no-essay award for Olivia Rodrigo fans pursuing their education. No essay or documents — one-click apply with a free Bold.org profile.",
+      "url": "https://bold.org/scholarships/olivia-rodrigo-fan-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "niche"
+      ],
+      "id": 350,
       "verifiedAt": "2026-08-20"
     }
   ]
