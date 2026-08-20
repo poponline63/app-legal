@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -12598,6 +12598,507 @@
         "national"
       ],
       "id": 321,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Bold.org No-Essay Community Scholarship",
+      "organization": "Bold.org",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $5,000 award open to the entire Bold.org community. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/bold-org-no-essay-community-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "high-value"
+      ],
+      "id": 322,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Bold.org No-Essay Top Friend Scholarship",
+      "organization": "Bold.org",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $5,000 award for students who invite and support friends on Bold.org. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/bold-org-top-friend-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "high-value"
+      ],
+      "id": 323,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "WayUp \"Unlock Your Potential\" Scholarship",
+      "organization": "Bold.org",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $1,000 award from early-career platform WayUp to help students unlock their potential. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/wayup-unlock-your-potenial-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "career"
+      ],
+      "id": 324,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Nielsen Rewards No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $1,000 no-essay award sponsored by Nielsen. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/nielsen-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply"
+      ],
+      "id": 325,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Appily No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $1,000 no-essay award from the Appily college-search platform. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/appily-no-essay-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply"
+      ],
+      "id": 326,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Norman Brooks Memorial Vocational Scholarship",
+      "organization": "Bold.org",
+      "amount": 500,
+      "amountLabel": "$500",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A donor-funded award supporting students pursuing vocational and trade careers. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/norman-brooks-memorial-vocational-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "trades",
+        "vocational"
+      ],
+      "id": 327,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Manuela Calles Scholarship for Women",
+      "organization": "Bold.org",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A donor-funded $1,000 award supporting women pursuing higher education. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/manuela-calles-scholarship-for-women/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "women"
+      ],
+      "id": 328,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Christian Colleges No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $1,000 award for students attending or planning to attend a Christian college. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/christian-colleges-no-essay-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "faith"
+      ],
+      "id": 329,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Best Faith-Based Colleges No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $1,000 award for students at faith-based colleges and universities. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/best-faith-based-colleges-no-essay-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "faith"
+      ],
+      "id": 330,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "CollegeXpress No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 500,
+      "amountLabel": "$500",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A $500 no-essay award from the CollegeXpress college-search platform. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/collegexpress-no-essay-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply"
+      ],
+      "id": 331,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "K-POP Fan No-Essay Scholarship",
+      "organization": "Bold.org",
+      "amount": 500,
+      "amountLabel": "$500",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A fun $500 no-essay award for K-Pop fans pursuing their education. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/K-POP-fan-no-essay-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "niche"
+      ],
+      "id": 332,
+      "verifiedAt": "2026-08-20"
+    },
+    {
+      "name": "Mattie K Peterson Higher Education Scholarship",
+      "organization": "Bold.org",
+      "amount": 500,
+      "amountLabel": "$500",
+      "deadline": "2026-10-01",
+      "recurring": "monthly",
+      "description": "A donor-funded $500 award supporting students pursuing higher education. No essay, transcripts, or recommendation letters — apply in one click with a free Bold.org profile. New winner each monthly cycle.",
+      "url": "https://bold.org/scholarships/mattie-k-peterson-higher-education-scholarship/",
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply"
+      ],
+      "id": 333,
       "verifiedAt": "2026-08-20"
     }
   ]
