@@ -74,17 +74,26 @@ const results = await mapLimit(list, CONCURRENCY, async (s) => {
   return { id: s.id, name: s.name, url: s.url, deadline: s.deadline, link, past, redirected };
 });
 
-const dead = results.filter((r) => !r.link.ok);
+// A 404/410 is genuinely gone and worth fixing. A 403/401/429/timeout usually
+// means the site is UP but blocking an automated request (bot protection) — it
+// works fine in a browser — so those go in a separate "verify manually" bucket
+// instead of being cried as dead.
+const isBroken = (r) => !r.link.ok && (r.link.status === 404 || r.link.status === 410);
+const isBlocked = (r) => !r.link.ok && !isBroken(r);
+const broken = results.filter(isBroken);
+const blocked = results.filter(isBlocked);
 const expired = results.filter((r) => r.past);
 const moved = results.filter((r) => r.link.ok && r.redirected);
 
 const report = {
   checkedAt: today,
   total: list.length,
-  deadLinks: dead.length,
+  broken: broken.length,
+  needsManualCheck: blocked.length,
   expired: expired.length,
   redirected: moved.length,
-  dead: dead.map((r) => ({ id: r.id, name: r.name, url: r.url, status: r.link.status, error: r.link.error })),
+  brokenList: broken.map((r) => ({ id: r.id, name: r.name, url: r.url, status: r.link.status })),
+  blockedList: blocked.map((r) => ({ id: r.id, name: r.name, url: r.url, status: r.link.status, error: r.link.error })),
   expiredList: expired.map((r) => ({ id: r.id, name: r.name, deadline: r.deadline })),
   redirectedList: moved.map((r) => ({ id: r.id, name: r.name, from: r.url, to: r.link.finalUrl })),
 };
@@ -93,14 +102,20 @@ const lines = [
   `# Scholarship freshness report (${today})`,
   '',
   `- Checked: **${report.total}**`,
-  `- Dead links: **${report.deadLinks}**`,
+  `- Broken (404/410, fix these): **${report.broken}**`,
+  `- Needs a manual look (403/timeout, likely bot-blocked): **${report.needsManualCheck}**`,
   `- Past deadline: **${report.expired}**`,
   `- Redirected (URL moved): **${report.redirected}**`,
   '',
 ];
-if (dead.length) {
-  lines.push('## Dead links (fix or remove)');
-  dead.forEach((r) => lines.push(`- [${r.id}] ${r.name} — ${r.link.status || r.link.error} — ${r.url}`));
+if (broken.length) {
+  lines.push('## Broken (404/410 — fix or remove)');
+  broken.forEach((r) => lines.push(`- [${r.id}] ${r.name} — ${r.link.status} — ${r.url}`));
+  lines.push('');
+}
+if (blocked.length) {
+  lines.push('## Verify manually (site likely up but blocked the checker)');
+  blocked.forEach((r) => lines.push(`- [${r.id}] ${r.name} — ${r.link.status || r.link.error} — ${r.url}`));
   lines.push('');
 }
 if (expired.length) {
