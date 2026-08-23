@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -12330,7 +12330,7 @@
       "noEssay": false,
       "renewable": false,
       "eligibility": {
-        "gpa_min": 2.0,
+        "gpa_min": 2,
         "grade_levels": [
           "high_school_senior"
         ],
@@ -14015,6 +14015,1158 @@
       ],
       "id": 355,
       "verifiedAt": "2026-08-20"
+    },
+    {
+      "id": 356,
+      "name": "Flinn Scholarship",
+      "organization": "Flinn Foundation",
+      "amount": 135000,
+      "amountLabel": "$135,000+ (full ride)",
+      "deadline": "2026-10-19",
+      "description": "A merit scholarship valued at more than $135,000 covering tuition, fees, housing, meals, and study abroad for about 20 Arizona high school seniors attending ASU, NAU, or the University of Arizona.",
+      "url": "https://www.flinn.org/flinn-scholars/the-scholarship/apply/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 357,
+      "name": "Dorrance Scholarship",
+      "organization": "Dorrance Scholarship Programs",
+      "amount": 12000,
+      "amountLabel": "$12,000",
+      "deadline": "2027-02-03",
+      "description": "A renewable award of $12,000 for first-generation Arizona high school seniors with financial need attending one of the state's public universities.",
+      "url": "https://dorrancescholarship.org/application/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 358,
+      "name": "Arizona Community Foundation General Scholarship Application",
+      "organization": "Arizona Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "A single ACF application matches Arizona students to dozens of donor-funded scholarships across the state. Scholarships typically open in January with March 1 and May 1 deadlines.",
+      "url": "https://www.azfoundation.org/scholarship-seekers/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 359,
+      "name": "Community Foundation for Southern Arizona Scholarships",
+      "organization": "Community Foundation for Southern Arizona",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-19",
+      "description": "One application considers Southern Arizona students for multiple CFSA donor scholarships. Applications open in early January and close in February.",
+      "url": "https://cfsaz.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 360,
+      "name": "ACF Yavapai County Cash for College Scholarships",
+      "organization": "Arizona Community Foundation of Yavapai County",
+      "amount": 2000,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-16",
+      "description": "Locally funded scholarships for Yavapai County students, awarded through the Arizona Community Foundation regional office. Applications open January 1 and close in mid-March.",
+      "url": "https://www.azfoundation.org/Give-Where-You-Live/Yavapai-County/Scholarship-Applications",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 361,
+      "name": "ACF Yuma County Merit Scholarship",
+      "organization": "Arizona Community Foundation (Yuma regional office)",
+      "amount": 2000,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-17",
+      "description": "Merit-based scholarships for Yuma-area students administered by the Arizona Community Foundation. Applications open January 1 and close in April.",
+      "url": "https://www.azfoundation.org/scholarship-seekers/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 362,
+      "name": "Nina Mason Pulliam Legacy Scholars Program",
+      "organization": "Nina Mason Pulliam Charitable Trust / Maricopa Community Colleges & ASU",
+      "amount": 20000,
+      "amountLabel": "Full tuition, fees, books + stipend",
+      "deadline": "2027-03-01",
+      "description": "Long-term need-based support covering full tuition, fees, books, and a living stipend for adult students with dependents or those who have experienced foster care, attending ASU or a Maricopa Community College.",
+      "url": "https://www.maricopa.edu/students/scholarships/nina-mason-pulliam",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 363,
+      "name": "Chicanos Por La Causa Scholarship",
+      "organization": "Chicanos Por La Causa (CPLC)",
+      "amount": 5000,
+      "amountLabel": "Up to $5,000/yr",
+      "deadline": "2027-03-01",
+      "description": "Scholarships of up to $5,000 for up to four years for first-generation Latino students attending Arizona's three state universities or Maricopa Community Colleges.",
+      "url": "https://www.cplc.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 364,
+      "name": "AZHCC Emerging Business Leaders Initiative (EBLI) Scholarship",
+      "organization": "Arizona Hispanic Chamber of Commerce Foundation",
+      "amount": 5000,
+      "amountLabel": "$5,000 to $15,000",
+      "deadline": "2027-03-16",
+      "description": "Renewable scholarships for Hispanic-heritage students pursuing a business degree at an accredited Arizona university, with six $5,000 awards given annually to incoming juniors.",
+      "url": "https://www.azhcc.com/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 365,
+      "name": "Ed Pastor Scholarship Fund",
+      "organization": "Arizona Hispanic Chamber of Commerce Foundation",
+      "amount": 15000,
+      "amountLabel": "Up to $15,000/yr (total)",
+      "deadline": "2027-03-16",
+      "description": "The AZHCC awards one or more scholarships totaling about $15,000 a year through the Ed Pastor Scholarship Fund to Hispanic students in Arizona.",
+      "url": "https://www.azhcc.com/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 366,
+      "name": "Guarantee Your Future with Freeport",
+      "organization": "Education Forward Arizona & Freeport-McMoRan Foundation",
+      "amount": 10000,
+      "amountLabel": "Full tuition, fees, books + support",
+      "deadline": "2027-03-15",
+      "description": "Full scholarship support for students earning an A.A.S. degree and industry certification in select career pathways at designated Arizona community colleges, including help with housing, food, and transportation.",
+      "url": "https://educationforwardarizona.org/futurewithfreeport/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 367,
+      "name": "Freeport-McMoRan Native American Scholarship Program",
+      "organization": "Freeport-McMoRan Foundation & Education Forward Arizona",
+      "amount": 6000,
+      "amountLabel": "Up to $6,000/yr",
+      "deadline": "2027-03-15",
+      "description": "Scholarships of up to $6,000 per year plus mentoring and student-success support for Native American students in Arizona pursuing higher education.",
+      "url": "https://educationforwardarizona.org/innovate/attainment/scholarships/native-american-scholarship-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 368,
+      "name": "El Valle Puede Scholarship",
+      "organization": "Phoenix Suns/Phoenix Mercury Foundation & Helios Education Foundation",
+      "amount": 12500,
+      "amountLabel": "Up to $12,500/yr",
+      "deadline": "2027-03-01",
+      "description": "Renewable awards of up to $12,500 per year for Latino Arizona high school seniors with financial need attending an accredited postsecondary institution.",
+      "url": "https://helios.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 369,
+      "name": "TheDream.US National Scholarship (University of Arizona partner)",
+      "organization": "TheDream.US",
+      "amount": 33000,
+      "amountLabel": "Up to $33,000",
+      "deadline": "2027-02-28",
+      "description": "Provides up to $33,000 toward a bachelor's degree for undocumented immigrant students (with or without DACA or TPS) who came to the U.S. before age 16, attending partner institutions including the University of Arizona.",
+      "url": "https://www.thedream.us/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 370,
+      "name": "Office of Navajo Nation Scholarship & Financial Assistance",
+      "organization": "Navajo Nation (ONNSFA)",
+      "amount": 3000,
+      "amountLabel": "Varies",
+      "deadline": "2026-11-25",
+      "description": "Need-based financial assistance for enrolled members of the Navajo Nation admitted to accredited postsecondary institutions. The winter/spring term application closes November 25.",
+      "url": "https://onnsfa.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable"
+      ]
+    },
+    {
+      "id": 371,
+      "name": "Earn to Learn Matched Savings Scholarship",
+      "organization": "Earn to Learn (Arizona)",
+      "amount": 4000,
+      "amountLabel": "$4,000/yr",
+      "deadline": "2027-03-01",
+      "description": "A need-based matched-savings program: students who save $500 receive $4,000 in matching scholarship funds toward tuition, books, and expenses at an Arizona public university, plus financial literacy training.",
+      "url": "https://earntolearn.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Beaty Martinez Foundation Scholarship",
+      "organization": "The Beaty Martinez Foundation",
+      "amount": 10000,
+      "amountLabel": "Up to $10,000",
+      "deadline": "2027-05-01",
+      "description": "A merit- and need-based award of up to $10,000 for Arizona high school seniors accepted to an in-state college or university, split between fall and spring semesters.",
+      "url": "https://beatymartinez.org/scholarships-1",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Arizona Scholars Program (Deloitte Foundation)",
+      "organization": "O'Connor Institute",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2027-03-01",
+      "description": "Five $5,000 scholarships for graduating Arizona high school seniors participating in the O'Connor Institute Ambassadors Civics and Debate Club, judged on academics, leadership, and civic knowledge.",
+      "url": "https://oconnorinstitute.org/ambassadors/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 374,
+      "name": "Arizona BPW Foundation Scholarship",
+      "organization": "Arizona Business and Professional Women's Foundation",
+      "amount": 3000,
+      "amountLabel": "Up to $3,000",
+      "deadline": "2026-11-21",
+      "description": "Scholarships for Arizona women age 19 and older returning to an Arizona community college to improve job prospects or advance their careers.",
+      "url": "https://arizonabpwfoundation.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Arizona Elk Society Youth Scholarship",
+      "organization": "Arizona Elk Society",
+      "amount": 1000,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for Arizona high school seniors pursuing a degree in wildlife sciences or closely related fields who demonstrate commitment to wildlife and the outdoors.",
+      "url": "https://www.arizonaelksociety.org/youth-scholarships",
+      "eligibility": {
+        "gpa_min": 2.7,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 376,
+      "name": "Arizona National Livestock Show Scholarship",
+      "organization": "Arizona National Livestock Show",
+      "amount": 3000,
+      "amountLabel": "Varies (over $70,000 awarded yearly)",
+      "deadline": "2027-03-15",
+      "description": "Scholarships for students who participated in the Arizona National Livestock Show or Horse Show as exhibitors, contestants, volunteers, or interns for at least two years, pursuing college or trade school.",
+      "url": "https://www.aznational.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 377,
+      "name": "Arizona Nursery Association Scholarship",
+      "organization": "Arizona Nursery Association",
+      "amount": 3000,
+      "amountLabel": "$500 to $3,000",
+      "deadline": "2027-04-30",
+      "description": "Scholarships of $500 to $3,000 for students pursuing horticulture, plant science, and related fields tied to Arizona's nursery and landscape industry.",
+      "url": "https://www.azna.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 378,
+      "name": "Maricopa County Farm Bureau Scholarship",
+      "organization": "Arizona Farm Bureau (Maricopa County)",
+      "amount": 1000,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-31",
+      "description": "County Farm Bureau scholarships supporting Maricopa County students pursuing agriculture-related degrees and careers.",
+      "url": "https://www.azfb.org/Get-Involved/Scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 379,
+      "name": "Yuma County Farm Bureau Scholarship",
+      "organization": "Arizona Farm Bureau (Yuma County)",
+      "amount": 1000,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "County Farm Bureau scholarships supporting Yuma County students pursuing agriculture-related degrees and careers.",
+      "url": "https://www.azfb.org/Get-Involved/Scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Scottsdale Rotary Club Scholarship",
+      "organization": "Rotary Club of Scottsdale",
+      "amount": 5000,
+      "amountLabel": "Varies (over $130,000 awarded)",
+      "deadline": "2027-02-15",
+      "description": "Annual scholarships for graduating seniors at the five Scottsdale Unified School District high schools, awarded across nine achievement categories plus the Norval O. Tyler Scholarship.",
+      "url": "https://www.scottsdalerotary.org/sitepage/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 381,
+      "name": "Gila River Indian Community Higher Education Scholarship",
+      "organization": "Gila River Indian Community",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-01",
+      "description": "Higher education scholarships for enrolled members of the Gila River Indian Community pursuing a bachelor's degree.",
+      "url": "https://www.gricted.com/index.php/misc/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 382,
+      "name": "Salt River Pima-Maricopa Higher Education Scholarship",
+      "organization": "Salt River Pima-Maricopa Indian Community",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-01",
+      "description": "Higher education funding for enrolled members of the Salt River Pima-Maricopa Indian Community admitted to accredited colleges, universities, or vocational schools.",
+      "url": "https://he.saltriverschools.org/guardian__student_information/eligibility",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 383,
+      "name": "President Barack Obama Scholars Program",
+      "organization": "Arizona State University",
+      "amount": 15000,
+      "amountLabel": "Full tuition, fees + support",
+      "deadline": "2027-01-15",
+      "description": "Covers tuition and fees, with possible additional funding for housing, meals, books, and supplies, for Pell-eligible Arizona resident students who demonstrate leadership.",
+      "url": "https://students.asu.edu/financialaid/types/special",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 384,
+      "name": "Arizona Assurance Program",
+      "organization": "University of Arizona",
+      "amount": 13000,
+      "amountLabel": "Full tuition + fees",
+      "deadline": "2027-02-01",
+      "description": "A financial aid program covering tuition and fees for low-income Arizona resident students, filling the gap after federal and state grants.",
+      "url": "https://financialaid.arizona.edu/types-of-aid",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 385,
+      "name": "NAU Access2Excellence",
+      "organization": "Northern Arizona University",
+      "amount": 12000,
+      "amountLabel": "Full tuition",
+      "deadline": "2027-02-01",
+      "description": "Guarantees full undergraduate tuition coverage for Arizona residents with household income of $65,000 or less and for members of Arizona's 22 federally recognized tribes.",
+      "url": "https://nau.edu/office-scholarships-financial-aid/aid-programs/access2excellence/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "high-value",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 386,
+      "name": "ASU Leadership Scholarship Program",
+      "organization": "Arizona State University",
+      "amount": 8000,
+      "amountLabel": "Varies",
+      "deadline": "2027-01-15",
+      "description": "Recognizes about 23 outstanding Arizona high school graduating seniors (plus up to two out-of-state) who have achieved excellence in leadership, providing a renewable scholarship at ASU.",
+      "url": "https://eoss.asu.edu/lsp/scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Arizona"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable",
+        "deadline-approx"
+      ]
     }
   ]
 }
