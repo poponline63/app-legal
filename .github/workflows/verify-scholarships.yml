@@ -1,0 +1,52 @@
+name: Verify scholarships
+
+# Monthly freshness check on the live scholarship data. It never edits listings
+# on its own and never merges: it validates structure, checks every application
+# link and deadline, writes a report, and opens a pull request for a human to
+# review and act on. Also runnable on demand from the Actions tab.
+
+on:
+  schedule:
+    - cron: '0 13 1 * *' # 1st of each month, 13:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # A malformed file must stop the run before anything else.
+      - name: Validate structure
+        run: node data/validate-scholarships.mjs
+
+      # Check every URL and deadline; write the report files.
+      - name: Check links and deadlines
+        run: node data/verify-live.mjs --json data/freshness-report.json
+
+      # Open (or update) a PR carrying the report. Never auto-merges.
+      - name: Open freshness report PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: scholarship-freshness-report
+          add-paths: |
+            data/freshness-report.json
+            data/freshness-report.md
+          commit-message: 'chore: monthly scholarship freshness report'
+          title: 'Monthly scholarship freshness report'
+          body: |
+            Automated monthly check of the live scholarship data.
+
+            See `data/freshness-report.md` in this PR for dead links, past
+            deadlines, and moved URLs. Fix the flagged listings in
+            `data/scholarships.json`, bump `version`, and merge. Do not merge
+            this report by itself as a data change.
+          labels: data, automated
