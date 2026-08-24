@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -74151,6 +74151,299 @@
         "no-essay",
         "monthly",
         "sweepstakes"
+      ]
+    },
+    {
+      "id": 2014,
+      "name": "DAR Good Citizens Scholarship",
+      "organization": "National Society Daughters of the American Revolution",
+      "amount": 2500,
+      "amountLabel": "Varies (chapter, state, and national awards)",
+      "deadline": "2026-12-01",
+      "description": "Recognizes high school seniors who demonstrate dependability, service, leadership, and patriotism. Includes a timed essay administered under supervision. Awards are given at chapter, state, division, and national levels. US citizenship is not required.",
+      "url": "https://www.dar.org/national-society/scholarships/dar-related",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "civic",
+        "essay-contest",
+        "service-org",
+        "national"
+      ]
+    },
+    {
+      "id": 2015,
+      "name": "Madeline Pickett (Halbert) Cogswell Nursing Scholarship",
+      "organization": "National Society Daughters of the American Revolution",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2027-02-15",
+      "description": "Awards $2,500 to two students accepted or enrolled in an accredited school of nursing. Applicants must be a DAR member, the child or descendant of a member, or eligible for DAR membership. One of several DAR national scholarships for medical and nursing fields.",
+      "url": "https://www.dar.org/national-society/scholarships/nursing-medical-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "field-specific",
+        "nursing",
+        "service-org",
+        "national"
+      ]
+    },
+    {
+      "id": 2016,
+      "name": "4-H Youth in Action Award",
+      "organization": "National 4-H Council",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2027-04-13",
+      "description": "Recognizes four 4-H members who are making a difference in their communities across pillar areas. Each awardee receives a $5,000 scholarship plus a year of professional and media training and serves as a national 4-H spokesperson. Open to current members or recent alumni ages 15 to 19.",
+      "url": "https://4-h.org/programs/4-h-youth-in-action-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "service-org",
+        "membership",
+        "national"
+      ]
+    },
+    {
+      "id": 2017,
+      "name": "Hillel International Scholarships",
+      "organization": "Hillel International",
+      "amount": 2500,
+      "amountLabel": "Varies (over 12 scholarship categories)",
+      "deadline": "2027-03-01",
+      "description": "Merit based scholarships for students who identify as Jewish in the US and Canada attending or preparing to attend four year colleges or graduate school. Selection considers academic excellence, community service, Jewish connection, first generation status, and family need. Nearly $350,000 awarded across 60+ students.",
+      "url": "https://www.hillel.org/jewish-scholarships-portal/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "religious",
+        "jewish",
+        "national"
+      ]
+    },
+    {
+      "id": 2018,
+      "name": "P.E.O. STAR Scholarship",
+      "organization": "P.E.O. International",
+      "amount": 2500,
+      "amountLabel": "$2,500 one-time",
+      "deadline": "2027-03-14",
+      "description": "One-time scholarship for graduating women in their final year of high school who show leadership, academic excellence, and community service, recommended by a local P.E.O. chapter.",
+      "url": "https://www.peointernational.org/educational-support/star-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "women"
+      ]
+    },
+    {
+      "id": 2019,
+      "name": "AIGA Worldstudio DxD Scholarships",
+      "organization": "AIGA and Worldstudio",
+      "amount": 5000,
+      "amountLabel": "$2,500 to $5,000",
+      "deadline": "2027-04-21",
+      "description": "For undergraduate and graduate students at U.S. institutions pursuing communication design, illustration, or photography degrees with the intent to pursue that field professionally.",
+      "url": "https://www.aiga.org/competitions-initiatives/aiga-worldstudio-dd-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "design",
+        "illustration"
+      ]
+    },
+    {
+      "id": 2020,
+      "name": "National Dairy Shrine Scholarships",
+      "organization": "National Dairy Shrine",
+      "amount": 2500,
+      "amountLabel": "$1,500 to $2,500",
+      "deadline": "2027-04-15",
+      "description": "Multiple scholarships for college students pursuing dairy-related degrees and careers, including dairy production, science, marketing, and communication.",
+      "url": "https://dairyshrine.org/youth/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "agriculture",
+        "dairy"
+      ]
+    },
+    {
+      "id": 2021,
+      "name": "Joseph S. Rumbaugh Historical Oration Contest",
+      "organization": "National Society Sons of the American Revolution",
+      "amount": 6000,
+      "amountLabel": "$2,000 to $6,000",
+      "deadline": "2027-02-01",
+      "description": "Oration contest on the American Revolution for high school students in grades 9 to 12, advancing from local to state to national levels. National awards are $6,000 for first place, $4,000 for runner up, and $2,000 for second runner up.",
+      "url": "https://www.sar.org/joseph-s-rumbaugh-historical-oration-contest/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "civic",
+        "public-speaking",
+        "service-org",
+        "national"
       ]
     }
   ]
