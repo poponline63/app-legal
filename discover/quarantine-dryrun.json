@@ -1,0 +1,779 @@
+[
+  {
+    "id": 4,
+    "name": "DAR Good Citizens Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 2500,
+    "amountLabel": "Varies (chapter, state, and national awards)",
+    "deadline": "2026-12-01",
+    "description": "Recognizes high school seniors who demonstrate dependability, service, leadership, and patriotism. Includes a timed essay administered under supervision. Awards are given at chapter, state, division, and national levels. US citizenship is not required.",
+    "url": "https://www.dar.org/national-society/scholarships/dar-related",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "community",
+      "civic",
+      "essay-contest",
+      "service-org",
+      "national"
+    ],
+    "source_note": "Confirmed via dar.org search results (page 403 to fetcher but content indexed). Deadline set by school/chapter in fall. Medium-high confidence.",
+    "__beat": "civic",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 6,
+    "name": "Kiwanis Key Club Cunat International Scholarship",
+    "organization": "Kiwanis Children's Fund / Key Club International",
+    "amount": 2500,
+    "amountLabel": "$2,500",
+    "deadline": "2027-02-01",
+    "description": "For graduating high school seniors who are active members in good standing of Key Club International, the high school service program of Kiwanis. Applications open November 1 and are due February 1. Recognizes service leadership.",
+    "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "community",
+      "service-org",
+      "membership",
+      "national"
+    ],
+    "source_note": "Confirmed via kiwanis.org search; due Feb 1 2027. Requires Key Club membership. High confidence.",
+    "__beat": "civic",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 15,
+    "name": "Comcast Leaders and Achievers Scholarship",
+    "organization": "Comcast NBCUniversal Foundation",
+    "amount": 2500,
+    "amountLabel": "$1,000 to $2,500 (one time)",
+    "deadline": "2026-12-06",
+    "description": "Recognizes high school seniors who demonstrate outstanding community service, academic performance, and leadership. Requires a GPA of 2.8 or higher and nomination by a principal or guidance counselor. Awards are a one time $1,000 to $2,500 grant.",
+    "url": "https://corporate.comcast.com/values/community-impact",
+    "eligibility": {
+      "gpa_min": 2.8,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "community",
+      "corporate",
+      "leadership",
+      "national"
+    ],
+    "source_note": "Confirmed via Comcast/SER National; nationwide in Comcast service areas, counselor-nominated. Deadline-approx (early Dec). Medium-high confidence.",
+    "__beat": "civic",
+    "__verdict": "quarantine-blocked",
+    "__status": 0,
+    "__error": "timeout"
+  },
+  {
+    "id": 21,
+    "name": "4-H Youth in Action Award",
+    "organization": "National 4-H Council",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-04-13",
+    "description": "Recognizes four 4-H members who are making a difference in their communities across pillar areas. Each awardee receives a $5,000 scholarship plus a year of professional and media training and serves as a national 4-H spokesperson. Open to current members or recent alumni ages 15 to 19.",
+    "url": "https://4-h.org/programs/4-h-youth-in-action-program/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior",
+        "college_freshman"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "community",
+      "service-org",
+      "membership",
+      "national"
+    ],
+    "source_note": "Confirmed via 4-h.org; 2026 deadline Apr 13. Deadline-approx for 2027. High confidence.",
+    "__beat": "civic",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 24,
+    "name": "Hillel International Scholarships",
+    "organization": "Hillel International",
+    "amount": 2500,
+    "amountLabel": "Varies (over 12 scholarship categories)",
+    "deadline": "2027-03-01",
+    "description": "Merit based scholarships for students who identify as Jewish in the US and Canada attending or preparing to attend four year colleges or graduate school. Selection considers academic excellence, community service, Jewish connection, first generation status, and family need. Nearly $350,000 awarded across 60+ students.",
+    "url": "https://www.hillel.org/jewish-scholarships-portal/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "Jewish"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "identity",
+      "religious",
+      "jewish",
+      "national"
+    ],
+    "source_note": "Confirmed via hillel.org search (page 403 to fetcher but content indexed). Deadline-approx. Medium confidence on exact deadline.",
+    "__beat": "civic",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 29,
+    "name": "Madeline Pickett (Halbert) Cogswell Nursing Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 2500,
+    "amountLabel": "$2,500",
+    "deadline": "2027-02-15",
+    "description": "Awards $2,500 to two students accepted or enrolled in an accredited school of nursing. Applicants must be a DAR member, the child or descendant of a member, or eligible for DAR membership. One of several DAR national scholarships for medical and nursing fields.",
+    "url": "https://www.dar.org/national-society/scholarships/nursing-medical-scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "Nursing"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "field_specific",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "field-specific",
+      "nursing",
+      "service-org",
+      "national"
+    ],
+    "source_note": "Confirmed via dar.org search; $2,500, nursing, DAR affiliation. Deadline-approx (DAR general Feb 15). Medium-high confidence.",
+    "__beat": "civic",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 4,
+    "name": "HSF Scholar Program",
+    "organization": "Hispanic Scholarship Fund",
+    "amount": 5000,
+    "amountLabel": "$500 to $5,000",
+    "deadline": "2027-02-15",
+    "description": "Scholarship for students of Hispanic heritage enrolling full-time at a four-year university or graduate school, with access to mentorship, career services, and leadership programs.",
+    "url": "https://www.hsf.net/scholarship/",
+    "eligibility": {
+      "gpa_min": 3,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "hispanic"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "identity",
+      "hispanic"
+    ],
+    "source_note": "Official hsf.net; deadline Feb 15, high confidence",
+    "__beat": "identity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 8,
+    "name": "National Federation of the Blind Scholarship",
+    "organization": "National Federation of the Blind",
+    "amount": 10000,
+    "amountLabel": "$8,000 to $12,000 (thirty awards)",
+    "deadline": "2027-03-31",
+    "description": "Merit-based scholarships for legally blind students pursuing full-time postsecondary study, awarded on academic excellence, community service, and leadership.",
+    "url": "https://nfb.org/scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "identity",
+      "disability",
+      "blind"
+    ],
+    "source_note": "Official nfb.org/scholarships; deadline Mar 31 rolled 2027; high confidence",
+    "__beat": "identity",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 13,
+    "name": "P.E.O. STAR Scholarship",
+    "organization": "P.E.O. International",
+    "amount": 2500,
+    "amountLabel": "$2,500 one-time",
+    "deadline": "2027-03-14",
+    "description": "One-time scholarship for graduating women in their final year of high school who show leadership, academic excellence, and community service, recommended by a local P.E.O. chapter.",
+    "url": "https://www.peointernational.org/educational-support/star-scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "female",
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "identity",
+      "women"
+    ],
+    "source_note": "Official peointernational.org; deadline Mar 14 rolled 2027 (chapter-recommended); high confidence",
+    "__beat": "identity",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 19,
+    "name": "The Gates Scholarship",
+    "organization": "The Gates Scholarship",
+    "amount": 2500,
+    "amountLabel": "Full cost of attendance (last-dollar)",
+    "deadline": "2026-09-15",
+    "description": "Last-dollar scholarship for Pell-eligible minority high school seniors who are African American, American Indian or Alaska Native, Asian and Pacific Islander American, or Hispanic American.",
+    "url": "https://thegatesscholarship.org/scholarship",
+    "eligibility": {
+      "gpa_min": 3.3,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american",
+        "native_american",
+        "asian",
+        "pacific_islander",
+        "hispanic"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "diversity",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "identity",
+      "minority",
+      "need"
+    ],
+    "source_note": "Official thegatesscholarship.org (fetched); deadline Sep 15 2026; high confidence",
+    "__beat": "identity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 30,
+    "name": "disABLEDperson National Scholarship",
+    "organization": "disABLEDperson, Inc.",
+    "amount": 2000,
+    "amountLabel": "$2,000",
+    "deadline": "2027-03-31",
+    "description": "Scholarship for full-time college students living with a disability, enrolled at an accredited US two-year or four-year institution.",
+    "url": "https://www.scholarships.com/scholarships/disabledperson-inc-national-scholarship",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "identity",
+      "disability"
+    ],
+    "source_note": "disABLEDperson Inc 501c3; official domain unreachable, listing via scholarships.com; deadline Mar 31 rolled 2027; medium confidence",
+    "__beat": "identity",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 31,
+    "name": "Neurodiversity Scholarship",
+    "organization": "Neurodiversity Alliance",
+    "amount": 2500,
+    "amountLabel": "$2,500 (four-year), $1,000 (community college)",
+    "deadline": "2027-03-01",
+    "description": "Scholarship for students with a disability such as dyslexia, ADHD, a processing disorder, or autism, supporting neurodivergent students in higher education.",
+    "url": "https://www.fastweb.com/college-scholarships/articles/scholarships-for-students-challenged-with-an-illness-or-disability",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "identity",
+      "disability",
+      "neurodiversity"
+    ],
+    "source_note": "Neurodiversity Alliance; listing via Fastweb, deadline-approx; medium confidence",
+    "__beat": "identity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 2,
+    "name": "Nurse Corps Scholarship Program",
+    "organization": "HRSA Bureau of Health Workforce",
+    "amount": 2500,
+    "amountLabel": "Full tuition, fees, plus monthly stipend",
+    "deadline": "2027-05-01",
+    "description": "Federal program paying tuition, fees, and a monthly stipend for nursing students in exchange for a service commitment at a Critical Shortage Facility after graduation.",
+    "url": "https://bhw.hrsa.gov/programs/nurse-corps/scholarship/apply",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "need",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "nursing",
+      "service"
+    ],
+    "source_note": "HRSA official apply page via web search; deadline-approx; confidence med",
+    "__beat": "majors",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 26,
+    "name": "Legal Opportunity Scholarship Fund",
+    "organization": "American Bar Association",
+    "amount": 15000,
+    "amountLabel": "$15,000 over three years",
+    "deadline": "2027-03-15",
+    "description": "Awards $5,000 per year for three years to entering first-year law students who advance diversity in the legal profession; must enroll at an ABA-accredited law school.",
+    "url": "https://www.americanbar.org/groups/diversity/diversity_pipeline/projects_initiatives/legal_opportunity_scholarship/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "law"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "diversity",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "law",
+      "diversity"
+    ],
+    "source_note": "ABA official page URL via web search (opens Feb 1); deadline-approx; confidence med",
+    "__beat": "majors",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 28,
+    "name": "National Dairy Shrine Scholarships",
+    "organization": "National Dairy Shrine",
+    "amount": 2500,
+    "amountLabel": "$1,500 to $2,500",
+    "deadline": "2027-04-15",
+    "description": "Multiple scholarships for college students pursuing dairy-related degrees and careers, including dairy production, science, marketing, and communication.",
+    "url": "https://dairyshrine.org/national-dairy-shrine-scholarships-2025/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "field_specific",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "agriculture",
+      "dairy"
+    ],
+    "source_note": "National Dairy Shrine scholarships page via web search; deadline-approx; confidence med",
+    "__beat": "majors",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 33,
+    "name": "AIGA Worldstudio DxD Scholarships",
+    "organization": "AIGA and Worldstudio",
+    "amount": 5000,
+    "amountLabel": "$2,500 to $5,000",
+    "deadline": "2027-04-21",
+    "description": "For undergraduate and graduate students at U.S. institutions pursuing communication design, illustration, or photography degrees with the intent to pursue that field professionally.",
+    "url": "https://www.aiga.org/competitions-initiatives/aiga-worldstudio-dd-scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "arts"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "creative",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "design",
+      "illustration"
+    ],
+    "source_note": "AIGA Worldstudio scholarships page via web search; deadline-approx; confidence med",
+    "__beat": "majors",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 4,
+    "name": "College Ave $1,000 Monthly Scholarship Sweepstakes",
+    "organization": "College Ave Student Loans",
+    "amount": 1000,
+    "amountLabel": "$1,000 each month",
+    "deadline": "2026-09-30",
+    "description": "College Ave chooses one winner at random every month for a $1,000 scholarship. Students fill out a single form with no essay and can enter every month. Open to high school and college students and their parents.",
+    "url": "https://www.collegeave.com/promotions/",
+    "eligibility": {
+      "gpa_min": 0,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "no-essay",
+    "noEssay": true,
+    "renewable": false,
+    "tags": [
+      "no-essay",
+      "monthly",
+      "quick-apply",
+      "sweepstakes"
+    ],
+    "source_note": "Fetched official collegeave.com/promotions page listing this as a live no-essay monthly sweepstakes. Sponsor is College Ave, a real private student loan lender. Age 13 plus, US citizen or permanent resident. Deadline approx: rolling monthly. High confidence.",
+    "__beat": "noessay",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 5,
+    "name": "College Ave $5,000 Scholarship Giveaway",
+    "organization": "College Ave Student Loans",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2026-12-31",
+    "description": "College Ave runs a $5,000 scholarship giveaway for high school and college students with no essay required. Entry is a short form and no purchase is necessary.",
+    "url": "https://www.collegeave.com/promotions/",
+    "eligibility": {
+      "gpa_min": 0,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "no-essay",
+    "noEssay": true,
+    "renewable": false,
+    "tags": [
+      "no-essay",
+      "quick-apply",
+      "sweepstakes"
+    ],
+    "source_note": "Fetched official collegeave.com/promotions page listing a distinct live $5,000 no-essay giveaway. Sponsor is College Ave lender. Deadline approx: page did not state an exact date, set to end of year. Medium-high confidence.",
+    "__beat": "noessay",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 17,
+    "name": "Joseph S. Rumbaugh Historical Oration Contest",
+    "organization": "National Society Sons of the American Revolution",
+    "amount": 6000,
+    "amountLabel": "$2,000 to $6,000",
+    "deadline": "2027-02-01",
+    "description": "Oration contest on the American Revolution for high school students in grades 9 to 12, advancing from local to state to national levels. National awards are $6,000 for first place, $4,000 for runner up, and $2,000 for second runner up.",
+    "url": "https://www.sar.org/education/youth-contests/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "community",
+      "civic",
+      "public-speaking",
+      "service-org",
+      "national"
+    ],
+    "source_note": "Confirmed via sar.org search; grades 9-12, local-to-national. Deadline-approx. High confidence.",
+    "__beat": "civic",
+    "__verdict": "dead",
+    "__status": 404
+  }
+]
