@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -58937,6 +58937,5367 @@
       "renewable": false,
       "tags": [
         "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1595,
+      "name": "Hawaii Community Foundation Common Scholarship",
+      "organization": "Hawaii Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (over $4M across 200+ funds)",
+      "deadline": "2027-02-26",
+      "description": "A single online application that considers applicants for more than 200 scholarship funds administered by the Hawaii Community Foundation. Open to Hawaii residents pursuing degrees or career and technical education at colleges, universities, and community colleges. Most funds weigh financial need.",
+      "url": "https://www.hawaiicommunityfoundation.org/students",
+      "eligibility": {
+        "gpa_min": 2.7,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1596,
+      "name": "Na Hookama a Pauahi Scholarship",
+      "organization": "Kamehameha Schools",
+      "amount": 2500,
+      "amountLabel": "Varies (need-based)",
+      "deadline": "2027-01-15",
+      "description": "A need-based scholarship from Kamehameha Schools for learners of Native Hawaiian ancestry attending accredited colleges, universities, or vocational programs. Applicants choose from awards within a single Kamehameha Schools application.",
+      "url": "https://www.ksbe.edu/programs",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "identity",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1597,
+      "name": "Ke Alii Pauahi Foundation Postsecondary Scholarships",
+      "organization": "Ke Alii Pauahi Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (multiple named funds)",
+      "deadline": "2026-12-01",
+      "description": "The scholarship arm of Kamehameha Schools awarding postsecondary scholarships from many donor funds. Policy gives preference to applicants of Hawaiian ancestry to the extent permitted by law. One application covers multiple funds.",
+      "url": "https://pauahi.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity"
+      ]
+    },
+    {
+      "id": 1598,
+      "name": "Hawaii Promise Scholarship",
+      "organization": "University of Hawaii Community Colleges",
+      "amount": 2500,
+      "amountLabel": "Up to remaining unmet tuition, fees, and books",
+      "deadline": "2027-03-01",
+      "description": "A last-dollar scholarship covering direct education costs not met by other aid for Hawaii residents attending a UH community college. Applied after other grants and scholarships. Requires FAFSA and enrollment in a degree program.",
+      "url": "https://uhcc.hawaii.edu/admissions/hawaii-promise.php",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1599,
+      "name": "Filipino Chamber of Commerce of Hawaii Foundation Scholarship",
+      "organization": "Filipino Chamber of Commerce of Hawaii Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (funded by annual golf tournament)",
+      "deadline": "2027-03-12",
+      "description": "Awards for graduating Filipino high school seniors in Hawaii accepted to a four-year college or university. Selection weighs academic record, community service, awards, and a short essay.",
+      "url": "https://filipinochamber.org/scholarship",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1600,
+      "name": "Mamoru and Aiko Takitani Foundation Scholarship",
+      "organization": "Mamoru and Aiko Takitani Foundation",
+      "amount": 3000,
+      "amountLabel": "$3,000 base, up to $10,000 for top winners",
+      "deadline": "2027-02-08",
+      "description": "Each qualifying Hawaii high school selects an outstanding graduating senior for a $3,000 award, with district and statewide finalists receiving additional amounts. Renewable up to three years of undergraduate study.",
+      "url": "https://takitanifoundation.org/for-students-2/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1601,
+      "name": "Hawaii Rotary Youth Foundation Scholarship",
+      "organization": "Hawaii Rotary Youth Foundation (Rotary District 5000)",
+      "amount": 5000,
+      "amountLabel": "$2,500 or $5,000; Sullivan awards $10,000",
+      "deadline": "2027-02-01",
+      "description": "Awards for graduating Hawaii high school seniors sponsored by a District 5000 Rotary Club who will enroll full-time at a four-year U.S. college. Selection weighs academics, community involvement, and a personal essay.",
+      "url": "https://www.hawaiirotaryyouthfoundation.org/sitepage/apply-now",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1602,
+      "name": "Grove Farm Foundation Scholarship (Grove Farm Scholars)",
+      "organization": "Grove Farm Foundation",
+      "amount": 20000,
+      "amountLabel": "$20,000 (three awards)",
+      "deadline": "2027-02-21",
+      "description": "Three merit-based $20,000 scholarships for graduating seniors from Kauai's public high schools (Kapaa, Kauai, Waimea) who show academic excellence, character, and community service and are attending a four-year college.",
+      "url": "https://www.grovefarm.com/grove-farm-scholarship-program",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "community",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1603,
+      "name": "Hawaii Tourism Hooilina Scholarship",
+      "organization": "Hawaii Tourism Authority / UH Manoa Shidler TIM School",
+      "amount": 12000,
+      "amountLabel": "$12,000 per year for four years",
+      "deadline": "2027-03-01",
+      "description": "A four-year scholarship for Hawaii public high school graduates who enroll at UH Manoa and major in Travel Industry Management. Requires a 3.0 GPA, Hawaiian culture coursework, community service, and an industry internship.",
+      "url": "https://shidler.hawaii.edu/tim/hooilina-scholarship",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "field_specific",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1604,
+      "name": "Hawaii State Federal Credit Union Scholarship Program",
+      "organization": "Hawaii State Federal Credit Union",
+      "amount": 5000,
+      "amountLabel": "Up to $5,000 (20 awards)",
+      "deadline": "2027-02-26",
+      "description": "Up to twenty awards of $5,000 for Hawaii State FCU members and their dependents attending an accredited college, university, or trade school. Requires demonstrated financial need and a 2.5 GPA. Administered by the Hawaii Community Foundation.",
+      "url": "https://hawaiistatefcu.com/learn/community-impact/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1605,
+      "name": "HawaiiUSA Federal Credit Union Student Scholarship",
+      "organization": "HawaiiUSA Federal Credit Union",
+      "amount": 2000,
+      "amountLabel": "$2,000 (eight awards)",
+      "deadline": "2027-02-09",
+      "description": "Eight $2,000 awards for HawaiiUSA FCU primary members who are graduating high school seniors or enrolled college students. Requires a minimum 3.0 GPA and account in good standing.",
+      "url": "https://www.hawaiiusafcu.com/about/giving-back/community-support/scholarships",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1606,
+      "name": "OHA Native Hawaiian Scholarship (NHSEMP)",
+      "organization": "Office of Hawaiian Affairs / UH Manoa Native Hawaiian Science and Engineering Mentorship Program",
+      "amount": 3000,
+      "amountLabel": "$2,000 to $4,000 by level",
+      "deadline": "2027-03-01",
+      "description": "Scholarship funding for Native Hawaiian students at any of the ten University of Hawaii campuses, administered through the NHSEMP program. Awards scale from community college to graduate level and require demonstrated financial need.",
+      "url": "https://www.oha.org/educational-pathways/scholarships/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1607,
+      "name": "Native Hawaiian Health Scholarship Program (NHHSP)",
+      "organization": "Papa Ola Lokahi / HRSA",
+      "amount": 2500,
+      "amountLabel": "Full tuition, fees, and monthly stipend",
+      "deadline": "2027-03-01",
+      "description": "A merit-based scholarship covering tuition, fees, and a living stipend for Native Hawaiian students in health professions. Recipients commit to serving full-time in medically underserved areas of Hawaii for two to four years.",
+      "url": "https://www.papaolalokahi.org/program/nhhsp",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "identity",
+        "field_specific",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1608,
+      "name": "Chaminade University Hooulu STEM Scholarship",
+      "organization": "Chaminade University of Honolulu / Kamehameha Schools",
+      "amount": 2500,
+      "amountLabel": "Full tuition plus housing allowance (four years)",
+      "deadline": "2027-03-01",
+      "description": "Full-tuition four-year scholarship for students pursuing a Bachelor of Science degree at Chaminade, with preference for applicants of Native Hawaiian ancestry. Covers STEM majors including biology, chemistry, data science, environmental science, forensic science, and nursing.",
+      "url": "https://chaminade.edu/chaminade-now-accepting-applications-for-hooulu-stem-scholarships/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem",
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "identity",
+        "stem",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1609,
+      "name": "Japanese Women's Society Foundation Kokoro Scholarship",
+      "organization": "Japanese Women's Society Foundation",
+      "amount": 2500,
+      "amountLabel": "$2,500 and $1,500 (two awards)",
+      "deadline": "2027-03-01",
+      "description": "Two annual scholarships for University of Hawaii at Manoa students in the American Studies department pursuing Japanese American cultural studies in Hawaii.",
+      "url": "https://jwsf.org/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field_specific",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1610,
+      "name": "Russell J. Hata Scholarship",
+      "organization": "Y. Hata & Co.",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Scholarship for Hawaii high school seniors, with focus on students pursuing business, culinary, or hospitality fields.",
+      "url": "https://yhatanews.com/russell-j-hata-scholarship-open-to-high-school-seniors/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business",
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field_specific",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1611,
+      "name": "HSCPA Scholarship Program",
+      "organization": "Hawaii Society of Certified Public Accountants",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-26",
+      "description": "Scholarships for accounting students at Hawaii colleges and universities pursuing a CPA pathway.",
+      "url": "https://www.hscpa.org/young-professionals/48-scholarship_programs",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field_specific",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1612,
+      "name": "HMSA Kaimana Scholarship",
+      "organization": "Hawaii Medical Service Association (HMSA)",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-26",
+      "description": "Scholarships recognizing Hawaii student-athletes who demonstrate academic achievement and community service.",
+      "url": "https://hmsa.com/kaimana",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": true
+      },
+      "category": "athletic",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "athletic",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1613,
+      "name": "Hawaii Lodging and Tourism Association Scholarship",
+      "organization": "Hawaii Lodging and Tourism Association",
+      "amount": 5000,
+      "amountLabel": "Approximately $5,000",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for Hawaii students (kamaaina) pursuing travel, hospitality, and tourism-related studies.",
+      "url": "https://www.hawaiilodging.org/scholarships.html",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field_specific",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1614,
+      "name": "UH Regents and Presidential Scholars Program",
+      "organization": "University of Hawaii System",
+      "amount": 2500,
+      "amountLabel": "Full tuition plus $4,000/yr stipend and travel funds",
+      "deadline": "2027-01-15",
+      "description": "The University of Hawaii's top merit award for high-achieving incoming students, covering full tuition with an annual stipend and a one-time travel or study-abroad allowance. Strong preference for Hawaii residents.",
+      "url": "https://www.hawaii.edu/offices/student-affairs/regents-and-presidential-scholars-program/",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1615,
+      "name": "UH Second Century Scholarship",
+      "organization": "University of Hawaii System",
+      "amount": 2500,
+      "amountLabel": "Varies (need-based)",
+      "deadline": "2027-03-01",
+      "description": "Need-based scholarship supporting Native Hawaiian students across University of Hawaii campuses. Amount varies with demonstrated financial need.",
+      "url": "https://www.hawaii.edu/tuition/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1616,
+      "name": "UH Manoa Academic Merit Scholarships",
+      "organization": "University of Hawaii at Manoa",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Merit-based scholarships for incoming first-year students at UH Manoa based on academic achievement. Applicants are typically Hawaii residents seeking a degree.",
+      "url": "https://manoa.hawaii.edu/admissions/financial-aid/",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1617,
+      "name": "Hawaii Community Federal Credit Union Scholarship",
+      "organization": "Hawaii Community Federal Credit Union",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-28",
+      "description": "Scholarships for members of Hawaii Community FCU, primarily serving West Hawaii and Kona-area residents pursuing higher education.",
+      "url": "https://www.hicommfcu.com/resources/community/scholarships",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1618,
+      "name": "Hawaii Water Service Scholarship",
+      "organization": "Hawaii Water Service",
+      "amount": 2500,
+      "amountLabel": "$2,500 to $10,000",
+      "deadline": "2027-03-31",
+      "description": "Scholarships for Hawaii undergraduate students in any major, awarded by Hawaii Water Service to support local students.",
+      "url": "https://www.hawaiiwaterservice.com/community/scholarship/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1619,
+      "name": "Kauai Board of REALTORS Scholarship",
+      "organization": "Kauai Board of REALTORS",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "Scholarships for Kauai students pursuing higher education, awarded annually by the Kauai Board of REALTORS.",
+      "url": "https://www.kauaiboard.com/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Hawaii"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "community",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1620,
+      "name": "Idaho Opportunity Scholarship",
+      "organization": "Idaho State Board of Education",
+      "amount": 3500,
+      "amountLabel": "Up to $3,500/year",
+      "deadline": "2027-03-01",
+      "description": "Need and merit based state award for Idaho residents graduating from an eligible Idaho high school, home school, or equivalent who pursue a certificate or first associate or bachelor degree at an eligible Idaho college. Requires a cumulative 2.7 GPA and a FAFSA on file. Renewable up to four years.",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship",
+      "eligibility": {
+        "gpa_min": 2.7,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1621,
+      "name": "Idaho Governor's Cup Scholarship (Academic)",
+      "organization": "Idaho State Board of Education",
+      "amount": 5000,
+      "amountLabel": "$5,000/year",
+      "deadline": "2027-03-01",
+      "description": "Merit award for Idaho high school or home school seniors planning to attend an Idaho college or university, based on academics, leadership, and community service. About 25 awards granted depending on funding, renewable up to four years.",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-governors-cup-or-academic",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1622,
+      "name": "Idaho Governor's Cup Scholarship (Career Technical)",
+      "organization": "Idaho State Board of Education",
+      "amount": 3000,
+      "amountLabel": "$3,000/year",
+      "deadline": "2027-04-01",
+      "description": "Career technical education award for Idaho seniors entering an eligible Idaho CTE program, based on leadership and service. Renewable up to three years.",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-governors-cup-or-cte",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1623,
+      "name": "Idaho Community Foundation Scholarships",
+      "organization": "Idaho Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies by fund",
+      "deadline": "2027-03-15",
+      "description": "Umbrella application to more than 65 regional scholarship funds (statewide, East Idaho, North Idaho, South Central, and Southwest), each with its own criteria. One online application opens January 1 and covers many funds for Idaho students.",
+      "url": "https://www.idahocf.org/students",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "local"
+      ]
+    },
+    {
+      "id": 1624,
+      "name": "Go Idaho! Scholarship",
+      "organization": "University of Idaho",
+      "amount": 7500,
+      "amountLabel": "$1,000 to $7,500/year by GPA tier",
+      "deadline": "2027-02-15",
+      "description": "Automatic merit scholarship for incoming first year Idaho residents admitted to the University of Idaho, ranging from $1,000 (3.0 GPA) up to $7,500 (3.9 to 4.0 GPA). No separate application; awarded with admission and renewable for four years with a 2.5 college GPA.",
+      "url": "https://www.uidaho.edu/financial-aid/scholarships/in-state-scholarship",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1625,
+      "name": "Boise State Resident Merit Scholarship",
+      "organization": "Boise State University",
+      "amount": 3000,
+      "amountLabel": "$2,000 to $3,000/year",
+      "deadline": "2027-02-15",
+      "description": "Automatic first year merit awards for admitted Idaho residents through the True Blue Promise, Dean's, and Presidential scholarships (3.20 GPA and up). No separate application; requires full-time enrollment and meeting the February 15 priority deadline.",
+      "url": "https://www.boisestate.edu/admissions/cost-aid/resident-scholarships/",
+      "eligibility": {
+        "gpa_min": 3.2,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "local"
+      ]
+    },
+    {
+      "id": 1626,
+      "name": "Idaho Latino Scholarship",
+      "organization": "Idaho Latino Scholarship Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-31",
+      "description": "Award for Idaho high school seniors and undergraduates of Hispanic and Latino descent who show leadership, financial need, and a 2.5 or higher GPA. DACA and undocumented students are eligible. 2027 application opens November 1, 2026.",
+      "url": "https://www.idaholsf.com/apply/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1627,
+      "name": "Micron Scholars Scholarship",
+      "organization": "Idaho Latino Scholarship Foundation / Micron",
+      "amount": 6000,
+      "amountLabel": "Up to $6,000/year",
+      "deadline": "2027-03-31",
+      "description": "Four year renewable STEM scholarship funded by Micron and administered through the Idaho Latino Scholarship Foundation, awarded to one student of Hispanic or Latino descent attending an Idaho institution in a STEM field. Up to $3,000 per semester.",
+      "url": "https://www.idaholsf.com/micron-scholars/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1628,
+      "name": "NAACP Treasure Valley Scholarship",
+      "organization": "NAACP Treasure Valley Chapter",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-01",
+      "description": "Scholarship for graduating seniors and undergraduate or graduate students from the Treasure Valley (Ada, Boise, Canyon, Elmore, Gem, Owyhee counties) with at least a 3.0 GPA, continuing at a two year, four year, or vocational institution.",
+      "url": "https://www.naacp-treasurevalley.org/scholarship-program/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local"
+      ]
+    },
+    {
+      "id": 1629,
+      "name": "Armed Forces and Public Safety Officer Dependent Scholarship",
+      "organization": "Idaho State Board of Education",
+      "amount": 2500,
+      "amountLabel": "Full tuition and fees plus $750/semester for books",
+      "deadline": "2027-03-01",
+      "description": "Benefit for Idaho resident children and spouses of military members or public safety officers killed or permanently disabled in the line of duty. Covers tuition, fees, on campus housing, subsistence, and book money at eligible Idaho public colleges.",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/armed-forces-and-pso-dependent-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1630,
+      "name": "Idaho Farm Bureau Scholarship",
+      "organization": "Idaho Farm Bureau Federation",
+      "amount": 1500,
+      "amountLabel": "$500 to $1,500",
+      "deadline": "2027-03-01",
+      "description": "Scholarship for members of the Idaho Farm Bureau and their immediate families attending college in any state, requiring a 2.0 or higher GPA and two recommendation letters. Applications go to the local county Farm Bureau office, which sets its own deadline.",
+      "url": "https://www.idahofb.org/programs/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1631,
+      "name": "Idaho Postsecondary Credit Scholarship",
+      "organization": "Idaho State Board of Education",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "State award for Idaho residents who earned ten or more postsecondary credits (dual credit, AP, or IB) before graduating high school, or graduated with an associate degree, and hold a matching merit scholarship from a business or industry, attending an eligible Idaho college.",
+      "url": "https://boardofed.idaho.gov/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "state"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1632,
+      "name": "Coeur d'Alene Tribe Higher Education Scholarship",
+      "organization": "Coeur d'Alene Tribe Department of Education",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Higher education funding for enrolled Coeur d'Alene Tribal members pursuing postsecondary education, combining grant and scholarship support to help cover college costs.",
+      "url": "https://www.cdatribe-nsn.gov/education/higher-education/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1633,
+      "name": "Boise State Native American Scholarship",
+      "organization": "Boise State University",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-15",
+      "description": "Scholarship for degree seeking Boise State students who are enrolled members of one of Idaho's five federally recognized tribes: Shoshone-Bannock, Nez Perce, Shoshone-Paiute, Kootenai, and Coeur d'Alene.",
+      "url": "https://www.boisestate.edu/sfs/boise-state-university-fees/native-american-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1634,
+      "name": "STEM-ID Scholarship",
+      "organization": "Idaho STEM Action Center",
+      "amount": 3000,
+      "amountLabel": "$3,000 (10 awards)",
+      "deadline": "2027-04-01",
+      "description": "Ten $3,000 scholarships for Idaho seniors who complete the Idaho STEM Diploma course requirements (8 math credits, 8 science credits, 5 STEM credits), attend an Idaho public postsecondary or career technical institution, and hold a 3.0 or higher GPA.",
+      "url": "https://stem.idaho.gov/stem-id/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1635,
+      "name": "Idaho LAUNCH Grant",
+      "organization": "Idaho Workforce Development Council",
+      "amount": 8000,
+      "amountLabel": "80% of cost, up to $8,000",
+      "deadline": "2027-04-15",
+      "description": "State grant covering 80 percent of cost up to $8,000 for Idaho graduating high school seniors entering an Idaho based workforce training or education program tied to an in-demand career, from truck driving and cosmetology to healthcare and engineering.",
+      "url": "https://nextsteps.idaho.gov/launch",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1636,
+      "name": "Truman D. Picard Scholarship",
+      "organization": "Intertribal Timber Council",
+      "amount": 2000,
+      "amountLabel": "$2,000 (high school seniors)",
+      "deadline": "2027-03-20",
+      "description": "National award supporting Native American and Alaska Native students pursuing natural resources, forestry, or wildland fire. High school seniors receive $2,000; requires proof of tribal enrollment or descent, transcripts, three references, and a completed FAFSA.",
+      "url": "https://www.itcnet.org/about_us/scholarships.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1637,
+      "name": "Idaho REALTORS Scholarship",
+      "organization": "Idaho REALTORS",
+      "amount": 2500,
+      "amountLabel": "$1,500 to $3,000",
+      "deadline": "2027-03-01",
+      "description": "Annual scholarships for students pursuing higher education at Idaho institutions who show academic achievement, leadership, and community service. Awards range from $1,500 to a top $3,000 Amanda Pannell Memorial Scholarship.",
+      "url": "https://idahorealtors.com/category/scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1638,
+      "name": "Blue Cross of Idaho Foundation Health Scholarship",
+      "organization": "Blue Cross of Idaho Foundation for Health / Lewis-Clark State College",
+      "amount": 4000,
+      "amountLabel": "$4,000/year (plus $1,000 bonus at 3.75 GPA)",
+      "deadline": "2027-03-01",
+      "description": "Scholarship for Idaho resident students at Lewis-Clark State with sophomore standing (26+ credits) majoring in nursing, radiographic science, kinesiology, social work, or medical assistant, with a 3.25 or higher GPA. Aims to grow the rural health workforce.",
+      "url": "https://www.bcidahofoundation.org/",
+      "eligibility": {
+        "gpa_min": 3.25,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1639,
+      "name": "Idaho FFA Foundation Scholarship",
+      "organization": "Idaho FFA Foundation",
+      "amount": 1000,
+      "amountLabel": "$1,000 to $2,000",
+      "deadline": "2026-12-06",
+      "description": "Single online application covering many donor funds for Idaho high school seniors planning to attend an Idaho or Eastern Oregon college or trade school. Dozens of awards from $1,000 to $2,000 across agriculture and other fields.",
+      "url": "https://www.growidahoffa.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "local"
+      ]
+    },
+    {
+      "id": 1640,
+      "name": "Lewis-Clark State College Idaho Merit Scholarship",
+      "organization": "Lewis-Clark State College",
+      "amount": 4000,
+      "amountLabel": "Up to $4,000/year",
+      "deadline": "2027-03-01",
+      "description": "Merit based institutional scholarships for incoming Idaho freshmen at Lewis-Clark State, renewable up to three consecutive years. Requires admission by the March 1 priority deadline and seventh semester transcripts on file.",
+      "url": "https://www.lcsc.edu/financial-aid/types-of-aid/scholarships-and-waivers/idaho-merit-based-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "local"
+      ]
+    },
+    {
+      "id": 1641,
+      "name": "Idaho State University Resident Scholarships",
+      "organization": "Idaho State University",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-15",
+      "description": "Institutional merit scholarships for new incoming Idaho resident students at Idaho State University, awarded through a single application in the Bengal Online Scholarship System with priority given to early applicants.",
+      "url": "https://www.isu.edu/scholarships/apply-for-scholarships/new-incoming-resident-students/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1642,
+      "name": "Idaho Opportunity Scholarship for Adult Learners",
+      "organization": "Idaho State Board of Education",
+      "amount": 3500,
+      "amountLabel": "Up to $3,500/year",
+      "deadline": "2027-03-01",
+      "description": "State need based award for Idaho adult learners returning to complete a certificate or first associate or bachelor degree at an eligible Idaho institution. Requires Idaho residency and a FAFSA on file.",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship-for-adult-learners",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1643,
+      "name": "Community Council of Idaho Scholarship",
+      "organization": "Community Council of Idaho",
+      "amount": 1000,
+      "amountLabel": "$1,000 (one time)",
+      "deadline": "2027-03-31",
+      "description": "One time $1,000 scholarships awarded to low income Idaho high school students or first time college bound Idahoans, with priority for students from migrant and seasonal farmworker backgrounds.",
+      "url": "https://communitycouncilofidaho.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1644,
+      "name": "Teton Valley Rotary Foundation Scholarship",
+      "organization": "Rotary Club of Teton Valley Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-15",
+      "description": "Scholarship for graduating Teton Valley, Idaho high school seniors continuing to a postsecondary institution, trade school, community college, university, or other education program.",
+      "url": "https://www.tetonvalleynews.net/community/teton-valley-rotary-foundation-opens-scholarship-applications-for-class-of-2026/article_1e3676a0-4dde-4e3a-853d-e7cc8cfe0d8f.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Idaho"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local"
+      ],
+      "deadline_approx": true
+    },
+    {
+      "id": 1645,
+      "name": "Maine State Grant Program",
+      "organization": "Finance Authority of Maine (FAME)",
+      "amount": 2500,
+      "amountLabel": "Up to $2,500",
+      "deadline": "2027-05-01",
+      "description": "Need-based grant for Maine resident undergraduates of any age. Students qualify automatically by filing the FAFSA. Half-time students may receive up to $1,250.",
+      "url": "https://www.famemaine.com/affording-education/pay-for-school/maine-grant-tuition-programs/maine-state-grant-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need-based",
+        "fafsa"
+      ]
+    },
+    {
+      "id": 1646,
+      "name": "Mitchell Institute Scholarship",
+      "organization": "Mitchell Institute",
+      "amount": 10000,
+      "amountLabel": "$10,000 ($2,500/year over 4 years)",
+      "deadline": "2027-03-01",
+      "description": "Awarded to at least one graduating senior from every public high school in Maine. Selection weighs academics, community impact, and financial need. Includes mentoring, career advising, and an alumni network.",
+      "url": "https://mitchellinstitute.org/scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need-based",
+        "community"
+      ]
+    },
+    {
+      "id": 1647,
+      "name": "Worthington Scholarship",
+      "organization": "Worthington Scholarship Foundation",
+      "amount": 20000,
+      "amountLabel": "Up to $20,000 (4-year) / $16,000 (2-year)",
+      "deadline": "2027-04-15",
+      "description": "For Maine residents graduating from participating high schools who enroll full-time at one of 24 partner Maine colleges. Requires demonstrated financial need and FAFSA. B- GPA for four-year awards, C- for community college.",
+      "url": "https://worthingtonscholars.org/scholarship-program/eligibility/",
+      "eligibility": {
+        "gpa_min": 2.7,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need-based",
+        "fafsa"
+      ]
+    },
+    {
+      "id": 1648,
+      "name": "Maine Legislative Memorial Scholarship Fund",
+      "organization": "Finance Authority of Maine (FAME)",
+      "amount": 1000,
+      "amountLabel": "Up to $1,000",
+      "deadline": "2027-06-01",
+      "description": "Recognizes one outstanding student per Maine county pursuing postsecondary education at an accredited Maine institution. Reviews academics, extracurriculars, financial need, and a 300-word essay.",
+      "url": "https://www.famemaine.com/fame_scholarship/maine-legislative-memorial-scholarship-fund/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "need-based",
+        "essay"
+      ]
+    },
+    {
+      "id": 1649,
+      "name": "Lamey-Wellehan Maine Difference Scholarship",
+      "organization": "Lamey-Wellehan",
+      "amount": 1000,
+      "amountLabel": "$1,000/year (renewable up to 4 years)",
+      "deadline": "2027-05-30",
+      "description": "For Maine high school seniors or recent Maine graduates attending a Maine college whose studies focus on the ecology and economics of Maine. Requires two short essays about the state's future.",
+      "url": "https://www.lwshoes.com/pages/scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "essay"
+      ]
+    },
+    {
+      "id": 1650,
+      "name": "Maine Island Higher Education Scholarship",
+      "organization": "Island Institute",
+      "amount": 5000,
+      "amountLabel": "$250 to $5,000/year",
+      "deadline": "2027-03-07",
+      "description": "For juniors and seniors who live year-round on one of Maine's unbridged islands and plan to pursue postsecondary education. Requires two recommendation letters and a personal statement.",
+      "url": "https://www.islandinstitute.org/solutions/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "island"
+      ]
+    },
+    {
+      "id": 1651,
+      "name": "Mainely Character Scholarship",
+      "organization": "Mainely Character",
+      "amount": 5000,
+      "amountLabel": "$2,500 to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Character-based scholarship open to Maine residents, awarded on a personal essay demonstrating integrity, courage, and responsibility. Multiple awards granted each year.",
+      "url": "https://mainelycharacter.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "essay",
+        "community"
+      ]
+    },
+    {
+      "id": 1652,
+      "name": "Agnes Freyer Gibbs Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For Maine graduating high school seniors or home-schooled students majoring in journalism, with a minimum 3.0 GPA and preference for female applicants.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "journalism"
+      ]
+    },
+    {
+      "id": 1653,
+      "name": "Chet Jordan Leadership Award",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For graduating seniors from Maine high schools attending the University of Maine System, Maine Community College System, Maine Maritime Academy, or a vocational/technical school.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "leadership"
+      ]
+    },
+    {
+      "id": 1654,
+      "name": "Douglas C. LaBrecque Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For former foster care youth in Maine pursuing education at Maine colleges, universities, trade schools, or postsecondary programs.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "foster-youth"
+      ]
+    },
+    {
+      "id": 1655,
+      "name": "Francis X. Langlois Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For students in healthcare fields; two tracks cover students anywhere attending Maine colleges, or Maine residents attending any college.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "healthcare"
+      ]
+    },
+    {
+      "id": 1656,
+      "name": "Guy P. Gannett Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For Maine high school graduates or home-schooled students majoring in journalism or media who show a demonstrated interest in a journalism career.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "journalism"
+      ]
+    },
+    {
+      "id": 1657,
+      "name": "K. William Wiseman Engineering Scholarship",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For Maine graduating high school seniors pursuing an engineering degree.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "engineering"
+      ]
+    },
+    {
+      "id": 1658,
+      "name": "Lydia R. Laurendeau Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For young women who are Maine residents pursuing science or engineering at a four-year university, with preference for a Franco-American connection.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "stem",
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "women",
+        "stem"
+      ]
+    },
+    {
+      "id": 1659,
+      "name": "Maine Vietnam Veterans Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For Maine Vietnam War veterans and their descendants pursuing postsecondary education.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "military"
+      ]
+    },
+    {
+      "id": 1660,
+      "name": "Patriot Education Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For Maine graduating high school seniors, or graduates within four years, pursuing a business degree at a Maine college (minimum 9 credits/semester). Preference for interest in insurance.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "business"
+      ]
+    },
+    {
+      "id": 1661,
+      "name": "Rice Scholarship Fund",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "For students who spent substantial formative years (K-8) on Maine offshore islands from Seguin to Eastport, attending accredited colleges or vocational schools, with demonstrated community service.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/available-statewide/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "island",
+        "community"
+      ]
+    },
+    {
+      "id": 1662,
+      "name": "Maine Blue Collar Scholarship",
+      "organization": "Maine Blue Collar Scholarship Foundation",
+      "amount": 2500,
+      "amountLabel": "$500 to $2,500 (38 awards)",
+      "deadline": "2027-05-01",
+      "description": "For Maine high school seniors pursuing training in the skilled trades such as welding, electrical, diesel mechanics, machining, HVAC, plumbing, or building construction. Recipients may also use the award as a toolship.",
+      "url": "https://mainebluecollar.com/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "trades"
+      ]
+    },
+    {
+      "id": 1663,
+      "name": "Maine State Society of Washington, D.C. Foundation Scholarship",
+      "organization": "Maine State Society of Washington, D.C. Foundation",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $2,500",
+      "deadline": "2027-03-15",
+      "description": "For Maine residents under age 25 already enrolled in a four-year nonprofit Maine college, having completed at least one year with a minimum 3.0 GPA. Requires a typed composition of up to 750 words.",
+      "url": "https://mainestatesociety.org/application",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "essay"
+      ]
+    },
+    {
+      "id": 1664,
+      "name": "Maine 4-H Foundation Scholarships",
+      "organization": "Maine 4-H Foundation (UMaine Cooperative Extension)",
+      "amount": 1000,
+      "amountLabel": "Around $1,000 (varies by fund)",
+      "deadline": "2027-03-02",
+      "description": "For Maine 4-H program participants ages 14-25 pursuing higher education. Requires a 4-H story and resume that must be the applicant's original work.",
+      "url": "https://extension.umaine.edu/4hfoundation/funding/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "4-h",
+        "community"
+      ]
+    },
+    {
+      "id": 1665,
+      "name": "Educators for Maine Program",
+      "organization": "Finance Authority of Maine (FAME)",
+      "amount": 2500,
+      "amountLabel": "Forgivable loan (varies)",
+      "deadline": "2027-05-01",
+      "description": "Competitive, merit-based forgivable loan for Maine students pursuing undergraduate or graduate education degrees who plan to teach or work in child care in Maine after graduation. Loan is forgiven through service in Maine.",
+      "url": "https://www.famemaine.com/affording-education/pay-for-school/borrowing-student-loans/student-loan-programs/educators-for-maine-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "education"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "education",
+        "forgivable-loan"
+      ]
+    },
+    {
+      "id": 1666,
+      "name": "Maine Community Foundation Adult Learner Scholarship",
+      "organization": "Maine Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (renewable)",
+      "deadline": "2027-06-15",
+      "description": "For Maine adults returning to school for a degree or credential at an accredited postsecondary institution. Long-term degree track has June 15 and November 15 deadlines; short-term certificate track is rolling.",
+      "url": "https://www.mainecf.org/find-a-scholarship/available-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Maine"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "adult-learner"
+      ]
+    },
+    {
+      "id": 1667,
+      "name": "MUS Honor Scholarship",
+      "organization": "Montana University System (Office of the Commissioner of Higher Education)",
+      "amount": 5000,
+      "amountLabel": "~$5,000/year tuition waiver (up to 4 years)",
+      "deadline": "2027-03-15",
+      "description": "Flagship merit tuition-waiver scholarship for Montana resident high school seniors attending an eligible Montana University System campus. Requires meeting the Board of Regents Rigorous Core requirements, an ACT or SAT score, and college acceptance. Average value about $20,000 over four years, retainable up to eight semesters.",
+      "url": "https://applymontana.mus.edu/paying-for-school/scholarships/mus-honor-scholarship.html",
+      "eligibility": {
+        "gpa_min": 3.4,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1668,
+      "name": "Montana STEM & Healthcare Scholarship",
+      "organization": "Montana University System",
+      "amount": 1000,
+      "amountLabel": "$1,000 yr1, $1,500 yrs2-3, $2,000 yr4",
+      "deadline": "2027-03-15",
+      "description": "Renewable award for Montana resident high school seniors who declare a qualifying STEM or healthcare major and enroll full time the fall after graduation. Requires four years of college-prep math and three years of college-prep science, plus a signed math and science certification form.",
+      "url": "https://www.mus.edu/Prepare/Pay/Scholarships/STEM_Scholarship.html",
+      "eligibility": {
+        "gpa_min": 3.25,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem",
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1669,
+      "name": "Gianforte Trade and Technology Scholarship",
+      "organization": "Montana University System",
+      "amount": 1500,
+      "amountLabel": "$1,500/yr full-time (up to $6,000)",
+      "deadline": "2027-02-15",
+      "description": "Need-based, renewable scholarship for Montana residents enrolled in eligible two-year trade and technology programs such as welding, diesel, aviation, IT, industrial, energy, and drafting. Requires filing the FAFSA. Fall and spring award cycles.",
+      "url": "https://applymontana.mus.edu/paying-for-school/scholarships/index.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1670,
+      "name": "2+2 Honor Scholarship",
+      "organization": "Montana University System",
+      "amount": 2500,
+      "amountLabel": "Tuition waiver up to 4 semesters",
+      "deadline": "2027-06-30",
+      "description": "Merit tuition waiver for students who complete an associate degree at a Montana University System two-year campus or Montana community college and transfer to a four-year MUS campus to finish a bachelor's degree.",
+      "url": "https://applymontana.mus.edu/paying-for-school/scholarships/index.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1671,
+      "name": "Montana Higher Education Grant (MHEG)",
+      "organization": "Montana University System / OCHE",
+      "amount": 2500,
+      "amountLabel": "Varies by need",
+      "deadline": "2027-03-01",
+      "description": "State-appropriated need-based grant restricted to Montana resident undergraduates with exceptional financial need as determined by the FAFSA. Does not have to be repaid; funding is limited so early FAFSA filing is encouraged.",
+      "url": "https://www.umt.edu/financial-aid/types-of-aid/grants/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need"
+      ]
+    },
+    {
+      "id": 1672,
+      "name": "MTAP-Baker Grant",
+      "organization": "Montana University System / OCHE",
+      "amount": 2500,
+      "amountLabel": "Varies by need",
+      "deadline": "2027-03-01",
+      "description": "Montana Tuition Assistance Program (Baker Grant), the largest state need-based grant. For Montana resident undergraduates who earned income from work in the prior year and have a low FAFSA-calculated expected family contribution. Does not have to be repaid.",
+      "url": "https://www.umt.edu/financial-aid/types-of-aid/grants/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need"
+      ]
+    },
+    {
+      "id": 1673,
+      "name": "Montana Community Foundation Scholarships",
+      "organization": "Montana Community Foundation",
+      "amount": 2500,
+      "amountLabel": "$500–$5,000",
+      "deadline": "2027-03-31",
+      "description": "Umbrella scholarship program covering over a hundred donor-established funds for Montana students at four-year, two-year, vocational, and certificate programs. A single online application with an eligibility quiz matches applicants to funds; some awards are renewable. Applications typically open January 1 and close March 31.",
+      "url": "https://mtcf.org/scholarships/about-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1674,
+      "name": "Reach Higher Montana Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 2000,
+      "amountLabel": "$2,000 (50 awards)",
+      "deadline": "2027-03-01",
+      "description": "Awards for Montana high school seniors who complete the FAFSA and will attend at least half time an accredited Montana postsecondary institution or program. Fifty awards each cycle through the 'It's Scholarship Time' single application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1675,
+      "name": "Carl Valvoda Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 2000,
+      "amountLabel": "$2,000",
+      "deadline": "2027-03-01",
+      "description": "Awarded through the Reach Higher Montana application to a Montana student who serves or has served in ROTC or the U.S. Armed Forces.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "military"
+      ]
+    },
+    {
+      "id": 1676,
+      "name": "Bridging the Gap Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2027-03-01",
+      "description": "For Montana students who will or have aged out of the foster care system, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1677,
+      "name": "Montana FFA Foundation Scholarships",
+      "organization": "Montana FFA Foundation (via Reach Higher Montana)",
+      "amount": 2000,
+      "amountLabel": "$100–$2,000 (34+ awards)",
+      "deadline": "2027-03-01",
+      "description": "A set of awards for Montana FFA members who are high school seniors or college students, administered through the Reach Higher Montana application. Minimum GPA and criteria vary by individual award.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1678,
+      "name": "Horse Creek Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 1500,
+      "amountLabel": "$1,500 (6 awards)",
+      "deadline": "2027-03-01",
+      "description": "For Montana high school seniors or college students pursuing business-related certificates or degrees, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1679,
+      "name": "Kelly Kuntz Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 2000,
+      "amountLabel": "$2,000",
+      "deadline": "2027-03-01",
+      "description": "For Montana college students in years two through four pursuing business-related degrees, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1680,
+      "name": "Odd Fellows and Rebekah's Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 1000,
+      "amountLabel": "$1,000 (3+ awards)",
+      "deadline": "2027-03-01",
+      "description": "For Montana high school seniors with a GPA of 3.0 or lower who plan to attend a college, university, or trade program, awarded through the Reach Higher Montana application. Aimed at solid students who may be overlooked by merit programs.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1681,
+      "name": "Rotary Club of Helena Scholarship",
+      "organization": "Rotary Club of Helena (via Reach Higher Montana)",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2027-03-01",
+      "description": "For graduating high school seniors from Helena-area high schools, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local"
+      ]
+    },
+    {
+      "id": 1682,
+      "name": "Angel Fund Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 2000,
+      "amountLabel": "$1,000–$3,000",
+      "deadline": "2027-03-01",
+      "description": "For graduating high school seniors from Helena-area high schools, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local"
+      ]
+    },
+    {
+      "id": 1683,
+      "name": "Kid's Chance of Montana Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "For Montana high school seniors who have had a parent or guardian permanently injured or killed while on the job in Montana, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1684,
+      "name": "Agri Industries Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "For Montana high school seniors or college students interested in irrigation, electrical trades, HVAC, water wells, utilities, plumbing, welding, or fabrication, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1685,
+      "name": "Gilman Family Scholarship",
+      "organization": "Reach Higher Montana",
+      "amount": 1250,
+      "amountLabel": "$1,250 (2 awards)",
+      "deadline": "2027-03-01",
+      "description": "For full-time Montana college students in year two or beyond pursuing trades, agriculture, or natural resources degrees who attended Sheridan or Twin Bridges High Schools, awarded through the Reach Higher Montana application.",
+      "url": "https://reachhighermontana.org/pay-for-school/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local"
+      ]
+    },
+    {
+      "id": 1686,
+      "name": "MSU Premier Scholarship",
+      "organization": "Montana State University",
+      "amount": 1000,
+      "amountLabel": "$1,000–$4,000/year by GPA",
+      "deadline": "2027-05-01",
+      "description": "Automatic renewable merit scholarship for Montana resident incoming freshmen, awarded on self-reported high school GPA at application: $1,000 (2.70-2.99), $2,000 (3.00-3.49), $3,000 (3.50-3.99), $4,000 (4.0+). Renews for four years with a 3.0 GPA and 15 credits per semester.",
+      "url": "https://www.montana.edu/admissions/scholarships/residents/index.html",
+      "eligibility": {
+        "gpa_min": 2.7,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1687,
+      "name": "UM Academic Achievement Scholarship (UMAAS)",
+      "organization": "University of Montana",
+      "amount": 1000,
+      "amountLabel": "$1,000–$4,000/year by GPA",
+      "deadline": "2027-05-01",
+      "description": "Automatic renewable merit scholarship for Montana resident incoming freshmen based on high school GPA: $4,000 (3.95+), $3,000 (3.5-3.94), $2,000 (3.0-3.49), $1,000 (2.7-2.99). Renews four years with a 2.5 cumulative GPA and 15+ credits per semester; awarded from the admission application.",
+      "url": "https://www.umt.edu/student-financial-services/financial-aid/scholarships/scholarships-new-students/umaas.php",
+      "eligibility": {
+        "gpa_min": 2.7,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1688,
+      "name": "Montana Stockgrowers Education Heritage Scholarship",
+      "organization": "Montana Stockgrowers Foundation",
+      "amount": 5000,
+      "amountLabel": "$2,500–$5,000",
+      "deadline": "2027-04-01",
+      "description": "For college students pursuing a four-year degree that strengthens Montana's ranching industry. One $5,000 and two $2,500 awards. Applicant, or a parent or guardian, must be a Montana Stockgrowers Association member and hold at least a 3.0 GPA.",
+      "url": "https://mtbeeffoundation.org/cattle-industry-programs/foundation-programs/heritage-scholarship-program/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1689,
+      "name": "Over Educated Cowboy Scholarship",
+      "organization": "Montana Stockgrowers Foundation",
+      "amount": 2000,
+      "amountLabel": "$2,000",
+      "deadline": "2027-04-01",
+      "description": "Named for Raymond Ansotegui, awarded to students seeking a profession in animal husbandry. Applicant, or a parent or guardian, must be a Montana Stockgrowers Association member with at least a 3.0 GPA.",
+      "url": "https://mtbeeffoundation.org/cattle-industry-programs/foundation-programs/heritage-scholarship-program/oec-scholarship/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1690,
+      "name": "Central Montana Foundation Scholarships",
+      "organization": "Central Montana Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (over $600,000 total)",
+      "deadline": "2027-04-01",
+      "description": "A universal application covering many scholarship funds for graduating seniors and post-secondary students in Central Montana. Graduating-senior deadline is mid-March; post-high-school applicants have an April 1 deadline. Some funds are tied to specific schools such as Fergus and Winnett High Schools.",
+      "url": "https://centralmontanafoundation.com/scholarships.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local"
+      ]
+    },
+    {
+      "id": 1691,
+      "name": "Earl Old Person Scholarship",
+      "organization": "University of Montana Native American Studies",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "For enrolled members of the Blackfeet Tribe who are recent high school graduates or transfer students, requiring a 3.0 GPA and a 5-10 page essay. Administered through UM's scholarship application.",
+      "url": "https://www.umt.edu/native-american-studies/scholarships/scholarship-descriptions.php",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity"
+      ]
+    },
+    {
+      "id": 1692,
+      "name": "George M. and Jane I. Dennison Scholarship",
+      "organization": "University of Montana Native American Studies",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "For enrolled members of the Confederated Salish and Kootenai Tribes attending the University of Montana, requiring a 3.0+ GPA, 16+ credits, extracurricular involvement, and a 5-10 page essay.",
+      "url": "https://www.umt.edu/native-american-studies/scholarships/scholarship-descriptions.php",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity"
+      ]
+    },
+    {
+      "id": 1693,
+      "name": "Dennis and Gretchen Eck Native American Scholarship",
+      "organization": "University of Montana Native American Studies",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "For enrolled Assiniboine tribe members or their children (and, as needed, other Montana tribal members) at the University of Montana. Requires a 3.0 GPA for upperclassmen (14+ credits) or 2.5 GPA for freshmen (12+ credits).",
+      "url": "https://www.umt.edu/native-american-studies/scholarships/scholarship-descriptions.php",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity"
+      ]
+    },
+    {
+      "id": 1694,
+      "name": "Carl McFarland Scholarship Endowment",
+      "organization": "University of Montana Native American Studies",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "For Montana resident Native American students at the University of Montana, administered through UM's scholarship application.",
+      "url": "https://www.umt.edu/native-american-studies/scholarships/scholarship-descriptions.php",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity"
+      ]
+    },
+    {
+      "id": 1695,
+      "name": "Fred and Kay Voget Scholarship Fund",
+      "organization": "University of Montana Native American Studies",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "For University of Montana Native American students, with preference to Crow or Hidatsa tribal members or members of other Montana tribes.",
+      "url": "https://www.umt.edu/native-american-studies/scholarships/scholarship-descriptions.php",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "Montana"
+        ],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "identity"
+      ]
+    },
+    {
+      "id": 1696,
+      "name": "New Hampshire Charitable Foundation Statewide Student Aid Program",
+      "organization": "New Hampshire Charitable Foundation",
+      "amount": 3500,
+      "amountLabel": "$100 to $3,500",
+      "deadline": "2027-04-15",
+      "description": "A single online application matches New Hampshire students to more than 500 donor scholarship funds for certificates, apprenticeships, two and four year degrees, and graduate school. Awards are based on financial need and other factors, with most decisions ranging from $100 to $3,500.",
+      "url": "https://www.nhcf.org/how-can-we-help-you/apply-for-a-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "need",
+        "single-application"
+      ]
+    },
+    {
+      "id": 1697,
+      "name": "Granite Guarantee",
+      "organization": "University of New Hampshire",
+      "amount": 2500,
+      "amountLabel": "Full tuition",
+      "deadline": "2027-05-01",
+      "description": "Covers the full cost of tuition for up to four years for Pell-eligible New Hampshire first-year and eligible transfer students at UNH Durham and Manchester through a combination of federal, state, and institutional aid. There is no GPA requirement; students must stay Pell-eligible and remain a New Hampshire resident.",
+      "url": "https://www.unh.edu/financialaid/granite-guarantee",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need",
+        "tuition-free",
+        "renewable"
+      ]
+    },
+    {
+      "id": 1698,
+      "name": "New Hampshire Higher Education Scholarship for Orphans of Veterans",
+      "organization": "New Hampshire Department of Education",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2027-06-30",
+      "description": "Provides $2,500 awards to New Hampshire residents ages 16 to 25 whose parent died on active duty or from a service-connected disability, and whose parent was a New Hampshire resident at time of death. Recipients may also receive free tuition at University System and Community College System institutions. Four grants are issued each year.",
+      "url": "https://www.education.nh.gov/who-we-are/division-of-educator-support-and-higher-education/higher-education/higher-education-scholarships-for-orphans-of-veterans",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "military",
+        "veteran-family"
+      ]
+    },
+    {
+      "id": 1699,
+      "name": "Granite Edvance Scholarship",
+      "organization": "Granite Edvance",
+      "amount": 3000,
+      "amountLabel": "Up to $3,000",
+      "deadline": "2027-05-06",
+      "description": "Open to New Hampshire legal residents attending at least half time at a Title IV eligible college during the fall term. Students apply in one of four categories: Leadership and Community Service, Academic Excellence, First Generation College Student, or Life Experience. Four-year awards run up to $3,000; two-year and trade awards up to $1,500.",
+      "url": "https://graniteedvance.org/cover-the-cost/search-for-scholarships/granite-edvance-scholarships/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "merit",
+        "first-gen-track"
+      ]
+    },
+    {
+      "id": 1700,
+      "name": "New Hampshire Society of Professional Engineers Scholarship",
+      "organization": "New Hampshire Society of Professional Engineers (NSPE-NH)",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2027-04-24",
+      "description": "A $1,000 award for New Hampshire residents who are current or incoming undergraduates in an ABET-EAC accredited engineering program in civil, structural, mechanical, or electrical engineering. Preference is given to students attending a New Hampshire college or university. Selection is based on financial need, academic achievement, and community involvement.",
+      "url": "https://accessscholarships.com/scholarship/new-hampshire-society-for-professional-engineers-scholarship-program/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "stem",
+        "engineering"
+      ]
+    },
+    {
+      "id": 1701,
+      "name": "New Hampshire Society of Certified Public Accountants Scholarship Fund",
+      "organization": "New Hampshire Society of Certified Public Accountants (NHSCPA)",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2026-11-30",
+      "description": "For U.S. citizens who are legal New Hampshire residents or studying at a New Hampshire college, majoring in accounting or business and entering junior or senior year, or pursuing a master's in accounting or business, or completing the extra 30 hours needed for New Hampshire CPA licensure. Applicants must have completed upper-level accounting coursework and be recommended by faculty.",
+      "url": "https://nhscpa.org/scholarship-introduction/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific",
+        "accounting"
+      ]
+    },
+    {
+      "id": 1702,
+      "name": "Yarnold Scholarship",
+      "organization": "NHTI, Concord's Community College",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Provides financial assistance to New Hampshire residents pursuing degrees in medicine, nursing, or social work. Administered through NHTI's scholarship and grant programs.",
+      "url": "https://www.nhti.edu/financial-aid/scholarship-grants/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific",
+        "healthcare"
+      ]
+    },
+    {
+      "id": 1703,
+      "name": "St. Mary's Bank Charitable Foundation Scholarship",
+      "organization": "St. Mary's Bank",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2027-03-31",
+      "description": "Awards scholarships to St. Mary's Bank student members and employees in New Hampshire pursuing college or vocational programs. The 2026-2027 program distributed $22,500 across fifteen recipients.",
+      "url": "https://www.stmarysbank.com/about-us/community/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit",
+        "credit-union",
+        "membership-required"
+      ]
+    },
+    {
+      "id": 1704,
+      "name": "Service Credit Union Impact Foundation Scholarship",
+      "organization": "Service Credit Union Impact Foundation",
+      "amount": 5000,
+      "amountLabel": "$2,500 to $5,000",
+      "deadline": "2027-04-30",
+      "description": "The Service Credit Union Impact Foundation awards scholarships of $2,500 and $5,000 to members, totaling $110,000 in 2026. Applications typically open February 1 and close April 30.",
+      "url": "https://servicecuimpactfoundation.org/apply-for-a-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit",
+        "credit-union",
+        "membership-required"
+      ]
+    },
+    {
+      "id": 1705,
+      "name": "Foundation for New Hampshire Community Colleges Scholarships",
+      "organization": "Foundation for New Hampshire Community Colleges",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-08-09",
+      "description": "One general application through AwardSpring matches enrolled New Hampshire community college students to more than 100 donor scholarships regardless of major, GPA, or enrollment status. The Foundation awarded over $1.2 million in the most recent academic year. Deadlines vary by campus.",
+      "url": "https://givenhcc.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "community-college",
+        "single-application"
+      ]
+    },
+    {
+      "id": 1706,
+      "name": "Structural Engineers of New Hampshire Scholarship",
+      "organization": "Structural Engineers of New Hampshire (SENH)",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-01",
+      "description": "Scholarship support for students pursuing structural or civil engineering studies connected to New Hampshire, offered by the Structural Engineers of New Hampshire professional association.",
+      "url": "https://senh.org/SENH_Scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "stem",
+        "engineering"
+      ]
+    },
+    {
+      "id": 1707,
+      "name": "NHEC Foundation Scholarship",
+      "organization": "New Hampshire Electric Co-op Foundation",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2027-05-21",
+      "description": "The NHEC Foundation awards six $1,500 scholarships each year to high school seniors and current undergraduates who live in an NHEC member household in New Hampshire and are pursuing a bachelor's, associate, or certificate program. One award is reserved for vocational or technical students.",
+      "url": "https://www.nhec.com/nhec-foundation-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "membership-required"
+      ]
+    },
+    {
+      "id": 1708,
+      "name": "NHEC Foundation Lineworker Scholarship",
+      "organization": "New Hampshire Electric Co-op Foundation",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2027-05-21",
+      "description": "A $2,500 scholarship awarded annually to NHEC members or children of members in New Hampshire who are pursuing a career as an electrical lineworker.",
+      "url": "https://www.nhec.com/nhec-foundation-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "field-specific",
+        "trade",
+        "membership-required"
+      ]
+    },
+    {
+      "id": 1709,
+      "name": "Fisher Cats Foundation Scholar-Athlete Scholarship",
+      "organization": "Fisher Cats Foundation",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2027-04-17",
+      "description": "Awards scholarships to New Hampshire high school seniors beginning postsecondary education in the fall. Recipients are chosen on academic achievement, athletic achievement, and active citizenship, and submit a short video about how high school athletics shaped their lives. Ten $2,500 awards were offered in 2026.",
+      "url": "https://www.milb.com/new-hampshire/community/scholar-athlete-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": true
+      },
+      "category": "athletic",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "state",
+        "athletic",
+        "video-required"
+      ]
+    },
+    {
+      "id": 1710,
+      "name": "NHADA Foundation Automotive Scholarship",
+      "organization": "New Hampshire Automobile Dealers Association Foundation",
+      "amount": 5000,
+      "amountLabel": "Up to $5,000",
+      "deadline": "2027-04-01",
+      "description": "The NHADA Foundation provides over $100,000 in scholarships annually to New Hampshire students enrolled in automotive, diesel, or auto/diesel technology programs, with tuition scholarships up to $5,000.",
+      "url": "https://foundation.nhada.com/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific",
+        "trade"
+      ]
+    },
+    {
+      "id": 1711,
+      "name": "New Hampshire American Legion Scholarships",
+      "organization": "American Legion, Department of New Hampshire",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2027-04-01",
+      "description": "The New Hampshire American Legion offers several $1,000 scholarships, including one for a graduating senior planning a career in education who has been a New Hampshire resident at least three years, one for students attending a four-year college with at least a 3.0 GPA, and the John A. High Child Welfare Scholarship for the child of a deceased veteran.",
+      "url": "https://legionnh.org/scholarships",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "civic",
+        "veteran-affiliated"
+      ]
+    },
+    {
+      "id": 1712,
+      "name": "PLAN NH Scholarship and Fellowship",
+      "organization": "PLAN NH (Planning and Land Use Association of New Hampshire)",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "PLAN NH offers scholarships and fellowships supporting New Hampshire students pursuing studies related to community planning, design, architecture, and the built environment.",
+      "url": "https://plannh.org/programs/scholarship-and-fellowship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific"
+      ]
+    },
+    {
+      "id": 1713,
+      "name": "Abbie Sargent Memorial Scholarship",
+      "organization": "New Hampshire Farm Bureau Federation",
+      "amount": 2000,
+      "amountLabel": "Up to $2,000",
+      "deadline": "2027-03-15",
+      "description": "Provides up to $2,000 to New Hampshire high school graduates with at least a 2.5 GPA who demonstrate financial need and are pursuing agriculture-related studies such as forestry, environmental science, or conservation.",
+      "url": "https://www.nhfarmbureau.org/scholarship-information/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific",
+        "agriculture"
+      ]
+    },
+    {
+      "id": 1714,
+      "name": "NHAB Student Broadcaster Scholarship",
+      "organization": "New Hampshire Association of Broadcasters",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2027-05-01",
+      "description": "Awards $2,500 to New Hampshire permanent residents enrolled or planning to enroll at an accredited two or four-year school and pursuing a career in over-the-air broadcasting, journalism, or a related field. Recipients are chosen on academics, financial need, community involvement, and an essay.",
+      "url": "https://www.nhab.org/nhab-student-broadcaster-scholarship-program",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific",
+        "media"
+      ]
+    },
+    {
+      "id": 1715,
+      "name": "Al Sprague Memorial Scholarship",
+      "organization": "New Hampshire Association of Broadcasters",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2027-05-01",
+      "description": "A $5,000 scholarship from the New Hampshire Association of Broadcasters honoring former NHAB President Al Sprague, awarded to a New Hampshire student pursuing a career in broadcasting or a related field.",
+      "url": "https://www.nhab.org/nhab-student-broadcaster-scholarship-program",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific",
+        "media"
+      ]
+    },
+    {
+      "id": 1716,
+      "name": "Molly B. Hawthorn-MacDougall Memorial Nursing Scholarship",
+      "organization": "NHTI, Concord's Community College",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Presented to an NHTI freshman nursing student, applied toward tuition, fees, and books for the student's senior year of the nursing program.",
+      "url": "https://www.nhti.edu/financial-aid/scholarship-grants/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "field-specific",
+        "nursing"
+      ]
+    },
+    {
+      "id": 1717,
+      "name": "Winnie MacLaughlin Scholarship",
+      "organization": "New Hampshire Bar Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-01",
+      "description": "Presented annually to a second-year law student at the University of New Hampshire Franklin Pierce School of Law who exemplifies academic excellence and has completed community service focused on advancing women in society.",
+      "url": "https://www.nhbarfoundation.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "grad_student"
+        ],
+        "states": [
+          "New Hampshire"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "law"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field-specific",
+        "law"
+      ]
+    },
+    {
+      "id": 1718,
+      "name": "West Virginia PROMISE Scholarship",
+      "organization": "West Virginia Higher Education Policy Commission",
+      "amount": 5500,
+      "amountLabel": "Up to $5,500 per year",
+      "deadline": "2027-03-01",
+      "description": "Merit based state scholarship for West Virginia residents attending an eligible in state college. Requires a 3.0 GPA in core and overall coursework plus a minimum ACT composite of 21 or SAT total of 1080. Student and guardian must have lived in West Virginia for 12 consecutive months. FAFSA required by the deadline.",
+      "url": "https://www.cfwv.com/financial-aid/promise-scholarship/how-it-works/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit"
+      ]
+    },
+    {
+      "id": 1719,
+      "name": "West Virginia Higher Education Grant",
+      "organization": "West Virginia Higher Education Policy Commission",
+      "amount": 3300,
+      "amountLabel": "Up to $3,300 per year",
+      "deadline": "2027-04-15",
+      "description": "Need based grant for West Virginia residents enrolled full time in an eligible degree program in West Virginia or Pennsylvania. Award is based on financial need shown on the FAFSA. Students must maintain satisfactory academic progress to renew.",
+      "url": "https://www.cfwv.com/financial-aid/wv-higher-education-grant/apply-now/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need"
+      ]
+    },
+    {
+      "id": 1720,
+      "name": "West Virginia Invests Grant",
+      "organization": "West Virginia Higher Education Policy Commission",
+      "amount": 2500,
+      "amountLabel": "Covers tuition and fees for associate programs",
+      "deadline": "2027-04-15",
+      "description": "Last dollar state program that covers tuition and fees for qualifying West Virginia residents pursuing an associate degree or certificate in a high demand field at a public community or technical college. Recipients complete community service and agree to stay and work in West Virginia after completion.",
+      "url": "https://www.cfwv.com/financial-aid/wv-invests-grant/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state"
+      ]
+    },
+    {
+      "id": 1721,
+      "name": "HEAPS Grant Program",
+      "organization": "West Virginia Higher Education Policy Commission",
+      "amount": 2500,
+      "amountLabel": "Varies (need based)",
+      "deadline": "2027-07-01",
+      "description": "Higher Education Adult Part Time Student grant for West Virginia residents with financial need who attend an eligible institution on a part time basis. Applications are accepted on a rolling basis each year beginning July 1 until funds are exhausted.",
+      "url": "https://www.cfwv.com/financial-aid/wv-heaps-grant/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1722,
+      "name": "Underwood-Smith Teaching Scholars Program",
+      "organization": "West Virginia Higher Education Policy Commission",
+      "amount": 10000,
+      "amountLabel": "Up to $10,000 per year (up to $40,000 total)",
+      "deadline": "2026-12-31",
+      "description": "Competitive scholarship for future teachers who are high school seniors or recent graduates with strong academics, community service, and extracurricular involvement. Scholars agree to teach for five years in a West Virginia public school in a critical need area such as math, science, elementary, or special education.",
+      "url": "https://www.cfwv.com/financial-aid/underwood-smith-teaching-scholars/",
+      "eligibility": {
+        "gpa_min": 3.25,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "education"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "field_specific"
+      ]
+    },
+    {
+      "id": 1723,
+      "name": "West Virginia Engineering, Science and Technology Scholarship",
+      "organization": "West Virginia Higher Education Policy Commission",
+      "amount": 3000,
+      "amountLabel": "Up to $3,000 per year",
+      "deadline": "2027-03-01",
+      "description": "State scholarship encouraging West Virginia students to pursue engineering, science, and technology fields. Requires a 3.0 GPA and enrollment in a qualifying STEM program. Recipients agree to work full time in a related field in West Virginia for one year per year of award. Application opens October 1.",
+      "url": "https://www.cfwv.com/financial-aid/wv-stem-scholarship/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "stem"
+      ]
+    },
+    {
+      "id": 1724,
+      "name": "Greater Kanawha Valley Foundation Scholarships",
+      "organization": "The Greater Kanawha Valley Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (100+ scholarship funds)",
+      "deadline": "2027-02-15",
+      "description": "Umbrella application covering more than 100 scholarship funds managed by the foundation for West Virginia students, with priority to the greater Kanawha Valley region. A single common application matches students to funds they qualify for. Criteria and amounts vary by fund.",
+      "url": "https://tgkvf.org/scholarship-information/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1725,
+      "name": "Bridge of Hope Scholarship",
+      "organization": "The Greater Kanawha Valley Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-15",
+      "description": "Scholarship supporting West Virginia individuals in recovery from a substance use disorder who want to pursue postsecondary or vocational education. Applications are typically open from March 1 through May 15 each year.",
+      "url": "https://tgkvf.org/special-initiatives/bridge-hope-scholarship/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1726,
+      "name": "Beckley Area Foundation Scholarships",
+      "organization": "Beckley Area Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (190 scholarship funds)",
+      "deadline": "2027-03-01",
+      "description": "Single universal application connecting students to roughly 190 scholarship funds. Most awards serve Raleigh County students, with additional funds for Fayette, Summers, Webster, and Wyoming county students. Criteria and amounts vary by fund.",
+      "url": "https://bafwv.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1727,
+      "name": "Parkersburg Area Community Foundation Scholarships",
+      "organization": "Parkersburg Area Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies (150+ scholarship funds)",
+      "deadline": "2027-02-28",
+      "description": "Universal scholarship application covering more than 150 funds for students in the foundation eleven county service area including Calhoun, Doddridge, Gilmer, Jackson, Mason, Pleasants, Ritchie, Roane, Wirt, and Wood counties in West Virginia. Open to high school seniors and current college students.",
+      "url": "https://pacfwv.com/initiatives/scholarships/apply-for-a-scholarship",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1728,
+      "name": "Eastern West Virginia Community Foundation Scholarships",
+      "organization": "Eastern West Virginia Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-27",
+      "description": "One application matching students to dozens of scholarship funds for residents of Berkeley, Hampshire, Hardy, Jefferson, and Morgan counties. A FAFSA Student Aid Report and lists of accomplishments and personal qualities are required. Amounts and criteria vary by fund.",
+      "url": "https://www.ewvcf.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "need",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1729,
+      "name": "Your Community Foundation Scholarships",
+      "organization": "Your Community Foundation of North Central West Virginia",
+      "amount": 2500,
+      "amountLabel": "$250 to $5,000 per year",
+      "deadline": "2027-03-02",
+      "description": "Scholarship program serving North Central West Virginia including Doddridge, Harrison, Marion, Monongalia, and Preston counties, with some statewide funds. Categories cover academics, athletics, nursing, education, engineering, and students facing specific challenges. Some awards renew for up to four years.",
+      "url": "https://ycfwv.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "local",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1730,
+      "name": "WVU University Merit Scholarship",
+      "organization": "West Virginia University",
+      "amount": 5000,
+      "amountLabel": "$5,000 per year (Morgantown residents)",
+      "deadline": "2027-08-01",
+      "description": "Automatic renewable merit scholarship for West Virginia resident first time freshmen at the Morgantown campus. No separate application is required beyond admission. Award is based mainly on high school GPA. Residents at WVU Beckley and Keyser receive comparable awards at their campus levels.",
+      "url": "https://hub.wvu.edu/types-of-aid/scholarships/institutional/university-merit",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1731,
+      "name": "WVU Foundation Scholarship",
+      "organization": "West Virginia University",
+      "amount": 2500,
+      "amountLabel": "Varies (competitive, high value)",
+      "deadline": "2027-02-01",
+      "description": "Competitive scholarship for high achieving West Virginia resident freshmen who graduate from a West Virginia high school. Students must be admitted as degree seeking first time freshmen by the January admission deadline, then complete a separate Foundation application due in early February.",
+      "url": "https://hub.wvu.edu/types-of-aid/scholarships/institutional/foundation",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1732,
+      "name": "John Marshall Scholarship",
+      "organization": "Marshall University",
+      "amount": 5500,
+      "amountLabel": "$5,500 per year",
+      "deadline": "2027-03-01",
+      "description": "Top automatic merit award for West Virginia resident first time freshmen at Marshall University. Requires a high school GPA of 3.9 or higher and an ACT of 30 or SAT of 1360. Renewable for four years with continued full time enrollment and required credit and GPA progress.",
+      "url": "https://www.marshall.edu/sfa/types-of-aid/scholarships-for-wv-applicants/",
+      "eligibility": {
+        "gpa_min": 3.9,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1733,
+      "name": "John Laidley Scholarship",
+      "organization": "Marshall University",
+      "amount": 4500,
+      "amountLabel": "$4,500 per year",
+      "deadline": "2027-03-01",
+      "description": "Automatic merit scholarship for West Virginia resident freshmen at Marshall University with a high school GPA of 3.7 or higher and an ACT of 28 or SAT of 1300. Renewable for four years with continued academic progress.",
+      "url": "https://www.marshall.edu/sfa/types-of-aid/scholarships-for-wv-applicants/",
+      "eligibility": {
+        "gpa_min": 3.7,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1734,
+      "name": "Board of Governors Scholarship",
+      "organization": "Marshall University",
+      "amount": 4000,
+      "amountLabel": "$4,000 per year",
+      "deadline": "2027-03-01",
+      "description": "Automatic merit scholarship for West Virginia resident freshmen at Marshall University with a high school GPA of 3.5 or higher and an ACT of 26 or SAT of 1230. Renewable for four years with continued academic progress.",
+      "url": "https://www.marshall.edu/sfa/types-of-aid/scholarships-for-wv-applicants/",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1735,
+      "name": "Presidential Scholarship",
+      "organization": "Marshall University",
+      "amount": 3000,
+      "amountLabel": "$3,000 per year",
+      "deadline": "2027-03-01",
+      "description": "Automatic merit scholarship for West Virginia resident freshmen at Marshall University with a high school GPA of 3.25 or higher and an ACT of 24 or SAT of 1160. Renewable for four years with continued academic progress.",
+      "url": "https://www.marshall.edu/sfa/types-of-aid/scholarships-for-wv-applicants/",
+      "eligibility": {
+        "gpa_min": 3.25,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1736,
+      "name": "A. Michael Perry Scholarship",
+      "organization": "Marshall University",
+      "amount": 2500,
+      "amountLabel": "$2,500 per year",
+      "deadline": "2027-03-01",
+      "description": "Automatic merit scholarship for West Virginia resident freshmen at Marshall University with a high school GPA of 3.0 or higher and an ACT of 22 or SAT of 1100. Renewable for four years with continued academic progress.",
+      "url": "https://www.marshall.edu/sfa/types-of-aid/scholarships-for-wv-applicants/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1737,
+      "name": "Society of Yeager Scholars",
+      "organization": "Marshall University",
+      "amount": 2500,
+      "amountLabel": "Full cost of attendance plus stipend and study abroad",
+      "deadline": "2026-12-01",
+      "description": "Highest academic scholarship at Marshall University, named for Chuck Yeager. Scholars receive tuition, standard fees, housing, food, a stipend, a book allowance, a computer, a summer study program at Oxford, and study abroad funds. Highly competitive with a strong academic record required.",
+      "url": "https://www.marshall.edu/yeager/",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "state",
+        "merit",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1738,
+      "name": "Marshall Achievement Tuition Waiver Grant",
+      "organization": "Marshall University",
+      "amount": 2500,
+      "amountLabel": "Tuition waiver (need based)",
+      "deadline": "2027-04-15",
+      "description": "Need based tuition waiver for incoming West Virginia resident students with a high school GPA of 3.0 or higher who live on campus and enroll full time. Students must file the FAFSA by April 15 before the enrolling academic year.",
+      "url": "https://www.marshall.edu/sfa/types-of-aid/scholarships-for-wv-applicants/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": true,
+      "renewable": true,
+      "tags": [
+        "state",
+        "need"
+      ]
+    },
+    {
+      "id": 1739,
+      "name": "GO-WV Scholarship Program",
+      "organization": "Gas and Oil Association of West Virginia",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-13",
+      "description": "Scholarship for West Virginia high school seniors who are dependents or employees of a member company and plan to attend a West Virginia college, community college, or vocational school. Applicants write a 300 to 500 word essay on challenges facing the oil and gas industry.",
+      "url": "https://gowv.com/education/scholarship",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field_specific",
+        "deadline-approx"
+      ]
+    },
+    {
+      "id": 1740,
+      "name": "Albert Yanni Scholarship",
+      "organization": "West Virginia Department of Education",
+      "amount": 2000,
+      "amountLabel": "$2,000 (one time)",
+      "deadline": "2027-04-01",
+      "description": "One time award for West Virginia high school seniors in a career and technical education program pursuing a professional certification or technology related field. Requires a 3.0 GPA, at least 85 percent attendance, a video about what CTE has taught them, and recommendation forms.",
+      "url": "https://wvde.us/articles/cte-students-earn-scholarships-support-career-training-goals",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "West Virginia"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "state",
+        "field_specific",
         "deadline-approx"
       ]
     }
