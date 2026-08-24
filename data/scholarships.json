@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "updatedAt": "2026-08-20",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
@@ -70311,6 +70311,3846 @@
       "tags": [
         "state",
         "field_specific"
+      ]
+    },
+    {
+      "id": 1907,
+      "name": "Bert and Carolyn Post Scholarship",
+      "organization": "Community Foundation Santa Cruz County",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2027-01-28",
+      "description": "Award for a graduating senior from Watsonville High School with a 3.0 or higher GPA who plans to become a teacher and demonstrates financial need.",
+      "url": "https://www.cfscc.org/scholarships",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "need",
+        "field_specific"
+      ]
+    },
+    {
+      "id": 1908,
+      "name": "Isabel Fowler Sewell Scholarship",
+      "organization": "Community Foundation Santa Cruz County",
+      "amount": 5000,
+      "amountLabel": "$5,000 one-time",
+      "deadline": "2027-01-28",
+      "description": "One-time award for a graduating senior from a Pajaro Valley or Santa Cruz County high school with a 3.0 or higher GPA and demonstrated financial need.",
+      "url": "https://www.cfscc.org/scholarships",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "need"
+      ]
+    },
+    {
+      "id": 1909,
+      "name": "Hank Garcia Jr. and Family Scholarship",
+      "organization": "Community Foundation Santa Cruz County",
+      "amount": 2000,
+      "amountLabel": "$2,000 renewable",
+      "deadline": "2027-01-28",
+      "description": "Renewable award for a graduating senior from one of five specified Santa Cruz County high schools with a 3.5 or higher GPA and financial need.",
+      "url": "https://www.cfscc.org/scholarships",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "local",
+        "need",
+        "merit"
+      ]
+    },
+    {
+      "id": 1910,
+      "name": "Emmett and Elsie Geiser Scholarship",
+      "organization": "Community Foundation Santa Cruz County",
+      "amount": 3000,
+      "amountLabel": "Up to $3,000 renewable",
+      "deadline": "2027-01-28",
+      "description": "Renewable award for a graduating senior who earned an athletic letter at Watsonville, Pajaro Valley, or Aptos High School.",
+      "url": "https://www.cfscc.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": true
+      },
+      "category": "athletic",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "local",
+        "athletic"
+      ]
+    },
+    {
+      "id": 1911,
+      "name": "Live Like Leo Scholarship",
+      "organization": "Community Foundation Santa Cruz County",
+      "amount": 2500,
+      "amountLabel": "$2,500",
+      "deadline": "2027-01-28",
+      "description": "Award for a Santa Cruz County student with a 3.0 or higher GPA who intends to study abroad.",
+      "url": "https://www.cfscc.org/scholarships",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1912,
+      "name": "Rotary Club of Santa Cruz Academic Scholarship",
+      "organization": "Rotary Club of Santa Cruz",
+      "amount": 5000,
+      "amountLabel": "$500 to $5,000",
+      "deadline": "2027-03-13",
+      "description": "Award for graduating seniors residing in Santa Cruz County from Santa Cruz, Harbor, Pacific Collegiate, Kirby, Delta, or Costanoa high schools, based on academics and financial need.",
+      "url": "https://www.santacruzrotary.com/academic-scholarship-program.html",
+      "eligibility": {
+        "gpa_min": 3.3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit",
+        "need"
+      ]
+    },
+    {
+      "id": 1913,
+      "name": "Jim and Mary Jo Streng Scholarship",
+      "organization": "Rotary Club of Sacramento",
+      "amount": 5000,
+      "amountLabel": "$5,000 (2 awards)",
+      "deadline": "2027-04-01",
+      "description": "Award for graduating high school seniors from Bella Vista High School who are not children of Rotarians.",
+      "url": "https://rotarysacramento.com/our-foundations/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1914,
+      "name": "Harold and Lilla Strauch Scholarship",
+      "organization": "Rotary Club of Sacramento",
+      "amount": 2500,
+      "amountLabel": "$2,500 (2 awards)",
+      "deadline": "2027-04-01",
+      "description": "Award for graduating seniors from Rio Americano High School in the academic upper third of their class who are not children of Rotarians.",
+      "url": "https://rotarysacramento.com/our-foundations/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1915,
+      "name": "Oleta Lambert Scholarship",
+      "organization": "Rotary Club of Sacramento",
+      "amount": 1100,
+      "amountLabel": "$1,100",
+      "deadline": "2027-04-01",
+      "description": "Award for a graduating senior from any Sacramento County high school pursuing a four-year university or community college program.",
+      "url": "https://rotarysacramento.com/our-foundations/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "California"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1916,
+      "name": "Bear Bison Scholarship Fund",
+      "organization": "Communities Foundation of Texas",
+      "amount": 2500,
+      "amountLabel": "Up to full tuition, books, fees, and housing",
+      "deadline": "2027-04-01",
+      "description": "Award for a graduating senior from South Oak Cliff High School or Sunset High School in Dallas, covering up to full tuition, books, fees, and on-campus housing.",
+      "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1917,
+      "name": "C.V.M. Scholarship Fund",
+      "organization": "Communities Foundation of Texas",
+      "amount": 15000,
+      "amountLabel": "Up to $15,000",
+      "deadline": "2027-03-01",
+      "description": "Award of up to $15,000 for a graduate of a school in the Mildred Independent School District, with minimum SAT 1060 or ACT 19.",
+      "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1918,
+      "name": "CREW Community Scholarship",
+      "organization": "Communities Foundation of Texas",
+      "amount": 5000,
+      "amountLabel": "Up to $5,000",
+      "deadline": "2027-03-01",
+      "description": "Award for female students in North Texas counties with a 2.0 or higher GPA.",
+      "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "identity"
+      ]
+    },
+    {
+      "id": 1919,
+      "name": "Simon Greenstone Scholarship",
+      "organization": "Communities Foundation of Texas",
+      "amount": 2500,
+      "amountLabel": "Varies ($50,000 total pool)",
+      "deadline": "2027-04-01",
+      "description": "Award for Dallas County students with a 3.0 or higher GPA who have been impacted by cancer.",
+      "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "community"
+      ]
+    },
+    {
+      "id": 1920,
+      "name": "Rosa Guerrero Scholarship",
+      "organization": "El Paso Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "Award for a graduating senior from El Paso High School in El Paso, Texas.",
+      "url": "https://epcf.org/grants-and-scholarships/apply-for-a-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1921,
+      "name": "Makios Technology Fund",
+      "organization": "El Paso Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Tuition and related expenses",
+      "deadline": "2027-05-01",
+      "description": "Award covering tuition and educational expenses for El Paso County students pursuing careers in information technology.",
+      "url": "https://epcf.org/grants-and-scholarships/apply-for-a-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "stem"
+      ]
+    },
+    {
+      "id": 1922,
+      "name": "Bears Beyond the Border Scholarship Fund",
+      "organization": "El Paso Community Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-05-01",
+      "description": "Award for a graduating senior from Bowie High School in El Paso, Texas.",
+      "url": "https://epcf.org/grants-and-scholarships/apply-for-a-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Texas"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1923,
+      "name": "GFWC Woman's Club of Inverness Scholarship",
+      "organization": "GFWC Woman's Club of Inverness",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-12-15",
+      "description": "Award for a female student from Citrus, Crystal River, or Lecanto High School, or a Withlacoochee Technical College student, in Citrus County, Florida.",
+      "url": "https://www.citruscollegecoalition.org/local-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "identity"
+      ]
+    },
+    {
+      "id": 1924,
+      "name": "Education Foundation of Sarasota County Scholarship",
+      "organization": "Education Foundation of Sarasota County",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2026-12-01",
+      "description": "Award for recent Sarasota County public school graduates under age 24 enrolled in a 2- or 4-year college or vocational school with financial need.",
+      "url": "https://edfoundationsrq.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "need",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "need"
+      ]
+    },
+    {
+      "id": 1925,
+      "name": "Lion Dennis Dulniak Book Scholarship",
+      "organization": "Oviedo-Winter Springs Lions Club",
+      "amount": 1000,
+      "amountLabel": "$1,000",
+      "deadline": "2027-02-15",
+      "description": "Award for one graduating senior each from Paul J. Hagerty, Oviedo, and Winter Springs High Schools in Seminole County, Florida.",
+      "url": "https://www.owslions.org/home/scholarship-information",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1926,
+      "name": "Youth Exchange Scholarship Trust Fund",
+      "organization": "Lions Clubs District 35-O (Oviedo-Winter Springs)",
+      "amount": 1500,
+      "amountLabel": "$1,500",
+      "deadline": "2027-02-05",
+      "description": "Multiple awards for graduating seniors from high schools in Florida's Lions District 35-O, covering Orange, Seminole, Brevard, Citrus, and surrounding counties.",
+      "url": "https://www.owslions.org/home/scholarship-information",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1927,
+      "name": "Ortega Foundation Scholarship",
+      "organization": "The Miami Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-29",
+      "description": "Award for Miami-Dade County high school seniors with a 3.5 or higher GPA.",
+      "url": "https://miamifoundation.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1928,
+      "name": "Alan R. Epstein 'Reach For The Stars' Scholarship",
+      "organization": "The Miami Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-04-05",
+      "description": "Award for Miami-Dade County high school seniors who demonstrate resilience.",
+      "url": "https://miamifoundation.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "community"
+      ]
+    },
+    {
+      "id": 1929,
+      "name": "Brevard Schools Foundation Senior Scholarships",
+      "organization": "Brevard Schools Foundation",
+      "amount": 2500,
+      "amountLabel": "$250 to $5,000",
+      "deadline": "2027-03-16",
+      "description": "Portfolio of scholarships for graduating seniors from Brevard Public Schools in Brevard County, Florida, applied for through one common application.",
+      "url": "https://brevardschoolsfoundation.org/programs/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1930,
+      "name": "Pinellas Education Foundation Senior Scholarship",
+      "organization": "Pinellas Education Foundation",
+      "amount": 2500,
+      "amountLabel": "$500 to $20,000",
+      "deadline": "2027-01-31",
+      "description": "Portfolio of scholarships for graduating Pinellas County, Florida seniors, applied for through one senior scholarship application.",
+      "url": "https://pinellaseducation.org/students/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1931,
+      "name": "Community Foundation for Palm Beach and Martin Counties Scholarships",
+      "organization": "Community Foundation for Palm Beach and Martin Counties",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-02-01",
+      "description": "Portfolio of over 100 scholarships for graduating seniors and GED holders in Palm Beach and Martin Counties, Florida, across fields including nursing, technology, and healthcare.",
+      "url": "https://yourcommunityfoundation.org/scholarship-seekers/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [
+          "Florida"
+        ],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "merit",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "local",
+        "merit"
+      ]
+    },
+    {
+      "id": 1932,
+      "name": "Elks National Foundation Most Valuable Student Scholarship",
+      "organization": "Elks National Foundation (BPOE)",
+      "amount": 30000,
+      "amountLabel": "$4,000 to $30,000",
+      "deadline": "2026-11-12",
+      "description": "National competition for graduating high school seniors judged on scholarship, leadership, and financial need. 500 four year awards, with the top 20 scholars receiving $30,000 and the remaining 480 receiving $4,000. Applicants must be US citizens planning full time enrollment at an accredited US college.",
+      "url": "https://www.elks.org/scholars/scholarships/mvs.cfm",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "community",
+        "leadership",
+        "service-org",
+        "national"
+      ]
+    },
+    {
+      "id": 1933,
+      "name": "Elks National Foundation Legacy Awards",
+      "organization": "Elks National Foundation (BPOE)",
+      "amount": 4000,
+      "amountLabel": "$4,000 ($1,000 per year for 4 years)",
+      "deadline": "2027-02-02",
+      "description": "Scholarship for children and grandchildren of Elks members who are graduating high school seniors seeking a bachelor's degree. Applicant's Elk parent or grandparent must be a paid up member in good standing. Judged on the Elks core values of knowledge, charity, community, and integrity.",
+      "url": "https://www.elks.org/scholars/scholarships/legacy.cfm",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "community",
+        "service-org",
+        "membership",
+        "national"
+      ]
+    },
+    {
+      "id": 1934,
+      "name": "American Legion National High School Oratorical Contest",
+      "organization": "The American Legion",
+      "amount": 25000,
+      "amountLabel": "$2,000 to $25,000",
+      "deadline": "2026-12-01",
+      "description": "Public speaking scholarship contest on the US Constitution and the duties of citizens. Students advance from local to state to national rounds. The three national winners receive $25,000, $22,500, and $20,000, and every state winner in the first national round receives at least $2,000.",
+      "url": "https://www.legion.org/get-involved/youth-programs/oratorical-contest/about-the-oratorical-contest",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "civic",
+        "essay-contest",
+        "veterans-org",
+        "national"
+      ]
+    },
+    {
+      "id": 1935,
+      "name": "Samsung American Legion Scholarship",
+      "organization": "The American Legion / Samsung",
+      "amount": 10000,
+      "amountLabel": "$5,000 or $10,000",
+      "deadline": "2027-06-15",
+      "description": "For participants in American Legion Boys State or Auxiliary Girls State who are direct descendants of a wartime US military veteran. Ten national scholars receive $10,000 each and ten runners up receive $5,000 each, judged on academic record and community service.",
+      "url": "https://www.legion.org/get-involved/scholarships/samsung-american-legion-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "military-family",
+        "veterans-org",
+        "national"
+      ]
+    },
+    {
+      "id": 1936,
+      "name": "National FFA Scholarship Program",
+      "organization": "National FFA Organization",
+      "amount": 2500,
+      "amountLabel": "Varies (nearly $2.5M total awarded)",
+      "deadline": "2027-01-15",
+      "description": "Single online application matching FFA members to hundreds of scholarships funded by corporate partners, based on field of study, financial need, and location. Open to active FFA members who are high school seniors or current undergraduates pursuing agriculture and related fields.",
+      "url": "https://www.ffa.org/participate/grants-and-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "field-specific",
+        "agriculture",
+        "service-org",
+        "membership",
+        "national"
+      ]
+    },
+    {
+      "id": 1937,
+      "name": "Union Plus Scholarship",
+      "organization": "Union Plus (AFL-CIO)",
+      "amount": 4000,
+      "amountLabel": "$1,000 to $4,000",
+      "deadline": "2027-01-31",
+      "description": "For union members, their spouses, and dependent children of unions participating in any Union Plus program, attending an accredited college, community college, or technical or trade school. Awards range from $1,000 to $4,000. No purchase required to apply.",
+      "url": "https://www.unionplus.org/benefits/education/union-plus-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "union",
+        "labor",
+        "national"
+      ]
+    },
+    {
+      "id": 1938,
+      "name": "Knights of Columbus Pro Deo and Pro Patria Scholarship",
+      "organization": "Knights of Columbus",
+      "amount": 1500,
+      "amountLabel": "$1,500 per year",
+      "deadline": "2027-03-01",
+      "description": "For students entering their freshman year at a Catholic college or university in the US who are a member in good standing of the Knights of Columbus, a son or daughter of a member, or a Columbian Squire. Provides $1,500 per year.",
+      "url": "https://www.kofc.org/resources/scholarships/us-undergraduate-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "religious",
+        "catholic",
+        "membership",
+        "service-org",
+        "national"
+      ]
+    },
+    {
+      "id": 1939,
+      "name": "Atlas Shrugged Essay Contest",
+      "organization": "Ayn Rand Institute",
+      "amount": 10000,
+      "amountLabel": "$10,000 top prize (over $30,000 total)",
+      "deadline": "2027-04-30",
+      "description": "Essay contest on Ayn Rand's novel Atlas Shrugged, open to high school, college, and graduate students. Essays are 800 to 1,600 words. The contest awards over $30,000 in prizes each year, including a $10,000 first prize.",
+      "url": "https://aynrand.org/students/essay-contests/atlas-shrugged",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "essay-contest",
+        "writing",
+        "national"
+      ]
+    },
+    {
+      "id": 1940,
+      "name": "United Methodist General Scholarship",
+      "organization": "United Methodist Church (GBHEM)",
+      "amount": 1000,
+      "amountLabel": "$500 to $1,000",
+      "deadline": "2027-03-01",
+      "description": "Provides financial assistance to undergraduate students who have been active full members of a United Methodist congregation for at least one year, with a GPA of 2.5 or higher and demonstrated financial need. One application screens for over 70 UMC scholarship programs.",
+      "url": "https://www.gbhem.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "religious",
+        "methodist",
+        "membership",
+        "national"
+      ]
+    },
+    {
+      "id": 1941,
+      "name": "Chick-fil-A Remarkable Futures Scholarship (Team Members)",
+      "organization": "Chick-fil-A Foundation",
+      "amount": 2500,
+      "amountLabel": "$1,000, $2,500, or $25,000",
+      "deadline": "2026-10-28",
+      "description": "Scholarships for Chick-fil-A restaurant team members across the US, Canada, and Puerto Rico, usable at any accredited college, university, or vocational school for full or part time study. Awards of $1,000 or $2,500, plus $25,000 True Inspiration Scholarships.",
+      "url": "https://www.chick-fil-a.com/remarkable-futures-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "employer",
+        "workplace",
+        "national"
+      ]
+    },
+    {
+      "id": 1942,
+      "name": "Arthur M. and Berdena King Eagle Scout Scholarship",
+      "organization": "National Society Sons of the American Revolution",
+      "amount": 10000,
+      "amountLabel": "$2,000 to $10,000",
+      "deadline": "2026-12-31",
+      "description": "For Eagle Scouts currently registered in an active unit who have not reached their 19th birthday during the application year. National awards are $10,000 for first place, $6,000 for runner up, and $4,000 for second runner up.",
+      "url": "https://www.sar.org/committees/eagle-scout-committee-arthur-king/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "scouting",
+        "service-org",
+        "national"
+      ]
+    },
+    {
+      "id": 1943,
+      "name": "Distinguished Young Women National Scholarship",
+      "organization": "America's Distinguished Young Women",
+      "amount": 2500,
+      "amountLabel": "Varies (over $2.1M awarded nationally)",
+      "deadline": "2027-01-15",
+      "description": "The oldest and largest scholarship program for high school girls, awarding cash scholarships at local, state, and national levels. Participants are judged on interview, scholastics, talent, fitness, and self expression. Free to enter.",
+      "url": "https://www.distinguishedyw.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "women",
+        "service-org",
+        "national"
+      ]
+    },
+    {
+      "id": 1944,
+      "name": "National Beta Club Scholarship",
+      "organization": "National Beta Club",
+      "amount": 20000,
+      "amountLabel": "$1,000 to $20,000",
+      "deadline": "2027-01-15",
+      "description": "For active 12th grade Senior Beta members, awarding over $300,000 to more than 250 students each year. All named applicants receive at least $1,000, with top applicants competing for awards up to $20,000. Application opens in early November.",
+      "url": "https://www.betaclub.org/scholarship-2/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "service-org",
+        "membership",
+        "national"
+      ]
+    },
+    {
+      "id": 1945,
+      "name": "National Presbyterian Undergraduate Scholarship",
+      "organization": "Presbyterian Church (U.S.A.)",
+      "amount": 4000,
+      "amountLabel": "$4,000 (up to $6,000 with supplements)",
+      "deadline": "2027-03-01",
+      "description": "For PC(USA) church members seeking a first associate or bachelor's degree, attending an accredited US college full time and demonstrating financial need. The basic award is $4,000, with additional aid for students of color, first generation, and highest need students.",
+      "url": "https://pcusa.org/about-pcusa/agencies-entities/life-witness/ministry-areas/financial-aid-service/undergraduate-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "religious",
+        "presbyterian",
+        "need",
+        "national"
+      ]
+    },
+    {
+      "id": 1946,
+      "name": "Modern Woodmen of America High School Senior Scholarship",
+      "organization": "Modern Woodmen of America",
+      "amount": 10000,
+      "amountLabel": "$1,000 to $10,000",
+      "deadline": "2027-02-01",
+      "description": "Member exclusive competition awarding $450,000 each year to graduating high school seniors. Track 1 requires a 3.5 GPA and awards $2,500 to $10,000; Track 2 requires a 2.5 GPA and awards $1,000. Applicants must be members for at least one year with 40 hours of volunteer experience.",
+      "url": "https://www.modernwoodmen.org/my-membership/member-benefits/scholarships-high-school-seniors/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "fraternal",
+        "membership",
+        "national"
+      ]
+    },
+    {
+      "id": 1947,
+      "name": "Burger King Scholars Program",
+      "organization": "Burger King Foundation",
+      "amount": 60000,
+      "amountLabel": "$1,000 to $60,000",
+      "deadline": "2026-12-15",
+      "description": "Scholarships for high school seniors, plus Burger King employees and their families, with a cumulative GPA of 2.0 or higher and demonstrated community involvement. Awards range from $1,000 to $60,000, including three $60,000 McLamore Whopper Scholarships.",
+      "url": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "employer",
+        "corporate",
+        "national"
+      ]
+    },
+    {
+      "id": 1948,
+      "name": "Boys & Girls Clubs Youth of the Year Scholarship",
+      "organization": "Boys & Girls Clubs of America",
+      "amount": 50000,
+      "amountLabel": "$50,000 (national)",
+      "deadline": "2027-01-31",
+      "description": "Premier recognition program for Boys & Girls Club members demonstrating leadership, service, academic excellence, and healthy lifestyles. Members advance from local to state to regional to national levels, where the National Youth of the Year receives a $50,000 scholarship.",
+      "url": "https://www.bgca.org/programs/youth-of-the-year/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "community",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "community",
+        "service-org",
+        "leadership",
+        "national"
+      ]
+    },
+    {
+      "id": 1949,
+      "name": "Sons of Italy Foundation National Leadership Grants",
+      "organization": "Sons of Italy Foundation (OSDIA)",
+      "amount": 20000,
+      "amountLabel": "$5,000 to $20,000",
+      "deadline": "2027-02-28",
+      "description": "Merit based scholarships for students of Italian descent enrolled in a four year undergraduate, graduate, or professional program at an accredited institution. The foundation awards 10 to 18 grants annually ranging from $5,000 to $20,000, based on academic excellence and leadership.",
+      "url": "https://sif.osdia.org/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "heritage",
+        "italian",
+        "national"
+      ]
+    },
+    {
+      "id": 1950,
+      "name": "Jackie Robinson Foundation Scholarship",
+      "organization": "Jackie Robinson Foundation",
+      "amount": 35000,
+      "amountLabel": "Up to $35,000 over four years",
+      "deadline": "2027-01-07",
+      "description": "Four-year scholarship of up to 35,000 dollars for minority high school seniors of color who show leadership and financial need, plus mentoring and career support through the JRF program.",
+      "url": "https://jackierobinson.org/apply/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "african_american",
+          "hispanic",
+          "asian",
+          "native_american",
+          "pacific_islander"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "minority",
+        "leadership"
+      ]
+    },
+    {
+      "id": 1951,
+      "name": "APIA Scholarship",
+      "organization": "APIA Scholars",
+      "amount": 5000,
+      "amountLabel": "$2,500 to $20,000",
+      "deadline": "2027-01-15",
+      "description": "Scholarships for Asian American, Native Hawaiian, and Pacific Islander students, with emphasis on those who are first in their family to attend college or living at or below the poverty line.",
+      "url": "https://apiascholars.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.7,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "asian",
+          "pacific_islander"
+        ],
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "asian",
+        "pacific_islander",
+        "first_gen"
+      ]
+    },
+    {
+      "id": 1952,
+      "name": "Full Circle Scholarship",
+      "organization": "American Indian College Fund",
+      "amount": 3000,
+      "amountLabel": "Typically $2,000 to $3,000",
+      "deadline": "2027-05-31",
+      "description": "Annual scholarship for Native American and Alaska Native students enrolled at tribal or mainstream colleges, awarded to citizens or descendants of a federally or state recognized tribe.",
+      "url": "https://collegefund.org/students/scholarships/college-students/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "native_american"
+      ]
+    },
+    {
+      "id": 1953,
+      "name": "Society of Women Engineers Scholarship",
+      "organization": "Society of Women Engineers",
+      "amount": 5000,
+      "amountLabel": "$1,000 to $20,000",
+      "deadline": "2027-02-15",
+      "description": "Scholarships for students who identify as women pursuing ABET-accredited engineering, engineering technology, or computing degrees, from first-year through graduate level.",
+      "url": "https://swe.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "women",
+        "stem"
+      ]
+    },
+    {
+      "id": 1954,
+      "name": "Anne Ford Scholarship",
+      "organization": "National Center for Learning Disabilities",
+      "amount": 10000,
+      "amountLabel": "$10,000 over four years",
+      "deadline": "2027-05-10",
+      "description": "Scholarship for graduating high school seniors with a documented learning disability, or ADHD alongside a learning disability, who will enroll full-time in a bachelor's degree program.",
+      "url": "https://www.ncld.org/anne-ford-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "disability",
+        "learning_disability"
+      ]
+    },
+    {
+      "id": 1955,
+      "name": "Microsoft Disability Scholarship",
+      "organization": "Microsoft / Scholarship America",
+      "amount": 5000,
+      "amountLabel": "$5,000 per year, renewable up to $20,000",
+      "deadline": "2027-03-16",
+      "description": "Scholarship for high school seniors with a disability who plan to study computer science, engineering, business, law, or a related field at a two-year, four-year, or technical college.",
+      "url": "https://scholarshipamerica.org/scholarship/microsoft-disability/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "business",
+          "law"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "disability",
+        "stem"
+      ]
+    },
+    {
+      "id": 1956,
+      "name": "AMVETS National Scholarship",
+      "organization": "AMVETS",
+      "amount": 4000,
+      "amountLabel": "$4,000 (up to $12,000 for veterans)",
+      "deadline": "2027-04-30",
+      "description": "Scholarships for veterans, active-duty service members, and the spouses, children, and grandchildren of veterans pursuing an undergraduate degree at an accredited college.",
+      "url": "https://www.amvets.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "military",
+        "veteran_dependent"
+      ]
+    },
+    {
+      "id": 1957,
+      "name": "Golden Door Scholars",
+      "organization": "Golden Door Scholars",
+      "amount": 2500,
+      "amountLabel": "Full tuition, room and board at partner colleges",
+      "deadline": "2027-01-15",
+      "description": "Scholarship covering tuition, room, and board for up to four years for DACA and undocumented students, with career readiness support and mentorship at regional partner colleges.",
+      "url": "https://roadtohire.org/golden-door-scholars",
+      "eligibility": {
+        "gpa_min": 3.2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "immigrant",
+        "daca"
+      ]
+    },
+    {
+      "id": 1958,
+      "name": "Ron Brown Scholarship",
+      "organization": "Ron Brown Scholar Program",
+      "amount": 40000,
+      "amountLabel": "$40,000 over four years",
+      "deadline": "2026-12-01",
+      "description": "Highly selective four-year scholarship for Black and African American high school seniors who show academic excellence, leadership, and commitment to community service.",
+      "url": "https://ronbrown.org/ron-brown-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "african_american"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "african_american",
+        "leadership"
+      ]
+    },
+    {
+      "id": 1959,
+      "name": "Cobell Scholarship",
+      "organization": "Indigenous Education, Inc.",
+      "amount": 5000,
+      "amountLabel": "$5,000 to $12,500 by level",
+      "deadline": "2027-03-31",
+      "description": "Scholarship for enrolled members of any US federally recognized tribe pursuing vocational, undergraduate, graduate, or professional study full-time.",
+      "url": "https://www.cobellscholar.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": [
+          "native_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "native_american"
+      ]
+    },
+    {
+      "id": 1960,
+      "name": "Knights of Columbus Pro Deo and Pro Patria Scholarship",
+      "organization": "Knights of Columbus",
+      "amount": 1500,
+      "amountLabel": "$1,500 per year, renewable four years",
+      "deadline": "2027-04-15",
+      "description": "Scholarship for Catholic students who are members of the Knights of Columbus or the child of a member, attending a Catholic college or university in the United States.",
+      "url": "https://www.kofc.org/en/what-we-do/scholarships/us-undergraduate-scholarships.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "religious",
+        "catholic"
+      ]
+    },
+    {
+      "id": 1961,
+      "name": "NSBE National Scholarship Program",
+      "organization": "National Society of Black Engineers",
+      "amount": 5000,
+      "amountLabel": "$500 to $15,000",
+      "deadline": "2027-01-31",
+      "description": "Scholarships for paid NSBE members pursuing engineering, computer science, math, or related STEM degrees, from high school seniors through graduate students.",
+      "url": "https://nsbe.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": [
+          "african_american"
+        ],
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "african_american",
+        "stem"
+      ]
+    },
+    {
+      "id": 1962,
+      "name": "Jane M. Klausman Women in Business Scholarship",
+      "organization": "Zonta International",
+      "amount": 5000,
+      "amountLabel": "$2,000 district to $8,000 international",
+      "deadline": "2027-07-01",
+      "description": "Scholarship for women pursuing business degrees who show outstanding potential in the field, awarded at club, district, and international levels.",
+      "url": "https://www.zonta.org/Web/Programs/Education/Women_in_Business_Scholarship.aspx",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "women",
+        "business"
+      ]
+    },
+    {
+      "id": 1963,
+      "name": "Folds of Honor Higher Education Scholarship",
+      "organization": "Folds of Honor Foundation",
+      "amount": 5000,
+      "amountLabel": "Up to $5,000 per year",
+      "deadline": "2027-03-31",
+      "description": "Scholarship for the children and spouses of fallen or disabled US service members and first responders, for undergraduate or vocational study.",
+      "url": "https://foldsofhonor.org/scholarships/",
+      "eligibility": {
+        "gpa_min": 2,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": true,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "identity",
+        "military",
+        "veteran_dependent"
+      ]
+    },
+    {
+      "id": 1964,
+      "name": "Islamic Scholarship Fund Scholarship",
+      "organization": "Islamic Scholarship Fund",
+      "amount": 5000,
+      "amountLabel": "$3,000 to $10,000",
+      "deadline": "2027-03-01",
+      "description": "Scholarship for Muslim students in the US pursuing degrees in public service, policy, media, law, film, and social sciences, awarded to juniors, seniors, and graduate students.",
+      "url": "https://www.islamicscholarshipfund.org/scholarship",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "law"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "religious",
+        "muslim"
+      ]
+    },
+    {
+      "id": 1965,
+      "name": "OCA-UPS Gold Mountain Scholarship",
+      "organization": "OCA - Asian Pacific American Advocates",
+      "amount": 2000,
+      "amountLabel": "$2,000 (HS), $2,500 (rising college seniors)",
+      "deadline": "2027-03-13",
+      "description": "Scholarship for first-generation Asian Pacific American students entering college or their final year of undergraduate study, with financial need.",
+      "url": "https://www.ocanational.org/scholarships",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "asian",
+          "pacific_islander"
+        ],
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "asian",
+        "pacific_islander",
+        "first_gen"
+      ]
+    },
+    {
+      "id": 1966,
+      "name": "Patsy Takemoto Mink Education Support Award",
+      "organization": "Patsy Takemoto Mink Education Foundation",
+      "amount": 5000,
+      "amountLabel": "Up to $5,000",
+      "deadline": "2027-08-01",
+      "description": "Education support award for low-income mothers with minor children who are pursuing education or job training, honoring the first woman of color in Congress.",
+      "url": "https://www.patsyminkfoundation.org/education-support-application",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "women",
+        "mothers",
+        "low_income"
+      ]
+    },
+    {
+      "id": 1967,
+      "name": "Jeannette Rankin Women's Scholarship",
+      "organization": "Jeannette Rankin Foundation",
+      "amount": 2000,
+      "amountLabel": "$2,000 to $10,000",
+      "deadline": "2027-02-18",
+      "description": "Scholarship for low-income women aged 35 and older pursuing an undergraduate degree, technical, or vocational education.",
+      "url": "https://rankinfoundation.org/res/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "women",
+        "low_income"
+      ]
+    },
+    {
+      "id": 1968,
+      "name": "Great Minds in STEM Scholarship",
+      "organization": "Great Minds in STEM",
+      "amount": 2500,
+      "amountLabel": "$500 to $5,000",
+      "deadline": "2027-05-08",
+      "description": "Merit and need scholarships for students of Hispanic descent or those serving underserved communities, pursuing science, technology, engineering, or math degrees.",
+      "url": "https://greatmindsinstem.org/gmis-scholarship-application/gmis-scholarships/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": true,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "hispanic",
+        "stem"
+      ]
+    },
+    {
+      "id": 1969,
+      "name": "HACU Scholarship Program",
+      "organization": "Hispanic Association of Colleges and Universities",
+      "amount": 2500,
+      "amountLabel": "Varies by partner fund",
+      "deadline": "2027-03-01",
+      "description": "Scholarships connecting Hispanic students to awards funded by corporate, federal, and nonprofit partners to help pay tuition, books, and fees at HACU-affiliated institutions.",
+      "url": "https://hacu.net/programs/hacu-scholarship-program/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": [
+          "hispanic"
+        ],
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "hispanic"
+      ]
+    },
+    {
+      "id": 1970,
+      "name": "Fontana Transport Inc. Scholars Program",
+      "organization": "Fontana Transport Inc.",
+      "amount": 5000,
+      "amountLabel": "Up to $5,000",
+      "deadline": "2027-03-14",
+      "description": "Scholarship for underrepresented, low-income, first-generation college-bound high school seniors pursuing full-time undergraduate study in select fields.",
+      "url": "https://scholarships360.org/scholarships/first-generation-college-student-scholarships/",
+      "eligibility": {
+        "gpa_min": 3.5,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": true,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "identity",
+        "first_gen",
+        "low_income"
+      ]
+    },
+    {
+      "id": 1971,
+      "name": "AANP Scholarship Program",
+      "organization": "American Association of Nurse Practitioners",
+      "amount": 5000,
+      "amountLabel": "$2,500 to $5,000",
+      "deadline": "2027-03-18",
+      "description": "For AANP member registered nurses enrolled in an accredited graduate nurse practitioner program who have completed at least one semester and are scheduled to finish between fall 2026 and summer 2027. Supports masters, DNP, and PhD nursing study.",
+      "url": "https://www.aanp.org/education/professional-funding-support/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "nursing",
+        "graduate"
+      ]
+    },
+    {
+      "id": 1972,
+      "name": "AfterCollege-AACN Scholarship Fund",
+      "organization": "AfterCollege and American Association of Colleges of Nursing",
+      "amount": 2500,
+      "amountLabel": "$2,500 (awarded quarterly)",
+      "deadline": "2026-09-30",
+      "description": "Awarded each quarter to students in a baccalaureate, masters, or doctoral nursing program at an AACN member school. Special consideration for future nurse educators and RN-to-BSN or RN-to-MSN students.",
+      "url": "https://aacnnursing.secure-platform.com/scholarships",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "nursing"
+      ]
+    },
+    {
+      "id": 1973,
+      "name": "NEF Scholarship",
+      "organization": "Nurses Educational Funds",
+      "amount": 5000,
+      "amountLabel": "$5,000 and up",
+      "deadline": "2027-02-01",
+      "description": "Merit-based scholarships for registered nurses pursuing graduate masters or doctoral nursing degrees; applicants must have at least two semesters of study remaining after the award.",
+      "url": "https://n-e-f.org/apply.html",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "nursing",
+        "graduate"
+      ]
+    },
+    {
+      "id": 1974,
+      "name": "Mary McMillan Scholarship",
+      "organization": "American Physical Therapy Association",
+      "amount": 5000,
+      "amountLabel": "$5,000 (PT), $3,000 (PTA)",
+      "deadline": "2026-12-01",
+      "description": "Recognizes PT and PTA students within 12 months of graduating from a CAPTE-accredited program; requires APTA membership and nomination by the academic program.",
+      "url": "https://www.apta.org/for-students/scholarships-awards",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "physical_therapy"
+      ]
+    },
+    {
+      "id": 1975,
+      "name": "ADHA Institute Scholarship Program",
+      "organization": "American Dental Hygienists' Association Institute",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $2,500",
+      "deadline": "2027-02-28",
+      "description": "Scholarships for ADHA and SADHA member students enrolled in accredited dental hygiene programs, spanning entry-level, baccalaureate, and graduate degrees.",
+      "url": "https://www.adha.org/foundation/scholarships/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "dental_hygiene"
+      ]
+    },
+    {
+      "id": 1976,
+      "name": "ASHP Foundation Professional Advancement Scholarship",
+      "organization": "ASHP Foundation",
+      "amount": 1000,
+      "amountLabel": "$1,000 plus meeting registration",
+      "deadline": "2026-09-01",
+      "description": "Provides graduating pharmacy students full ASHP Midyear Clinical Meeting registration plus travel support for professional development and networking.",
+      "url": "https://www.ashpfoundation.org/grants-and-awards/scholarships/professional-advancement-scholarships/midyear/students",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "healthcare"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "pharmacy"
+      ]
+    },
+    {
+      "id": 1977,
+      "name": "SAE International Engineering Scholarships",
+      "organization": "SAE International",
+      "amount": 15000,
+      "amountLabel": "Up to $15,000",
+      "deadline": "2027-02-28",
+      "description": "SAE International awards multiple engineering scholarships to high school seniors and undergraduates pursuing degrees in mobility and related engineering fields.",
+      "url": "https://www.sae.org/scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": 1978,
+      "name": "Tau Beta Pi Undergraduate Scholarship",
+      "organization": "Tau Beta Pi Engineering Honor Society",
+      "amount": 2000,
+      "amountLabel": "$2,000",
+      "deadline": "2027-04-01",
+      "description": "For Tau Beta Pi members enrolled full-time in their final undergraduate year of an engineering program; based on scholarship, campus leadership, and service.",
+      "url": "https://www.tbp.org/scholarships.cfm",
+      "eligibility": {
+        "gpa_min": 3.8,
+        "grade_levels": [
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": 1979,
+      "name": "Tau Beta Pi / SAE Engineering Scholarship",
+      "organization": "Tau Beta Pi and SAE International",
+      "amount": 1500,
+      "amountLabel": "$1,500 (6 awards)",
+      "deadline": "2027-02-28",
+      "description": "Awards for high school seniors planning to study engineering, requiring strong math and reading test scores; administered through the SAE program.",
+      "url": "https://www.tbp.org/scholarships.cfm",
+      "eligibility": {
+        "gpa_min": 3.75,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": 1980,
+      "name": "Steinman Scholarship",
+      "organization": "National Society of Professional Engineers",
+      "amount": 5000,
+      "amountLabel": "$5,000 (5 awards)",
+      "deadline": "2027-03-01",
+      "description": "For undergraduates entering or continuing their junior year in a four-year ABET-accredited engineering program.",
+      "url": "https://apply.nspe.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering"
+      ]
+    },
+    {
+      "id": 1981,
+      "name": "Auxiliary Legacy Scholarship",
+      "organization": "National Society of Professional Engineers",
+      "amount": 5000,
+      "amountLabel": "$5,000 (2 awards)",
+      "deadline": "2027-03-01",
+      "description": "For female undergraduates in their junior year of a four-year ABET-accredited engineering program.",
+      "url": "https://apply.nspe.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering",
+        "women"
+      ]
+    },
+    {
+      "id": 1982,
+      "name": "George B. Hightower, P.E. Fellowship",
+      "organization": "National Society of Professional Engineers",
+      "amount": 3000,
+      "amountLabel": "$3,000 (2 awards)",
+      "deadline": "2027-03-01",
+      "description": "For a current engineering undergraduate or graduate student enrolled in or graduated from an ABET-accredited engineering program.",
+      "url": "https://apply.nspe.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering",
+        "fellowship"
+      ]
+    },
+    {
+      "id": 1983,
+      "name": "ASME Baccalaureate and Graduate Engineering Scholarships",
+      "organization": "American Society of Mechanical Engineers",
+      "amount": 1500,
+      "amountLabel": "About $1,500 and up",
+      "deadline": "2027-03-01",
+      "description": "Scholarships for undergraduate and graduate students enrolled in ABET-accredited mechanical engineering or related programs.",
+      "url": "https://www.asme.org/asme-programs/students-and-faculty/scholarships/4-year-baccalaureate-graduate-students",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering",
+        "mechanical"
+      ]
+    },
+    {
+      "id": 1984,
+      "name": "ASME INSPIRE / Charles W.E. Clarke Scholarship",
+      "organization": "American Society of Mechanical Engineers",
+      "amount": 2000,
+      "amountLabel": "$2,000 (25 awards)",
+      "deadline": "2027-03-01",
+      "description": "For high school seniors planning to enroll in an ABET-accredited mechanical engineering or related program.",
+      "url": "https://www.asme.org/asme-programs/students-and-faculty/scholarships/available-high-school-scholarships",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering",
+        "mechanical"
+      ]
+    },
+    {
+      "id": 1985,
+      "name": "SME Education Foundation Scholarships",
+      "organization": "SME Education Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies; up to $40,000",
+      "deadline": "2027-02-01",
+      "description": "One application considers students for more than 60 merit and need-based scholarships in manufacturing and related engineering disciplines, for high school seniors and college undergraduates.",
+      "url": "https://scholarships.smeef.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "engineering",
+        "manufacturing"
+      ]
+    },
+    {
+      "id": 1986,
+      "name": "Astronaut Scholarship",
+      "organization": "Astronaut Scholarship Foundation",
+      "amount": 15000,
+      "amountLabel": "Up to $15,000",
+      "deadline": "2027-03-31",
+      "description": "For sophomores and juniors at partner universities pursuing STEM bachelor's degrees who show research excellence; requires faculty nomination.",
+      "url": "https://www.astronautscholarship.org/programs/astronaut-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem",
+          "engineering",
+          "computer_science"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "stem",
+        "research"
+      ]
+    },
+    {
+      "id": 1987,
+      "name": "NCWIT Aspirations in Computing High School Award",
+      "organization": "National Center for Women & Information Technology",
+      "amount": 2500,
+      "amountLabel": "Award plus scholarship opportunities",
+      "deadline": "2026-10-27",
+      "description": "Honors 9th to 12th grade women, genderqueer, and nonbinary students for computing achievements and interests; national and affiliate awards include prizes and scholarship opportunities.",
+      "url": "https://www.aspirations.org/award-programs/aic-high-school-award",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "computer_science",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "computer_science",
+        "women"
+      ]
+    },
+    {
+      "id": 1988,
+      "name": "NCWIT Aspirations in Computing Collegiate Award",
+      "organization": "National Center for Women & Information Technology",
+      "amount": 2500,
+      "amountLabel": "Cash award",
+      "deadline": "2026-11-01",
+      "description": "Recognizes undergraduate women, genderqueer, and nonbinary students for computing projects and technical accomplishments.",
+      "url": "https://www.aspirations.org/award-programs/aic-collegiate-award",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "computer_science",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "computer_science",
+        "women"
+      ]
+    },
+    {
+      "id": 1989,
+      "name": "AICPA Foundation Scholarship for Future CPAs",
+      "organization": "AICPA Foundation",
+      "amount": 5000,
+      "amountLabel": "$5,000 to $10,000",
+      "deadline": "2027-03-15",
+      "description": "For accounting undergraduate or graduate students planning to pursue CPA licensure who have completed at least 30 semester hours including 6 in accounting; requires AICPA student affiliate membership.",
+      "url": "https://www.thiswaytocpa.com/education/aicpa-legacy-scholarships/future-cpas-scholarship/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": true,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "accounting",
+        "cpa"
+      ]
+    },
+    {
+      "id": 1990,
+      "name": "STEM Stars Actuarial Scholars Program",
+      "organization": "The Actuarial Foundation",
+      "amount": 20000,
+      "amountLabel": "$20,000 ($5,000 per year)",
+      "deadline": "2027-02-27",
+      "description": "Four-year scholarship for high school seniors pursuing actuarial science and mathematics careers; includes mentoring throughout college.",
+      "url": "https://actuarialfoundation.org/scholarships/stem-stars/",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "actuarial",
+        "mathematics"
+      ]
+    },
+    {
+      "id": 1991,
+      "name": "Actuary of Tomorrow - Stuart A. Robertson Memorial Scholarship",
+      "organization": "The Actuarial Foundation",
+      "amount": 2500,
+      "amountLabel": "$2,500 to $10,000",
+      "deadline": "2027-04-30",
+      "description": "For full-time undergraduate students pursuing an actuarial science career who have passed at least one actuarial exam.",
+      "url": "https://actuarialfoundation.org/scholarships/stuart-robertson-scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "actuarial"
+      ]
+    },
+    {
+      "id": 1992,
+      "name": "IABA Foundation Scholarship",
+      "organization": "International Association of Black Actuaries Foundation",
+      "amount": 2500,
+      "amountLabel": "Varies",
+      "deadline": "2027-03-31",
+      "description": "Scholarships and mentoring for Black students of African descent pursuing actuarial careers.",
+      "url": "https://www.blackactuaries.org/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "identity",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "actuarial",
+        "diversity"
+      ]
+    },
+    {
+      "id": 1993,
+      "name": "NRAEF Restaurant and Hospitality Scholarship",
+      "organization": "National Restaurant Association Educational Foundation",
+      "amount": 5000,
+      "amountLabel": "$2,500 to $10,000",
+      "deadline": "2027-03-15",
+      "description": "For students enrolled at accredited postsecondary institutions pursuing restaurant, foodservice, or hospitality-related degrees, including culinary arts and hospitality management.",
+      "url": "https://chooserestaurants.org/programs/scholarships-grants/scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "hospitality",
+        "culinary"
+      ]
+    },
+    {
+      "id": 1994,
+      "name": "ACTFL Future Teacher Scholarship",
+      "organization": "American Council on the Teaching of Foreign Languages",
+      "amount": 1500,
+      "amountLabel": "$1,500 per year (up to $6,000)",
+      "deadline": "2027-05-01",
+      "description": "For high school seniors, undergraduates, and graduate students pursuing world language teaching careers; renewable up to three times.",
+      "url": "https://www.actfl.org/career-development/actfl-awards/future-teacher-scholarship-program",
+      "eligibility": {
+        "gpa_min": 3,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "education"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": true,
+      "tags": [
+        "education",
+        "language"
+      ]
+    },
+    {
+      "id": 1995,
+      "name": "Jack Kinnaman Memorial Scholarship",
+      "organization": "National Education Association",
+      "amount": 3500,
+      "amountLabel": "$3,500",
+      "deadline": "2027-04-15",
+      "description": "For NEA Aspiring Educator members pursuing a career in teaching; funded by NEA-Retired members to support pre-service teachers.",
+      "url": "https://www.nea.org/resource-library/jack-kinnaman-scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "education"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "education",
+        "teaching"
+      ]
+    },
+    {
+      "id": 1996,
+      "name": "National FFA Scholarship Program",
+      "organization": "National FFA Organization",
+      "amount": 2500,
+      "amountLabel": "$1,000 to $10,000",
+      "deadline": "2027-01-15",
+      "description": "Scholarships for FFA members who are high school seniors or current college students pursuing agriculture, food science, natural resources, veterinary medicine, or related fields.",
+      "url": "https://www.ffa.org/participate/grants-and-scholarships/scholarships/",
+      "eligibility": {
+        "gpa_min": 2.5,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem",
+          "business"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "agriculture"
+      ]
+    },
+    {
+      "id": 1997,
+      "name": "Golden Opportunity Scholars Program",
+      "organization": "American Society of Agronomy",
+      "amount": 2500,
+      "amountLabel": "Mentoring plus Annual Meeting travel support",
+      "deadline": "2027-04-02",
+      "description": "Selects up to 20 undergraduate agronomy, crop, and soil science students for mentoring and funded travel to the Societies' Annual Meetings and Congressional Visits Day.",
+      "url": "https://www.agronomy.org/awards",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "agriculture",
+        "agronomy"
+      ]
+    },
+    {
+      "id": 1998,
+      "name": "AWS National Scholarships",
+      "organization": "American Welding Society Foundation",
+      "amount": 2500,
+      "amountLabel": "$2,500 to $10,000+",
+      "deadline": "2027-03-01",
+      "description": "More than 130 donor-funded scholarships for high school seniors and undergraduates pursuing associate or bachelor's degrees in welding or a related discipline.",
+      "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "engineering",
+          "stem"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "welding",
+        "skilled_trades"
+      ]
+    },
+    {
+      "id": 1999,
+      "name": "mikeroweWORKS Work Ethic Scholarship",
+      "organization": "mikeroweWORKS Foundation",
+      "amount": 5000,
+      "amountLabel": "$1,000 to $20,000",
+      "deadline": "2026-10-31",
+      "description": "Need-blind, no-GPA scholarship rewarding work ethic for students pursuing skilled trades such as welding, plumbing, electrical, HVAC, and construction at accredited trade programs.",
+      "url": "https://www.mikeroweworks.org/scholarship",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "undecided"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "stem",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "skilled_trades",
+        "vocational"
+      ]
+    },
+    {
+      "id": 2000,
+      "name": "TDC Beatrice Warde Scholarship",
+      "organization": "Type Directors Club (The One Club)",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2027-05-01",
+      "description": "For a woman or nonbinary college student entering their junior year whose work shows exceptional talent in typography, lettering, and type design.",
+      "url": "https://tdc.org/scholarship/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "college_sophomore",
+          "college_junior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": "female",
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "design",
+        "typography",
+        "women"
+      ]
+    },
+    {
+      "id": 2001,
+      "name": "Scholastic Art & Writing Awards Portfolio Scholarships",
+      "organization": "Alliance for Young Artists & Writers",
+      "amount": 12500,
+      "amountLabel": "$2,000 to $12,500",
+      "deadline": "2026-12-07",
+      "description": "National portfolio awards for graduating high school seniors submitting a body of visual art or writing; Gold Medal Portfolios receive $12,500.",
+      "url": "https://www.artandwriting.org/scholarships/portfolio-scholarships/",
+      "eligibility": {
+        "gpa_min": null,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": [
+          "arts"
+        ],
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "creative",
+      "noEssay": false,
+      "renewable": false,
+      "tags": [
+        "art",
+        "writing",
+        "portfolio"
+      ]
+    },
+    {
+      "id": 2002,
+      "name": "Sallie $2,000 No Essay Scholarship",
+      "organization": "Sallie (Sallie Mae)",
+      "amount": 2000,
+      "amountLabel": "$2,000 each month",
+      "deadline": "2026-09-30",
+      "description": "Sallie awards a $2,000 scholarship every month through a random drawing with a new winner selected each month. Applicants answer a few short questions and submit in about two minutes. No essay or profile is required. Funds are sent to the winner's school.",
+      "url": "https://www.sallie.com/scholarships/no-essay",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "sweepstakes"
+      ]
+    },
+    {
+      "id": 2003,
+      "name": "SoFi $2,500 Scholarship Sweepstakes",
+      "organization": "SoFi (Social Finance)",
+      "amount": 2500,
+      "amountLabel": "$2,500 each month",
+      "deadline": "2026-09-30",
+      "description": "SoFi gives away $2,500 every month through twelve monthly drawings in 2026. Students enter by completing a short online form with no essay. Funds are sent directly to the winner's school toward cost of attendance.",
+      "url": "https://www.sofi.com/scholarship-giveaway/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "sweepstakes"
+      ]
+    },
+    {
+      "id": 2004,
+      "name": "Ascent $1,000 Plan, Pay and Succeed Scholarship",
+      "organization": "Ascent Funding",
+      "amount": 1000,
+      "amountLabel": "$1,000 each month",
+      "deadline": "2026-09-30",
+      "description": "Ascent Funding gives away $1,000 to one randomly selected winner every month throughout 2026. Entry is a short contact form with no essay. Open to students and to parents of an eligible student.",
+      "url": "https://www.ascentfunding.com/scholarships/monthly/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "sweepstakes"
+      ]
+    },
+    {
+      "id": 2005,
+      "name": "College Ave $5,000 Grad School Sweepstakes",
+      "organization": "College Ave Student Loans",
+      "amount": 5000,
+      "amountLabel": "$5,000",
+      "deadline": "2026-12-31",
+      "description": "College Ave offers a $5,000 sweepstakes for graduate students with no essay required. Entry is a quick form and no purchase is necessary.",
+      "url": "https://www.collegeave.com/promotions/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "quick-apply",
+        "sweepstakes",
+        "grad"
+      ]
+    },
+    {
+      "id": 2006,
+      "name": "U.S. Bank Student Scholarship",
+      "organization": "U.S. Bank",
+      "amount": 20000,
+      "amountLabel": "Up to $20,000 (tiered prizes)",
+      "deadline": "2026-10-30",
+      "description": "U.S. Bank awards tiered prizes of $2,500 up to a $20,000 grand prize. Instead of an essay, students register online and complete financial literacy modules in the Zogo app. Completing more modules increases the potential prize tier.",
+      "url": "https://www.usbank.com/about-us-bank/community/student-scholarship.html",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "financial-literacy",
+        "quick-apply"
+      ]
+    },
+    {
+      "id": 2007,
+      "name": "DoSomething Offline Mode Scholarship",
+      "organization": "DoSomething.org",
+      "amount": 1500,
+      "amountLabel": "Up to $1,500",
+      "deadline": "2026-12-31",
+      "description": "DoSomething.org awards a scholarship for taking a pledge to spend less time online and completing a 7 or 30 day streak. No essay, GPA, or recommendations are needed. Winners are chosen by random drawing of participants.",
+      "url": "https://dosomething.org/pays-to-do-good",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "action-based",
+        "quick-apply"
+      ]
+    },
+    {
+      "id": 2008,
+      "name": "Juno $2,000 No Essay Scholarship",
+      "organization": "Juno (joinjuno.com)",
+      "amount": 2000,
+      "amountLabel": "$2,000 each month",
+      "deadline": "2026-09-30",
+      "description": "Juno awards a $2,000 scholarship to one randomly selected winner each month. Applicants provide basic information with no essay, and students and parents can each nominate the other to double their chances.",
+      "url": "https://joinjuno.com/scholarship",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply"
+      ]
+    },
+    {
+      "id": 2009,
+      "name": "AFSA High School Senior No Essay Scholarship Contest",
+      "organization": "American Fire Sprinkler Association",
+      "amount": 1000,
+      "amountLabel": "$1,000 (5 awards)",
+      "deadline": "2027-01-01",
+      "description": "The American Fire Sprinkler Association awards five $1,000 scholarships to high school seniors through a random drawing. Applicants read a short passage about fire sprinkler safety and answer a quick quiz to earn entries. No essay and no GPA are required.",
+      "url": "https://www.afsascholarship.org/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "quiz-entry",
+        "trade-eligible"
+      ]
+    },
+    {
+      "id": 2010,
+      "name": "AFSA Second Chance No Essay Scholarship Contest",
+      "organization": "American Fire Sprinkler Association",
+      "amount": 1000,
+      "amountLabel": "$1,000 (5 awards)",
+      "deadline": "2027-09-01",
+      "description": "The American Fire Sprinkler Association runs a second no essay contest awarding five $1,000 scholarships, open to anyone who has graduated high school and wants to pursue college or trade school. Entries are earned by reading a short passage and answering a quiz. No essay or GPA required.",
+      "url": "https://www.afsascholarship.org/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "quiz-entry",
+        "trade-eligible"
+      ]
+    },
+    {
+      "id": 2011,
+      "name": "Cirkled In No Sweat Scholarship",
+      "organization": "Cirkled In",
+      "amount": 2500,
+      "amountLabel": "$2,500 (quarterly)",
+      "deadline": "2026-09-30",
+      "description": "Cirkled In awards a $2,500 scholarship each quarter with no essay and no GPA cutoff. Students build a free profile showcasing activities, achievements, and samples, and winners are selected based on profile completeness and points earned.",
+      "url": "https://www.cirkledin.com/scholarships/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "profile-based",
+        "quarterly"
+      ]
+    },
+    {
+      "id": 2012,
+      "name": "Edvisors $1,000 Monthly Scholarship",
+      "organization": "Edvisors Network",
+      "amount": 1000,
+      "amountLabel": "$1,000 each month",
+      "deadline": "2026-09-30",
+      "description": "Edvisors awards $1,000 to one randomly selected winner each month through December 2026. Entry is a short online form with no essay. Students and parents can enter, and a mail-in option is offered.",
+      "url": "https://www.edvisors.com/rules-1k-scholarship/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_junior",
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "monthly",
+        "quick-apply",
+        "sweepstakes"
+      ]
+    },
+    {
+      "id": 2013,
+      "name": "Upromise Future Funds Sweepstakes",
+      "organization": "Upromise",
+      "amount": 20000,
+      "amountLabel": "Up to $20,000 (monthly, quarterly, annual prizes)",
+      "deadline": "2026-12-31",
+      "description": "Upromise runs the Future Funds Sweepstakes with monthly cash prizes, quarterly $5,000 prizes, and an annual grand prize worth over $20,000 toward education. Members are entered automatically with no essay and no purchase necessary.",
+      "url": "https://www.upromise.com/blog/upromise-sweepstakes/",
+      "eligibility": {
+        "gpa_min": 0,
+        "grade_levels": [
+          "high_school_senior",
+          "college_freshman",
+          "college_sophomore",
+          "college_junior",
+          "college_senior",
+          "grad_student"
+        ],
+        "states": [],
+        "ethnicity": null,
+        "financial_need": false,
+        "first_gen": false,
+        "military": false,
+        "gender": null,
+        "majors": null,
+        "community_service": false,
+        "athletics": false
+      },
+      "category": "no-essay",
+      "noEssay": true,
+      "renewable": false,
+      "tags": [
+        "no-essay",
+        "monthly",
+        "sweepstakes"
       ]
     }
   ]
