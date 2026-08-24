@@ -1,0 +1,17 @@
+{
+  "cursor": 0,
+  "note": "Weekly discovery rotates through these beats, 5 per run starting at cursor, wrapping around. Cursor advances by 5 each run so every week covers different ground and the backlog drains broadly. States list rotates for the local-backlog beat.",
+  "stateRotation": ["California", "Texas", "Florida", "New York", "Pennsylvania", "Illinois", "Ohio", "Georgia", "North Carolina", "Michigan"],
+  "beats": [
+    { "key": "majors-health-eng", "scope": "national", "prompt": "field-of-study scholarships in nursing, healthcare, engineering, and computer science, from professional associations and industry foundations" },
+    { "key": "identity-ethnicity", "scope": "national", "prompt": "identity scholarships for specific ethnicities (Black, Hispanic, Asian, Native American, Pacific Islander) from identity-focused foundations" },
+    { "key": "civic-service", "scope": "national", "prompt": "civic and service-org scholarships (Elks, Kiwanis, Lions, American Legion, VFW, Rotary, 4-H) open nationally" },
+    { "key": "local-backlog", "scope": "state", "prompt": "deep-local county/city community foundation, Rotary/Elks chapter, and employer funds in the rotating target states" },
+    { "key": "majors-business-law-edu", "scope": "national", "prompt": "field-of-study scholarships in business, finance, accounting, law, and education from professional associations" },
+    { "key": "identity-women-disability-lgbtq", "scope": "national", "prompt": "identity scholarships for women in STEM/business, students with disabilities, and LGBTQ+ students" },
+    { "key": "noessay", "scope": "national", "prompt": "no-essay and quick-apply scholarships from LEGIT sponsors only (banks, companies, real foundations), never lead-gen survey farms" },
+    { "key": "majors-ag-trades-arts", "scope": "national", "prompt": "field-of-study scholarships in agriculture, skilled trades, and arts/design from associations and named endowments" },
+    { "key": "identity-military-immigrant-religious", "scope": "national", "prompt": "identity scholarships for military/veteran dependents, immigrant/DACA students, and religious denominations" },
+    { "key": "employer-union", "scope": "national", "prompt": "employer, union, and corporate-foundation scholarships open to students nationally" }
+  ]
+}
