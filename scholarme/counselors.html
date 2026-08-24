@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ScholarMe for Counselors | Free scholarship tracking for your students</title>
+<meta name="description" content="ScholarMe is a free iOS app that helps students find verified scholarships and track every application. Get a read-only share link for any student. No account, no cost, ever.">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+    background: #121417; color: #F2F2ED; line-height: 1.6;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 48px 24px 96px; }
+  .badge {
+    display: inline-block; border: 2px solid #C6F24E; color: #C6F24E;
+    font-weight: 800; letter-spacing: 1px; font-size: 13px;
+    padding: 4px 14px; border-radius: 999px; margin-bottom: 28px;
+  }
+  h1 { font-size: clamp(34px, 6vw, 56px); line-height: 1.05; letter-spacing: -1px; }
+  h1 .lime { color: #C6F24E; }
+  .lede { font-size: 20px; color: #C9C9CC; margin: 24px 0 40px; max-width: 640px; }
+  .cards { display: grid; gap: 18px; margin: 40px 0; }
+  @media (min-width: 700px) { .cards { grid-template-columns: 1fr 1fr; } }
+  .card {
+    background: #1B1E22; border: 2px solid #EDEAE0; border-radius: 16px;
+    padding: 26px; box-shadow: 6px 6px 0 #4A4A50;
+  }
+  .card h2 { font-size: 19px; margin-bottom: 10px; letter-spacing: -0.3px; }
+  .card p { color: #9A9A98; font-size: 15px; }
+  .card .n { display:block; font-weight: 800; color: #C6F24E; font-size: 15px; margin-bottom: 8px; letter-spacing: 1px; }
+  .share-demo {
+    background: #F3F1E9; color: #111113; border-radius: 16px;
+    padding: 30px; margin: 44px 0; border: 2px solid #111113; box-shadow: 8px 8px 0 #111113;
+  }
+  .share-demo h2 { font-size: 22px; margin-bottom: 12px; }
+  .share-demo p { color: #36363a; max-width: 560px; }
+  .steps { list-style: none; counter-reset: s; margin-top: 18px; }
+  .steps li { counter-increment: s; padding: 8px 0 8px 44px; position: relative; font-weight: 600; }
+  .steps li::before {
+    content: counter(s); position: absolute; left: 0; top: 6px;
+    width: 30px; height: 30px; background: #111113; color: #C6F24E;
+    border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    font-size: 14px; font-weight: 800;
+  }
+  .trust { display: flex; flex-wrap: wrap; gap: 12px; margin: 34px 0; }
+  .trust span {
+    border: 1.5px solid #EDEAE0; border-radius: 999px; padding: 6px 16px;
+    font-size: 13px; font-weight: 600; color: #EDEAE0;
+  }
+  footer { margin-top: 64px; padding-top: 26px; border-top: 2px solid #2A2D31; color: #6A6A68; font-size: 13px; }
+  a { color: #C6F24E; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <span class="badge">FOR COUNSELORS AND MENTORS</span>
+  <h1>Your students are leaving <span class="lime">free money</span> on the table.</h1>
+  <p class="lede">
+    Going Merry shut down in March 2026 and took its tracker with it. ScholarMe picks up where it
+    stopped: verified scholarships, deadline reminders that actually fire, and a read-only link so
+    you can see any student's pipeline without another login.
+  </p>
+
+  <div class="cards">
+    <div class="card">
+      <span class="n">VERIFIED LISTINGS</span>
+      <h2>Every scholarship checked by a person</h2>
+      <p>A human opens each listing's page and confirms it is real and accepting applications
+      before it reaches a student. No scraped spam, no lead-gen traps.</p>
+    </div>
+    <div class="card">
+      <span class="n">DEADLINE ARMOR</span>
+      <h2>Reminders at 30 days, 2 weeks, 1 week, tomorrow</h2>
+      <p>The number one way students lose awards is a missed deadline. ScholarMe pings them at
+      every stage and exports deadlines to their calendar.</p>
+    </div>
+    <div class="card">
+      <span class="n">READ-ONLY SHARE LINK</span>
+      <h2>See a student's pipeline in one tap</h2>
+      <p>Students can hand you a private link showing their saved scholarships, statuses, and
+      deadlines. No account needed on your end, and they can revoke it anytime.</p>
+    </div>
+    <div class="card">
+      <span class="n">ACTUALLY FREE</span>
+      <h2>No subscription, no data selling</h2>
+      <p>ScholarMe charges students nothing and sells nothing about them. It is free the way a
+      school resource should be free.</p>
+    </div>
+  </div>
+
+  <div class="trust">
+    <span>All 50 states + DC covered</span>
+    <span>2,000+ live verified scholarships</span>
+    <span>No student account required</span>
+    <span>iOS, free on the App Store</span>
+  </div>
+
+  <div class="share-demo">
+    <h2>How the counselor view works</h2>
+    <p>The student taps Share in their pipeline and texts you the link. You open it in any browser.</p>
+    <ol class="steps">
+      <li>Student saves scholarships they plan to chase</li>
+      <li>They tap Share and send you the private link</li>
+      <li>You see names, amounts, statuses, and deadlines</li>
+      <li>You coach. They apply. Nobody misses a date.</li>
+    </ol>
+  </div>
+
+  <footer>
+    ScholarMe is an independent free app for students. Questions? Reach the developer through the
+    App Store page. Data policy in plain words inside the app under Profile → Privacy.
+  </footer>
+</div>
+</body>
+</html>
