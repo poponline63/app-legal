@@ -1,0 +1,32 @@
+{
+  "ranAt": "dry-run",
+  "candidatesFound": 139,
+  "leadgenDropped": 1,
+  "alreadyInList": 12,
+  "checkedLive": 126,
+  "passed": 107,
+  "dead": 1,
+  "quarantined": 18,
+  "byBeat": {
+    "bigstate": {
+      "found": 26,
+      "pass": 25
+    },
+    "civic": {
+      "found": 30,
+      "pass": 18
+    },
+    "identity": {
+      "found": 32,
+      "pass": 21
+    },
+    "majors": {
+      "found": 35,
+      "pass": 31
+    },
+    "noessay": {
+      "found": 16,
+      "pass": 12
+    }
+  }
+}
