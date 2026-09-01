@@ -1,0 +1,447 @@
+# Scholarship freshness report (2026-09-01)
+
+- Checked: **2019**
+- Broken (404/410, fix these): **36**
+- Needs a manual look (403/timeout, likely bot-blocked): **188**
+- Past deadline: **7**
+- Redirected (URL moved): **201**
+
+## Broken (404/410 — fix or remove)
+- [57] AIAA Scholarships — 404 — https://www.aiaa.org/get-involved/students-educators
+- [80] FBLA Scholarships and Awards — 404 — https://www.fbla.org/awards-and-scholarships/
+- [111] SPJ Scholarships — 404 — https://www.spj.org/scholarships.asp
+- [138] Zonta Amelia Earhart Fellowship — 404 — https://www.zonta.org/Web/Programs/Education/Amelia_Earhart_Fellowship.aspx
+- [175] Ohio College Opportunity Grant — 404 — https://highered.ohio.gov/
+- [187] Arizona Community Foundation Scholarships — 404 — https://www.azfoundation.org/apply-for-a-scholarship/
+- [211] Horatio Alger Career and Technical Scholarship — 404 — https://www.horatioalger.org/scholarships/career-technical/
+- [243] AAHD Frederick J. Krause Scholarship — 404 — https://aahd.us/best-practice/aahd-scholarship-program/
+- [259] SEG Scholarships — 404 — https://seg.org/community/students/scholarships/
+- [357] Dorrance Scholarship — 404 — https://dorrancescholarship.org/application/
+- [395] ACUMEN Scholarship — 404 — https://eastbaycf.smapply.io/prog/acumen_scholarship/
+- [415] Rotary Club of Ignacio Scholarships — 404 — https://ignaciorotary.org/
+- [508] Scranton Area Community Foundation Scholarships — 404 — https://safdn.org/apply-today-for-a-scholarship-2/
+- [547] Texas Restaurant Foundation W. Price Jr. Memorial Scholarship — 404 — https://txrestaurant.org/TRF/TRF/Workforce-Development/Scholarships-and-Grants.aspx
+- [746] Ohio College Opportunity Grant (OCOG) — 404 — https://highered.ohio.gov/students/pay-for-college/ohio-grants-scholarships/ocog/ocog
+- [747] Choose Ohio First Scholarship — 404 — https://highered.ohio.gov/initiatives/affordability/choose-ohio-first
+- [748] Ohio War Orphan & Severely Disabled Veterans' Children Scholarship — 404 — https://highered.ohio.gov/educators/financial-aid/sgs/wos
+- [896] Christa McAuliffe Scholarship — 404 — https://www.tn.gov/collegepays/money-for-college/loan-forgiveness-programs.html
+- [995] Alabama G.I. Dependents' Scholarship Program — 404 — https://va.alabama.gov/dependents-scholarship/
+- [1024] Alabama Home Builders Foundation Scholarship — 404 — https://ahbfoundation.org/scholarships/
+- [1049] Colorado DECA Scholarship — 404 — https://www.coloradodeca.org/scholarships
+- [1058] North Colorado Springs Rotary Club Foundation Scholarship — 404 — https://www.ncsrcfoundation.com/scholarships
+- [1231] Minority Teacher Incentive Program (MTIP) — 404 — https://portal.ct.gov/ohe/financial-aid/minority-teacher-incentive-program
+- [1326] Cherokee Nation Undergraduate Scholarship Program — 404 — https://www.cherokee.org/all-services/education-services/college-resources/higher-education/
+- [1391] Larry H. and Gail Miller Enrichment Scholarship — 404 — https://studentaffairs.utah.edu/miller-enrichment-scholarship.php
+- [1394] Thor's Pledge Scholarship — 404 — https://www.suu.edu/finaid/newstudents/thors-pledge.html
+- [1399] Hogan & Associates Construction Scholarship — 404 — https://www.hoganconstruction.com/scholarship
+- [1407] David Arapene Cuch Scholarship — 404 — https://www.law.utah.edu/news/scholarship-created-to-celebrate-life-of-david-cuch/
+- [1595] Hawaii Community Foundation Common Scholarship — 404 — https://www.hawaiicommunityfoundation.org/students
+- [1616] UH Manoa Academic Merit Scholarships — 404 — https://manoa.hawaii.edu/admissions/financial-aid/
+- [1619] Kauai Board of REALTORS Scholarship — 404 — https://www.kauaiboard.com/scholarships/
+- [1627] Micron Scholars Scholarship — 404 — https://www.idaholsf.com/micron-scholars/
+- [1713] Abbie Sargent Memorial Scholarship — 404 — https://www.nhfarmbureau.org/scholarship-information/
+- [1721] HEAPS Grant Program — 404 — https://www.cfwv.com/financial-aid/wv-heaps-grant/
+- [1859] South Dakota Community Foundation Scholarships — 404 — https://sdcommunityfoundation.org/apply/students
+- [1869] VSAC Board of Directors Scholarship (David Coates) — 404 — https://accessscholarships.com/scholarship/vermont-student-assistance-corporation-vsac-scholarships/
+
+## Verify manually (site likely up but blocked the checker)
+- [17] SWE Scholarship — 403 — https://swe.org/scholarships/
+- [24] Dr Pepper Tuition Giveaway — 403 — https://www.drpeppertuition.com/
+- [46] Beinecke Scholarship — fetch failed — https://beineckescholarship.org/
+- [47] NOAA Ernest F. Hollings Scholarship — 403 — https://www.noaa.gov/office-education/hollings-scholarship
+- [66] AIChE Student Awards and Scholarships — 403 — https://www.aiche.org/
+- [84] Nurse Corps Scholarship Program — 403 — https://bhw.hrsa.gov/funding/apply-scholarship/nurse-corps
+- [85] NHSC Scholarship Program — 403 — https://nhsc.hrsa.gov/scholarships
+- [91] TEACH Grant — timeout — https://studentaid.gov/understand-aid/types/grants/teach
+- [105] Evans Scholarship for Caddies — fetch failed — https://www.wgaesf.org/
+- [110] ABA Legal Opportunity Scholarship — 403 — https://www.americanbar.org/groups/diversity/diversity_pipeline/projects_initiatives/legal_opportunity_scholarship/
+- [125] LULAC National Scholarship Fund — 403 — https://lulac.org/programs/education/scholarships/
+- [136] AAUW Fellowships and Grants — 403 — https://www.aauw.org/resources/programs/fellowships-grants/
+- [150] National Merit Scholarship Program — fetch failed — https://www.nationalmerit.org/
+- [159] 4-H Scholarships — 403 — https://www.4-h.org/parents/scholarships/
+- [160] Profile in Courage Essay Contest — 403 — https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest
+- [161] RMHC US Scholarships — 403 — https://ronaldmcdonaldhouse.org/rmhc-us-scholarships
+- [169] Cal Grant — 405 — https://www.csac.ca.gov/cal-grants
+- [174] Illinois Monetary Award Program Grant — 403 — https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-program.html
+- [179] Michigan Achievement Scholarship — 403 — https://www.michigan.gov/mistudentaid
+- [198] Virginia Tuition Assistance Grant — 403 — https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid/virginia-tuition-assistance-grant-program
+- [208] American Culinary Federation Scholarships — timeout — https://www.acfchefs.org/ACF/Education/Scholarships/
+- [214] Gloria Barron Prize for Young Heroes — 403 — https://barronprize.org/
+- [225] Project Yellow Light Scholarship — 403 — https://www.projectyellowlight.com/
+- [235] EWI Adult Students in Scholastic Transition — 403 — https://www.ewiconnect.com/scholarships/
+- [236] ESA Foundation Scholarships — timeout — https://www.esaonline.org/
+- [238] Cameron Impact Scholarship — 403 — https://www.bryancameroneducationfoundation.org/
+- [244] National Federation of the Blind Scholarships — 403 — https://nfb.org/programs-services/scholarships-and-awards/scholarship-program
+- [253] TMS Scholarships — 403 — https://www.tms.org/portal/EDUCATION/Scholarships
+- [254] ASM Materials Education Foundation Scholarships — 403 — https://www.asmfoundation.org/scholarships/
+- [260] APS Minority Scholarship in Physics — 403 — https://www.aps.org/programs/minorities/honors/scholarship/
+- [264] Tylenol Future Care Scholarship — 403 — https://www.tylenol.com/tylenol-future-care-scholarship
+- [270] ASHFoundation Graduate Scholarships — 500 — https://www.ashfoundation.org/
+- [287] Kiwanis Childrens Fund Scholarships — 403 — https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/
+- [297] AZA Zoo and Aquarium Scholarships — 403 — https://www.aza.org/aza-scholarship-programs
+- [300] NSCA Foundation Scholarships — 403 — https://www.nsca.com/education/scholarships/
+- [302] NSPS Surveying Scholarships — 403 — https://www.nsps.us.com/page/Scholarships
+- [317] The No Sweat Scholarship — 403 — https://www.cirkledin.com/scholarships/
+- [362] Nina Mason Pulliam Legacy Scholars Program — 403 — https://www.maricopa.edu/students/scholarships/nina-mason-pulliam
+- [387] Cal Grant A — 405 — https://www.csac.ca.gov/cal-grants
+- [388] Cal Grant B — 405 — https://www.csac.ca.gov/cal-grants
+- [389] Middle Class Scholarship — 405 — https://www.csac.ca.gov/middle-class-scholarship
+- [405] CIF Scholar-Athlete of the Year — 403 — https://www.cifstate.org/parents-students/awards_and_scholarships/scholar-athlete
+- [457] Community Foundation of Sarasota County Scholarship — fetch failed — https://www.cfsarasota.org/students/scholarship-opportunities
+- [459] NYS Scholarships for Academic Excellence — fetch failed — https://www.nysed.gov/postsecondary-services/scholarships-academic-excellence-sae
+- [470] Empire State Arts Scholarship Program — fetch failed — https://www.nysed.gov/news/2026/applications-open-2026-empire-state-arts-scholarship-program
+- [491] Ronald McDonald House Charities New York Tri-State Area Scholarships — fetch failed — https://www.rmhcnytristate.org
+- [516] The Montgomery County Foundation Scholarships — fetch failed — https://mcfoundationinc.org/scholarships/
+- [559] LULAC National Scholarship Fund — 403 — https://www.lnesc.org/scholarships/lulac/
+- [604] Illinois Monetary Award Program (MAP) Grant — 403 — https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-program/
+- [605] Illinois Veteran Grant (IVG) — 403 — https://www.isac.org/isac-gift-assistance-programs/illinois-veteran-grant/ivg-program-overview.html
+- [606] Illinois National Guard (ING) Grant — 403 — https://www.isac.org/isac-gift-assistance-programs/illinois-national-guard-grant/
+- [607] Grant Program for Dependents of Police or Fire Officers — 403 — https://www.isac.org/students/during-college/types-of-financial-aid/grants/grnt-prgm-dep-p-f-ofcrs.html
+- [608] Golden Apple Scholars of Illinois — 403 — https://www.isac.org/students/during-college/types-of-financial-aid/scholarships/golden-apple-scholars-of-illinois.html
+- [609] Teachers of Illinois Scholarship Program — 403 — https://www.isac.org/students/during-college/types-of-financial-aid/scholarships/TISP.html
+- [610] Nursing Education Scholarship Program (NES) — 403 — https://www.isac.org/isac-gift-assistance-programs/NESP/NESP-overview.html
+- [621] Evans Scholarship — fetch failed — https://wgaesf.org/a-life-changing-opportunity/applying-evans-scholarship
+- [634] Illinois Restaurant Association Educational Foundation Scholarship — 403 — https://www.illinoisrestaurants.org/page/iraefscholarships
+- [638] Michigan Achievement Scholarship — 403 — https://www.michigan.gov/mistudentaid/programs/michigan-achievement-scholarship
+- [639] Michigan Competitive Scholarship — 403 — https://www.michigan.gov/mistudentaid/programs
+- [640] Michigan Tuition Grant — 403 — https://www.michigan.gov/mistudentaid/programs
+- [641] Michigan Fostering Futures Scholarship — 403 — https://www.michigan.gov/mistudentaid/programs
+- [642] Children of Veterans Tuition Grant — 403 — https://www.michigan.gov/mistudentaid/programs
+- [741] LUPE Latina Leadership Scholarship — 403 — https://www.lupenj.org/scholarship
+- [754] The Dayton Foundation ScholarshipCONNECT — fetch failed — https://www.daytonfoundation.org/scholarships
+- [761] Ohio 4-H Scholarships — 403 — https://ohio4h.org/families/just-teens/awards-scholarships/ohio-4-h-scholarships
+- [795] Hamilton County Community Foundation Scholarships — fetch failed — https://hccfindiana.org/scholarships
+- [801] Indiana Sheriffs' Association Scholarship — fetch failed — https://indianasheriffs.org/programs/scholarship-program/
+- [826] Massachusetts Society of CPAs Educational Foundation Scholarship — 403 — https://www.masscpas.org/ed-foundation/scholarship-program/eligibility
+- [841] AFT Massachusetts Scholarship — timeout — https://lynnteachersunion.org/scholarships2026
+- [879] Kiwanis Club of Ellicott City Scholarship — 403 — https://k02358.site.kiwanis.org/scholarship-opportunity/
+- [881] Baltimore Community Foundation Scholarships — 403 — https://www.bcf.org/scholarships/
+- [925] Virginia Commonwealth Award — 403 — https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid/virginia-commonwealth-award
+- [926] Virginia Guaranteed Assistance Program (VGAP) — 403 — https://sfs.virginia.edu/virginia-state-grant-programs
+- [927] Two-Year College Transfer Grant — 403 — https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid/two-year-college-transfer-grant
+- [929] Virginia Military Survivors and Dependents Education Program (VMSDEP) — 403 — https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep
+- [971] Washington Apple Education Foundation Scholarship — fetch failed — https://scholarships.waef.org/
+- [990] Whatcom Community College Foundation Scholarships — 403 — https://www.whatcom.edu/about-wcc/foundation/student-scholarships/apply-for-scholarships
+- [1008] Auburn University Competitive Merit Scholarship (In-State) — timeout — https://auburn.edu/scholarship/undergraduate/firstyearstudents.php
+- [1009] Community Foundation of Greater Birmingham Scholarship — fetch failed — https://www.cfbham.org/grants/scholarships/
+- [1010] Maria Campbell / Bouchelle Scholarship for Children of Episcopal Clergy — fetch failed — https://www.cfbham.org/grants/scholarships/
+- [1027] Alabama Space Grant Consortium Undergraduate Scholarship — fetch failed — https://spacegrant.uah.edu/programs/scholarship-fellowship-programs.html
+- [1032] Colorado Opportunity Scholarship Initiative (COSI) Matching Student Scholarship — 403 — https://cdhe.colorado.gov/cosi
+- [1053] Greenhouse Scholars Program — fetch failed — https://apply.greenhousescholars.com/
+- [1083] Marshall H. and Nellie Alworth Memorial Scholarship — fetch failed — https://www.alworthscholarship.org/
+- [1087] Rotary Club of Lakeville STRIVE Scholarship — fetch failed — https://lakevillerotary.org/rotary-club-of-lakeville-foundation/foundation-scholarships/
+- [1105] Minority Teaching Scholarship — 403 — https://dese.mo.gov/college-career-readiness/high-school-equivalency/scholarships-financial-aid
+- [1115] Black Community Scholarship Fund — fetch failed — https://www.blackcommunityfund.org/
+- [1120] AGC of Missouri Education Foundation Scholarship — timeout — https://www.agcmo.org/WCM/wcm/nav_items/education/scholarship_opportunities.aspx
+- [1127] Missouri 4-H Foundation Scholarships — 403 — https://extension.missouri.edu/media/wysiwyg/Extensiondata/Pro/4HFoundation/Docs/2026-4-H-scholarship-list.pdf
+- [1155] William Melvin and Juanita W. Brown Scholarship — fetch failed — https://coastalcommunityfoundation.org/scholarships/type/scholarships-for-current-high-school-seniors/
+- [1157] Porgy & Bess Music Scholarship — fetch failed — https://coastalcommunityfoundation.org/scholarships/type/scholarships-for-current-high-school-seniors/
+- [1161] Charleston First Responders Scholarship — fetch failed — https://coastalcommunityfoundation.org/scholarships/type/scholarships-for-current-high-school-seniors/
+- [1182] WHSF Mexican Fiesta Scholarship — 403 — https://www.mexicanfiesta.org/scholarship/
+- [1218] Big Y Scholarship Program — 403 — https://www.bigy.com/page/community/scholarships
+- [1223] SWE Hartford Section Freshman Scholarship — 403 — https://hartford.swe.org/scholarships
+- [1224] SWE Connecticut Jean R. Beers Scholarship — 403 — https://ct.swe.org/jean-r-beers-scholarship
+- [1236] Bridgeport Public Education Fund Scholarships — fetch failed — https://www.bpef.info/
+- [1252] Iowa State Elks Association Vocational Grant — timeout — https://iowaelks.org/enf/scholarships/
+- [1256] LULAC National Scholarship Fund (Iowa Councils) — 403 — https://www.lnesc.org/scholarships/lulac/
+- [1294] Louisville Branch NAACP Scholarship Awards Program — fetch failed — https://www.naacplou.org/scholarship
+- [1335] University of Oklahoma Sooner Heritage Scholarship — fetch failed — http://cq5publish.ou.edu/scholarships/ou/SoonerHeritage/
+- [1336] Oklahoma State University Freshman Academic Scholarships — 403 — https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/freshman-scholarships
+- [1337] OSU Horizon Scholars Program — 403 — https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/freshman-scholarships
+- [1340] Oklahoma 4-H Scholarships — fetch failed — https://oklahoma4h.okstate.edu/
+- [1342] University of Central Oklahoma Incoming Freshman Scholarships — 403 — https://www.uco.edu/admissions/scholarships/freshman
+- [1361] Salem-Keizer NAACP High School Scholarship — timeout — https://www.sknaacp1166.org/events/high-school-scholarship-deadline
+- [1363] Oregon Farm Bureau Memorial Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1364] Oregon Nurseries Foundation Scholarship — 403 — https://www.oan.org/page/onfapply
+- [1369] Umatilla-Morrow County Farm Bureau Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1370] Benton County Farm Bureau Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1371] Klamath-Lake County Farm Bureau Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1372] Malheur County Farm Bureau Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1373] Coos-Curry County Farm Bureau Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1374] Douglas County Farm Bureau Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1375] Yamhill County Farm Bureau Scholarship — fetch failed — https://www.oregonfb.org/scholarships
+- [1376] Utah Opportunity Scholarship — fetch failed — https://ushe.edu/state-scholarships-aid/opportunity-scholarship/
+- [1377] Utah Promise Grant — fetch failed — https://ushe.edu/utah-promise-grant/
+- [1378] First Credential Scholarship — fetch failed — https://ushe.edu/first-credential-scholarship/
+- [1379] T.H. Bell Education Scholarship — fetch failed — https://ushe.edu/t-h-bell-education-scholarship/
+- [1380] Karen Mayne Public Safety Officer Scholarship — fetch failed — https://ushe.edu/karen-mayne-public-safety-officer-scholarship-program/
+- [1381] Veterans Tuition Gap Program — fetch failed — https://ushe.edu/veterans-tuition-gap-program/
+- [1382] Adult Learner Grant — fetch failed — https://ushe.edu/adult-learner-grant-program/
+- [1458] Black Community Scholarship Fund — fetch failed — https://www.blackcommunityfund.org/scholarships
+- [1461] Topeka Community Foundation Scholarships — fetch failed — https://topekacommunityfoundation.org/scholarships-apply-here
+- [1477] Freshman Mississippi Resident Academic Scholarship Package — 403 — https://www.admissions.msstate.edu/scholarships/details/freshman-mississippi-resident-academic-scholarship-package
+- [1496] Distinguished Young Women Scholarship (MSU) — 403 — https://www.admissions.msstate.edu/scholarships/details/distinguished-young-women-scholarship
+- [1505] Regents Scholarship — 502 — https://www.fastweb.com/college-scholarships/scholarships/37669-regents-scholarship-university-of-nebraska-lincoln
+- [1510] Union Pacific Latino Employee Network (LEN) Scholarship — 502 — https://www.up.com/aboutup/community/len-scholarship/index.htm
+- [1516] Husker Harvest Days Scholarship — 403 — https://www.farmprogress.com/husker-harvest-days/apply-today-for-husker-harvest-days-scholarship
+- [1561] Silver State Opportunity Grant (SSOG) — fetch failed — https://gotocollege.nevada.edu/paying-for-college/silver-state-opportunity-grant-ssog/
+- [1567] Hannah Brown CDC Scholarship — fetch failed — https://www.urbanchamber.org/scholarship-application/
+- [1600] Mamoru and Aiko Takitani Foundation Scholarship — fetch failed — https://takitanifoundation.org/for-students-2/
+- [1605] HawaiiUSA Federal Credit Union Student Scholarship — 403 — https://www.hawaiiusafcu.com/about/giving-back/community-support/scholarships
+- [1610] Russell J. Hata Scholarship — fetch failed — https://yhatanews.com/russell-j-hata-scholarship-open-to-high-school-seniors/
+- [1617] Hawaii Community Federal Credit Union Scholarship — 403 — https://www.hicommfcu.com/resources/community/scholarships
+- [1620] Idaho Opportunity Scholarship — timeout — https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship
+- [1621] Idaho Governor's Cup Scholarship (Academic) — timeout — https://nextsteps.idaho.gov/scholarship-idaho/idaho-governors-cup-or-academic
+- [1622] Idaho Governor's Cup Scholarship (Career Technical) — timeout — https://nextsteps.idaho.gov/scholarship-idaho/idaho-governors-cup-or-cte
+- [1629] Armed Forces and Public Safety Officer Dependent Scholarship — timeout — https://nextsteps.idaho.gov/scholarship-idaho/armed-forces-and-pso-dependent-scholarship
+- [1635] Idaho LAUNCH Grant — timeout — https://nextsteps.idaho.gov/launch
+- [1698] New Hampshire Higher Education Scholarship for Orphans of Veterans — 403 — https://www.education.nh.gov/who-we-are/division-of-educator-support-and-higher-education/higher-education/higher-education-scholarships-for-orphans-of-veterans
+- [1706] Structural Engineers of New Hampshire Scholarship — 403 — https://senh.org/SENH_Scholarships
+- [1710] NHADA Foundation Automotive Scholarship — fetch failed — https://foundation.nhada.com/scholarships
+- [1717] Winnie MacLaughlin Scholarship — fetch failed — https://www.nhbarfoundation.org/
+- [1730] WVU University Merit Scholarship — 403 — https://hub.wvu.edu/types-of-aid/scholarships/institutional/university-merit
+- [1731] WVU Foundation Scholarship — 403 — https://hub.wvu.edu/types-of-aid/scholarships/institutional/foundation
+- [1754] Ahtna Heritage Foundation Vocational Scholarship — 403 — https://www.ahtna.com/shareholders/vocational-scholarship/
+- [1756] ATIA Foundation Student Scholarship — 403 — https://www.alaskatia.org/about/foundation/scholarships
+- [1759] Alaska Space Grant Program Scholarship — fetch failed — https://spacegrant.alaska.edu/
+- [1767] District Scholars Award — 403 — https://www.american.edu/admissions/first-year/district-scholars.cfm
+- [1775] AFCEA Washington, DC Chapter STEM Scholarships — 403 — https://afceadc-stem.secure-platform.com/a
+- [1779] Scholarship Incentive Program (ScIP) — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1780] Charles L. Hebner Memorial Scholarship (Diamond State) — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1781] B. Bradford Barnes Memorial Scholarship — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1782] Herman M. Holloway Sr. Memorial Scholarship — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1783] Delaware Career-based Scholarship — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1784] Educator Support Scholarship (Undergraduate) — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1785] Educator Support Scholarship (Graduate) — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1786] Speech-Language Pathologist Scholarship — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1787] Educational Benefits for Children of Deceased Veterans and Others — 403 — https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships
+- [1788] SEED Scholarship (Student Excellence Equals Degree) — 403 — https://www.delawarestudentsuccess.org/seed-and-inspire/
+- [1801] North Dakota State Grant — fetch failed — https://ndus.edu/paying-for-college/state-grant
+- [1803] North Dakota Native American Scholarship — fetch failed — https://ndus.edu/paying-for-college/native-american-scholarship
+- [1810] North Dakota United Member and Dependent Scholarship — 403 — https://ndunited.org/foundation/scholarships-and-grants
+- [1811] North Dakota United Ethnic Minority Scholarship — 403 — https://ndunited.org/foundation/scholarships-and-grants
+- [1816] NDFU Bergman Scholarship — fetch failed — https://ndfu.org/youth/scholarships/
+- [1817] NDFU Stanley Moore National Scholarship — fetch failed — https://ndfu.org/youth/scholarships/
+- [1818] NDFU Hubert K. and JoAnn Seymour Scholarship — fetch failed — https://ndfu.org/youth/scholarships/
+- [1819] NDFU MANRRS Scholarship — fetch failed — https://ndfu.org/youth/scholarships/
+- [1820] North Dakota Farm Bureau Agriculture Scholarship — fetch failed — https://ndfb.org/
+- [1821] NDFB Student Volunteer Scholarship — fetch failed — https://ndfb.org/
+- [1825] Carter Roger Williams Scholarship — timeout — https://rifoundation.org/grants-scholarships/browse-scholarships/carterscholarship
+- [1826] Robert G. and Joyce Andrew College Scholarship Fund — timeout — https://rifoundation.org/grants-scholarships/browse-scholarships/robert-g-and-joyce-andrew-college-scholarship-fund
+- [1827] Patty and Melvin Alperin First Generation Scholarship — timeout — https://rifoundation.org/grants-scholarships/browse-scholarships
+- [1828] Black Philanthropy Bannister Scholarship — timeout — https://rifoundation.org/grants-scholarships/browse-scholarships
+- [1829] Ocean State Media Scholarship (Rhode Island PBS and The Public's Radio) — timeout — https://rifoundation.org/grants-scholarships/browse-scholarships/rhode-island-pbs-scholarship
+- [1849] Wokini Scholarship — 403 — https://www.sdstate.edu/wokini-initiative/american-indian-student-center/wokini-scholarship-requirements
+- [1942] Arthur M. and Berdena King Eagle Scout Scholarship — 403 — https://www.sar.org/committees/eagle-scout-committee-arthur-king/
+- [1953] Society of Women Engineers Scholarship — 403 — https://swe.org/scholarships/
+- [1962] Jane M. Klausman Women in Business Scholarship — timeout — https://www.zonta.org/Web/Programs/Education/Women_in_Business_Scholarship.aspx
+- [1972] AfterCollege-AACN Scholarship Fund — 403 — https://aacnnursing.secure-platform.com/scholarships
+- [1992] IABA Foundation Scholarship — fetch failed — https://www.blackactuaries.org/
+- [1995] Jack Kinnaman Memorial Scholarship — 403 — https://www.nea.org/resource-library/jack-kinnaman-scholarship
+- [2011] Cirkled In No Sweat Scholarship — 403 — https://www.cirkledin.com/scholarships/
+- [2016] 4-H Youth in Action Award — 403 — https://4-h.org/programs/4-h-youth-in-action-program/
+- [2019] AIGA Worldstudio DxD Scholarships — 403 — https://www.aiga.org/competitions-initiatives/aiga-worldstudio-dd-scholarships
+- [2020] National Dairy Shrine Scholarships — 403 — https://dairyshrine.org/youth/
+- [2021] Joseph S. Rumbaugh Historical Oration Contest — 403 — https://www.sar.org/joseph-s-rumbaugh-historical-oration-contest/
+
+## Past deadline (update to next cycle)
+- [25] mikeroweWORKS Work Ethic Scholarship — was 2026-08-30
+- [458] Excelsior Scholarship — was 2026-08-31
+- [461] NYS Science, Technology, Engineering and Mathematics (STEM) Incentive Program — was 2026-08-31
+- [472] TeachNY Scholarship — was 2026-08-31
+- [784] William A. Crawford Minority Teacher Scholarship — was 2026-08-31
+- [793] Lilly Endowment Community Scholarship — was 2026-08-31
+- [1450] Kansas National Guard Educational Assistance — was 2026-08-31
+
+## URL moved (consider updating)
+- [6] Horatio Alger National Scholarship — https://scholars.horatioalger.org/ → https://horatioalger.org/scholarships-and-services/
+- [9] Davidson Fellows Scholarship — https://www.davidsongifted.org/fellows-scholarship/ → https://www.davidsongifted.org/gifted-programs/fellows-scholarship/
+- [18] Ron Brown Scholar Program — https://www.ronbrown.org/ → https://ronbrown.org/
+- [19] GE-Reagan Foundation Scholarship — https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/ → https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship
+- [20] Coolidge Scholarship — https://www.coolidgescholars.org/ → https://coolidgescholars.org/
+- [23] Taco Bell Live Mas Scholarship — https://www.tacobellfoundation.org/live-mas-scholarship/ → https://tacobellfoundation.org/live-mas-scholarship/
+- [25] mikeroweWORKS Work Ethic Scholarship — https://www.mikeroweworks.org/scholarship/ → https://mikeroweworks.org/scholarship/
+- [28] Pat Tillman Scholarship — https://pattillmanfoundation.org/apply-to-be-a-scholar/ → https://pattillmanfoundation.org/apply/
+- [29] AMVETS National Scholarship — https://amvets.org/scholarships/ → https://www.amvets.org/scholarships
+- [32] Astronaut Scholarship — https://astronautscholarship.org/scholarship/ → https://www.astronautscholarship.org/support/scholarship-sponsors/
+- [33] NSF Graduate Research Fellowship — https://www.nsfgrfp.org/ → https://www.nsf.gov/funding/initiatives/grfp
+- [34] Ford Foundation Fellowship Program — https://www.nationalacademies.org/our-work/ford-foundation-fellowships → https://www.nationalacademies.org/units/NRCEO-OFELL-25-P-711
+- [36] Rhodes Scholarship — https://www.rhodesscholar.org/ → https://www.rhodeshouse.ox.ac.uk/office-of-the-american-secretary/
+- [53] Phi Theta Kappa Scholarships — https://www.ptk.org/scholarships/ → https://www.ptk.org/scholarships/how-our-scholarships-work/
+- [58] ACS Scholars Program — https://www.acs.org/funding/scholarships-fellowships/acs-scholars.html → https://www.acs.org/education/acs-undergraduate-scholarship.html
+- [59] NSBE Scholarships — https://www.nsbe.org/scholarships → https://nsbe.org/scholarships/
+- [61] Great Minds in STEM Scholarships — https://www.greatmindsinstem.org/ → https://greatmindsinstem.org/
+- [62] AFCEA Educational Foundation Scholarships — https://www.afcea.org/scholarships → https://www.afcea.org/afcea-educational-foundation
+- [74] AISES Scholarships — https://www.aises.org/scholarships → https://aises.org/scholarships/
+- [75] Actuarial Foundation Scholarships — https://www.actuarialfoundation.org/scholarships/ → https://actuarialfoundation.org/scholarships/
+- [76] AICPA Scholarships — https://www.aicpa-cima.com/scholarships → https://www.aicpa-cima.com/resources/article/aicpa-scholarships-can-support-your-accounting-education
+- [77] NABA Scholarship Program — https://www.nabainc.org/scholarships → https://nabainc.org/scholarships/
+- [79] IMA Memorial Education Fund Scholarships — https://www.imanet.org/ → https://www.imaglobal.org/
+- [81] NRAEF Restaurant Industry Scholarships — https://chooserestaurants.org/Scholarships → https://chooserestaurants.org/programs/scholarships-grants/scholarships/
+- [86] NBNA Scholarship Program — https://www.nbna.org/scholarships → https://nbna.org/programs-committees/programs/scholarships/
+- [90] HOSA Scholarships — https://www.hosa.org/scholarships → https://hosa.org/scholarships/
+- [94] AFT Scholarships — https://www.aft.org/scholarships → https://www.aft.org/member-benefits/education-learning-opportunities/scholarships
+- [98] Princess Grace Awards — https://www.pgfusa.org/apply → https://pgfusa.org/apply/
+- [101] AWS Foundation Scholarships — https://www.aws.org/foundation/page/scholarships → https://www.aws.org/Career-Resources/Students/Scholarships/
+- [103] PHCC Educational Foundation Scholarships — https://www.phccfoundation.org/scholarships/ → https://www.phccfoundation.org/scholarship-program/
+- [114] AAJA Scholarships — https://www.aaja.org/programs/scholarships/ → https://www.aaja.org/news-and-resources/scholarships-internships/
+- [116] APIA Scholars Scholarship — https://apiascholars.org/scholarship/apia-scholarship/ → https://apiascholars.org/scholarships/
+- [117] Cobell Scholarship — https://cobellscholar.org/ → https://www.cobellscholar.org/
+- [122] Golden Door Scholars — https://www.goldendoorscholars.org/ → https://www.roadtohire.org/golden-door-scholars
+- [124] HACU Scholarship Program — https://www.hacu.net/hacu/Scholarships.asp → https://hacu.net/programs/hacu-scholarship-program/
+- [127] Thurgood Marshall College Fund Scholarships — https://tmcf.org/students/scholarships/ → https://tmcf.org/scholarships/
+- [129] Jackie Robinson Foundation Scholarship — https://www.jackierobinson.org/apply/ → https://jackierobinson.org/apply/
+- [131] Hispanic Heritage Foundation Youth Awards — https://hispanicheritage.org/programs/youth-awards/ → https://hispanicheritage.org/discover/youth-awards/
+- [133] Davis-Putter Scholarship Fund — https://davisputter.org/ → https://www.davisputter.org/
+- [135] QuestBridge College Prep Scholars — https://www.questbridge.org/high-school-students/college-prep-scholars → https://www.questbridge.org/apply-to-college/programs/college-prep-scholars-program
+- [139] Soroptimist Live Your Dream Awards — https://www.soroptimist.org/our-work/live-your-dream-awards/ → https://www.soroptimist.org/our-work/live-your-dream-awards/index.html
+- [142] Women’s Independence Scholarship Program — https://www.wispinc.org/ → https://wispinc.org/
+- [147] Scholarships for Military Children — https://militaryscholar.org/ → https://www.fisherhouse.org/programs/scholarship-programs/
+- [149] Army ROTC Scholarship — https://www.goarmy.com/rotc/scholarships.html → https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc/scholarships
+- [152] American Legion Oratorical Contest — https://www.legion.org/oratorical → https://www.legion.org/get-involved/youth-programs/oratorical-contest
+- [153] American Legion Scholarships — https://www.legion.org/scholarships → https://www.legion.org/get-involved/scholarships
+- [156] DAR Scholarships — https://www.dar.org/national-society/scholarships → https://www.dar.org/outreach/education/scholarships
+- [167] College Ave $1,000 Monthly Scholarship — https://www.collegeave.com/scholarships/ → https://www.collegeave.com/articles/scholarships-for-grad-students/
+- [170] Terry Foundation Scholarship — https://www.terryfoundation.org/ → https://terryfoundation.org/
+- [172] New York State Grants and Scholarships — https://www.hesc.ny.gov/ → https://hesc.ny.gov/
+- [173] Pennsylvania State Grant — https://www.pheaa.org/funding-opportunities/state-grant-program/ → https://www.pheaa.org/grants/state-grant-program
+- [178] NC Teaching Fellows — https://ncteachingfellows.com/ → https://myapps.northcarolina.edu/ncteachingfellows/
+- [180] Golden Apple Scholars of Illinois — https://www.goldenapple.org/scholars → https://www.goldenapple.org/become-a-teacher
+- [224] Television Academy Foundation Programs — https://www.emmys.com/foundation/programs → https://www.televisionacademy.com/foundation/programs
+- [231] Anchor Scholarship Foundation — https://www.anchorscholarship.com/ → https://anchorscholarship.org/
+- [241] Google Lime Scholarship — https://www.limeconnect.com/programs/page/google-lime-scholarship → https://limeconnect.com/opportunities/scholarships-awards/
+- [242] Microsoft Disability Scholarship — https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship → https://learnmore.scholarsapply.org/microsoft-disability/
+- [245] AG Bell College Scholarship — https://www.agbell.org/Programs/Scholarships → https://agbell.org/2020/01/24/scholarships-change-lives/
+- [249] Society of Physics Students Scholarships — https://www.spsnational.org/scholarships → https://students.aip.org/sps
+- [251] IISE Scholarships — https://www.iise.org/scholarships → https://www.iise.org/Details.aspx?id=857
+- [257] ASABE Scholarships — https://www.asabe.org/awards-competitions/scholarships → https://asabe.org/awards-competitions/scholarships
+- [271] AMBUCS Scholars for Therapists — https://ambucs.org/scholars/ → https://ambucs.org/scholarship-program/
+- [299] Institute of Food Technologists Scholarships — https://www.ift.org/community/students → https://www.ift.org/advance-your-career/students
+- [306] Dell Scholars Program — https://www.dellscholars.org/scholarship/ → https://www.dellscholars.org/students/
+- [309] APIA Scholars Scholarship — https://apiascholars.org/scholarship/apia-scholarship/ → https://apiascholars.org/scholarships/
+- [313] AWS Foundation Welding Scholarships — https://www.aws.org/foundation/page/scholarships → https://www.aws.org/Career-Resources/Students/Scholarships/
+- [314] NBNA Scholarship Program — https://www.nbna.org/scholarships → https://nbna.org/programs-committees/programs/scholarships/
+- [315] Horatio Alger National Scholarship — https://scholars.horatioalger.org/ → https://horatioalger.org/scholarships-and-services/
+- [359] Community Foundation for Southern Arizona Scholarships — https://cfsaz.org/scholarships/ → https://cfsaz.org/scholarship-resources/
+- [360] ACF Yavapai County Cash for College Scholarships — https://www.azfoundation.org/Give-Where-You-Live/Yavapai-County/Scholarship-Applications → https://www.azfoundation.org/ways-to-give/give-locally/acf-of-yavapai-county/
+- [383] President Barack Obama Scholars Program — https://students.asu.edu/financialaid/types/special → https://tuition.asu.edu/special-financial-assistance-programs-arizona-residents
+- [385] NAU Access2Excellence — https://nau.edu/office-scholarships-financial-aid/aid-programs/access2excellence/ → https://nau.edu/financial-aid/aid-programs/access-2-excellence/
+- [432] Florida Engineering Society High School Scholarship — https://fleng.org/support-future-engineers/scholarships/ → https://fleng.org/future-engineers/scholarships/
+- [433] FES Henn Rebane Scholarship — https://fleng.org/support-future-engineers/scholarships/ → https://fleng.org/future-engineers/scholarships/
+- [434] Florida Engineering Foundation (FEE) Scholarship — https://fleng.org/support-future-engineers/scholarships/ → https://fleng.org/future-engineers/scholarships/
+- [435] FES FECON Construction Engineering Scholarship — https://fleng.org/support-future-engineers/scholarships/ → https://fleng.org/future-engineers/scholarships/
+- [487] New York Women in Communications Foundation Scholarship — https://www.nywici.org → https://nywici.org/
+- [494] New York Farm Bureau Agricultural Youth Scholarship — https://nyfb.org/programs/promotion-education/scholarship → https://nyfb.org/programs/promotion-and-engagement/scholarship/
+- [496] Grow PA Scholarship Grant — https://www.pheaa.org/growpa → https://www.pheaa.org/funding-opportunities/grow-pa-scholarship-grant-program
+- [569] HOPE Scholarship — https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/ → https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/
+- [576] Georgia Public Safety Memorial Grant — https://www.gafutures.org/hope-state-aid-programs/scholarships-grants/public-safety-memorial-grant/eligibility/ → https://www.gafutures.org/hope-state-aid-programs/scholarships-grants/public-service-memorial/eligibility/
+- [631] DuPage Foundation Scholarship Funds — https://dupagefoundation.org/who-we-are/foundation-funds.html/title/scholarship-funds → https://www.dupagefoundation.org/foundation-funds/scholarship-funds/
+- [633] CSBG Scholarship Program — https://www.chicago.gov/fss/scholarship → https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_serviceblockgrantscholarship.html
+- [661] John Weir Academic Scholarship — https://accessscholarships.com/scholarship/john-weir-academic-scholarship → https://accessscholarships.com/search-scholarships/
+- [689] Winston-Salem Foundation Scholarships (One-Stop Application) — https://wsfoundation.academicworks.com/ → https://www.blackbaud.com/products/award-scholarship-management
+- [752] Greater Cincinnati African American Scholarship Fund — https://www.gcfdn.org/blog/application-process-open-for-greater-cincinnati-african-american-scholarship-fund-2/ → https://www.gcfdn.org/blog/application-process-open-for-greater-cincinnati-african-american-scholarship-fund/
+- [757] Foundation for Appalachian Ohio Scholarships — https://appalachianohio.org/scholarships/ → https://appalachianohio.org/opportunities/scholarships/
+- [758] Akron Community Foundation Scholarships — https://www.akroncf.org/Scholarships → https://www.akroncf.org/students/
+- [797] Community Foundation Alliance Scholarships (Southwest Indiana) — https://www.communityfoundationalliance.org/apply-today-2026-community-scholarships-available-for-southwest-indiana-students → https://cfswi.org/
+- [798] La Plaza Scholarship Fund — https://www.laplazaindy.org/scholarship-fund/ → https://laplazaindy.org/scholarship-fund/
+- [802] Indiana Broadcasters Foundation Scholarship — https://www.indianabroadcasters.org/careers/2026-scholarship-recipients/ → https://indianabroadcasters.org/careers/2026-scholarship-recipients/
+- [803] Indiana Farm Bureau Ag Impact Scholarship — https://infarmbureau.org/scholarships → https://www.infarmbureau.org/resources/scholarships-and-grants
+- [804] Collegiate Farm Bureau Scholarship — https://infarmbureau.org/scholarships → https://www.infarmbureau.org/resources/scholarships-and-grants
+- [806] IU Covenant (21st Century Scholars) — https://21centuryscholars.indiana.edu/current-students/faqs.html → https://studentlife.indiana.edu/involvement-belonging/21st-century-scholars/current-students/index.html
+- [842] Massachusetts AFL-CIO Scholarship Program — https://massaflcio.org/content/41788 → https://massaflcio.org/scholarships
+- [885] Tennessee HOPE Scholarship — https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-scholarship/ → https://www.collegefortn.org/tennessee-hope-scholarship-3/
+- [886] Tennessee Promise — https://www.tn.gov/tnpromise.html → https://www.collegefortn.org/tnpromise/
+- [888] Tennessee Aspire Award — https://www.collegefortn.org/tennessee-financial-aid/aspire-award/ → https://www.collegefortn.org/aspire-award/
+- [889] General Assembly Merit Scholarship (GAMS) — https://www.collegefortn.org/tennessee-financial-aid/general-assembly-merit-scholarship/ → https://www.collegefortn.org/general-assembly-merit-scholarship/
+- [891] Wilder-Naifeh Technical Skills Grant — https://www.collegefortn.org/tennessee-financial-aid/wilder-naifeh-technical-skills-grant/ → https://www.collegefortn.org/wilder-naifeh-technical-skills-grant/
+- [892] Tennessee Dual Enrollment Grant — https://www.collegefortn.org/tennessee-financial-aid/dual-enrollment-grant/ → https://www.collegefortn.org/dual-enrollment-grant-faqs/
+- [894] HOPE Foster Child Tuition Grant — https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-foster-child-tuition-grant/ → https://www.collegefortn.org/tennessee-hope-foster-child-tuition-grant/
+- [895] Ned McWherter Scholars Program — https://www.collegefortn.org/tennessee-financial-aid/ned-mcwherter-scholars-program/ → https://www.collegefortn.org/ned-mcwherter-scholars-program/
+- [903] Community Foundation of Greater Memphis Scholarships — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [904] Kylen C. Bares Memorial Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [905] Dr. William and Helen Lucile Gillaspie Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [906] Harold and Ida Jamison Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [907] Maxine A. Smith Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [908] CFGM Community Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [909] Constance Butler Goforth Education Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [910] Helen Hoffman Education Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [911] Don Poier Memorial Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [912] Original Fayette County Civic and Welfare League Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [913] Claude P. Thompson Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [914] Annie Ervin Willis Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [915] Charles E. Howard Memorial Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [916] Edna Fant McConnell Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [917] Ruth H. Mims Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [918] Joseph W. Westbrook / Eldridge Pete Mitchell Melrose Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [919] City of Memphis I AM A MAN Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [920] Ruby Holmes Hefley Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [923] Kicklighter Family Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [924] Mary A. Jackson Smith / Gloria V. Smith Family Scholarship — https://www.cfgm.org/scholarships/ → https://cfgm.org/grants-scholarships/scholarships/
+- [1015] Linly Heflin Scholarship — https://linlyheflin.org/apply/ → https://www.linlyheflin.org/apply/
+- [1016] CollegeCounts Scholarship — https://www.treasury.alabama.gov/collegecounts-scholarship/ → https://treasury.alabama.gov/programs/collegecounts-scholarship/
+- [1022] Alabama Cattlemen's Foundation Scholarships — https://bamabeef.org/p/about/scholarships1 → https://www.bamabeef.org/p/about/scholarships1
+- [1025] Cabaniss, Johnston Law School Scholarship — https://alabamalawfoundation.org/scholarships/law-school-scholarships/ → https://www.alabamalawfoundation.org/scholarships/law-school-scholarships/
+- [1026] Kids' Chance of Alabama Scholarship — https://alabamalawfoundation.org/scholarships/kids-chance/ → https://www.alabamalawfoundation.org/scholarships/kids-chance/
+- [1041] Excelsior Scholarship Fund — https://denverfoundation.org/scholarship/excelsior-scholarship-fund-community-college-and-trade-school-students/ → https://denverfoundation.org/scholarship/excelsior-scholarship/
+- [1061] North Star Promise Scholarship — https://ohe.mn.gov/grant-scholarship/north-star-promise → https://ohe.mn.gov/northstarpromise
+- [1114] Hispanic Festival Inc. Scholarship — https://stlouisgraduates.academicworks.com/opportunities/9904 → https://stlouisgraduates.academicworks.com/users/sign_in
+- [1121] Missouri REALTORS Scholarship — https://www.missourirealtor.org/resources/get-involved/apply-for-scholarship → https://thelanding.missourirealtor.org/resources/get-involved/apply-for-scholarship
+- [1122] Mizzou Freshman Merit Scholarships — https://admissions.missouri.edu/scholarships/freshman-scholarships/ → https://admissions.missouri.edu/costs-aid/scholarships/freshman-scholarships/
+- [1126] UMSL Scholarships for Hispanic and Latino Students — https://umsl.academicworks.com/opportunities/4750 → https://www.blackbaud.com/products/award-scholarship-management
+- [1140] A.C. Flora Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1141] Alpha Iota Boule - Matthew J. Perry, Jr. Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1142] Benny and Eleanor Clark Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1143] Bertha and Addison Bostain, Sr. Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1144] Bobbi Rossi Memorial Scholarship (Cardinal Newman School) — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1145] Bobbi Rossi Memorial Scholarship (USC School of Nursing) — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1146] Central Carolina Community Foundation Opportunity Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1147] Dinkins Family Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1148] Dr. Robert Howard/WHS Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1149] Grace Brooks and E. Perry Palmer (Claflin) Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1150] Zack and Rachel Clarkson Scholarship — https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/ → https://www.yourfoundation.org/for-students/scholarship-directory/
+- [1178] Herb Kohl Excellence Scholarship — https://www.kohleducation.org/ → https://www.herbkohlphilanthropies.org/celebrating-excellence-in-education/
+- [1179] Herb Kohl Student Initiative Scholarship — https://www.kohleducation.org/ → https://www.herbkohlphilanthropies.org/celebrating-excellence-in-education/
+- [1205] Roberta B. Willis Scholarship - Need-Based Grant — https://www.ohe.ct.gov/SFA/WillisScholarship.shtml → https://portal.ct.gov/ohe
+- [1206] Roberta B. Willis Scholarship - Need-Merit Award — https://www.ohe.ct.gov/SFA/WillisScholarship.shtml → https://portal.ct.gov/ohe
+- [1222] Bohdan Kolinsky Memorial Sports Media Scholarship — https://ctsportswriters.com/scholarship → https://www.ctsportswriters.com/scholarship
+- [1225] CHESLA Undergraduate Scholarship — https://www.chesla.org/scholarships → https://chesla.org/scholarships/
+- [1226] Waterbury Promise Scholarship — https://waterburypromise.org/ → https://www.waterburypromise.org/
+- [1233] Norwalk Community College Foundation Path2Success Scholarship — https://www.ncc-foundation.org/scholarships → https://ncc-foundation.org/scholarships/
+- [1243] Iowa National Guard Service Scholarship — https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/iowa-national-guard-service-scholarship → https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/iowa-national-guard-benefits
+- [1248] Iowa Newspaper Foundation Scholarship — https://inanews.com/learn/scholarships/ → https://inanews.com/careers-education/student-resources/scholarships/
+- [1282] Kentucky Governor's Scholars Program — https://gsp.ky.gov/ → https://gsp.ky.gov/Pages/index.aspx
+- [1312] Oklahoma's Promise (OHLAP) — https://okpromise.org/application-requirements.shtml → https://okpromise.org/application-requirements/
+- [1318] OCCF New Opportunities Scholarship — https://occf.academicworks.com/opportunities/3791 → https://www.blackbaud.com/products/award-scholarship-management
+- [1321] Tulsa Community Foundation My Dream / Mi Sueno Scholarship — https://tulsacf.org/mydreamscholarship/ → https://tulsacf.org/
+- [1349] Oregon Opportunity Grant — https://oregonstudentaid.gov/oregon-opportunity-grant.aspx → https://oregonstudentaid.gov/grants/oregon-opportunity-grant/
+- [1353] Apex Scholarship — https://financialaid.uoregon.edu/apex → https://financialaid.uoregon.edu/scholarships
+- [1354] Summit Scholarship — https://financialaid.uoregon.edu/summit → https://financialaid.uoregon.edu/scholarships
+- [1397] Daniels Scholarship Program — https://www.danielsfund.org/scholarships → https://danielsfund.org/our-work/scholarships/
+- [1413] Governor's Distinguished Scholarship — https://sams.adhe.edu/Scholarship/Page/GS/gds-information-sheet → https://sams.adhe.edu/Error
+- [1472] Mississippi Tuition Assistance Grant (MTAG) — https://www.msfinancialaid.org/mtag/ → https://www.msfinancialaid.org/programs/mtag-mississippi-tuition-assistance-grant/
+- [1473] Mississippi Eminent Scholars Grant (MESG) — https://www.msfinancialaid.org/mesg/ → https://www.msfinancialaid.org/programs/mesg-mississippi-eminent-scholars-grant/
+- [1474] Higher Education Legislative Plan (HELP) Grant — https://www.msfinancialaid.org/help/ → https://www.msfinancialaid.org/programs/help-higher-ed-legislative-plan/
+- [1475] Nissan Scholarship — https://www.msfinancialaid.org/nissan/ → https://www.msfinancialaid.org/programs/niss-nissan-scholarship/
+- [1476] FAITH Scholarship (Fostering Access and Inspiring True Hope) — https://www.msfinancialaid.org/faith/ → https://www.msfinancialaid.org/programs/faith-scholarship/
+- [1511] Union Pacific Black Employee Network (BEN) Scholarship — https://newsroom.unl.edu/announce/metr/18523/100534 → https://shib.unl.edu/idp/profile/cas/login?execution=e1s1
+- [1520] Ponca Tribe Higher Education Grant — https://www.poncatribe-ne.gov/services/education/financial-aid/ → https://poncatribe-ne.gov/services/education/financial-aid/
+- [1532] Daniels Scholarship Program — https://danielsfund.org/scholarships/daniels-scholarship-program/overview → https://danielsfund.org/our-work/scholarships/
+- [1540] Nina J. Wing Scholarship — https://cnm.academicworks.com/opportunities/620 → https://cnm.academicworks.com/opportunities/3194
+- [1612] HMSA Kaimana Scholarship — https://hmsa.com/kaimana → https://hmsa.com/awards-and-scholarships/hmsa-kaimana-awards-and-scholarship-program/
+- [1615] UH Second Century Scholarship — https://www.hawaii.edu/tuition/scholarships/ → https://hawaii.edu/costs/financial-aid
+- [1631] Idaho Postsecondary Credit Scholarship — https://boardofed.idaho.gov/scholarships/ → https://boardofed.idaho.gov/education-programs/state-aid-tuition-exchange/
+- [1634] STEM-ID Scholarship — https://stem.idaho.gov/stem-id/ → https://stem.idaho.gov/
+- [1646] Mitchell Institute Scholarship — https://mitchellinstitute.org/scholarship/ → https://www.mitchellinstitute.org/a-10000-college-scholarship-plus-so-much-more/
+- [1650] Maine Island Higher Education Scholarship — https://www.islandinstitute.org/solutions/scholarships/ → https://www.islandinstitute.org/solutions/community-impact-fund/
+- [1671] Montana Higher Education Grant (MHEG) — https://www.umt.edu/financial-aid/types-of-aid/grants/ → https://www.umt.edu/student-financial-services/financial-aid/types-of-aid/grants.php
+- [1672] MTAP-Baker Grant — https://www.umt.edu/financial-aid/types-of-aid/grants/ → https://www.umt.edu/student-financial-services/financial-aid/types-of-aid/grants.php
+- [1745] Sealaska Scholarship Program — https://scholarship.sealaskaheritage.org/ → https://scholarship.sealaskaheritage.org/Account/LogOn
+- [1758] Alaska Geological Society Scholarship — https://www.alaskageology.org/scholarships → https://www.alaskageology.org/scholarships.html
+- [1766] DC-CAP Scholarship Programs — https://dccap.org/ → https://www.dccap.org/
+- [1773] Meg Graham Scholarship — https://washington.jl.org/community/scholarships/ → https://washington.jl.org/sorry404/
+- [1802] North Dakota Scholars Program — https://www.ndsu.edu/onestop/north-dakota-resident-scholarships → https://www.ndsu.edu/onestop/finaid/awards/scholarships/resident
+- [1807] NDSU North Dakota Academic Scholarship Match — https://www.ndsu.edu/onestop/north-dakota-resident-scholarships → https://www.ndsu.edu/onestop/finaid/awards/scholarships/resident
+- [1855] Jackrabbit Guarantee Scholarship — https://www.sdstate.edu/admissions/first-time-freshmen-scholarships → https://www.sdstate.edu/admissions/first-time-student-scholarships
+- [1861] American Indian Education Fund Undergraduate Scholarship — https://www.aiefprogram.org/ → https://nativepartnership.org/aief/
+- [1865] 802Opportunity Grant — https://ccv.edu/financial/802-opportunity-tuition-free-college-for-vermonters/ → https://ccv.edu/paying-for-ccv/802-opportunity-brtuition-free-college-for-vermonters/
+- [1895] Wyoming Community Foundation Scholarships — https://wycf.org/scholarships/ → https://wycf.org/grants-scholarships/scholarships/scholarship-directory
+- [1906] Blue Cross Blue Shield of Wyoming Caring Foundation Scholarship — https://westernwyoming.academicworks.com/opportunities/2127 → https://www.blackbaud.com/products/award-scholarship-management
+- [1954] Anne Ford Scholarship — https://www.ncld.org/anne-ford-scholarship/ → https://ncld.org/scholarships-awards/anne-ford-scholarship/
+- [1957] Golden Door Scholars — https://roadtohire.org/golden-door-scholars → https://www.roadtohire.org/golden-door-scholars
+- [1960] Knights of Columbus Pro Deo and Pro Patria Scholarship — https://www.kofc.org/en/what-we-do/scholarships/us-undergraduate-scholarships.html → https://www.kofc.org/resources/scholarships/us-undergraduate-scholarships/
+- [1985] SME Education Foundation Scholarships — https://scholarships.smeef.org/ → https://scholarships.smeef.org/applications/
+- [1991] Actuary of Tomorrow - Stuart A. Robertson Memorial Scholarship — https://actuarialfoundation.org/scholarships/stuart-robertson-scholarship/ → https://actuarialfoundation.org/
+- [1997] Golden Opportunity Scholars Program — https://www.agronomy.org/awards → https://www.agronomy.org/awards?acsSsoAuthCheck=1
+- [1999] mikeroweWORKS Work Ethic Scholarship — https://www.mikeroweworks.org/scholarship → https://mikeroweworks.org/scholarship/
+- [2004] Ascent $1,000 Plan, Pay and Succeed Scholarship — https://www.ascentfunding.com/scholarships/monthly/ → https://www.ascentfunding.com/scholarships/plan-pay-succeed/
+- [2008] Juno $2,000 No Essay Scholarship — https://joinjuno.com/scholarship → https://joinjuno.com/scholarship/september-2026
