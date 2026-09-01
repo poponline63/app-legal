@@ -1,0 +1,2680 @@
+{
+  "checkedAt": "2026-09-01",
+  "total": 2019,
+  "broken": 36,
+  "needsManualCheck": 188,
+  "expired": 7,
+  "redirected": 201,
+  "brokenList": [
+    {
+      "id": 57,
+      "name": "AIAA Scholarships",
+      "url": "https://www.aiaa.org/get-involved/students-educators",
+      "status": 404
+    },
+    {
+      "id": 80,
+      "name": "FBLA Scholarships and Awards",
+      "url": "https://www.fbla.org/awards-and-scholarships/",
+      "status": 404
+    },
+    {
+      "id": 111,
+      "name": "SPJ Scholarships",
+      "url": "https://www.spj.org/scholarships.asp",
+      "status": 404
+    },
+    {
+      "id": 138,
+      "name": "Zonta Amelia Earhart Fellowship",
+      "url": "https://www.zonta.org/Web/Programs/Education/Amelia_Earhart_Fellowship.aspx",
+      "status": 404
+    },
+    {
+      "id": 175,
+      "name": "Ohio College Opportunity Grant",
+      "url": "https://highered.ohio.gov/",
+      "status": 404
+    },
+    {
+      "id": 187,
+      "name": "Arizona Community Foundation Scholarships",
+      "url": "https://www.azfoundation.org/apply-for-a-scholarship/",
+      "status": 404
+    },
+    {
+      "id": 211,
+      "name": "Horatio Alger Career and Technical Scholarship",
+      "url": "https://www.horatioalger.org/scholarships/career-technical/",
+      "status": 404
+    },
+    {
+      "id": 243,
+      "name": "AAHD Frederick J. Krause Scholarship",
+      "url": "https://aahd.us/best-practice/aahd-scholarship-program/",
+      "status": 404
+    },
+    {
+      "id": 259,
+      "name": "SEG Scholarships",
+      "url": "https://seg.org/community/students/scholarships/",
+      "status": 404
+    },
+    {
+      "id": 357,
+      "name": "Dorrance Scholarship",
+      "url": "https://dorrancescholarship.org/application/",
+      "status": 404
+    },
+    {
+      "id": 395,
+      "name": "ACUMEN Scholarship",
+      "url": "https://eastbaycf.smapply.io/prog/acumen_scholarship/",
+      "status": 404
+    },
+    {
+      "id": 415,
+      "name": "Rotary Club of Ignacio Scholarships",
+      "url": "https://ignaciorotary.org/",
+      "status": 404
+    },
+    {
+      "id": 508,
+      "name": "Scranton Area Community Foundation Scholarships",
+      "url": "https://safdn.org/apply-today-for-a-scholarship-2/",
+      "status": 404
+    },
+    {
+      "id": 547,
+      "name": "Texas Restaurant Foundation W. Price Jr. Memorial Scholarship",
+      "url": "https://txrestaurant.org/TRF/TRF/Workforce-Development/Scholarships-and-Grants.aspx",
+      "status": 404
+    },
+    {
+      "id": 746,
+      "name": "Ohio College Opportunity Grant (OCOG)",
+      "url": "https://highered.ohio.gov/students/pay-for-college/ohio-grants-scholarships/ocog/ocog",
+      "status": 404
+    },
+    {
+      "id": 747,
+      "name": "Choose Ohio First Scholarship",
+      "url": "https://highered.ohio.gov/initiatives/affordability/choose-ohio-first",
+      "status": 404
+    },
+    {
+      "id": 748,
+      "name": "Ohio War Orphan & Severely Disabled Veterans' Children Scholarship",
+      "url": "https://highered.ohio.gov/educators/financial-aid/sgs/wos",
+      "status": 404
+    },
+    {
+      "id": 896,
+      "name": "Christa McAuliffe Scholarship",
+      "url": "https://www.tn.gov/collegepays/money-for-college/loan-forgiveness-programs.html",
+      "status": 404
+    },
+    {
+      "id": 995,
+      "name": "Alabama G.I. Dependents' Scholarship Program",
+      "url": "https://va.alabama.gov/dependents-scholarship/",
+      "status": 404
+    },
+    {
+      "id": 1024,
+      "name": "Alabama Home Builders Foundation Scholarship",
+      "url": "https://ahbfoundation.org/scholarships/",
+      "status": 404
+    },
+    {
+      "id": 1049,
+      "name": "Colorado DECA Scholarship",
+      "url": "https://www.coloradodeca.org/scholarships",
+      "status": 404
+    },
+    {
+      "id": 1058,
+      "name": "North Colorado Springs Rotary Club Foundation Scholarship",
+      "url": "https://www.ncsrcfoundation.com/scholarships",
+      "status": 404
+    },
+    {
+      "id": 1231,
+      "name": "Minority Teacher Incentive Program (MTIP)",
+      "url": "https://portal.ct.gov/ohe/financial-aid/minority-teacher-incentive-program",
+      "status": 404
+    },
+    {
+      "id": 1326,
+      "name": "Cherokee Nation Undergraduate Scholarship Program",
+      "url": "https://www.cherokee.org/all-services/education-services/college-resources/higher-education/",
+      "status": 404
+    },
+    {
+      "id": 1391,
+      "name": "Larry H. and Gail Miller Enrichment Scholarship",
+      "url": "https://studentaffairs.utah.edu/miller-enrichment-scholarship.php",
+      "status": 404
+    },
+    {
+      "id": 1394,
+      "name": "Thor's Pledge Scholarship",
+      "url": "https://www.suu.edu/finaid/newstudents/thors-pledge.html",
+      "status": 404
+    },
+    {
+      "id": 1399,
+      "name": "Hogan & Associates Construction Scholarship",
+      "url": "https://www.hoganconstruction.com/scholarship",
+      "status": 404
+    },
+    {
+      "id": 1407,
+      "name": "David Arapene Cuch Scholarship",
+      "url": "https://www.law.utah.edu/news/scholarship-created-to-celebrate-life-of-david-cuch/",
+      "status": 404
+    },
+    {
+      "id": 1595,
+      "name": "Hawaii Community Foundation Common Scholarship",
+      "url": "https://www.hawaiicommunityfoundation.org/students",
+      "status": 404
+    },
+    {
+      "id": 1616,
+      "name": "UH Manoa Academic Merit Scholarships",
+      "url": "https://manoa.hawaii.edu/admissions/financial-aid/",
+      "status": 404
+    },
+    {
+      "id": 1619,
+      "name": "Kauai Board of REALTORS Scholarship",
+      "url": "https://www.kauaiboard.com/scholarships/",
+      "status": 404
+    },
+    {
+      "id": 1627,
+      "name": "Micron Scholars Scholarship",
+      "url": "https://www.idaholsf.com/micron-scholars/",
+      "status": 404
+    },
+    {
+      "id": 1713,
+      "name": "Abbie Sargent Memorial Scholarship",
+      "url": "https://www.nhfarmbureau.org/scholarship-information/",
+      "status": 404
+    },
+    {
+      "id": 1721,
+      "name": "HEAPS Grant Program",
+      "url": "https://www.cfwv.com/financial-aid/wv-heaps-grant/",
+      "status": 404
+    },
+    {
+      "id": 1859,
+      "name": "South Dakota Community Foundation Scholarships",
+      "url": "https://sdcommunityfoundation.org/apply/students",
+      "status": 404
+    },
+    {
+      "id": 1869,
+      "name": "VSAC Board of Directors Scholarship (David Coates)",
+      "url": "https://accessscholarships.com/scholarship/vermont-student-assistance-corporation-vsac-scholarships/",
+      "status": 404
+    }
+  ],
+  "blockedList": [
+    {
+      "id": 17,
+      "name": "SWE Scholarship",
+      "url": "https://swe.org/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 24,
+      "name": "Dr Pepper Tuition Giveaway",
+      "url": "https://www.drpeppertuition.com/",
+      "status": 403
+    },
+    {
+      "id": 46,
+      "name": "Beinecke Scholarship",
+      "url": "https://beineckescholarship.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 47,
+      "name": "NOAA Ernest F. Hollings Scholarship",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship",
+      "status": 403
+    },
+    {
+      "id": 66,
+      "name": "AIChE Student Awards and Scholarships",
+      "url": "https://www.aiche.org/",
+      "status": 403
+    },
+    {
+      "id": 84,
+      "name": "Nurse Corps Scholarship Program",
+      "url": "https://bhw.hrsa.gov/funding/apply-scholarship/nurse-corps",
+      "status": 403
+    },
+    {
+      "id": 85,
+      "name": "NHSC Scholarship Program",
+      "url": "https://nhsc.hrsa.gov/scholarships",
+      "status": 403
+    },
+    {
+      "id": 91,
+      "name": "TEACH Grant",
+      "url": "https://studentaid.gov/understand-aid/types/grants/teach",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 105,
+      "name": "Evans Scholarship for Caddies",
+      "url": "https://www.wgaesf.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 110,
+      "name": "ABA Legal Opportunity Scholarship",
+      "url": "https://www.americanbar.org/groups/diversity/diversity_pipeline/projects_initiatives/legal_opportunity_scholarship/",
+      "status": 403
+    },
+    {
+      "id": 125,
+      "name": "LULAC National Scholarship Fund",
+      "url": "https://lulac.org/programs/education/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 136,
+      "name": "AAUW Fellowships and Grants",
+      "url": "https://www.aauw.org/resources/programs/fellowships-grants/",
+      "status": 403
+    },
+    {
+      "id": 150,
+      "name": "National Merit Scholarship Program",
+      "url": "https://www.nationalmerit.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 159,
+      "name": "4-H Scholarships",
+      "url": "https://www.4-h.org/parents/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 160,
+      "name": "Profile in Courage Essay Contest",
+      "url": "https://www.jfklibrary.org/learn/education/profile-in-courage-essay-contest",
+      "status": 403
+    },
+    {
+      "id": 161,
+      "name": "RMHC US Scholarships",
+      "url": "https://ronaldmcdonaldhouse.org/rmhc-us-scholarships",
+      "status": 403
+    },
+    {
+      "id": 169,
+      "name": "Cal Grant",
+      "url": "https://www.csac.ca.gov/cal-grants",
+      "status": 405
+    },
+    {
+      "id": 174,
+      "name": "Illinois Monetary Award Program Grant",
+      "url": "https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-program.html",
+      "status": 403
+    },
+    {
+      "id": 179,
+      "name": "Michigan Achievement Scholarship",
+      "url": "https://www.michigan.gov/mistudentaid",
+      "status": 403
+    },
+    {
+      "id": 198,
+      "name": "Virginia Tuition Assistance Grant",
+      "url": "https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid/virginia-tuition-assistance-grant-program",
+      "status": 403
+    },
+    {
+      "id": 208,
+      "name": "American Culinary Federation Scholarships",
+      "url": "https://www.acfchefs.org/ACF/Education/Scholarships/",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 214,
+      "name": "Gloria Barron Prize for Young Heroes",
+      "url": "https://barronprize.org/",
+      "status": 403
+    },
+    {
+      "id": 225,
+      "name": "Project Yellow Light Scholarship",
+      "url": "https://www.projectyellowlight.com/",
+      "status": 403
+    },
+    {
+      "id": 235,
+      "name": "EWI Adult Students in Scholastic Transition",
+      "url": "https://www.ewiconnect.com/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 236,
+      "name": "ESA Foundation Scholarships",
+      "url": "https://www.esaonline.org/",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 238,
+      "name": "Cameron Impact Scholarship",
+      "url": "https://www.bryancameroneducationfoundation.org/",
+      "status": 403
+    },
+    {
+      "id": 244,
+      "name": "National Federation of the Blind Scholarships",
+      "url": "https://nfb.org/programs-services/scholarships-and-awards/scholarship-program",
+      "status": 403
+    },
+    {
+      "id": 253,
+      "name": "TMS Scholarships",
+      "url": "https://www.tms.org/portal/EDUCATION/Scholarships",
+      "status": 403
+    },
+    {
+      "id": 254,
+      "name": "ASM Materials Education Foundation Scholarships",
+      "url": "https://www.asmfoundation.org/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 260,
+      "name": "APS Minority Scholarship in Physics",
+      "url": "https://www.aps.org/programs/minorities/honors/scholarship/",
+      "status": 403
+    },
+    {
+      "id": 264,
+      "name": "Tylenol Future Care Scholarship",
+      "url": "https://www.tylenol.com/tylenol-future-care-scholarship",
+      "status": 403
+    },
+    {
+      "id": 270,
+      "name": "ASHFoundation Graduate Scholarships",
+      "url": "https://www.ashfoundation.org/",
+      "status": 500
+    },
+    {
+      "id": 287,
+      "name": "Kiwanis Childrens Fund Scholarships",
+      "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/",
+      "status": 403
+    },
+    {
+      "id": 297,
+      "name": "AZA Zoo and Aquarium Scholarships",
+      "url": "https://www.aza.org/aza-scholarship-programs",
+      "status": 403
+    },
+    {
+      "id": 300,
+      "name": "NSCA Foundation Scholarships",
+      "url": "https://www.nsca.com/education/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 302,
+      "name": "NSPS Surveying Scholarships",
+      "url": "https://www.nsps.us.com/page/Scholarships",
+      "status": 403
+    },
+    {
+      "id": 317,
+      "name": "The No Sweat Scholarship",
+      "url": "https://www.cirkledin.com/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 362,
+      "name": "Nina Mason Pulliam Legacy Scholars Program",
+      "url": "https://www.maricopa.edu/students/scholarships/nina-mason-pulliam",
+      "status": 403
+    },
+    {
+      "id": 387,
+      "name": "Cal Grant A",
+      "url": "https://www.csac.ca.gov/cal-grants",
+      "status": 405
+    },
+    {
+      "id": 388,
+      "name": "Cal Grant B",
+      "url": "https://www.csac.ca.gov/cal-grants",
+      "status": 405
+    },
+    {
+      "id": 389,
+      "name": "Middle Class Scholarship",
+      "url": "https://www.csac.ca.gov/middle-class-scholarship",
+      "status": 405
+    },
+    {
+      "id": 405,
+      "name": "CIF Scholar-Athlete of the Year",
+      "url": "https://www.cifstate.org/parents-students/awards_and_scholarships/scholar-athlete",
+      "status": 403
+    },
+    {
+      "id": 457,
+      "name": "Community Foundation of Sarasota County Scholarship",
+      "url": "https://www.cfsarasota.org/students/scholarship-opportunities",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 459,
+      "name": "NYS Scholarships for Academic Excellence",
+      "url": "https://www.nysed.gov/postsecondary-services/scholarships-academic-excellence-sae",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 470,
+      "name": "Empire State Arts Scholarship Program",
+      "url": "https://www.nysed.gov/news/2026/applications-open-2026-empire-state-arts-scholarship-program",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 491,
+      "name": "Ronald McDonald House Charities New York Tri-State Area Scholarships",
+      "url": "https://www.rmhcnytristate.org",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 516,
+      "name": "The Montgomery County Foundation Scholarships",
+      "url": "https://mcfoundationinc.org/scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 559,
+      "name": "LULAC National Scholarship Fund",
+      "url": "https://www.lnesc.org/scholarships/lulac/",
+      "status": 403
+    },
+    {
+      "id": 604,
+      "name": "Illinois Monetary Award Program (MAP) Grant",
+      "url": "https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-program/",
+      "status": 403
+    },
+    {
+      "id": 605,
+      "name": "Illinois Veteran Grant (IVG)",
+      "url": "https://www.isac.org/isac-gift-assistance-programs/illinois-veteran-grant/ivg-program-overview.html",
+      "status": 403
+    },
+    {
+      "id": 606,
+      "name": "Illinois National Guard (ING) Grant",
+      "url": "https://www.isac.org/isac-gift-assistance-programs/illinois-national-guard-grant/",
+      "status": 403
+    },
+    {
+      "id": 607,
+      "name": "Grant Program for Dependents of Police or Fire Officers",
+      "url": "https://www.isac.org/students/during-college/types-of-financial-aid/grants/grnt-prgm-dep-p-f-ofcrs.html",
+      "status": 403
+    },
+    {
+      "id": 608,
+      "name": "Golden Apple Scholars of Illinois",
+      "url": "https://www.isac.org/students/during-college/types-of-financial-aid/scholarships/golden-apple-scholars-of-illinois.html",
+      "status": 403
+    },
+    {
+      "id": 609,
+      "name": "Teachers of Illinois Scholarship Program",
+      "url": "https://www.isac.org/students/during-college/types-of-financial-aid/scholarships/TISP.html",
+      "status": 403
+    },
+    {
+      "id": 610,
+      "name": "Nursing Education Scholarship Program (NES)",
+      "url": "https://www.isac.org/isac-gift-assistance-programs/NESP/NESP-overview.html",
+      "status": 403
+    },
+    {
+      "id": 621,
+      "name": "Evans Scholarship",
+      "url": "https://wgaesf.org/a-life-changing-opportunity/applying-evans-scholarship",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 634,
+      "name": "Illinois Restaurant Association Educational Foundation Scholarship",
+      "url": "https://www.illinoisrestaurants.org/page/iraefscholarships",
+      "status": 403
+    },
+    {
+      "id": 638,
+      "name": "Michigan Achievement Scholarship",
+      "url": "https://www.michigan.gov/mistudentaid/programs/michigan-achievement-scholarship",
+      "status": 403
+    },
+    {
+      "id": 639,
+      "name": "Michigan Competitive Scholarship",
+      "url": "https://www.michigan.gov/mistudentaid/programs",
+      "status": 403
+    },
+    {
+      "id": 640,
+      "name": "Michigan Tuition Grant",
+      "url": "https://www.michigan.gov/mistudentaid/programs",
+      "status": 403
+    },
+    {
+      "id": 641,
+      "name": "Michigan Fostering Futures Scholarship",
+      "url": "https://www.michigan.gov/mistudentaid/programs",
+      "status": 403
+    },
+    {
+      "id": 642,
+      "name": "Children of Veterans Tuition Grant",
+      "url": "https://www.michigan.gov/mistudentaid/programs",
+      "status": 403
+    },
+    {
+      "id": 741,
+      "name": "LUPE Latina Leadership Scholarship",
+      "url": "https://www.lupenj.org/scholarship",
+      "status": 403
+    },
+    {
+      "id": 754,
+      "name": "The Dayton Foundation ScholarshipCONNECT",
+      "url": "https://www.daytonfoundation.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 761,
+      "name": "Ohio 4-H Scholarships",
+      "url": "https://ohio4h.org/families/just-teens/awards-scholarships/ohio-4-h-scholarships",
+      "status": 403
+    },
+    {
+      "id": 795,
+      "name": "Hamilton County Community Foundation Scholarships",
+      "url": "https://hccfindiana.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 801,
+      "name": "Indiana Sheriffs' Association Scholarship",
+      "url": "https://indianasheriffs.org/programs/scholarship-program/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 826,
+      "name": "Massachusetts Society of CPAs Educational Foundation Scholarship",
+      "url": "https://www.masscpas.org/ed-foundation/scholarship-program/eligibility",
+      "status": 403
+    },
+    {
+      "id": 841,
+      "name": "AFT Massachusetts Scholarship",
+      "url": "https://lynnteachersunion.org/scholarships2026",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 879,
+      "name": "Kiwanis Club of Ellicott City Scholarship",
+      "url": "https://k02358.site.kiwanis.org/scholarship-opportunity/",
+      "status": 403
+    },
+    {
+      "id": 881,
+      "name": "Baltimore Community Foundation Scholarships",
+      "url": "https://www.bcf.org/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 925,
+      "name": "Virginia Commonwealth Award",
+      "url": "https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid/virginia-commonwealth-award",
+      "status": 403
+    },
+    {
+      "id": 926,
+      "name": "Virginia Guaranteed Assistance Program (VGAP)",
+      "url": "https://sfs.virginia.edu/virginia-state-grant-programs",
+      "status": 403
+    },
+    {
+      "id": 927,
+      "name": "Two-Year College Transfer Grant",
+      "url": "https://www.schev.edu/financial-aid/financial-aid/federal-state-financial-aid/two-year-college-transfer-grant",
+      "status": 403
+    },
+    {
+      "id": 929,
+      "name": "Virginia Military Survivors and Dependents Education Program (VMSDEP)",
+      "url": "https://www.dvs.virginia.gov/benefits-services/education/virginia-military-survivors-dependents-education-program-vmsdep",
+      "status": 403
+    },
+    {
+      "id": 971,
+      "name": "Washington Apple Education Foundation Scholarship",
+      "url": "https://scholarships.waef.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 990,
+      "name": "Whatcom Community College Foundation Scholarships",
+      "url": "https://www.whatcom.edu/about-wcc/foundation/student-scholarships/apply-for-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1008,
+      "name": "Auburn University Competitive Merit Scholarship (In-State)",
+      "url": "https://auburn.edu/scholarship/undergraduate/firstyearstudents.php",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1009,
+      "name": "Community Foundation of Greater Birmingham Scholarship",
+      "url": "https://www.cfbham.org/grants/scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1010,
+      "name": "Maria Campbell / Bouchelle Scholarship for Children of Episcopal Clergy",
+      "url": "https://www.cfbham.org/grants/scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1027,
+      "name": "Alabama Space Grant Consortium Undergraduate Scholarship",
+      "url": "https://spacegrant.uah.edu/programs/scholarship-fellowship-programs.html",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1032,
+      "name": "Colorado Opportunity Scholarship Initiative (COSI) Matching Student Scholarship",
+      "url": "https://cdhe.colorado.gov/cosi",
+      "status": 403
+    },
+    {
+      "id": 1053,
+      "name": "Greenhouse Scholars Program",
+      "url": "https://apply.greenhousescholars.com/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1083,
+      "name": "Marshall H. and Nellie Alworth Memorial Scholarship",
+      "url": "https://www.alworthscholarship.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1087,
+      "name": "Rotary Club of Lakeville STRIVE Scholarship",
+      "url": "https://lakevillerotary.org/rotary-club-of-lakeville-foundation/foundation-scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1105,
+      "name": "Minority Teaching Scholarship",
+      "url": "https://dese.mo.gov/college-career-readiness/high-school-equivalency/scholarships-financial-aid",
+      "status": 403
+    },
+    {
+      "id": 1115,
+      "name": "Black Community Scholarship Fund",
+      "url": "https://www.blackcommunityfund.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1120,
+      "name": "AGC of Missouri Education Foundation Scholarship",
+      "url": "https://www.agcmo.org/WCM/wcm/nav_items/education/scholarship_opportunities.aspx",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1127,
+      "name": "Missouri 4-H Foundation Scholarships",
+      "url": "https://extension.missouri.edu/media/wysiwyg/Extensiondata/Pro/4HFoundation/Docs/2026-4-H-scholarship-list.pdf",
+      "status": 403
+    },
+    {
+      "id": 1155,
+      "name": "William Melvin and Juanita W. Brown Scholarship",
+      "url": "https://coastalcommunityfoundation.org/scholarships/type/scholarships-for-current-high-school-seniors/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1157,
+      "name": "Porgy & Bess Music Scholarship",
+      "url": "https://coastalcommunityfoundation.org/scholarships/type/scholarships-for-current-high-school-seniors/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1161,
+      "name": "Charleston First Responders Scholarship",
+      "url": "https://coastalcommunityfoundation.org/scholarships/type/scholarships-for-current-high-school-seniors/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1182,
+      "name": "WHSF Mexican Fiesta Scholarship",
+      "url": "https://www.mexicanfiesta.org/scholarship/",
+      "status": 403
+    },
+    {
+      "id": 1218,
+      "name": "Big Y Scholarship Program",
+      "url": "https://www.bigy.com/page/community/scholarships",
+      "status": 403
+    },
+    {
+      "id": 1223,
+      "name": "SWE Hartford Section Freshman Scholarship",
+      "url": "https://hartford.swe.org/scholarships",
+      "status": 403
+    },
+    {
+      "id": 1224,
+      "name": "SWE Connecticut Jean R. Beers Scholarship",
+      "url": "https://ct.swe.org/jean-r-beers-scholarship",
+      "status": 403
+    },
+    {
+      "id": 1236,
+      "name": "Bridgeport Public Education Fund Scholarships",
+      "url": "https://www.bpef.info/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1252,
+      "name": "Iowa State Elks Association Vocational Grant",
+      "url": "https://iowaelks.org/enf/scholarships/",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1256,
+      "name": "LULAC National Scholarship Fund (Iowa Councils)",
+      "url": "https://www.lnesc.org/scholarships/lulac/",
+      "status": 403
+    },
+    {
+      "id": 1294,
+      "name": "Louisville Branch NAACP Scholarship Awards Program",
+      "url": "https://www.naacplou.org/scholarship",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1335,
+      "name": "University of Oklahoma Sooner Heritage Scholarship",
+      "url": "http://cq5publish.ou.edu/scholarships/ou/SoonerHeritage/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1336,
+      "name": "Oklahoma State University Freshman Academic Scholarships",
+      "url": "https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/freshman-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1337,
+      "name": "OSU Horizon Scholars Program",
+      "url": "https://go.okstate.edu/scholarships-financial-aid/types-of-aid/scholarships-and-grants/freshman-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1340,
+      "name": "Oklahoma 4-H Scholarships",
+      "url": "https://oklahoma4h.okstate.edu/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1342,
+      "name": "University of Central Oklahoma Incoming Freshman Scholarships",
+      "url": "https://www.uco.edu/admissions/scholarships/freshman",
+      "status": 403
+    },
+    {
+      "id": 1361,
+      "name": "Salem-Keizer NAACP High School Scholarship",
+      "url": "https://www.sknaacp1166.org/events/high-school-scholarship-deadline",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1363,
+      "name": "Oregon Farm Bureau Memorial Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1364,
+      "name": "Oregon Nurseries Foundation Scholarship",
+      "url": "https://www.oan.org/page/onfapply",
+      "status": 403
+    },
+    {
+      "id": 1369,
+      "name": "Umatilla-Morrow County Farm Bureau Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1370,
+      "name": "Benton County Farm Bureau Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1371,
+      "name": "Klamath-Lake County Farm Bureau Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1372,
+      "name": "Malheur County Farm Bureau Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1373,
+      "name": "Coos-Curry County Farm Bureau Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1374,
+      "name": "Douglas County Farm Bureau Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1375,
+      "name": "Yamhill County Farm Bureau Scholarship",
+      "url": "https://www.oregonfb.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1376,
+      "name": "Utah Opportunity Scholarship",
+      "url": "https://ushe.edu/state-scholarships-aid/opportunity-scholarship/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1377,
+      "name": "Utah Promise Grant",
+      "url": "https://ushe.edu/utah-promise-grant/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1378,
+      "name": "First Credential Scholarship",
+      "url": "https://ushe.edu/first-credential-scholarship/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1379,
+      "name": "T.H. Bell Education Scholarship",
+      "url": "https://ushe.edu/t-h-bell-education-scholarship/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1380,
+      "name": "Karen Mayne Public Safety Officer Scholarship",
+      "url": "https://ushe.edu/karen-mayne-public-safety-officer-scholarship-program/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1381,
+      "name": "Veterans Tuition Gap Program",
+      "url": "https://ushe.edu/veterans-tuition-gap-program/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1382,
+      "name": "Adult Learner Grant",
+      "url": "https://ushe.edu/adult-learner-grant-program/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1458,
+      "name": "Black Community Scholarship Fund",
+      "url": "https://www.blackcommunityfund.org/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1461,
+      "name": "Topeka Community Foundation Scholarships",
+      "url": "https://topekacommunityfoundation.org/scholarships-apply-here",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1477,
+      "name": "Freshman Mississippi Resident Academic Scholarship Package",
+      "url": "https://www.admissions.msstate.edu/scholarships/details/freshman-mississippi-resident-academic-scholarship-package",
+      "status": 403
+    },
+    {
+      "id": 1496,
+      "name": "Distinguished Young Women Scholarship (MSU)",
+      "url": "https://www.admissions.msstate.edu/scholarships/details/distinguished-young-women-scholarship",
+      "status": 403
+    },
+    {
+      "id": 1505,
+      "name": "Regents Scholarship",
+      "url": "https://www.fastweb.com/college-scholarships/scholarships/37669-regents-scholarship-university-of-nebraska-lincoln",
+      "status": 502
+    },
+    {
+      "id": 1510,
+      "name": "Union Pacific Latino Employee Network (LEN) Scholarship",
+      "url": "https://www.up.com/aboutup/community/len-scholarship/index.htm",
+      "status": 502
+    },
+    {
+      "id": 1516,
+      "name": "Husker Harvest Days Scholarship",
+      "url": "https://www.farmprogress.com/husker-harvest-days/apply-today-for-husker-harvest-days-scholarship",
+      "status": 403
+    },
+    {
+      "id": 1561,
+      "name": "Silver State Opportunity Grant (SSOG)",
+      "url": "https://gotocollege.nevada.edu/paying-for-college/silver-state-opportunity-grant-ssog/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1567,
+      "name": "Hannah Brown CDC Scholarship",
+      "url": "https://www.urbanchamber.org/scholarship-application/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1600,
+      "name": "Mamoru and Aiko Takitani Foundation Scholarship",
+      "url": "https://takitanifoundation.org/for-students-2/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1605,
+      "name": "HawaiiUSA Federal Credit Union Student Scholarship",
+      "url": "https://www.hawaiiusafcu.com/about/giving-back/community-support/scholarships",
+      "status": 403
+    },
+    {
+      "id": 1610,
+      "name": "Russell J. Hata Scholarship",
+      "url": "https://yhatanews.com/russell-j-hata-scholarship-open-to-high-school-seniors/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1617,
+      "name": "Hawaii Community Federal Credit Union Scholarship",
+      "url": "https://www.hicommfcu.com/resources/community/scholarships",
+      "status": 403
+    },
+    {
+      "id": 1620,
+      "name": "Idaho Opportunity Scholarship",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-opportunity-scholarship",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1621,
+      "name": "Idaho Governor's Cup Scholarship (Academic)",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-governors-cup-or-academic",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1622,
+      "name": "Idaho Governor's Cup Scholarship (Career Technical)",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/idaho-governors-cup-or-cte",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1629,
+      "name": "Armed Forces and Public Safety Officer Dependent Scholarship",
+      "url": "https://nextsteps.idaho.gov/scholarship-idaho/armed-forces-and-pso-dependent-scholarship",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1635,
+      "name": "Idaho LAUNCH Grant",
+      "url": "https://nextsteps.idaho.gov/launch",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1698,
+      "name": "New Hampshire Higher Education Scholarship for Orphans of Veterans",
+      "url": "https://www.education.nh.gov/who-we-are/division-of-educator-support-and-higher-education/higher-education/higher-education-scholarships-for-orphans-of-veterans",
+      "status": 403
+    },
+    {
+      "id": 1706,
+      "name": "Structural Engineers of New Hampshire Scholarship",
+      "url": "https://senh.org/SENH_Scholarships",
+      "status": 403
+    },
+    {
+      "id": 1710,
+      "name": "NHADA Foundation Automotive Scholarship",
+      "url": "https://foundation.nhada.com/scholarships",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1717,
+      "name": "Winnie MacLaughlin Scholarship",
+      "url": "https://www.nhbarfoundation.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1730,
+      "name": "WVU University Merit Scholarship",
+      "url": "https://hub.wvu.edu/types-of-aid/scholarships/institutional/university-merit",
+      "status": 403
+    },
+    {
+      "id": 1731,
+      "name": "WVU Foundation Scholarship",
+      "url": "https://hub.wvu.edu/types-of-aid/scholarships/institutional/foundation",
+      "status": 403
+    },
+    {
+      "id": 1754,
+      "name": "Ahtna Heritage Foundation Vocational Scholarship",
+      "url": "https://www.ahtna.com/shareholders/vocational-scholarship/",
+      "status": 403
+    },
+    {
+      "id": 1756,
+      "name": "ATIA Foundation Student Scholarship",
+      "url": "https://www.alaskatia.org/about/foundation/scholarships",
+      "status": 403
+    },
+    {
+      "id": 1759,
+      "name": "Alaska Space Grant Program Scholarship",
+      "url": "https://spacegrant.alaska.edu/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1767,
+      "name": "District Scholars Award",
+      "url": "https://www.american.edu/admissions/first-year/district-scholars.cfm",
+      "status": 403
+    },
+    {
+      "id": 1775,
+      "name": "AFCEA Washington, DC Chapter STEM Scholarships",
+      "url": "https://afceadc-stem.secure-platform.com/a",
+      "status": 403
+    },
+    {
+      "id": 1779,
+      "name": "Scholarship Incentive Program (ScIP)",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1780,
+      "name": "Charles L. Hebner Memorial Scholarship (Diamond State)",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1781,
+      "name": "B. Bradford Barnes Memorial Scholarship",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1782,
+      "name": "Herman M. Holloway Sr. Memorial Scholarship",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1783,
+      "name": "Delaware Career-based Scholarship",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1784,
+      "name": "Educator Support Scholarship (Undergraduate)",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1785,
+      "name": "Educator Support Scholarship (Graduate)",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1786,
+      "name": "Speech-Language Pathologist Scholarship",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1787,
+      "name": "Educational Benefits for Children of Deceased Veterans and Others",
+      "url": "https://education.delaware.gov/families/college-career-life/college-scholarship-financial-aid/scholarships-and-financial-aid-resources/dheo-scholarships",
+      "status": 403
+    },
+    {
+      "id": 1788,
+      "name": "SEED Scholarship (Student Excellence Equals Degree)",
+      "url": "https://www.delawarestudentsuccess.org/seed-and-inspire/",
+      "status": 403
+    },
+    {
+      "id": 1801,
+      "name": "North Dakota State Grant",
+      "url": "https://ndus.edu/paying-for-college/state-grant",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1803,
+      "name": "North Dakota Native American Scholarship",
+      "url": "https://ndus.edu/paying-for-college/native-american-scholarship",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1810,
+      "name": "North Dakota United Member and Dependent Scholarship",
+      "url": "https://ndunited.org/foundation/scholarships-and-grants",
+      "status": 403
+    },
+    {
+      "id": 1811,
+      "name": "North Dakota United Ethnic Minority Scholarship",
+      "url": "https://ndunited.org/foundation/scholarships-and-grants",
+      "status": 403
+    },
+    {
+      "id": 1816,
+      "name": "NDFU Bergman Scholarship",
+      "url": "https://ndfu.org/youth/scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1817,
+      "name": "NDFU Stanley Moore National Scholarship",
+      "url": "https://ndfu.org/youth/scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1818,
+      "name": "NDFU Hubert K. and JoAnn Seymour Scholarship",
+      "url": "https://ndfu.org/youth/scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1819,
+      "name": "NDFU MANRRS Scholarship",
+      "url": "https://ndfu.org/youth/scholarships/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1820,
+      "name": "North Dakota Farm Bureau Agriculture Scholarship",
+      "url": "https://ndfb.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1821,
+      "name": "NDFB Student Volunteer Scholarship",
+      "url": "https://ndfb.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1825,
+      "name": "Carter Roger Williams Scholarship",
+      "url": "https://rifoundation.org/grants-scholarships/browse-scholarships/carterscholarship",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1826,
+      "name": "Robert G. and Joyce Andrew College Scholarship Fund",
+      "url": "https://rifoundation.org/grants-scholarships/browse-scholarships/robert-g-and-joyce-andrew-college-scholarship-fund",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1827,
+      "name": "Patty and Melvin Alperin First Generation Scholarship",
+      "url": "https://rifoundation.org/grants-scholarships/browse-scholarships",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1828,
+      "name": "Black Philanthropy Bannister Scholarship",
+      "url": "https://rifoundation.org/grants-scholarships/browse-scholarships",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1829,
+      "name": "Ocean State Media Scholarship (Rhode Island PBS and The Public's Radio)",
+      "url": "https://rifoundation.org/grants-scholarships/browse-scholarships/rhode-island-pbs-scholarship",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1849,
+      "name": "Wokini Scholarship",
+      "url": "https://www.sdstate.edu/wokini-initiative/american-indian-student-center/wokini-scholarship-requirements",
+      "status": 403
+    },
+    {
+      "id": 1942,
+      "name": "Arthur M. and Berdena King Eagle Scout Scholarship",
+      "url": "https://www.sar.org/committees/eagle-scout-committee-arthur-king/",
+      "status": 403
+    },
+    {
+      "id": 1953,
+      "name": "Society of Women Engineers Scholarship",
+      "url": "https://swe.org/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 1962,
+      "name": "Jane M. Klausman Women in Business Scholarship",
+      "url": "https://www.zonta.org/Web/Programs/Education/Women_in_Business_Scholarship.aspx",
+      "status": 0,
+      "error": "timeout"
+    },
+    {
+      "id": 1972,
+      "name": "AfterCollege-AACN Scholarship Fund",
+      "url": "https://aacnnursing.secure-platform.com/scholarships",
+      "status": 403
+    },
+    {
+      "id": 1992,
+      "name": "IABA Foundation Scholarship",
+      "url": "https://www.blackactuaries.org/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": 1995,
+      "name": "Jack Kinnaman Memorial Scholarship",
+      "url": "https://www.nea.org/resource-library/jack-kinnaman-scholarship",
+      "status": 403
+    },
+    {
+      "id": 2011,
+      "name": "Cirkled In No Sweat Scholarship",
+      "url": "https://www.cirkledin.com/scholarships/",
+      "status": 403
+    },
+    {
+      "id": 2016,
+      "name": "4-H Youth in Action Award",
+      "url": "https://4-h.org/programs/4-h-youth-in-action-program/",
+      "status": 403
+    },
+    {
+      "id": 2019,
+      "name": "AIGA Worldstudio DxD Scholarships",
+      "url": "https://www.aiga.org/competitions-initiatives/aiga-worldstudio-dd-scholarships",
+      "status": 403
+    },
+    {
+      "id": 2020,
+      "name": "National Dairy Shrine Scholarships",
+      "url": "https://dairyshrine.org/youth/",
+      "status": 403
+    },
+    {
+      "id": 2021,
+      "name": "Joseph S. Rumbaugh Historical Oration Contest",
+      "url": "https://www.sar.org/joseph-s-rumbaugh-historical-oration-contest/",
+      "status": 403
+    }
+  ],
+  "expiredList": [
+    {
+      "id": 25,
+      "name": "mikeroweWORKS Work Ethic Scholarship",
+      "deadline": "2026-08-30"
+    },
+    {
+      "id": 458,
+      "name": "Excelsior Scholarship",
+      "deadline": "2026-08-31"
+    },
+    {
+      "id": 461,
+      "name": "NYS Science, Technology, Engineering and Mathematics (STEM) Incentive Program",
+      "deadline": "2026-08-31"
+    },
+    {
+      "id": 472,
+      "name": "TeachNY Scholarship",
+      "deadline": "2026-08-31"
+    },
+    {
+      "id": 784,
+      "name": "William A. Crawford Minority Teacher Scholarship",
+      "deadline": "2026-08-31"
+    },
+    {
+      "id": 793,
+      "name": "Lilly Endowment Community Scholarship",
+      "deadline": "2026-08-31"
+    },
+    {
+      "id": 1450,
+      "name": "Kansas National Guard Educational Assistance",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "redirectedList": [
+    {
+      "id": 6,
+      "name": "Horatio Alger National Scholarship",
+      "from": "https://scholars.horatioalger.org/",
+      "to": "https://horatioalger.org/scholarships-and-services/"
+    },
+    {
+      "id": 9,
+      "name": "Davidson Fellows Scholarship",
+      "from": "https://www.davidsongifted.org/fellows-scholarship/",
+      "to": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/"
+    },
+    {
+      "id": 18,
+      "name": "Ron Brown Scholar Program",
+      "from": "https://www.ronbrown.org/",
+      "to": "https://ronbrown.org/"
+    },
+    {
+      "id": 19,
+      "name": "GE-Reagan Foundation Scholarship",
+      "from": "https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/",
+      "to": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship"
+    },
+    {
+      "id": 20,
+      "name": "Coolidge Scholarship",
+      "from": "https://www.coolidgescholars.org/",
+      "to": "https://coolidgescholars.org/"
+    },
+    {
+      "id": 23,
+      "name": "Taco Bell Live Mas Scholarship",
+      "from": "https://www.tacobellfoundation.org/live-mas-scholarship/",
+      "to": "https://tacobellfoundation.org/live-mas-scholarship/"
+    },
+    {
+      "id": 25,
+      "name": "mikeroweWORKS Work Ethic Scholarship",
+      "from": "https://www.mikeroweworks.org/scholarship/",
+      "to": "https://mikeroweworks.org/scholarship/"
+    },
+    {
+      "id": 28,
+      "name": "Pat Tillman Scholarship",
+      "from": "https://pattillmanfoundation.org/apply-to-be-a-scholar/",
+      "to": "https://pattillmanfoundation.org/apply/"
+    },
+    {
+      "id": 29,
+      "name": "AMVETS National Scholarship",
+      "from": "https://amvets.org/scholarships/",
+      "to": "https://www.amvets.org/scholarships"
+    },
+    {
+      "id": 32,
+      "name": "Astronaut Scholarship",
+      "from": "https://astronautscholarship.org/scholarship/",
+      "to": "https://www.astronautscholarship.org/support/scholarship-sponsors/"
+    },
+    {
+      "id": 33,
+      "name": "NSF Graduate Research Fellowship",
+      "from": "https://www.nsfgrfp.org/",
+      "to": "https://www.nsf.gov/funding/initiatives/grfp"
+    },
+    {
+      "id": 34,
+      "name": "Ford Foundation Fellowship Program",
+      "from": "https://www.nationalacademies.org/our-work/ford-foundation-fellowships",
+      "to": "https://www.nationalacademies.org/units/NRCEO-OFELL-25-P-711"
+    },
+    {
+      "id": 36,
+      "name": "Rhodes Scholarship",
+      "from": "https://www.rhodesscholar.org/",
+      "to": "https://www.rhodeshouse.ox.ac.uk/office-of-the-american-secretary/"
+    },
+    {
+      "id": 53,
+      "name": "Phi Theta Kappa Scholarships",
+      "from": "https://www.ptk.org/scholarships/",
+      "to": "https://www.ptk.org/scholarships/how-our-scholarships-work/"
+    },
+    {
+      "id": 58,
+      "name": "ACS Scholars Program",
+      "from": "https://www.acs.org/funding/scholarships-fellowships/acs-scholars.html",
+      "to": "https://www.acs.org/education/acs-undergraduate-scholarship.html"
+    },
+    {
+      "id": 59,
+      "name": "NSBE Scholarships",
+      "from": "https://www.nsbe.org/scholarships",
+      "to": "https://nsbe.org/scholarships/"
+    },
+    {
+      "id": 61,
+      "name": "Great Minds in STEM Scholarships",
+      "from": "https://www.greatmindsinstem.org/",
+      "to": "https://greatmindsinstem.org/"
+    },
+    {
+      "id": 62,
+      "name": "AFCEA Educational Foundation Scholarships",
+      "from": "https://www.afcea.org/scholarships",
+      "to": "https://www.afcea.org/afcea-educational-foundation"
+    },
+    {
+      "id": 74,
+      "name": "AISES Scholarships",
+      "from": "https://www.aises.org/scholarships",
+      "to": "https://aises.org/scholarships/"
+    },
+    {
+      "id": 75,
+      "name": "Actuarial Foundation Scholarships",
+      "from": "https://www.actuarialfoundation.org/scholarships/",
+      "to": "https://actuarialfoundation.org/scholarships/"
+    },
+    {
+      "id": 76,
+      "name": "AICPA Scholarships",
+      "from": "https://www.aicpa-cima.com/scholarships",
+      "to": "https://www.aicpa-cima.com/resources/article/aicpa-scholarships-can-support-your-accounting-education"
+    },
+    {
+      "id": 77,
+      "name": "NABA Scholarship Program",
+      "from": "https://www.nabainc.org/scholarships",
+      "to": "https://nabainc.org/scholarships/"
+    },
+    {
+      "id": 79,
+      "name": "IMA Memorial Education Fund Scholarships",
+      "from": "https://www.imanet.org/",
+      "to": "https://www.imaglobal.org/"
+    },
+    {
+      "id": 81,
+      "name": "NRAEF Restaurant Industry Scholarships",
+      "from": "https://chooserestaurants.org/Scholarships",
+      "to": "https://chooserestaurants.org/programs/scholarships-grants/scholarships/"
+    },
+    {
+      "id": 86,
+      "name": "NBNA Scholarship Program",
+      "from": "https://www.nbna.org/scholarships",
+      "to": "https://nbna.org/programs-committees/programs/scholarships/"
+    },
+    {
+      "id": 90,
+      "name": "HOSA Scholarships",
+      "from": "https://www.hosa.org/scholarships",
+      "to": "https://hosa.org/scholarships/"
+    },
+    {
+      "id": 94,
+      "name": "AFT Scholarships",
+      "from": "https://www.aft.org/scholarships",
+      "to": "https://www.aft.org/member-benefits/education-learning-opportunities/scholarships"
+    },
+    {
+      "id": 98,
+      "name": "Princess Grace Awards",
+      "from": "https://www.pgfusa.org/apply",
+      "to": "https://pgfusa.org/apply/"
+    },
+    {
+      "id": 101,
+      "name": "AWS Foundation Scholarships",
+      "from": "https://www.aws.org/foundation/page/scholarships",
+      "to": "https://www.aws.org/Career-Resources/Students/Scholarships/"
+    },
+    {
+      "id": 103,
+      "name": "PHCC Educational Foundation Scholarships",
+      "from": "https://www.phccfoundation.org/scholarships/",
+      "to": "https://www.phccfoundation.org/scholarship-program/"
+    },
+    {
+      "id": 114,
+      "name": "AAJA Scholarships",
+      "from": "https://www.aaja.org/programs/scholarships/",
+      "to": "https://www.aaja.org/news-and-resources/scholarships-internships/"
+    },
+    {
+      "id": 116,
+      "name": "APIA Scholars Scholarship",
+      "from": "https://apiascholars.org/scholarship/apia-scholarship/",
+      "to": "https://apiascholars.org/scholarships/"
+    },
+    {
+      "id": 117,
+      "name": "Cobell Scholarship",
+      "from": "https://cobellscholar.org/",
+      "to": "https://www.cobellscholar.org/"
+    },
+    {
+      "id": 122,
+      "name": "Golden Door Scholars",
+      "from": "https://www.goldendoorscholars.org/",
+      "to": "https://www.roadtohire.org/golden-door-scholars"
+    },
+    {
+      "id": 124,
+      "name": "HACU Scholarship Program",
+      "from": "https://www.hacu.net/hacu/Scholarships.asp",
+      "to": "https://hacu.net/programs/hacu-scholarship-program/"
+    },
+    {
+      "id": 127,
+      "name": "Thurgood Marshall College Fund Scholarships",
+      "from": "https://tmcf.org/students/scholarships/",
+      "to": "https://tmcf.org/scholarships/"
+    },
+    {
+      "id": 129,
+      "name": "Jackie Robinson Foundation Scholarship",
+      "from": "https://www.jackierobinson.org/apply/",
+      "to": "https://jackierobinson.org/apply/"
+    },
+    {
+      "id": 131,
+      "name": "Hispanic Heritage Foundation Youth Awards",
+      "from": "https://hispanicheritage.org/programs/youth-awards/",
+      "to": "https://hispanicheritage.org/discover/youth-awards/"
+    },
+    {
+      "id": 133,
+      "name": "Davis-Putter Scholarship Fund",
+      "from": "https://davisputter.org/",
+      "to": "https://www.davisputter.org/"
+    },
+    {
+      "id": 135,
+      "name": "QuestBridge College Prep Scholars",
+      "from": "https://www.questbridge.org/high-school-students/college-prep-scholars",
+      "to": "https://www.questbridge.org/apply-to-college/programs/college-prep-scholars-program"
+    },
+    {
+      "id": 139,
+      "name": "Soroptimist Live Your Dream Awards",
+      "from": "https://www.soroptimist.org/our-work/live-your-dream-awards/",
+      "to": "https://www.soroptimist.org/our-work/live-your-dream-awards/index.html"
+    },
+    {
+      "id": 142,
+      "name": "Women’s Independence Scholarship Program",
+      "from": "https://www.wispinc.org/",
+      "to": "https://wispinc.org/"
+    },
+    {
+      "id": 147,
+      "name": "Scholarships for Military Children",
+      "from": "https://militaryscholar.org/",
+      "to": "https://www.fisherhouse.org/programs/scholarship-programs/"
+    },
+    {
+      "id": 149,
+      "name": "Army ROTC Scholarship",
+      "from": "https://www.goarmy.com/rotc/scholarships.html",
+      "to": "https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc/scholarships"
+    },
+    {
+      "id": 152,
+      "name": "American Legion Oratorical Contest",
+      "from": "https://www.legion.org/oratorical",
+      "to": "https://www.legion.org/get-involved/youth-programs/oratorical-contest"
+    },
+    {
+      "id": 153,
+      "name": "American Legion Scholarships",
+      "from": "https://www.legion.org/scholarships",
+      "to": "https://www.legion.org/get-involved/scholarships"
+    },
+    {
+      "id": 156,
+      "name": "DAR Scholarships",
+      "from": "https://www.dar.org/national-society/scholarships",
+      "to": "https://www.dar.org/outreach/education/scholarships"
+    },
+    {
+      "id": 167,
+      "name": "College Ave $1,000 Monthly Scholarship",
+      "from": "https://www.collegeave.com/scholarships/",
+      "to": "https://www.collegeave.com/articles/scholarships-for-grad-students/"
+    },
+    {
+      "id": 170,
+      "name": "Terry Foundation Scholarship",
+      "from": "https://www.terryfoundation.org/",
+      "to": "https://terryfoundation.org/"
+    },
+    {
+      "id": 172,
+      "name": "New York State Grants and Scholarships",
+      "from": "https://www.hesc.ny.gov/",
+      "to": "https://hesc.ny.gov/"
+    },
+    {
+      "id": 173,
+      "name": "Pennsylvania State Grant",
+      "from": "https://www.pheaa.org/funding-opportunities/state-grant-program/",
+      "to": "https://www.pheaa.org/grants/state-grant-program"
+    },
+    {
+      "id": 178,
+      "name": "NC Teaching Fellows",
+      "from": "https://ncteachingfellows.com/",
+      "to": "https://myapps.northcarolina.edu/ncteachingfellows/"
+    },
+    {
+      "id": 180,
+      "name": "Golden Apple Scholars of Illinois",
+      "from": "https://www.goldenapple.org/scholars",
+      "to": "https://www.goldenapple.org/become-a-teacher"
+    },
+    {
+      "id": 224,
+      "name": "Television Academy Foundation Programs",
+      "from": "https://www.emmys.com/foundation/programs",
+      "to": "https://www.televisionacademy.com/foundation/programs"
+    },
+    {
+      "id": 231,
+      "name": "Anchor Scholarship Foundation",
+      "from": "https://www.anchorscholarship.com/",
+      "to": "https://anchorscholarship.org/"
+    },
+    {
+      "id": 241,
+      "name": "Google Lime Scholarship",
+      "from": "https://www.limeconnect.com/programs/page/google-lime-scholarship",
+      "to": "https://limeconnect.com/opportunities/scholarships-awards/"
+    },
+    {
+      "id": 242,
+      "name": "Microsoft Disability Scholarship",
+      "from": "https://www.microsoft.com/en-us/diversity/programs/microsoftdisabilityscholarship",
+      "to": "https://learnmore.scholarsapply.org/microsoft-disability/"
+    },
+    {
+      "id": 245,
+      "name": "AG Bell College Scholarship",
+      "from": "https://www.agbell.org/Programs/Scholarships",
+      "to": "https://agbell.org/2020/01/24/scholarships-change-lives/"
+    },
+    {
+      "id": 249,
+      "name": "Society of Physics Students Scholarships",
+      "from": "https://www.spsnational.org/scholarships",
+      "to": "https://students.aip.org/sps"
+    },
+    {
+      "id": 251,
+      "name": "IISE Scholarships",
+      "from": "https://www.iise.org/scholarships",
+      "to": "https://www.iise.org/Details.aspx?id=857"
+    },
+    {
+      "id": 257,
+      "name": "ASABE Scholarships",
+      "from": "https://www.asabe.org/awards-competitions/scholarships",
+      "to": "https://asabe.org/awards-competitions/scholarships"
+    },
+    {
+      "id": 271,
+      "name": "AMBUCS Scholars for Therapists",
+      "from": "https://ambucs.org/scholars/",
+      "to": "https://ambucs.org/scholarship-program/"
+    },
+    {
+      "id": 299,
+      "name": "Institute of Food Technologists Scholarships",
+      "from": "https://www.ift.org/community/students",
+      "to": "https://www.ift.org/advance-your-career/students"
+    },
+    {
+      "id": 306,
+      "name": "Dell Scholars Program",
+      "from": "https://www.dellscholars.org/scholarship/",
+      "to": "https://www.dellscholars.org/students/"
+    },
+    {
+      "id": 309,
+      "name": "APIA Scholars Scholarship",
+      "from": "https://apiascholars.org/scholarship/apia-scholarship/",
+      "to": "https://apiascholars.org/scholarships/"
+    },
+    {
+      "id": 313,
+      "name": "AWS Foundation Welding Scholarships",
+      "from": "https://www.aws.org/foundation/page/scholarships",
+      "to": "https://www.aws.org/Career-Resources/Students/Scholarships/"
+    },
+    {
+      "id": 314,
+      "name": "NBNA Scholarship Program",
+      "from": "https://www.nbna.org/scholarships",
+      "to": "https://nbna.org/programs-committees/programs/scholarships/"
+    },
+    {
+      "id": 315,
+      "name": "Horatio Alger National Scholarship",
+      "from": "https://scholars.horatioalger.org/",
+      "to": "https://horatioalger.org/scholarships-and-services/"
+    },
+    {
+      "id": 359,
+      "name": "Community Foundation for Southern Arizona Scholarships",
+      "from": "https://cfsaz.org/scholarships/",
+      "to": "https://cfsaz.org/scholarship-resources/"
+    },
+    {
+      "id": 360,
+      "name": "ACF Yavapai County Cash for College Scholarships",
+      "from": "https://www.azfoundation.org/Give-Where-You-Live/Yavapai-County/Scholarship-Applications",
+      "to": "https://www.azfoundation.org/ways-to-give/give-locally/acf-of-yavapai-county/"
+    },
+    {
+      "id": 383,
+      "name": "President Barack Obama Scholars Program",
+      "from": "https://students.asu.edu/financialaid/types/special",
+      "to": "https://tuition.asu.edu/special-financial-assistance-programs-arizona-residents"
+    },
+    {
+      "id": 385,
+      "name": "NAU Access2Excellence",
+      "from": "https://nau.edu/office-scholarships-financial-aid/aid-programs/access2excellence/",
+      "to": "https://nau.edu/financial-aid/aid-programs/access-2-excellence/"
+    },
+    {
+      "id": 432,
+      "name": "Florida Engineering Society High School Scholarship",
+      "from": "https://fleng.org/support-future-engineers/scholarships/",
+      "to": "https://fleng.org/future-engineers/scholarships/"
+    },
+    {
+      "id": 433,
+      "name": "FES Henn Rebane Scholarship",
+      "from": "https://fleng.org/support-future-engineers/scholarships/",
+      "to": "https://fleng.org/future-engineers/scholarships/"
+    },
+    {
+      "id": 434,
+      "name": "Florida Engineering Foundation (FEE) Scholarship",
+      "from": "https://fleng.org/support-future-engineers/scholarships/",
+      "to": "https://fleng.org/future-engineers/scholarships/"
+    },
+    {
+      "id": 435,
+      "name": "FES FECON Construction Engineering Scholarship",
+      "from": "https://fleng.org/support-future-engineers/scholarships/",
+      "to": "https://fleng.org/future-engineers/scholarships/"
+    },
+    {
+      "id": 487,
+      "name": "New York Women in Communications Foundation Scholarship",
+      "from": "https://www.nywici.org",
+      "to": "https://nywici.org/"
+    },
+    {
+      "id": 494,
+      "name": "New York Farm Bureau Agricultural Youth Scholarship",
+      "from": "https://nyfb.org/programs/promotion-education/scholarship",
+      "to": "https://nyfb.org/programs/promotion-and-engagement/scholarship/"
+    },
+    {
+      "id": 496,
+      "name": "Grow PA Scholarship Grant",
+      "from": "https://www.pheaa.org/growpa",
+      "to": "https://www.pheaa.org/funding-opportunities/grow-pa-scholarship-grant-program"
+    },
+    {
+      "id": 569,
+      "name": "HOPE Scholarship",
+      "from": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/",
+      "to": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/"
+    },
+    {
+      "id": 576,
+      "name": "Georgia Public Safety Memorial Grant",
+      "from": "https://www.gafutures.org/hope-state-aid-programs/scholarships-grants/public-safety-memorial-grant/eligibility/",
+      "to": "https://www.gafutures.org/hope-state-aid-programs/scholarships-grants/public-service-memorial/eligibility/"
+    },
+    {
+      "id": 631,
+      "name": "DuPage Foundation Scholarship Funds",
+      "from": "https://dupagefoundation.org/who-we-are/foundation-funds.html/title/scholarship-funds",
+      "to": "https://www.dupagefoundation.org/foundation-funds/scholarship-funds/"
+    },
+    {
+      "id": 633,
+      "name": "CSBG Scholarship Program",
+      "from": "https://www.chicago.gov/fss/scholarship",
+      "to": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_serviceblockgrantscholarship.html"
+    },
+    {
+      "id": 661,
+      "name": "John Weir Academic Scholarship",
+      "from": "https://accessscholarships.com/scholarship/john-weir-academic-scholarship",
+      "to": "https://accessscholarships.com/search-scholarships/"
+    },
+    {
+      "id": 689,
+      "name": "Winston-Salem Foundation Scholarships (One-Stop Application)",
+      "from": "https://wsfoundation.academicworks.com/",
+      "to": "https://www.blackbaud.com/products/award-scholarship-management"
+    },
+    {
+      "id": 752,
+      "name": "Greater Cincinnati African American Scholarship Fund",
+      "from": "https://www.gcfdn.org/blog/application-process-open-for-greater-cincinnati-african-american-scholarship-fund-2/",
+      "to": "https://www.gcfdn.org/blog/application-process-open-for-greater-cincinnati-african-american-scholarship-fund/"
+    },
+    {
+      "id": 757,
+      "name": "Foundation for Appalachian Ohio Scholarships",
+      "from": "https://appalachianohio.org/scholarships/",
+      "to": "https://appalachianohio.org/opportunities/scholarships/"
+    },
+    {
+      "id": 758,
+      "name": "Akron Community Foundation Scholarships",
+      "from": "https://www.akroncf.org/Scholarships",
+      "to": "https://www.akroncf.org/students/"
+    },
+    {
+      "id": 797,
+      "name": "Community Foundation Alliance Scholarships (Southwest Indiana)",
+      "from": "https://www.communityfoundationalliance.org/apply-today-2026-community-scholarships-available-for-southwest-indiana-students",
+      "to": "https://cfswi.org/"
+    },
+    {
+      "id": 798,
+      "name": "La Plaza Scholarship Fund",
+      "from": "https://www.laplazaindy.org/scholarship-fund/",
+      "to": "https://laplazaindy.org/scholarship-fund/"
+    },
+    {
+      "id": 802,
+      "name": "Indiana Broadcasters Foundation Scholarship",
+      "from": "https://www.indianabroadcasters.org/careers/2026-scholarship-recipients/",
+      "to": "https://indianabroadcasters.org/careers/2026-scholarship-recipients/"
+    },
+    {
+      "id": 803,
+      "name": "Indiana Farm Bureau Ag Impact Scholarship",
+      "from": "https://infarmbureau.org/scholarships",
+      "to": "https://www.infarmbureau.org/resources/scholarships-and-grants"
+    },
+    {
+      "id": 804,
+      "name": "Collegiate Farm Bureau Scholarship",
+      "from": "https://infarmbureau.org/scholarships",
+      "to": "https://www.infarmbureau.org/resources/scholarships-and-grants"
+    },
+    {
+      "id": 806,
+      "name": "IU Covenant (21st Century Scholars)",
+      "from": "https://21centuryscholars.indiana.edu/current-students/faqs.html",
+      "to": "https://studentlife.indiana.edu/involvement-belonging/21st-century-scholars/current-students/index.html"
+    },
+    {
+      "id": 842,
+      "name": "Massachusetts AFL-CIO Scholarship Program",
+      "from": "https://massaflcio.org/content/41788",
+      "to": "https://massaflcio.org/scholarships"
+    },
+    {
+      "id": 885,
+      "name": "Tennessee HOPE Scholarship",
+      "from": "https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-scholarship/",
+      "to": "https://www.collegefortn.org/tennessee-hope-scholarship-3/"
+    },
+    {
+      "id": 886,
+      "name": "Tennessee Promise",
+      "from": "https://www.tn.gov/tnpromise.html",
+      "to": "https://www.collegefortn.org/tnpromise/"
+    },
+    {
+      "id": 888,
+      "name": "Tennessee Aspire Award",
+      "from": "https://www.collegefortn.org/tennessee-financial-aid/aspire-award/",
+      "to": "https://www.collegefortn.org/aspire-award/"
+    },
+    {
+      "id": 889,
+      "name": "General Assembly Merit Scholarship (GAMS)",
+      "from": "https://www.collegefortn.org/tennessee-financial-aid/general-assembly-merit-scholarship/",
+      "to": "https://www.collegefortn.org/general-assembly-merit-scholarship/"
+    },
+    {
+      "id": 891,
+      "name": "Wilder-Naifeh Technical Skills Grant",
+      "from": "https://www.collegefortn.org/tennessee-financial-aid/wilder-naifeh-technical-skills-grant/",
+      "to": "https://www.collegefortn.org/wilder-naifeh-technical-skills-grant/"
+    },
+    {
+      "id": 892,
+      "name": "Tennessee Dual Enrollment Grant",
+      "from": "https://www.collegefortn.org/tennessee-financial-aid/dual-enrollment-grant/",
+      "to": "https://www.collegefortn.org/dual-enrollment-grant-faqs/"
+    },
+    {
+      "id": 894,
+      "name": "HOPE Foster Child Tuition Grant",
+      "from": "https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-foster-child-tuition-grant/",
+      "to": "https://www.collegefortn.org/tennessee-hope-foster-child-tuition-grant/"
+    },
+    {
+      "id": 895,
+      "name": "Ned McWherter Scholars Program",
+      "from": "https://www.collegefortn.org/tennessee-financial-aid/ned-mcwherter-scholars-program/",
+      "to": "https://www.collegefortn.org/ned-mcwherter-scholars-program/"
+    },
+    {
+      "id": 903,
+      "name": "Community Foundation of Greater Memphis Scholarships",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 904,
+      "name": "Kylen C. Bares Memorial Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 905,
+      "name": "Dr. William and Helen Lucile Gillaspie Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 906,
+      "name": "Harold and Ida Jamison Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 907,
+      "name": "Maxine A. Smith Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 908,
+      "name": "CFGM Community Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 909,
+      "name": "Constance Butler Goforth Education Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 910,
+      "name": "Helen Hoffman Education Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 911,
+      "name": "Don Poier Memorial Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 912,
+      "name": "Original Fayette County Civic and Welfare League Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 913,
+      "name": "Claude P. Thompson Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 914,
+      "name": "Annie Ervin Willis Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 915,
+      "name": "Charles E. Howard Memorial Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 916,
+      "name": "Edna Fant McConnell Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 917,
+      "name": "Ruth H. Mims Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 918,
+      "name": "Joseph W. Westbrook / Eldridge Pete Mitchell Melrose Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 919,
+      "name": "City of Memphis I AM A MAN Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 920,
+      "name": "Ruby Holmes Hefley Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 923,
+      "name": "Kicklighter Family Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 924,
+      "name": "Mary A. Jackson Smith / Gloria V. Smith Family Scholarship",
+      "from": "https://www.cfgm.org/scholarships/",
+      "to": "https://cfgm.org/grants-scholarships/scholarships/"
+    },
+    {
+      "id": 1015,
+      "name": "Linly Heflin Scholarship",
+      "from": "https://linlyheflin.org/apply/",
+      "to": "https://www.linlyheflin.org/apply/"
+    },
+    {
+      "id": 1016,
+      "name": "CollegeCounts Scholarship",
+      "from": "https://www.treasury.alabama.gov/collegecounts-scholarship/",
+      "to": "https://treasury.alabama.gov/programs/collegecounts-scholarship/"
+    },
+    {
+      "id": 1022,
+      "name": "Alabama Cattlemen's Foundation Scholarships",
+      "from": "https://bamabeef.org/p/about/scholarships1",
+      "to": "https://www.bamabeef.org/p/about/scholarships1"
+    },
+    {
+      "id": 1025,
+      "name": "Cabaniss, Johnston Law School Scholarship",
+      "from": "https://alabamalawfoundation.org/scholarships/law-school-scholarships/",
+      "to": "https://www.alabamalawfoundation.org/scholarships/law-school-scholarships/"
+    },
+    {
+      "id": 1026,
+      "name": "Kids' Chance of Alabama Scholarship",
+      "from": "https://alabamalawfoundation.org/scholarships/kids-chance/",
+      "to": "https://www.alabamalawfoundation.org/scholarships/kids-chance/"
+    },
+    {
+      "id": 1041,
+      "name": "Excelsior Scholarship Fund",
+      "from": "https://denverfoundation.org/scholarship/excelsior-scholarship-fund-community-college-and-trade-school-students/",
+      "to": "https://denverfoundation.org/scholarship/excelsior-scholarship/"
+    },
+    {
+      "id": 1061,
+      "name": "North Star Promise Scholarship",
+      "from": "https://ohe.mn.gov/grant-scholarship/north-star-promise",
+      "to": "https://ohe.mn.gov/northstarpromise"
+    },
+    {
+      "id": 1114,
+      "name": "Hispanic Festival Inc. Scholarship",
+      "from": "https://stlouisgraduates.academicworks.com/opportunities/9904",
+      "to": "https://stlouisgraduates.academicworks.com/users/sign_in"
+    },
+    {
+      "id": 1121,
+      "name": "Missouri REALTORS Scholarship",
+      "from": "https://www.missourirealtor.org/resources/get-involved/apply-for-scholarship",
+      "to": "https://thelanding.missourirealtor.org/resources/get-involved/apply-for-scholarship"
+    },
+    {
+      "id": 1122,
+      "name": "Mizzou Freshman Merit Scholarships",
+      "from": "https://admissions.missouri.edu/scholarships/freshman-scholarships/",
+      "to": "https://admissions.missouri.edu/costs-aid/scholarships/freshman-scholarships/"
+    },
+    {
+      "id": 1126,
+      "name": "UMSL Scholarships for Hispanic and Latino Students",
+      "from": "https://umsl.academicworks.com/opportunities/4750",
+      "to": "https://www.blackbaud.com/products/award-scholarship-management"
+    },
+    {
+      "id": 1140,
+      "name": "A.C. Flora Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1141,
+      "name": "Alpha Iota Boule - Matthew J. Perry, Jr. Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1142,
+      "name": "Benny and Eleanor Clark Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1143,
+      "name": "Bertha and Addison Bostain, Sr. Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1144,
+      "name": "Bobbi Rossi Memorial Scholarship (Cardinal Newman School)",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1145,
+      "name": "Bobbi Rossi Memorial Scholarship (USC School of Nursing)",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1146,
+      "name": "Central Carolina Community Foundation Opportunity Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1147,
+      "name": "Dinkins Family Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1148,
+      "name": "Dr. Robert Howard/WHS Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1149,
+      "name": "Grace Brooks and E. Perry Palmer (Claflin) Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1150,
+      "name": "Zack and Rachel Clarkson Scholarship",
+      "from": "https://www.yourfoundation.org/grants-scholarships/scholarships/scholarship-descriptions/",
+      "to": "https://www.yourfoundation.org/for-students/scholarship-directory/"
+    },
+    {
+      "id": 1178,
+      "name": "Herb Kohl Excellence Scholarship",
+      "from": "https://www.kohleducation.org/",
+      "to": "https://www.herbkohlphilanthropies.org/celebrating-excellence-in-education/"
+    },
+    {
+      "id": 1179,
+      "name": "Herb Kohl Student Initiative Scholarship",
+      "from": "https://www.kohleducation.org/",
+      "to": "https://www.herbkohlphilanthropies.org/celebrating-excellence-in-education/"
+    },
+    {
+      "id": 1205,
+      "name": "Roberta B. Willis Scholarship - Need-Based Grant",
+      "from": "https://www.ohe.ct.gov/SFA/WillisScholarship.shtml",
+      "to": "https://portal.ct.gov/ohe"
+    },
+    {
+      "id": 1206,
+      "name": "Roberta B. Willis Scholarship - Need-Merit Award",
+      "from": "https://www.ohe.ct.gov/SFA/WillisScholarship.shtml",
+      "to": "https://portal.ct.gov/ohe"
+    },
+    {
+      "id": 1222,
+      "name": "Bohdan Kolinsky Memorial Sports Media Scholarship",
+      "from": "https://ctsportswriters.com/scholarship",
+      "to": "https://www.ctsportswriters.com/scholarship"
+    },
+    {
+      "id": 1225,
+      "name": "CHESLA Undergraduate Scholarship",
+      "from": "https://www.chesla.org/scholarships",
+      "to": "https://chesla.org/scholarships/"
+    },
+    {
+      "id": 1226,
+      "name": "Waterbury Promise Scholarship",
+      "from": "https://waterburypromise.org/",
+      "to": "https://www.waterburypromise.org/"
+    },
+    {
+      "id": 1233,
+      "name": "Norwalk Community College Foundation Path2Success Scholarship",
+      "from": "https://www.ncc-foundation.org/scholarships",
+      "to": "https://ncc-foundation.org/scholarships/"
+    },
+    {
+      "id": 1243,
+      "name": "Iowa National Guard Service Scholarship",
+      "from": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/iowa-national-guard-service-scholarship",
+      "to": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/iowa-national-guard-benefits"
+    },
+    {
+      "id": 1248,
+      "name": "Iowa Newspaper Foundation Scholarship",
+      "from": "https://inanews.com/learn/scholarships/",
+      "to": "https://inanews.com/careers-education/student-resources/scholarships/"
+    },
+    {
+      "id": 1282,
+      "name": "Kentucky Governor's Scholars Program",
+      "from": "https://gsp.ky.gov/",
+      "to": "https://gsp.ky.gov/Pages/index.aspx"
+    },
+    {
+      "id": 1312,
+      "name": "Oklahoma's Promise (OHLAP)",
+      "from": "https://okpromise.org/application-requirements.shtml",
+      "to": "https://okpromise.org/application-requirements/"
+    },
+    {
+      "id": 1318,
+      "name": "OCCF New Opportunities Scholarship",
+      "from": "https://occf.academicworks.com/opportunities/3791",
+      "to": "https://www.blackbaud.com/products/award-scholarship-management"
+    },
+    {
+      "id": 1321,
+      "name": "Tulsa Community Foundation My Dream / Mi Sueno Scholarship",
+      "from": "https://tulsacf.org/mydreamscholarship/",
+      "to": "https://tulsacf.org/"
+    },
+    {
+      "id": 1349,
+      "name": "Oregon Opportunity Grant",
+      "from": "https://oregonstudentaid.gov/oregon-opportunity-grant.aspx",
+      "to": "https://oregonstudentaid.gov/grants/oregon-opportunity-grant/"
+    },
+    {
+      "id": 1353,
+      "name": "Apex Scholarship",
+      "from": "https://financialaid.uoregon.edu/apex",
+      "to": "https://financialaid.uoregon.edu/scholarships"
+    },
+    {
+      "id": 1354,
+      "name": "Summit Scholarship",
+      "from": "https://financialaid.uoregon.edu/summit",
+      "to": "https://financialaid.uoregon.edu/scholarships"
+    },
+    {
+      "id": 1397,
+      "name": "Daniels Scholarship Program",
+      "from": "https://www.danielsfund.org/scholarships",
+      "to": "https://danielsfund.org/our-work/scholarships/"
+    },
+    {
+      "id": 1413,
+      "name": "Governor's Distinguished Scholarship",
+      "from": "https://sams.adhe.edu/Scholarship/Page/GS/gds-information-sheet",
+      "to": "https://sams.adhe.edu/Error"
+    },
+    {
+      "id": 1472,
+      "name": "Mississippi Tuition Assistance Grant (MTAG)",
+      "from": "https://www.msfinancialaid.org/mtag/",
+      "to": "https://www.msfinancialaid.org/programs/mtag-mississippi-tuition-assistance-grant/"
+    },
+    {
+      "id": 1473,
+      "name": "Mississippi Eminent Scholars Grant (MESG)",
+      "from": "https://www.msfinancialaid.org/mesg/",
+      "to": "https://www.msfinancialaid.org/programs/mesg-mississippi-eminent-scholars-grant/"
+    },
+    {
+      "id": 1474,
+      "name": "Higher Education Legislative Plan (HELP) Grant",
+      "from": "https://www.msfinancialaid.org/help/",
+      "to": "https://www.msfinancialaid.org/programs/help-higher-ed-legislative-plan/"
+    },
+    {
+      "id": 1475,
+      "name": "Nissan Scholarship",
+      "from": "https://www.msfinancialaid.org/nissan/",
+      "to": "https://www.msfinancialaid.org/programs/niss-nissan-scholarship/"
+    },
+    {
+      "id": 1476,
+      "name": "FAITH Scholarship (Fostering Access and Inspiring True Hope)",
+      "from": "https://www.msfinancialaid.org/faith/",
+      "to": "https://www.msfinancialaid.org/programs/faith-scholarship/"
+    },
+    {
+      "id": 1511,
+      "name": "Union Pacific Black Employee Network (BEN) Scholarship",
+      "from": "https://newsroom.unl.edu/announce/metr/18523/100534",
+      "to": "https://shib.unl.edu/idp/profile/cas/login?execution=e1s1"
+    },
+    {
+      "id": 1520,
+      "name": "Ponca Tribe Higher Education Grant",
+      "from": "https://www.poncatribe-ne.gov/services/education/financial-aid/",
+      "to": "https://poncatribe-ne.gov/services/education/financial-aid/"
+    },
+    {
+      "id": 1532,
+      "name": "Daniels Scholarship Program",
+      "from": "https://danielsfund.org/scholarships/daniels-scholarship-program/overview",
+      "to": "https://danielsfund.org/our-work/scholarships/"
+    },
+    {
+      "id": 1540,
+      "name": "Nina J. Wing Scholarship",
+      "from": "https://cnm.academicworks.com/opportunities/620",
+      "to": "https://cnm.academicworks.com/opportunities/3194"
+    },
+    {
+      "id": 1612,
+      "name": "HMSA Kaimana Scholarship",
+      "from": "https://hmsa.com/kaimana",
+      "to": "https://hmsa.com/awards-and-scholarships/hmsa-kaimana-awards-and-scholarship-program/"
+    },
+    {
+      "id": 1615,
+      "name": "UH Second Century Scholarship",
+      "from": "https://www.hawaii.edu/tuition/scholarships/",
+      "to": "https://hawaii.edu/costs/financial-aid"
+    },
+    {
+      "id": 1631,
+      "name": "Idaho Postsecondary Credit Scholarship",
+      "from": "https://boardofed.idaho.gov/scholarships/",
+      "to": "https://boardofed.idaho.gov/education-programs/state-aid-tuition-exchange/"
+    },
+    {
+      "id": 1634,
+      "name": "STEM-ID Scholarship",
+      "from": "https://stem.idaho.gov/stem-id/",
+      "to": "https://stem.idaho.gov/"
+    },
+    {
+      "id": 1646,
+      "name": "Mitchell Institute Scholarship",
+      "from": "https://mitchellinstitute.org/scholarship/",
+      "to": "https://www.mitchellinstitute.org/a-10000-college-scholarship-plus-so-much-more/"
+    },
+    {
+      "id": 1650,
+      "name": "Maine Island Higher Education Scholarship",
+      "from": "https://www.islandinstitute.org/solutions/scholarships/",
+      "to": "https://www.islandinstitute.org/solutions/community-impact-fund/"
+    },
+    {
+      "id": 1671,
+      "name": "Montana Higher Education Grant (MHEG)",
+      "from": "https://www.umt.edu/financial-aid/types-of-aid/grants/",
+      "to": "https://www.umt.edu/student-financial-services/financial-aid/types-of-aid/grants.php"
+    },
+    {
+      "id": 1672,
+      "name": "MTAP-Baker Grant",
+      "from": "https://www.umt.edu/financial-aid/types-of-aid/grants/",
+      "to": "https://www.umt.edu/student-financial-services/financial-aid/types-of-aid/grants.php"
+    },
+    {
+      "id": 1745,
+      "name": "Sealaska Scholarship Program",
+      "from": "https://scholarship.sealaskaheritage.org/",
+      "to": "https://scholarship.sealaskaheritage.org/Account/LogOn"
+    },
+    {
+      "id": 1758,
+      "name": "Alaska Geological Society Scholarship",
+      "from": "https://www.alaskageology.org/scholarships",
+      "to": "https://www.alaskageology.org/scholarships.html"
+    },
+    {
+      "id": 1766,
+      "name": "DC-CAP Scholarship Programs",
+      "from": "https://dccap.org/",
+      "to": "https://www.dccap.org/"
+    },
+    {
+      "id": 1773,
+      "name": "Meg Graham Scholarship",
+      "from": "https://washington.jl.org/community/scholarships/",
+      "to": "https://washington.jl.org/sorry404/"
+    },
+    {
+      "id": 1802,
+      "name": "North Dakota Scholars Program",
+      "from": "https://www.ndsu.edu/onestop/north-dakota-resident-scholarships",
+      "to": "https://www.ndsu.edu/onestop/finaid/awards/scholarships/resident"
+    },
+    {
+      "id": 1807,
+      "name": "NDSU North Dakota Academic Scholarship Match",
+      "from": "https://www.ndsu.edu/onestop/north-dakota-resident-scholarships",
+      "to": "https://www.ndsu.edu/onestop/finaid/awards/scholarships/resident"
+    },
+    {
+      "id": 1855,
+      "name": "Jackrabbit Guarantee Scholarship",
+      "from": "https://www.sdstate.edu/admissions/first-time-freshmen-scholarships",
+      "to": "https://www.sdstate.edu/admissions/first-time-student-scholarships"
+    },
+    {
+      "id": 1861,
+      "name": "American Indian Education Fund Undergraduate Scholarship",
+      "from": "https://www.aiefprogram.org/",
+      "to": "https://nativepartnership.org/aief/"
+    },
+    {
+      "id": 1865,
+      "name": "802Opportunity Grant",
+      "from": "https://ccv.edu/financial/802-opportunity-tuition-free-college-for-vermonters/",
+      "to": "https://ccv.edu/paying-for-ccv/802-opportunity-brtuition-free-college-for-vermonters/"
+    },
+    {
+      "id": 1895,
+      "name": "Wyoming Community Foundation Scholarships",
+      "from": "https://wycf.org/scholarships/",
+      "to": "https://wycf.org/grants-scholarships/scholarships/scholarship-directory"
+    },
+    {
+      "id": 1906,
+      "name": "Blue Cross Blue Shield of Wyoming Caring Foundation Scholarship",
+      "from": "https://westernwyoming.academicworks.com/opportunities/2127",
+      "to": "https://www.blackbaud.com/products/award-scholarship-management"
+    },
+    {
+      "id": 1954,
+      "name": "Anne Ford Scholarship",
+      "from": "https://www.ncld.org/anne-ford-scholarship/",
+      "to": "https://ncld.org/scholarships-awards/anne-ford-scholarship/"
+    },
+    {
+      "id": 1957,
+      "name": "Golden Door Scholars",
+      "from": "https://roadtohire.org/golden-door-scholars",
+      "to": "https://www.roadtohire.org/golden-door-scholars"
+    },
+    {
+      "id": 1960,
+      "name": "Knights of Columbus Pro Deo and Pro Patria Scholarship",
+      "from": "https://www.kofc.org/en/what-we-do/scholarships/us-undergraduate-scholarships.html",
+      "to": "https://www.kofc.org/resources/scholarships/us-undergraduate-scholarships/"
+    },
+    {
+      "id": 1985,
+      "name": "SME Education Foundation Scholarships",
+      "from": "https://scholarships.smeef.org/",
+      "to": "https://scholarships.smeef.org/applications/"
+    },
+    {
+      "id": 1991,
+      "name": "Actuary of Tomorrow - Stuart A. Robertson Memorial Scholarship",
+      "from": "https://actuarialfoundation.org/scholarships/stuart-robertson-scholarship/",
+      "to": "https://actuarialfoundation.org/"
+    },
+    {
+      "id": 1997,
+      "name": "Golden Opportunity Scholars Program",
+      "from": "https://www.agronomy.org/awards",
+      "to": "https://www.agronomy.org/awards?acsSsoAuthCheck=1"
+    },
+    {
+      "id": 1999,
+      "name": "mikeroweWORKS Work Ethic Scholarship",
+      "from": "https://www.mikeroweworks.org/scholarship",
+      "to": "https://mikeroweworks.org/scholarship/"
+    },
+    {
+      "id": 2004,
+      "name": "Ascent $1,000 Plan, Pay and Succeed Scholarship",
+      "from": "https://www.ascentfunding.com/scholarships/monthly/",
+      "to": "https://www.ascentfunding.com/scholarships/plan-pay-succeed/"
+    },
+    {
+      "id": 2008,
+      "name": "Juno $2,000 No Essay Scholarship",
+      "from": "https://joinjuno.com/scholarship",
+      "to": "https://joinjuno.com/scholarship/september-2026"
+    }
+  ]
+}
