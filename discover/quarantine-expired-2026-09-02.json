@@ -270,5 +270,157 @@
     ],
     "_quarantineReason": "SD Needs-Based has no student application at all; awarded by institution from FAFSA data.",
     "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 357,
+    "name": "Dorrance Scholarship",
+    "organization": "Dorrance Scholarship Programs",
+    "amount": 12000,
+    "amountLabel": "$12,000",
+    "deadline": "2027-02-03",
+    "description": "A renewable award of $12,000 for first-generation Arizona high school seniors with financial need attending one of the state's public universities.",
+    "url": "https://dorrancescholarship.org/application/",
+    "eligibility": {
+      "gpa_min": 3,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Arizona"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": true,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "need",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "state",
+      "renewable",
+      "high-value",
+      "deadline-approx"
+    ],
+    "_quarantineReason": "Dorrance Scholarship Program is no longer accepting applications; the program concludes with the class of 2030 (dorrancescholarship.org).",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 896,
+    "name": "Christa McAuliffe Scholarship",
+    "organization": "Tennessee Student Assistance Corporation",
+    "amount": 500,
+    "amountLabel": "$500 one-time",
+    "deadline": "2027-02-01",
+    "description": "One-time 500 dollar award for a Tennessee student who aspires to become an exemplary teacher, applied toward an approved teacher-education program at an in-state public or private college. Administered by TSAC.",
+    "url": "https://www.tn.gov/collegepays/money-for-college/loan-forgiveness-programs.html",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Tennessee"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "education"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "stem",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state"
+    ],
+    "_quarantineReason": "Christa McAuliffe Scholarship terminated effective 2020-07-01; TSAC folded the remaining funds into reserves.",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 1616,
+    "name": "UH Manoa Academic Merit Scholarships",
+    "organization": "University of Hawaii at Manoa",
+    "amount": 2500,
+    "amountLabel": "Varies",
+    "deadline": "2027-03-01",
+    "description": "Merit-based scholarships for incoming first-year students at UH Manoa based on academic achievement. Applicants are typically Hawaii residents seeking a degree.",
+    "url": "https://manoa.hawaii.edu/admissions/financial-aid/",
+    "eligibility": {
+      "gpa_min": 3.5,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Hawaii"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "merit",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "state",
+      "merit",
+      "deadline-approx"
+    ],
+    "_quarantineReason": "UH Manoa financial aid URL is 404 and no working replacement page was found.",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 1869,
+    "name": "VSAC Board of Directors Scholarship (David Coates)",
+    "organization": "Vermont Student Assistance Corporation (VSAC)",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2027-02-11",
+    "description": "For a first-generation Vermont college student pursuing an associate or bachelor's degree in business, accounting, or finance. Administered through the VSAC unified scholarship application.",
+    "url": "https://accessscholarships.com/scholarship/vermont-student-assistance-corporation-vsac-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman"
+      ],
+      "states": [
+        "Vermont"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": true,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "stem",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "first_gen"
+    ],
+    "_quarantineReason": "VSAC Board of Directors Scholarship URL is 404 and no working replacement page was found.",
+    "_quarantinedAt": "2026-09-02"
   }
 ]
