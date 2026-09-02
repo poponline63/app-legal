@@ -1,0 +1,274 @@
+[
+  {
+    "id": 458,
+    "name": "Excelsior Scholarship",
+    "organization": "New York State Higher Education Services Corporation (HESC)",
+    "amount": 7070,
+    "amountLabel": "Full SUNY/CUNY tuition",
+    "deadline": "2026-08-31",
+    "description": "Tuition-free attendance at SUNY or CUNY two- or four-year colleges for full-time New York students whose household federal adjusted gross income is $125,000 or less. Students must complete 30 credits per year and live and work in New York after graduation for the length of the award.",
+    "url": "https://www.governor.ny.gov/news/governor-hochul-announces-excelsior-scholarship-application-open-new-applicants-2026-2027",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [
+        "New York"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "need",
+    "noEssay": true,
+    "renewable": true,
+    "tags": [
+      "state",
+      "renewable",
+      "high-value"
+    ],
+    "_quarantineReason": "NY Excelsior 2026-27 cycle closed on hesc.ny.gov; next cycle deadline not published. Re-add when HESC posts 2027-28 dates.",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 461,
+    "name": "NYS Science, Technology, Engineering and Mathematics (STEM) Incentive Program",
+    "organization": "New York State Higher Education Services Corporation (HESC)",
+    "amount": 7070,
+    "amountLabel": "Full SUNY/CUNY tuition",
+    "deadline": "2026-08-31",
+    "description": "Full SUNY or CUNY tuition for students in the top 10 percent of their New York high school class who pursue an approved STEM degree at a SUNY or CUNY college and agree to work in a STEM field in New York State for five years after graduation.",
+    "url": "https://www.cuny.edu/financial-aid/scholarships/new-york-state-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "New York"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem",
+        "engineering"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "stem",
+    "noEssay": true,
+    "renewable": true,
+    "tags": [
+      "state",
+      "renewable",
+      "high-value"
+    ],
+    "_quarantineReason": "NYS STEM Incentive 2026-27 deadline was 2026-08-15 (dataset had 08-31, wrong); cycle closed, next not published.",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 784,
+    "name": "William A. Crawford Minority Teacher Scholarship",
+    "organization": "Indiana Commission for Higher Education",
+    "amount": 4000,
+    "amountLabel": "$4,000",
+    "deadline": "2026-08-31",
+    "description": "For Black and Hispanic/Latino Indiana students pursuing teaching. Recipients agree to apply for and, if hired, teach in an Indiana accredited school for at least three years. Requires full-time enrollment and a valid FAFSA.",
+    "url": "https://www.in.gov/che/state-financial-aid/state-financial-aid-by-program/william-a-crawford-minority-teacher-scholarship",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [
+        "Indiana"
+      ],
+      "ethnicity": [
+        "hispanic"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "education"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "state",
+      "teaching",
+      "identity"
+    ],
+    "_quarantineReason": "Indiana CHE page still shows the expired 2026-08-31 ScholarTrack deadline; next cycle not published.",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 793,
+    "name": "Lilly Endowment Community Scholarship",
+    "organization": "Lilly Endowment Inc. / Independent Colleges of Indiana",
+    "amount": 2500,
+    "amountLabel": "Full tuition, fees + up to $900/yr books",
+    "deadline": "2026-08-31",
+    "description": "One of Indiana's most prestigious awards, providing full tuition, required fees, and up to $900 per year for books for four years at any eligible Indiana college. Awarded to graduating seniors in each of Indiana's 92 counties through local community foundations; criteria and deadlines vary by county.",
+    "url": "https://lillyendowment.org/for-grantseekers/lilly-endowment-community-scholarship-program/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Indiana"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "merit",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "state",
+      "merit"
+    ],
+    "_quarantineReason": "Lilly Endowment confirms deadlines are set by each county community foundation; no single national date exists.",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 885,
+    "name": "Tennessee HOPE Scholarship",
+    "organization": "Tennessee Student Assistance Corporation (TELS)",
+    "amount": 4500,
+    "amountLabel": "$2,250-$2,850 per semester",
+    "deadline": "2026-09-01",
+    "description": "Tennessee Education Lottery merit scholarship for residents attending eligible in-state colleges. Freshmen and sophomores receive up to 2,250 dollars per semester, juniors and seniors up to 2,850 dollars. Requires a 21 ACT or 1060 SAT, or a weighted 3.0 GPA, and one year of Tennessee residency.",
+    "url": "https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-scholarship/",
+    "eligibility": {
+      "gpa_min": 3,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [
+        "Tennessee"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "merit",
+    "noEssay": true,
+    "renewable": true,
+    "tags": [
+      "state"
+    ],
+    "_quarantineReason": "Duplicate of id 200 (Tennessee HOPE Scholarship). Merged into 200.",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 1843,
+    "name": "Jump Start Scholarship",
+    "organization": "South Dakota Board of Regents",
+    "amount": 1500,
+    "amountLabel": "$1,500 for first year",
+    "deadline": "2026-09-01",
+    "description": "For South Dakota residents who attended a South Dakota public high school full-time for at least two semesters and graduate in three years or less. Pays $1,500 split across fall and spring of the first year at an accredited South Dakota postsecondary institution. Students who enroll in a fourth year of high school are ineligible.",
+    "url": "https://tdx.sdbor.edu/TDClient/33/Portal/KB/?CategoryID=37",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "South Dakota"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "merit",
+    "noEssay": true,
+    "renewable": false,
+    "tags": [
+      "state",
+      "merit"
+    ],
+    "_quarantineReason": "SD Jump Start has no published student deadline (10/1 and 2/25 are institutional roster dates).",
+    "_quarantinedAt": "2026-09-02"
+  },
+  {
+    "id": 1845,
+    "name": "South Dakota Needs-Based Scholarship Grant",
+    "organization": "South Dakota Board of Regents",
+    "amount": 2000,
+    "amountLabel": "$500 to $2,000",
+    "deadline": "2026-09-01",
+    "description": "Grant for South Dakota resident students with demonstrated unmet financial need attending a public university in the state. Requires completion of the FAFSA. Award ranges from $500 to $2,000 depending on need.",
+    "url": "https://tdx.sdbor.edu/TDClient/33/Portal/KB/ArticleDet?ID=311",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore"
+      ],
+      "states": [
+        "South Dakota"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "need",
+    "noEssay": true,
+    "renewable": true,
+    "tags": [
+      "state",
+      "need"
+    ],
+    "_quarantineReason": "SD Needs-Based has no student application at all; awarded by institution from FAFSA data.",
+    "_quarantinedAt": "2026-09-02"
+  }
+]
