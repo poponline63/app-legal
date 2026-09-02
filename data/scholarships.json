@@ -299,7 +299,7 @@
       "amountLabel": "$25,000 to $100,000",
       "deadline": "2027-02-11",
       "description": "For students 18 and under who have completed a significant piece of work in STEM, literature, music, or philosophy.",
-      "url": "https://www.davidsongifted.org/fellows-scholarship/",
+      "url": "https://www.davidsongifted.org/gifted-programs/fellows-scholarship/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -644,7 +644,7 @@
       "amountLabel": "$40,000 ($10,000/yr)",
       "deadline": "2027-01-09",
       "description": "For Black/African American high school seniors who excel academically, exhibit leadership, and demonstrate financial need.",
-      "url": "https://www.ronbrown.org/",
+      "url": "https://ronbrown.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -680,7 +680,7 @@
       "amountLabel": "$10,000/yr, renewable",
       "deadline": "2027-01-05",
       "description": "For seniors who demonstrate leadership, drive, integrity, and citizenship, with financial need considered.",
-      "url": "https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/",
+      "url": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -715,7 +715,7 @@
       "amountLabel": "Full ride",
       "deadline": "2027-01-19",
       "description": "A full-ride, merit-based scholarship for high school juniors, based on academics, humility, and interest in public policy.",
-      "url": "https://www.coolidgescholars.org/",
+      "url": "https://coolidgescholars.org/",
       "eligibility": {
         "gpa_min": 3.5,
         "grade_levels": [
@@ -784,7 +784,7 @@
       "amountLabel": "$5,000 to $25,000",
       "deadline": "2027-01-06",
       "description": "For students ages 16-26 pursuing their passion. Submit a 2-minute video telling your story. No GPA or test score requirements.",
-      "url": "https://www.tacobellfoundation.org/live-mas-scholarship/",
+      "url": "https://tacobellfoundation.org/live-mas-scholarship/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -862,7 +862,7 @@
       "amountLabel": "Up to $5,000",
       "deadline": "2026-08-30",
       "description": "For students enrolling in a skilled trade or technical program such as welding, HVAC, plumbing, or CDL training who show a strong work ethic.",
-      "url": "https://www.mikeroweworks.org/scholarship/",
+      "url": "https://mikeroweworks.org/scholarship/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -938,7 +938,7 @@
       "amountLabel": "Varies (avg ~$10,000)",
       "deadline": "2027-02-01",
       "description": "For active-duty service members, veterans, and military spouses pursuing higher education and a life of service.",
-      "url": "https://pattillmanfoundation.org/apply-to-be-a-scholar/",
+      "url": "https://pattillmanfoundation.org/apply/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -977,7 +977,7 @@
       "amountLabel": "$4,000",
       "deadline": "2027-04-30",
       "description": "For high school seniors who are veterans, active-duty military, or the children/grandchildren of veterans, based on need and merit.",
-      "url": "https://amvets.org/scholarships/",
+      "url": "https://www.amvets.org/scholarships",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -1901,7 +1901,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2026-12-01",
       "description": "A family of transfer and completion scholarships for community college students who are Phi Theta Kappa members, including the Coca-Cola Leaders of Promise award.",
-      "url": "https://www.ptk.org/scholarships/",
+      "url": "https://www.ptk.org/scholarships/how-our-scholarships-work/",
       "eligibility": {
         "gpa_min": 3.5,
         "grade_levels": [
@@ -2054,7 +2054,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-01-31",
       "description": "Undergraduate and graduate scholarships for AIAA student members studying aerospace engineering and related fields.",
-      "url": "https://www.aiaa.org/get-involved/students-educators",
+      "url": "https://aiaa.org/get-involved/university-students/undergraduate-scholarships-graduate-awards/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -2085,7 +2085,7 @@
         "aerospace",
         "membership"
       ],
-      "verifiedAt": "2026-08-06",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -2141,7 +2141,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-01-31",
       "description": "A portfolio of corporate sponsored scholarships for NSBE members pursuing engineering and technical degrees.",
-      "url": "https://www.nsbe.org/scholarships",
+      "url": "https://nsbe.org/scholarships/",
       "eligibility": {
         "gpa_min": 2.7,
         "grade_levels": [
@@ -2234,7 +2234,7 @@
       "amountLabel": "$500 to $5,000",
       "deadline": "2027-04-30",
       "description": "Scholarships for students from underserved communities, with an emphasis on Hispanic students, majoring in STEM fields.",
-      "url": "https://www.greatmindsinstem.org/",
+      "url": "https://greatmindsinstem.org/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -2777,7 +2777,7 @@
       "amountLabel": "$1,000 to $5,000",
       "deadline": "2027-05-31",
       "description": "Multiple scholarships for American Indian, Alaska Native, and Native Hawaiian students pursuing STEM degrees.",
-      "url": "https://www.aises.org/scholarships",
+      "url": "https://aises.org/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -2824,7 +2824,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-04-01",
       "description": "Scholarships for students pursuing an actuarial career, including awards for students from underrepresented groups.",
-      "url": "https://www.actuarialfoundation.org/scholarships/",
+      "url": "https://actuarialfoundation.org/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -2865,7 +2865,7 @@
       "amountLabel": "$2,500 to $10,000",
       "deadline": "2027-03-01",
       "description": "Accounting scholarships from the AICPA, including awards for minority accounting students and future CPAs at two year and four year schools.",
-      "url": "https://www.aicpa-cima.com/scholarships",
+      "url": "https://www.aicpa-cima.com/resources/article/aicpa-scholarships-can-support-your-accounting-education",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -2906,7 +2906,7 @@
       "amountLabel": "$1,000 to $10,000",
       "deadline": "2027-01-31",
       "description": "Scholarships for NABA student members of African descent studying accounting, finance, and business.",
-      "url": "https://www.nabainc.org/scholarships",
+      "url": "https://nabainc.org/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -3033,7 +3033,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-03-01",
       "description": "Competitive events and scholarship awards for FBLA members preparing for careers in business and business education.",
-      "url": "https://www.fbla.org/awards-and-scholarships/",
+      "url": "https://www.fbla.org/high-school/hs-scholarships-aid/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -3060,7 +3060,7 @@
         "membership",
         "competition"
       ],
-      "verifiedAt": "2026-08-06",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -3071,7 +3071,7 @@
       "amountLabel": "Up to $10,000",
       "deadline": "2027-03-15",
       "description": "For students pursuing a career in the restaurant, foodservice, and hospitality industry, including current industry employees.",
-      "url": "https://chooserestaurants.org/Scholarships",
+      "url": "https://chooserestaurants.org/programs/scholarships-grants/scholarships/",
       "eligibility": {
         "gpa_min": 2.75,
         "grade_levels": [
@@ -3271,7 +3271,7 @@
       "amountLabel": "$1,000 to $5,000",
       "deadline": "2027-04-15",
       "description": "Scholarships for NBNA members currently enrolled in a nursing program at any level.",
-      "url": "https://www.nbna.org/scholarships",
+      "url": "https://nbna.org/programs-committees/programs/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -3431,7 +3431,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-03-01",
       "description": "Scholarships for HOSA members preparing for careers in health care, from high school through college programs.",
-      "url": "https://www.hosa.org/scholarships",
+      "url": "https://hosa.org/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -3596,7 +3596,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-03-31",
       "description": "Scholarships offered to AFT members and their dependents, including awards for students entering education careers.",
-      "url": "https://www.aft.org/scholarships",
+      "url": "https://www.aft.org/member-benefits/education-learning-opportunities/scholarships",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -3752,7 +3752,7 @@
       "amountLabel": "Varies by discipline",
       "deadline": "2027-04-30",
       "description": "Grants for emerging artists in theater, dance, and film, awarded to students at the end of their training and to early career artists.",
-      "url": "https://www.pgfusa.org/apply",
+      "url": "https://pgfusa.org/apply/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -3871,7 +3871,7 @@
       "amountLabel": "Up to $25,000",
       "deadline": "2027-03-01",
       "description": "Scholarships for students in welding and welding engineering programs, from certificate programs through graduate degrees.",
-      "url": "https://www.aws.org/foundation/page/scholarships",
+      "url": "https://www.aws.org/Career-Resources/Students/Scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -4275,7 +4275,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-02-15",
       "description": "Scholarships and fellowships for undergraduate and graduate journalism students, including awards for broadcast and print reporting.",
-      "url": "https://www.spj.org/scholarships.asp",
+      "url": "https://www.spj.org/grants-internships-fellowships-and-scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -4306,7 +4306,7 @@
         "writing",
         "membership"
       ],
-      "verifiedAt": "2026-08-06",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -4405,7 +4405,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-04-15",
       "description": "Scholarships and internships for students of Asian American and Pacific Islander descent going into journalism.",
-      "url": "https://www.aaja.org/programs/scholarships/",
+      "url": "https://www.aaja.org/news-and-resources/scholarships-internships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -4535,7 +4535,7 @@
       "amountLabel": "Varies by need",
       "deadline": "2027-03-31",
       "description": "For students who are enrolled members of a United States federally recognized tribe, at any level from vocational programs through graduate school.",
-      "url": "https://cobellscholar.org/",
+      "url": "https://www.cobellscholar.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -4942,7 +4942,7 @@
       "amountLabel": "Varies by award",
       "deadline": "2027-05-31",
       "description": "Merit scholarships for students attending publicly supported historically Black colleges and universities and predominantly Black institutions.",
-      "url": "https://tmcf.org/students/scholarships/",
+      "url": "https://tmcf.org/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -5025,7 +5025,7 @@
       "amountLabel": "Up to $30,000 over 4 years",
       "deadline": "2027-02-01",
       "description": "A four year scholarship plus intensive mentoring and leadership development for minority high school seniors with financial need.",
-      "url": "https://www.jackierobinson.org/apply/",
+      "url": "https://jackierobinson.org/apply/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -5107,7 +5107,7 @@
       "amountLabel": "Up to $3,000 plus recognition",
       "deadline": "2027-01-15",
       "description": "Recognizes Hispanic high school seniors for excellence in categories such as STEM, healthcare, business, and the arts.",
-      "url": "https://hispanicheritage.org/programs/youth-awards/",
+      "url": "https://hispanicheritage.org/discover/youth-awards/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -5188,7 +5188,7 @@
       "amountLabel": "Up to $15,000",
       "deadline": "2027-04-01",
       "description": "For students active in movements for social and economic justice who also have significant financial need.",
-      "url": "https://davisputter.org/",
+      "url": "https://www.davisputter.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -5263,7 +5263,7 @@
       "amountLabel": "Free college prep plus awards",
       "deadline": "2027-03-25",
       "description": "For high achieving low income high school juniors. Awards include free summer programs, application support, and full scholarships to summer institutes.",
-      "url": "https://www.questbridge.org/high-school-students/college-prep-scholars",
+      "url": "https://www.questbridge.org/apply-to-college/programs/college-prep-scholars-program",
       "eligibility": {
         "gpa_min": 3.5,
         "grade_levels": [
@@ -5530,7 +5530,7 @@
       "amountLabel": "Varies by need",
       "deadline": "2027-04-30",
       "description": "For survivors of intimate partner abuse who have been separated from their abuser for at least a year and need help finishing a degree.",
-      "url": "https://www.wispinc.org/",
+      "url": "https://wispinc.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -5808,7 +5808,7 @@
       "amountLabel": "Full tuition plus stipend",
       "deadline": "2027-02-04",
       "description": "Pays full tuition or room and board plus a monthly stipend, in exchange for a service commitment as an Army officer after graduation.",
-      "url": "https://www.goarmy.com/rotc/scholarships.html",
+      "url": "https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc/scholarships",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -5918,7 +5918,7 @@
       "amountLabel": "Up to $25,000",
       "deadline": "2026-12-01",
       "description": "A public speaking competition on the United States Constitution for high school students, with awards at post, state, and national levels.",
-      "url": "https://www.legion.org/oratorical",
+      "url": "https://www.legion.org/get-involved/youth-programs/oratorical-contest",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -5954,7 +5954,7 @@
       "amountLabel": "Varies by program",
       "deadline": "2027-04-15",
       "description": "A set of national scholarships including the Legacy Scholarship for children of fallen or disabled service members and the Samsung American Legion Scholarship.",
-      "url": "https://www.legion.org/scholarships",
+      "url": "https://www.legion.org/get-involved/scholarships",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -6064,7 +6064,7 @@
       "amountLabel": "$1,000 to $5,000",
       "deadline": "2027-02-15",
       "description": "More than two dozen scholarships across nursing, history, medicine, law, and other fields. No DAR affiliation is required for most awards.",
-      "url": "https://www.dar.org/national-society/scholarships",
+      "url": "https://www.dar.org/outreach/education/scholarships",
       "eligibility": {
         "gpa_min": 3.25,
         "grade_levels": [
@@ -6480,7 +6480,7 @@
       "amountLabel": "$1,000 monthly",
       "deadline": "2027-06-30",
       "description": "A monthly no essay sweepstakes for students and parents of students. One entry per month, winner drawn at random.",
-      "url": "https://www.collegeave.com/scholarships/",
+      "url": "https://www.collegeave.com/articles/scholarships-for-grad-students/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -6601,7 +6601,7 @@
       "amountLabel": "Full cost of attendance",
       "deadline": "2026-12-15",
       "description": "One of the largest private scholarship programs in Texas, covering full cost of attendance at partner Texas public universities plus a leadership community.",
-      "url": "https://www.terryfoundation.org/",
+      "url": "https://terryfoundation.org/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -6683,7 +6683,7 @@
       "amountLabel": "Varies by program",
       "deadline": "2027-06-30",
       "description": "New York state aid including the Tuition Assistance Program, the Excelsior Scholarship, and awards for STEM students and children of veterans.",
-      "url": "https://www.hesc.ny.gov/",
+      "url": "https://hesc.ny.gov/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -6725,7 +6725,7 @@
       "amountLabel": "Up to $5,750 per year",
       "deadline": "2027-05-01",
       "description": "Need based grants for Pennsylvania residents enrolled at least half time. Requires the FAFSA plus the PHEAA state grant form.",
-      "url": "https://www.pheaa.org/funding-opportunities/state-grant-program/",
+      "url": "https://www.pheaa.org/grants/state-grant-program",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -6809,7 +6809,7 @@
       "amountLabel": "Varies by need",
       "deadline": "2027-06-30",
       "description": "Need based grant for Ohio residents attending eligible Ohio and Pennsylvania institutions, awarded from the FAFSA.",
-      "url": "https://highered.ohio.gov/",
+      "url": "https://highered.ohio.gov/students/pay-for-college/ohio-grants-scholarships/ocog/ocog",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -6840,7 +6840,7 @@
         "need-based",
         "renewable"
       ],
-      "verifiedAt": "2026-08-06",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -7289,7 +7289,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "One application covering hundreds of scholarship funds for Arizona students.",
-      "url": "https://www.azfoundation.org/apply-for-a-scholarship/",
+      "url": "https://www.azfoundation.org/scholarship-seekers/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -7319,7 +7319,7 @@
         "community-foundation",
         "need-based"
       ],
-      "verifiedAt": "2026-08-10",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -8260,7 +8260,7 @@
       "amountLabel": "Up to $2,500",
       "deadline": "2026-12-15",
       "description": "Awards for students who have faced adversity and are pursuing career or technical education.",
-      "url": "https://www.horatioalger.org/scholarships/career-technical/",
+      "url": "https://horatioalger.org/career-technical-education-scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -8288,7 +8288,7 @@
         "technical",
         "need-based"
       ],
-      "verifiedAt": "2026-08-10",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -9488,7 +9488,7 @@
       "amountLabel": "$1,000",
       "deadline": "2026-11-15",
       "description": "Scholarships for students with disabilities, with a focus on health and disability related fields.",
-      "url": "https://aahd.us/best-practice/aahd-scholarship-program/",
+      "url": "https://aahd.us/initiatives/scholarship/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -9515,7 +9515,7 @@
         "disability",
         "healthcare"
       ],
-      "verifiedAt": "2026-08-10",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -9566,7 +9566,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "Scholarships for students with hearing loss who use listening and spoken language.",
-      "url": "https://www.agbell.org/Programs/Scholarships",
+      "url": "https://agbell.org/2020/01/24/scholarships-change-lives/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -10055,7 +10055,7 @@
       "amountLabel": "$1,000 to $5,000",
       "deadline": "2027-04-15",
       "description": "Scholarships for students in agricultural and biological engineering.",
-      "url": "https://www.asabe.org/awards-competitions/scholarships",
+      "url": "https://asabe.org/awards-competitions/scholarships",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -10137,7 +10137,7 @@
       "amountLabel": "$500 to $10,000",
       "deadline": "2027-03-01",
       "description": "Scholarships for students pursuing geophysics and applied earth sciences.",
-      "url": "https://seg.org/community/students/scholarships/",
+      "url": "https://seg.org/programs/student-programs/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -10166,7 +10166,7 @@
         "stem",
         "geophysics"
       ],
-      "verifiedAt": "2026-08-10",
+      "verifiedAt": "2026-09-02",
       "deadlineApprox": true
     },
     {
@@ -10615,7 +10615,7 @@
       "amountLabel": "$500 to $6,000",
       "deadline": "2027-04-15",
       "description": "Scholarships for graduate students in physical, occupational, speech therapy, and audiology.",
-      "url": "https://ambucs.org/scholars/",
+      "url": "https://ambucs.org/scholarship-program/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -11681,7 +11681,7 @@
       "amountLabel": "$1,000 to $5,000",
       "deadline": "2027-02-15",
       "description": "Scholarships for students studying food science and technology.",
-      "url": "https://www.ift.org/community/students",
+      "url": "https://www.ift.org/advance-your-career/students",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -12241,7 +12241,7 @@
       "amountLabel": "$1,000-$5,000+",
       "deadline": "2027-03-01",
       "description": "Scholarships for students enrolled (or enrolling) in welding programs or programs with 50%+ welding coursework, at trade schools, community colleges, or universities. National, district, and section awards; some consider financial need.",
-      "url": "https://www.aws.org/foundation/page/scholarships",
+      "url": "https://www.aws.org/Career-Resources/Students/Scholarships/",
       "category": "stem",
       "noEssay": false,
       "renewable": false,
@@ -12282,7 +12282,7 @@
       "amountLabel": "$1,000+",
       "deadline": "2027-03-15",
       "description": "Scholarships for Black nursing students currently enrolled (LPN/LVN, ADN, BSN, Master's, or Doctorate) with at least one year of school remaining. Requires NBNA membership. Over $257K awarded in a recent year.",
-      "url": "https://www.nbna.org/scholarships",
+      "url": "https://nbna.org/programs-committees/programs/scholarships/",
       "category": "stem",
       "noEssay": false,
       "renewable": false,
@@ -14052,42 +14052,6 @@
       ]
     },
     {
-      "id": 357,
-      "name": "Dorrance Scholarship",
-      "organization": "Dorrance Scholarship Programs",
-      "amount": 12000,
-      "amountLabel": "$12,000",
-      "deadline": "2027-02-03",
-      "description": "A renewable award of $12,000 for first-generation Arizona high school seniors with financial need attending one of the state's public universities.",
-      "url": "https://dorrancescholarship.org/application/",
-      "eligibility": {
-        "gpa_min": 3,
-        "grade_levels": [
-          "high_school_senior"
-        ],
-        "states": [
-          "Arizona"
-        ],
-        "ethnicity": null,
-        "financial_need": true,
-        "first_gen": true,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "need",
-      "noEssay": false,
-      "renewable": true,
-      "tags": [
-        "state",
-        "renewable",
-        "high-value",
-        "deadline-approx"
-      ]
-    },
-    {
       "id": 358,
       "name": "Arizona Community Foundation General Scholarship Application",
       "organization": "Arizona Community Foundation",
@@ -15470,7 +15434,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "Scholarship supporting East Bay students pursuing higher education, administered by the East Bay Community Foundation through its scholarship portal.",
-      "url": "https://eastbaycf.smapply.io/prog/acumen_scholarship/",
+      "url": "https://eastbaycf.smapply.io/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -15496,7 +15460,8 @@
       "tags": [
         "local",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 396,
@@ -16847,7 +16812,7 @@
       "amountLabel": "$3,000 (avg)",
       "deadline": "2027-02-15",
       "description": "Merit scholarship for Florida high school seniors planning to study engineering, requiring a 3.5 GPA, qualifying test scores, and U.S. citizenship or permanent residency. The 2026-2027 application posts in December.",
-      "url": "https://fleng.org/support-future-engineers/scholarships/",
+      "url": "https://fleng.org/future-engineers/scholarships/",
       "eligibility": {
         "gpa_min": 3.5,
         "grade_levels": [
@@ -16882,7 +16847,7 @@
       "amountLabel": "$1,000",
       "deadline": "2027-02-15",
       "description": "Named FES university scholarship of $1,000 with preference for electrical engineering students who are Florida residents, awarded through the general FES university application.",
-      "url": "https://fleng.org/support-future-engineers/scholarships/",
+      "url": "https://fleng.org/future-engineers/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -16920,7 +16885,7 @@
       "amountLabel": "$1,000",
       "deadline": "2027-06-01",
       "description": "A $1,000 scholarship for engineering sophomores through seniors at Florida institutions with a minimum 2.75 GPA, awarded by the Florida Engineering Foundation.",
-      "url": "https://fleng.org/support-future-engineers/scholarships/",
+      "url": "https://fleng.org/future-engineers/scholarships/",
       "eligibility": {
         "gpa_min": 2.75,
         "grade_levels": [
@@ -16958,7 +16923,7 @@
       "amountLabel": "$1,000",
       "deadline": "2027-06-01",
       "description": "A $1,000 award for engineering juniors and seniors with a 3.0 GPA and a construction focus, offered through the Florida Engineering Society.",
-      "url": "https://fleng.org/support-future-engineers/scholarships/",
+      "url": "https://fleng.org/future-engineers/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -18800,7 +18765,7 @@
       "amountLabel": "$2,500–$10,000",
       "deadline": "2027-01-09",
       "description": "Scholarships of $2,500, $5,000 or $10,000 for students in communications-related fields (advertising, journalism, marketing, PR, film, digital media and more) who live or attend school in the greater New York metropolitan area.",
-      "url": "https://www.nywici.org",
+      "url": "https://nywici.org/",
       "eligibility": {
         "gpa_min": 3.2,
         "grade_levels": [
@@ -19058,7 +19023,7 @@
       "amountLabel": "$3,000 (1st) / $2,000 (2nd) + $250 district",
       "deadline": "2027-04-01",
       "description": "For New York graduating high school seniors preparing for an agriculture-connected career; the state first-place winner receives $3,000, second place $2,000, and each district winner $250. Free student Farm Bureau membership is required.",
-      "url": "https://nyfb.org/programs/promotion-education/scholarship",
+      "url": "https://nyfb.org/programs/promotion-and-engagement/scholarship/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -19585,7 +19550,7 @@
       "amountLabel": "Varies by fund",
       "deadline": "2027-03-01",
       "description": "Over 60 scholarships for graduating high school seniors and current college students in the Lackawanna/Scranton region, applied for through one SACF Common Application.",
-      "url": "https://safdn.org/apply-today-for-a-scholarship-2/",
+      "url": "https://safdn.org/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -19613,7 +19578,8 @@
       "tags": [
         "local",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 509,
@@ -21776,7 +21742,7 @@
       "amountLabel": "Partial tuition, per credit hour rate set annually",
       "deadline": "2027-06-30",
       "description": "Merit award for Georgia residents who graduate high school with a 3.0 HOPE GPA and attend an eligible Georgia public or private college. Funded by the Georgia Lottery and pays a set amount per credit hour toward tuition. Students must maintain a 3.0 college GPA to keep it.",
-      "url": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/",
+      "url": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -22034,7 +22000,7 @@
       "amountLabel": "Cost of attendance for dependents of fallen or disabled officers",
       "deadline": "2027-06-30",
       "description": "Grant for the dependent children of Georgia public safety officers (law enforcement, firefighters, EMTs, paramedics, HERO operators, prison guards) who were permanently disabled or killed in the line of duty. Recipients must be full-time Georgia college students.",
-      "url": "https://www.gafutures.org/hope-state-aid-programs/scholarships-grants/public-safety-memorial-grant/eligibility/",
+      "url": "https://www.gafutures.org/hope-state-aid-programs/scholarships-grants/public-service-memorial/eligibility/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -24065,7 +24031,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "The DuPage Foundation maintains multiple named scholarship funds for students in the DuPage County area. Students are advised to check with their high school or college guidance office for available Foundation scholarships.",
-      "url": "https://dupagefoundation.org/who-we-are/foundation-funds.html/title/scholarship-funds",
+      "url": "https://www.dupagefoundation.org/foundation-funds/scholarship-funds/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -24139,7 +24105,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "Helps low income Chicago residents who meet CSBG income eligibility finance higher education at an Illinois college, university or vocational training program. Awards support tuition and related educational costs.",
-      "url": "https://www.chicago.gov/fss/scholarship",
+      "url": "https://www.chicago.gov/city/en/depts/fss/provdrs/serv/svcs/community_serviceblockgrantscholarship.html",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -28442,7 +28408,7 @@
       "amountLabel": "$2,000-$10,000",
       "deadline": "2027-03-01",
       "description": "Awards for African American high school seniors in the Greater Cincinnati area. Up to ten scholarships ranging from $2,000 to $10,000 are awarded each cycle to students continuing to higher education.",
-      "url": "https://www.gcfdn.org/blog/application-process-open-for-greater-cincinnati-african-american-scholarship-fund-2/",
+      "url": "https://www.gcfdn.org/blog/application-process-open-for-greater-cincinnati-african-american-scholarship-fund/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -28630,7 +28596,7 @@
       "amountLabel": "Varies by fund",
       "deadline": "2027-02-15",
       "description": "More than 50 scholarship funds support students across the 32-county Appalachian region of Ohio. The 2026 general application ran January 5 through February 15 with a single online application for most funds.",
-      "url": "https://appalachianohio.org/scholarships/",
+      "url": "https://appalachianohio.org/opportunities/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -30057,7 +30023,7 @@
       "amountLabel": "$2,000 (up to $8,000 four-year)",
       "deadline": "2027-03-01",
       "description": "Awards four-year college scholarships to Indiana students, with preference for Hispanic and Latino students. Recipients are selected on academic record, community involvement, and financial need.",
-      "url": "https://www.laplazaindy.org/scholarship-fund/",
+      "url": "https://laplazaindy.org/scholarship-fund/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -30207,7 +30173,7 @@
       "amountLabel": "$5,000",
       "deadline": "2027-03-01",
       "description": "Awards $5,000 scholarships each year to broadcasting students attending an Indiana college or university and pursuing a career in broadcasting.",
-      "url": "https://www.indianabroadcasters.org/careers/2026-scholarship-recipients/",
+      "url": "https://indianabroadcasters.org/careers/2026-scholarship-recipients/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -30246,7 +30212,7 @@
       "amountLabel": "$2,000",
       "deadline": "2027-03-01",
       "description": "Recognizes graduating Indiana high school seniors pursuing agricultural careers who demonstrate lasting impact on Indiana agriculture through 4-H, FFA, and leadership involvement. Three awards annually.",
-      "url": "https://infarmbureau.org/scholarships",
+      "url": "https://www.infarmbureau.org/resources/scholarships-and-grants",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -30282,7 +30248,7 @@
       "amountLabel": "$1,000",
       "deadline": "2027-03-01",
       "description": "For students at Purdue University, Huntington University, or Vincennes University who are actively involved in their collegiate Farm Bureau chapters. Two awards annually.",
-      "url": "https://infarmbureau.org/scholarships",
+      "url": "https://www.infarmbureau.org/resources/scholarships-and-grants",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33287,7 +33253,7 @@
       "amountLabel": "Up to $750 per semester",
       "deadline": "2027-03-01",
       "description": "Need-based supplement added on top of the HOPE Scholarship for students whose family adjusted gross income is below the state threshold. Adds up to 750 dollars per semester at four-year schools. Requires FAFSA and HOPE eligibility.",
-      "url": "https://www.collegefortn.org/tennessee-financial-aid/aspire-award/",
+      "url": "https://www.collegefortn.org/aspire-award/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -33323,7 +33289,7 @@
       "amountLabel": "Up to $500 per semester",
       "deadline": "2027-03-01",
       "description": "Merit add-on to the HOPE Scholarship for students who meet both the GPA and test-score benchmarks. Adds up to 500 dollars per semester including summer terms. Requires HOPE eligibility and FAFSA.",
-      "url": "https://www.collegefortn.org/tennessee-financial-aid/general-assembly-merit-scholarship/",
+      "url": "https://www.collegefortn.org/general-assembly-merit-scholarship/",
       "eligibility": {
         "gpa_min": 3.75,
         "grade_levels": [
@@ -33394,7 +33360,7 @@
       "amountLabel": "Up to $2,000 per year",
       "deadline": "2026-11-01",
       "description": "Lottery-funded grant of up to 2,000 dollars per year for students pursuing a certificate or diploma at a Tennessee College of Applied Technology. Requires Tennessee residency; no GPA or test-score requirement.",
-      "url": "https://www.collegefortn.org/tennessee-financial-aid/wilder-naifeh-technical-skills-grant/",
+      "url": "https://www.collegefortn.org/wilder-naifeh-technical-skills-grant/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33429,7 +33395,7 @@
       "amountLabel": "Tuition support per course",
       "deadline": "2027-06-30",
       "description": "Lottery-funded grant helping Tennessee high school juniors and seniors pay for college courses taken while still in high school. Covers tuition and access fees for early courses and up to 600 dollars per course thereafter.",
-      "url": "https://www.collegefortn.org/tennessee-financial-aid/dual-enrollment-grant/",
+      "url": "https://www.collegefortn.org/dual-enrollment-grant-faqs/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33501,7 +33467,7 @@
       "amountLabel": "Tuition and mandatory fees",
       "deadline": "2027-03-01",
       "description": "Grant covering remaining tuition and mandatory fees for Tennessee students who were in state foster care, after other gift aid is applied. Available at eligible Tennessee colleges and colleges of applied technology.",
-      "url": "https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-foster-child-tuition-grant/",
+      "url": "https://www.collegefortn.org/tennessee-hope-foster-child-tuition-grant/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33536,7 +33502,7 @@
       "amountLabel": "$6,000 per year",
       "deadline": "2027-02-15",
       "description": "Prestigious, competitive merit award of 6,000 dollars per year for high-achieving Tennessee high school seniors attending an eligible in-state college. Combines a state grant with an institutional match and requires top test scores and GPA.",
-      "url": "https://www.collegefortn.org/tennessee-financial-aid/ned-mcwherter-scholars-program/",
+      "url": "https://www.collegefortn.org/ned-mcwherter-scholars-program/",
       "eligibility": {
         "gpa_min": 3.5,
         "grade_levels": [
@@ -33557,42 +33523,6 @@
       "category": "merit",
       "noEssay": false,
       "renewable": true,
-      "tags": [
-        "state"
-      ]
-    },
-    {
-      "id": 896,
-      "name": "Christa McAuliffe Scholarship",
-      "organization": "Tennessee Student Assistance Corporation",
-      "amount": 500,
-      "amountLabel": "$500 one-time",
-      "deadline": "2027-02-01",
-      "description": "One-time 500 dollar award for a Tennessee student who aspires to become an exemplary teacher, applied toward an approved teacher-education program at an in-state public or private college. Administered by TSAC.",
-      "url": "https://www.tn.gov/collegepays/money-for-college/loan-forgiveness-programs.html",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "college_junior",
-          "college_senior"
-        ],
-        "states": [
-          "Tennessee"
-        ],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": [
-          "education"
-        ],
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "stem",
-      "noEssay": false,
-      "renewable": false,
       "tags": [
         "state"
       ]
@@ -33814,7 +33744,7 @@
       "amountLabel": "Varies by fund",
       "deadline": "2027-04-01",
       "description": "Umbrella program of more than 30 scholarship categories for Shelby County and Greater Memphis students. A single application matches applicants to funds by school, ZIP code, field, and need. High school seniors apply by early April.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33848,7 +33778,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for Memphis-Shelby County Schools students, with preference for those majoring in math, science, or engineering. At least one award is made annually through the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33884,7 +33814,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-02-01",
       "description": "Award for history graduate students at the University of Memphis, with preference for those studying Latin American history. Administered by the Community Foundation of Greater Memphis with a February 1 deadline.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33917,7 +33847,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for African-American seniors graduating from Booker T. Washington, Hamilton, or Melrose High School in Memphis. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33952,7 +33882,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for Memphis high school seniors who participate in the NAACP ACT-SO academic competition program. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -33985,7 +33915,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for civically engaged students from metropolitan Memphis who demonstrate academic excellence, community service, and financial need. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34018,7 +33948,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for Greater Memphis students demonstrating academic excellence, community service, and financial need. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34051,7 +33981,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for first-generation or disadvantaged Greater Memphis students with volunteer or work experience. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34084,7 +34014,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for well-rounded Shelby County public high school students who show strong character. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34117,7 +34047,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for African-American students from Fayette County, Tennessee. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34152,7 +34082,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for Greater Memphis students from non-traditional homes or single parents pursuing higher education. Community involvement is required. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34186,7 +34116,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for Memphis seniors living in ZIP codes 38106, 38114, 38126, or 38127 who meet a community volunteer requirement. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34219,7 +34149,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for African-American males from the Memphis area pursuing vocational or technical careers. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34255,7 +34185,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-06-01",
       "description": "Award for single mothers in the Greater Memphis area pursuing career education. Administered by the Community Foundation of Greater Memphis with an adult-learner deadline in early June.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34289,7 +34219,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for education majors attending LeMoyne-Owen College or the University of Memphis. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34326,7 +34256,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for students from Melrose High School in Memphis. At least one award is made annually through the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34359,7 +34289,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for City of Memphis solid waste employees and their families. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34393,7 +34323,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for Greater Memphis students who are children of parents with disabilities. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34495,7 +34425,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for graduates of Raleigh-Egypt High School in Memphis. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -34528,7 +34458,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Award for Memphis-area students attending a historically Black college or university. Administered by the Community Foundation of Greater Memphis.",
-      "url": "https://www.cfgm.org/scholarships/",
+      "url": "https://cfgm.org/grants-scholarships/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -37112,7 +37042,7 @@
       "amountLabel": "Tuition, fees and books (up to 10 semesters)",
       "deadline": "2027-06-01",
       "description": "Covers tuition, mandatory fees, textbooks and supplies at Alabama public colleges for the dependent children, spouses and widows of qualifying Alabama veterans who are permanently disabled or rated at a service connected level. Dependent children must apply before age 26.",
-      "url": "https://va.alabama.gov/dependents-scholarship/",
+      "url": "https://va.alabama.gov/education/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -37141,7 +37071,8 @@
         "state",
         "military",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 996,
@@ -37818,7 +37749,7 @@
       "amountLabel": "$5,000/semester (up to $40,000)",
       "deadline": "2027-01-11",
       "description": "Scholarship for female Alabama residents attending an accredited four year Alabama college or university. Requires a minimum 3.2 high school GPA, a minimum 23 ACT and demonstrated financial need. Pays $5,000 per semester for up to eight semesters.",
-      "url": "https://linlyheflin.org/apply/",
+      "url": "https://www.linlyheflin.org/apply/",
       "eligibility": {
         "gpa_min": 3.2,
         "grade_levels": [
@@ -37855,7 +37786,7 @@
       "amountLabel": "$4,000 (4-year) or $2,000 (2-year)",
       "deadline": "2027-02-28",
       "description": "Need based award for Alabama high school seniors and first time freshmen enrolling at an eligible Alabama institution. Requires a minimum 2.75 GPA and an ACT of 26 or below. Funded by the CollegeCounts 529 Fund with no taxpayer dollars.",
-      "url": "https://www.treasury.alabama.gov/collegecounts-scholarship/",
+      "url": "https://treasury.alabama.gov/programs/collegecounts-scholarship/",
       "eligibility": {
         "gpa_min": 2.75,
         "grade_levels": [
@@ -38067,7 +37998,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-01-31",
       "description": "Scholarships for Alabama high school seniors and college students pursuing careers connected to the beef and cattle industry. Administered by the Alabama Cattlemen's Foundation, the charitable arm of the Alabama Cattlemen's Association.",
-      "url": "https://bamabeef.org/p/about/scholarships1",
+      "url": "https://www.bamabeef.org/p/about/scholarships1",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -38147,7 +38078,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-15",
       "description": "Scholarships for Alabama students pursuing construction trades and construction science careers such as carpentry, plumbing, electrical, HVAC and residential building. Supports workforce development for the state home building industry.",
-      "url": "https://ahbfoundation.org/scholarships/",
+      "url": "https://ahbfoundation.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -38176,7 +38107,8 @@
       "tags": [
         "state",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1025,
@@ -38186,7 +38118,7 @@
       "amountLabel": "$5,000",
       "deadline": "2027-06-06",
       "description": "Scholarship for Alabama resident law students entering their second year at an Alabama law school. Administered by the Alabama Law Foundation to support future Alabama attorneys.",
-      "url": "https://alabamalawfoundation.org/scholarships/law-school-scholarships/",
+      "url": "https://www.alabamalawfoundation.org/scholarships/law-school-scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -38222,7 +38154,7 @@
       "amountLabel": "$500 to $2,500",
       "deadline": "2027-03-01",
       "description": "Scholarship for children whose parent was killed or permanently and totally disabled in a work related accident covered by Alabama workers' compensation. Helps affected families afford post secondary education.",
-      "url": "https://alabamalawfoundation.org/scholarships/kids-chance/",
+      "url": "https://www.alabamalawfoundation.org/scholarships/kids-chance/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -38770,7 +38702,7 @@
       "amountLabel": "$500 to $5,000",
       "deadline": "2027-02-27",
       "description": "Need-based scholarship for Colorado residents enrolling at an accredited vocational or technical school, community college or university. Requires a minimum 2.5 GPA. Emancipated and foster care youth are especially encouraged to apply.",
-      "url": "https://denverfoundation.org/scholarship/excelsior-scholarship-fund-community-college-and-trade-school-students/",
+      "url": "https://denverfoundation.org/scholarship/excelsior-scholarship/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -39062,7 +38994,7 @@
       "amountLabel": "$1,000",
       "deadline": "2027-01-11",
       "description": "Merit-based scholarship for active Colorado DECA senior high school members planning full-time two- or four-year study in marketing, entrepreneurship, finance, hospitality or management. Includes CBAM awards for active DECA participants.",
-      "url": "https://www.coloradodeca.org/scholarships",
+      "url": "https://www.coloradodeca.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -39088,7 +39020,8 @@
       "tags": [
         "state",
         "field_specific"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1050,
@@ -39384,7 +39317,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "Scholarship awarded to graduating seniors from the AVID Program at Doherty High School in Colorado Springs. The Rotary scholarship committee reviews applications and conducts interviews.",
-      "url": "https://www.ncsrcfoundation.com/scholarships",
+      "url": "https://www.ncsrcfoundation.com/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -39409,7 +39342,8 @@
         "local",
         "community",
         "civic"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1059,
@@ -41759,7 +41693,7 @@
       "amountLabel": "$3,500 to $11,000/year",
       "deadline": "2026-12-01",
       "description": "Automatic merit awards for incoming Missouri resident freshmen based on the Mizzou core GPA and curriculum rigor. Tiers include the Excellence Award at $3,500, the Curators Scholars Award at $5,000, the Chancellor's Award at $7,200, and the Mizzou Scholars Award at $11,000 a year, renewable for four years.",
-      "url": "https://admissions.missouri.edu/scholarships/freshman-scholarships/",
+      "url": "https://admissions.missouri.edu/costs-aid/scholarships/freshman-scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -45349,7 +45283,7 @@
       "amountLabel": "~$3,000",
       "deadline": "2027-03-01",
       "description": "For Connecticut students pursuing a career in sports journalism or sports media. Awarded by the Connecticut Sports Writers organization.",
-      "url": "https://ctsportswriters.com/scholarship",
+      "url": "https://www.ctsportswriters.com/scholarship",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -45466,7 +45400,7 @@
       "amountLabel": "Up to $3,000",
       "deadline": "2027-03-01",
       "description": "Need-based scholarship for Connecticut residents enrolled at least half-time who are Pell Grant eligible with a minimum 2.5 GPA. Awards are up to $1,500 for half-time and up to $3,000 for full-time students, first-come first-served until funds run out.",
-      "url": "https://www.chesla.org/scholarships",
+      "url": "https://chesla.org/scholarships/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -45503,7 +45437,7 @@
       "amountLabel": "Up to $5,000/year",
       "deadline": "2027-05-01",
       "description": "Place-based last-dollar scholarship for graduates of Waterbury schools meeting GPA, attendance, and residency requirements. Provides up to $5,000 per year toward college, up to $20,000 over four years.",
-      "url": "https://waterburypromise.org/",
+      "url": "https://www.waterburypromise.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -45670,7 +45604,7 @@
       "amountLabel": "Up to $5,000/year plus loan reimbursement",
       "deadline": "2026-10-15",
       "description": "Grant for Connecticut students in teacher-preparation programs who commit to teaching in a Connecticut public school. Provides up to $5,000 per year in junior and senior years, plus up to $2,500 per year in student loan reimbursement for up to four years of teaching. Nominated by the education dean.",
-      "url": "https://portal.ct.gov/ohe/financial-aid/minority-teacher-incentive-program",
+      "url": "https://ohe.ct.gov/SFA/sfa_mtip.html",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -45698,7 +45632,8 @@
         "state",
         "identity",
         "field_specific"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1232,
@@ -45742,7 +45677,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-14",
       "description": "Scholarship support for students at the Norwalk campus of CT State Community College. Awarded through the Norwalk Community College Foundation to help cover tuition and educational costs.",
-      "url": "https://www.ncc-foundation.org/scholarships",
+      "url": "https://ncc-foundation.org/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -46284,7 +46219,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-02-13",
       "description": "For Iowa residents who are high school seniors or current college students planning careers in the newspaper industry in Iowa and attending an in-state college. Requires two references and two work samples.",
-      "url": "https://inanews.com/learn/scholarships/",
+      "url": "https://inanews.com/careers-education/student-resources/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -48560,7 +48495,7 @@
       "amountLabel": "Full tuition (varies)",
       "deadline": "2026-12-31",
       "description": "Early commitment program that covers college tuition at Oklahoma public colleges for students who enroll in 8th through 11th grade, meet family income limits, and complete required coursework. Family income cannot exceed 60000 at application. Students must maintain the required GPA and course requirements.",
-      "url": "https://okpromise.org/application-requirements.shtml",
+      "url": "https://okpromise.org/application-requirements/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -49918,7 +49853,7 @@
       "amountLabel": "Varies (need-based)",
       "deadline": "2027-03-01",
       "description": "Oregon's largest state-funded need-based grant, serving more than 40,000 low-income resident students each year toward a first associate or bachelor's degree. Award depends on financial need and institution type. Requires FAFSA or ORSAA.",
-      "url": "https://oregonstudentaid.gov/oregon-opportunity-grant.aspx",
+      "url": "https://oregonstudentaid.gov/grants/oregon-opportunity-grant/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -51480,7 +51415,7 @@
       "amountLabel": "Full tuition, fees, room, board, and books",
       "deadline": "2026-12-01",
       "description": "Full-support scholarship for University of Utah students whose racial or ethnic background is underrepresented in Utah higher education or who are first-generation college students. Covers tuition, fees, on-campus room and board, and a textbook allowance.",
-      "url": "https://studentaffairs.utah.edu/miller-enrichment-scholarship.php",
+      "url": "https://studentaffairs.utah.edu/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -51503,7 +51438,8 @@
       "renewable": true,
       "tags": [
         "local"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1392,
@@ -51582,7 +51518,7 @@
       "amountLabel": "Covers tuition gap after other aid",
       "deadline": "2027-03-01",
       "description": "For Pell-eligible Utah-resident students at Southern Utah University, filling the gap between other grants and scholarships and the cost of tuition. Requires the FAFSA and admission to SUU.",
-      "url": "https://www.suu.edu/finaid/newstudents/thors-pledge.html",
+      "url": "https://www.suu.edu/finaid/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -51606,7 +51542,8 @@
       "tags": [
         "local",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1395,
@@ -51691,7 +51628,7 @@
       "amountLabel": "Up to full cost of attendance",
       "deadline": "2026-10-15",
       "description": "Four-year scholarship for graduating seniors in Utah, Colorado, New Mexico, and Wyoming with financial need (family AGI $100,000 or less), a 3.0 GPA, and qualifying ACT or SAT scores. Covers costs beyond other aid and includes a laptop and support services.",
-      "url": "https://www.danielsfund.org/scholarships",
+      "url": "https://danielsfund.org/our-work/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -51763,7 +51700,7 @@
       "amountLabel": "$1,000 (5 awards)",
       "deadline": "2027-03-26",
       "description": "Awards five $1,000 scholarships to Utah high school seniors or recent GED/HISET graduates pursuing a trade, associate degree, or Construction Management degree in a construction-related field such as electrical, HVAC, or plumbing.",
-      "url": "https://www.hoganconstruction.com/scholarship",
+      "url": "https://www.hoganconstruction.com/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -51789,7 +51726,8 @@
       "tags": [
         "local",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1400,
@@ -52045,7 +51983,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "Provides financial support for members of the Ute Indian Tribe who attend law school at the University of Utah, established to honor David Cuch and support Ute students pursuing legal education.",
-      "url": "https://www.law.utah.edu/news/scholarship-created-to-celebrate-life-of-david-cuch/",
+      "url": "https://www.law.utah.edu/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -52073,7 +52011,8 @@
       "tags": [
         "local",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1408,
@@ -54367,7 +54306,7 @@
       "amountLabel": "$500 to $1,000 per year",
       "deadline": "2026-09-15",
       "description": "State grant for Mississippi residents attending an approved in state college full time. Pays $500 per year to freshmen and sophomores and $1,000 per year to juniors and seniors. Requires a 2.5 GPA and at least a 15 on the ACT.",
-      "url": "https://www.msfinancialaid.org/mtag/",
+      "url": "https://www.msfinancialaid.org/programs/mtag-mississippi-tuition-assistance-grant/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -54403,7 +54342,7 @@
       "amountLabel": "Up to $2,500 per year",
       "deadline": "2026-09-15",
       "description": "Merit grant for high achieving Mississippi residents attending an approved in state college full time. Requires a 3.5 high school GPA and a 29 or higher ACT, a 1350 or higher SAT, or National Merit recognition.",
-      "url": "https://www.msfinancialaid.org/mesg/",
+      "url": "https://www.msfinancialaid.org/programs/mesg-mississippi-eminent-scholars-grant/",
       "eligibility": {
         "gpa_min": 3.5,
         "grade_levels": [
@@ -54437,7 +54376,7 @@
       "amountLabel": "Full tuition and required fees",
       "deadline": "2027-03-31",
       "description": "Need based grant that pays full tuition for up to four years for Mississippi residents. Requires a 2.5 high school GPA, a minimum 20 ACT, completion of the FAFSA, and family income within state limits.",
-      "url": "https://www.msfinancialaid.org/help/",
+      "url": "https://www.msfinancialaid.org/programs/help-higher-ed-legislative-plan/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -54470,7 +54409,7 @@
       "amountLabel": "Full tuition, fees, and book allowance",
       "deadline": "2027-03-01",
       "description": "Awards full tuition, fees, and a book allowance to graduating Mississippi high school seniors who show financial need and leadership. Requires a 2.5 GPA and a 20 ACT. Applicants write a short essay on supporting the automotive industry in Mississippi.",
-      "url": "https://www.msfinancialaid.org/nissan/",
+      "url": "https://www.msfinancialaid.org/programs/niss-nissan-scholarship/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -54504,7 +54443,7 @@
       "amountLabel": "Up to full cost of attendance",
       "deadline": "2026-09-15",
       "description": "Covers up to the full cost of attendance for Mississippi students who spent time in the state foster care system. Applicants must be under 25, be Mississippi residents, and enroll at least part time. No income requirement applies.",
-      "url": "https://www.msfinancialaid.org/faith/",
+      "url": "https://www.msfinancialaid.org/programs/faith-scholarship/",
       "eligibility": {
         "gpa_min": 2,
         "grade_levels": [
@@ -56061,7 +56000,7 @@
       "amountLabel": "Varies (need-based)",
       "deadline": "2027-05-15",
       "description": "Higher education financial aid for enrolled Ponca tribal members attending college or receiving training in the United States. Quarterly application deadlines administered by the Tribe's Education Department.",
-      "url": "https://www.poncatribe-ne.gov/services/education/financial-aid/",
+      "url": "https://poncatribe-ne.gov/services/education/financial-aid/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -56496,7 +56435,7 @@
       "amountLabel": "Up to a full four-year scholarship",
       "deadline": "2026-10-17",
       "description": "Up to a full-ride four-year scholarship for graduating high school seniors in New Mexico, Colorado, Utah, or Wyoming with strong character, leadership, and community commitment. Requires a 3.0 GPA and family AGI of $100,000 or less.",
-      "url": "https://danielsfund.org/scholarships/daniels-scholarship-program/overview",
+      "url": "https://danielsfund.org/our-work/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -59413,7 +59352,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-02-26",
       "description": "Scholarships recognizing Hawaii student-athletes who demonstrate academic achievement and community service.",
-      "url": "https://hmsa.com/kaimana",
+      "url": "https://hmsa.com/awards-and-scholarships/hmsa-kaimana-awards-and-scholarship-program/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -59555,41 +59494,6 @@
       ]
     },
     {
-      "id": 1616,
-      "name": "UH Manoa Academic Merit Scholarships",
-      "organization": "University of Hawaii at Manoa",
-      "amount": 2500,
-      "amountLabel": "Varies",
-      "deadline": "2027-03-01",
-      "description": "Merit-based scholarships for incoming first-year students at UH Manoa based on academic achievement. Applicants are typically Hawaii residents seeking a degree.",
-      "url": "https://manoa.hawaii.edu/admissions/financial-aid/",
-      "eligibility": {
-        "gpa_min": 3.5,
-        "grade_levels": [
-          "high_school_senior"
-        ],
-        "states": [
-          "Hawaii"
-        ],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "merit",
-      "noEssay": false,
-      "renewable": true,
-      "tags": [
-        "state",
-        "merit",
-        "deadline-approx"
-      ]
-    },
-    {
       "id": 1617,
       "name": "Hawaii Community Federal Credit Union Scholarship",
       "organization": "Hawaii Community Federal Credit Union",
@@ -59675,7 +59579,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-05-01",
       "description": "Scholarships for Kauai students pursuing higher education, awarded annually by the Kauai Board of REALTORS.",
-      "url": "https://www.kauaiboard.com/scholarships/",
+      "url": "https://www.kauaiboard.com/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -59700,7 +59604,8 @@
         "local",
         "community",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1620,
@@ -59952,7 +59857,7 @@
       "amountLabel": "Up to $6,000/year",
       "deadline": "2027-03-31",
       "description": "Four year renewable STEM scholarship funded by Micron and administered through the Idaho Latino Scholarship Foundation, awarded to one student of Hispanic or Latino descent attending an Idaho institution in a STEM field. Up to $3,000 per semester.",
-      "url": "https://www.idaholsf.com/micron-scholars/",
+      "url": "https://www.idaholsf.com/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -59979,7 +59884,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1628,
@@ -60632,7 +60538,7 @@
       "amountLabel": "$10,000 ($2,500/year over 4 years)",
       "deadline": "2027-03-01",
       "description": "Awarded to at least one graduating senior from every public high school in Maine. Selection weighs academics, community impact, and financial need. Includes mentoring, career advising, and an alumni network.",
-      "url": "https://mitchellinstitute.org/scholarship/",
+      "url": "https://www.mitchellinstitute.org/a-10000-college-scholarship-plus-so-much-more/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -61548,7 +61454,7 @@
       "amountLabel": "Varies by need",
       "deadline": "2027-03-01",
       "description": "State-appropriated need-based grant restricted to Montana resident undergraduates with exceptional financial need as determined by the FAFSA. Does not have to be repaid; funding is limited so early FAFSA filing is encouraged.",
-      "url": "https://www.umt.edu/financial-aid/types-of-aid/grants/",
+      "url": "https://www.umt.edu/student-financial-services/financial-aid/types-of-aid/grants.php",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -61586,7 +61492,7 @@
       "amountLabel": "Varies by need",
       "deadline": "2027-03-01",
       "description": "Montana Tuition Assistance Program (Baker Grant), the largest state need-based grant. For Montana resident undergraduates who earned income from work in the prior year and have a low FAFSA-calculated expected family contribution. Does not have to be repaid.",
-      "url": "https://www.umt.edu/financial-aid/types-of-aid/grants/",
+      "url": "https://www.umt.edu/student-financial-services/financial-aid/types-of-aid/grants.php",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -63109,7 +63015,7 @@
       "amountLabel": "Up to $2,000",
       "deadline": "2027-03-15",
       "description": "Provides up to $2,000 to New Hampshire high school graduates with at least a 2.5 GPA who demonstrate financial need and are pursuing agriculture-related studies such as forestry, environmental science, or conservation.",
-      "url": "https://www.nhfarmbureau.org/scholarship-information/",
+      "url": "https://www.nhfarmbureau.org/",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -63140,7 +63046,8 @@
         "state",
         "field-specific",
         "agriculture"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1714,
@@ -63412,7 +63319,7 @@
       "amountLabel": "Varies (need based)",
       "deadline": "2027-07-01",
       "description": "Higher Education Adult Part Time Student grant for West Virginia residents with financial need who attend an eligible institution on a part time basis. Applications are accepted on a rolling basis each year beginning July 1 until funds are exhausted.",
-      "url": "https://www.cfwv.com/financial-aid/wv-heaps-grant/",
+      "url": "https://www.wvhepc.edu/students/financial-aid/",
       "eligibility": {
         "gpa_min": 2,
         "grade_levels": [
@@ -63440,7 +63347,8 @@
         "state",
         "need",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1722,
@@ -64773,7 +64681,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-02-01",
       "description": "Supports students pursuing geology and earth-science degrees connected to Alaska. Multiple awards are granted annually with a February 1 deadline; amounts vary by year and applicant pool.",
-      "url": "https://www.alaskageology.org/scholarships",
+      "url": "https://www.alaskageology.org/scholarships.html",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -65086,7 +64994,7 @@
       "amountLabel": "Varies (last-dollar and University Partnership awards, some renewable)",
       "deadline": "2027-06-01",
       "description": "DC-CAP is a privately funded nonprofit that helps DC public and public charter high school students enroll in and graduate from college. Its scholarship programs include University Partnerships (which can reach full tuition at partner schools), a renewable Ward 7 and 8 award with coaching, and GEAR UP support. Most recipients are low-income, first-generation students.",
-      "url": "https://dccap.org/",
+      "url": "https://www.dccap.org/",
       "eligibility": {
         "gpa_min": 2,
         "grade_levels": [
@@ -66363,7 +66271,7 @@
       "amountLabel": "Full resident tuition",
       "deadline": "2027-07-01",
       "description": "Merit award covering full resident tuition at a North Dakota public university for students who score at or above the 95th percentile on the ACT taken before July 1 of the year preceding enrollment. No separate application is required and the award is renewable for up to three additional years.",
-      "url": "https://www.ndsu.edu/onestop/north-dakota-resident-scholarships",
+      "url": "https://www.ndsu.edu/onestop/finaid/awards/scholarships/resident",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -66534,7 +66442,7 @@
       "amountLabel": "Up to $6,000",
       "deadline": "2027-06-05",
       "description": "North Dakota State University honors the state North Dakota Academic Scholarship for resident students who earn it, disbursing $750 per semester toward attendance at NDSU. Recipients must qualify through the state program with a 3.0 GPA, no grades below C, and an ACT composite of 24 or higher.",
-      "url": "https://www.ndsu.edu/onestop/north-dakota-resident-scholarships",
+      "url": "https://www.ndsu.edu/onestop/finaid/awards/scholarships/resident",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -68351,7 +68259,7 @@
       "amountLabel": "Varies (350+ scholarships)",
       "deadline": "2027-03-01",
       "description": "The South Dakota Community Foundation manages more than 350 scholarships through a single common application that automatically matches students to funds available at their high school. Each scholarship has its own eligibility criteria and deadline.",
-      "url": "https://sdcommunityfoundation.org/apply/students",
+      "url": "https://sdcommunityfoundation.org/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -68376,7 +68284,8 @@
       "tags": [
         "state",
         "community"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1860,
@@ -68709,43 +68618,6 @@
       "renewable": false,
       "tags": [
         "local"
-      ]
-    },
-    {
-      "id": 1869,
-      "name": "VSAC Board of Directors Scholarship (David Coates)",
-      "organization": "Vermont Student Assistance Corporation (VSAC)",
-      "amount": 1000,
-      "amountLabel": "$1,000",
-      "deadline": "2027-02-11",
-      "description": "For a first-generation Vermont college student pursuing an associate or bachelor's degree in business, accounting, or finance. Administered through the VSAC unified scholarship application.",
-      "url": "https://accessscholarships.com/scholarship/vermont-student-assistance-corporation-vsac-scholarships/",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior",
-          "college_freshman"
-        ],
-        "states": [
-          "Vermont"
-        ],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": true,
-        "military": false,
-        "gender": null,
-        "majors": [
-          "business"
-        ],
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "stem",
-      "noEssay": false,
-      "renewable": false,
-      "tags": [
-        "state",
-        "first_gen"
       ]
     },
     {
@@ -69635,7 +69507,7 @@
       "amountLabel": "Varies (20+ named local awards)",
       "deadline": "2027-03-02",
       "description": "The Wyoming Community Foundation administers more than twenty named scholarship funds for Wyoming students through a single online application. Applications open October 1 and close in early March, with award notification by early May. Individual award amounts and criteria vary by fund.",
-      "url": "https://wycf.org/scholarships/",
+      "url": "https://wycf.org/grants-scholarships/scholarships/scholarship-directory",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -71725,7 +71597,7 @@
       "amountLabel": "$10,000 over four years",
       "deadline": "2027-05-10",
       "description": "Scholarship for graduating high school seniors with a documented learning disability, or ADHD alongside a learning disability, who will enroll full-time in a bachelor's degree program.",
-      "url": "https://www.ncld.org/anne-ford-scholarship/",
+      "url": "https://ncld.org/scholarships-awards/anne-ford-scholarship/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -71832,7 +71704,7 @@
       "amountLabel": "Full tuition, room and board at partner colleges",
       "deadline": "2027-01-15",
       "description": "Scholarship covering tuition, room, and board for up to four years for DACA and undocumented students, with career readiness support and mentorship at regional partner colleges.",
-      "url": "https://roadtohire.org/golden-door-scholars",
+      "url": "https://www.roadtohire.org/golden-door-scholars",
       "eligibility": {
         "gpa_min": 3.2,
         "grade_levels": [
@@ -71939,7 +71811,7 @@
       "amountLabel": "$1,500 per year, renewable four years",
       "deadline": "2027-04-15",
       "description": "Scholarship for Catholic students who are members of the Knights of Columbus or the child of a member, attending a Catholic college or university in the United States.",
-      "url": "https://www.kofc.org/en/what-we-do/scholarships/us-undergraduate-scholarships.html",
+      "url": "https://www.kofc.org/resources/scholarships/us-undergraduate-scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -73286,7 +73158,7 @@
       "amountLabel": "Mentoring plus Annual Meeting travel support",
       "deadline": "2027-04-02",
       "description": "Selects up to 20 undergraduate agronomy, crop, and soil science students for mentoring and funded travel to the Societies' Annual Meetings and Congressional Visits Day.",
-      "url": "https://www.agronomy.org/awards",
+      "url": "https://www.agronomy.org/awards?acsSsoAuthCheck=1",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -73361,7 +73233,7 @@
       "amountLabel": "$1,000 to $20,000",
       "deadline": "2026-10-31",
       "description": "Need-blind, no-GPA scholarship rewarding work ethic for students pursuing skilled trades such as welding, plumbing, electrical, HVAC, and construction at accredited trade programs.",
-      "url": "https://www.mikeroweworks.org/scholarship",
+      "url": "https://mikeroweworks.org/scholarship/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -73694,7 +73566,7 @@
       "amountLabel": "$2,000 each month",
       "deadline": "2026-09-30",
       "description": "Juno awards a $2,000 scholarship to one randomly selected winner each month. Applicants provide basic information with no essay, and students and parents can each nominate the other to double their chances.",
-      "url": "https://joinjuno.com/scholarship",
+      "url": "https://joinjuno.com/scholarship/september-2026",
       "eligibility": {
         "gpa_min": 0,
         "grade_levels": [
