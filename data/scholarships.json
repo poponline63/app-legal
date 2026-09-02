@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "updatedAt": "2026-08-20",
+  "version": 24,
+  "updatedAt": "2026-09-02",
   "deadlinesVerifiedAs": "2026-08",
   "scholarships": [
     {
@@ -7826,7 +7826,7 @@
       "organization": "Tennessee Student Assistance Corporation",
       "amount": 5700,
       "amountLabel": "Up to $5,700 per year",
-      "deadline": "2026-09-01",
+      "deadline": "2027-03-01",
       "description": "Lottery funded merit scholarship for Tennessee high school graduates attending in state colleges.",
       "url": "https://www.collegefortn.org/tennessee-hope-scholarship-3/",
       "eligibility": {
@@ -7859,8 +7859,7 @@
         "merit",
         "renewable"
       ],
-      "verifiedAt": "2026-08-10",
-      "deadlineApprox": true
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 201,
@@ -17774,44 +17773,6 @@
       ]
     },
     {
-      "id": 458,
-      "name": "Excelsior Scholarship",
-      "organization": "New York State Higher Education Services Corporation (HESC)",
-      "amount": 7070,
-      "amountLabel": "Full SUNY/CUNY tuition",
-      "deadline": "2026-08-31",
-      "description": "Tuition-free attendance at SUNY or CUNY two- or four-year colleges for full-time New York students whose household federal adjusted gross income is $125,000 or less. Students must complete 30 credits per year and live and work in New York after graduation for the length of the award.",
-      "url": "https://www.governor.ny.gov/news/governor-hochul-announces-excelsior-scholarship-application-open-new-applicants-2026-2027",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior",
-          "college_freshman",
-          "college_sophomore",
-          "college_junior"
-        ],
-        "states": [
-          "New York"
-        ],
-        "ethnicity": null,
-        "financial_need": true,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "need",
-      "noEssay": true,
-      "renewable": true,
-      "tags": [
-        "state",
-        "renewable",
-        "high-value"
-      ]
-    },
-    {
       "id": 459,
       "name": "NYS Scholarships for Academic Excellence",
       "organization": "New York State Education Department / HESC",
@@ -17878,44 +17839,6 @@
       "tags": [
         "state",
         "deadline-approx"
-      ]
-    },
-    {
-      "id": 461,
-      "name": "NYS Science, Technology, Engineering and Mathematics (STEM) Incentive Program",
-      "organization": "New York State Higher Education Services Corporation (HESC)",
-      "amount": 7070,
-      "amountLabel": "Full SUNY/CUNY tuition",
-      "deadline": "2026-08-31",
-      "description": "Full SUNY or CUNY tuition for students in the top 10 percent of their New York high school class who pursue an approved STEM degree at a SUNY or CUNY college and agree to work in a STEM field in New York State for five years after graduation.",
-      "url": "https://www.cuny.edu/financial-aid/scholarships/new-york-state-scholarships/",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior"
-        ],
-        "states": [
-          "New York"
-        ],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": [
-          "stem",
-          "engineering"
-        ],
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "stem",
-      "noEssay": true,
-      "renewable": true,
-      "tags": [
-        "state",
-        "renewable",
-        "high-value"
       ]
     },
     {
@@ -18316,7 +18239,7 @@
       "organization": "TEACH New York (TEACH.org)",
       "amount": 1000,
       "amountLabel": "$1,000",
-      "deadline": "2026-08-31",
+      "deadline": "2026-09-30",
       "description": "A $1,000 scholarship for future teachers pursuing first-time New York teacher certification through a partner program, with regional awards targeting NYC, rural areas and the state's 'Big Five' urban districts.",
       "url": "https://newyork.teach.org/services/scholarship",
       "eligibility": {
@@ -18347,7 +18270,8 @@
       "renewable": false,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 473,
@@ -29682,48 +29606,6 @@
       ]
     },
     {
-      "id": 784,
-      "name": "William A. Crawford Minority Teacher Scholarship",
-      "organization": "Indiana Commission for Higher Education",
-      "amount": 4000,
-      "amountLabel": "$4,000",
-      "deadline": "2026-08-31",
-      "description": "For Black and Hispanic/Latino Indiana students pursuing teaching. Recipients agree to apply for and, if hired, teach in an Indiana accredited school for at least three years. Requires full-time enrollment and a valid FAFSA.",
-      "url": "https://www.in.gov/che/state-financial-aid/state-financial-aid-by-program/william-a-crawford-minority-teacher-scholarship",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior",
-          "college_freshman",
-          "college_sophomore",
-          "college_junior"
-        ],
-        "states": [
-          "Indiana"
-        ],
-        "ethnicity": [
-          "hispanic"
-        ],
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": [
-          "education"
-        ],
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "identity",
-      "noEssay": false,
-      "renewable": true,
-      "tags": [
-        "state",
-        "teaching",
-        "identity"
-      ]
-    },
-    {
       "id": 785,
       "name": "Earline S. Rogers Student Teaching Scholarship for Minorities",
       "organization": "Indiana Commission for Higher Education",
@@ -30022,40 +29904,6 @@
       "tags": [
         "state",
         "teaching"
-      ]
-    },
-    {
-      "id": 793,
-      "name": "Lilly Endowment Community Scholarship",
-      "organization": "Lilly Endowment Inc. / Independent Colleges of Indiana",
-      "amount": 2500,
-      "amountLabel": "Full tuition, fees + up to $900/yr books",
-      "deadline": "2026-08-31",
-      "description": "One of Indiana's most prestigious awards, providing full tuition, required fees, and up to $900 per year for books for four years at any eligible Indiana college. Awarded to graduating seniors in each of Indiana's 92 counties through local community foundations; criteria and deadlines vary by county.",
-      "url": "https://lillyendowment.org/for-grantseekers/lilly-endowment-community-scholarship-program/",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior"
-        ],
-        "states": [
-          "Indiana"
-        ],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": true,
-        "athletics": false
-      },
-      "category": "merit",
-      "noEssay": false,
-      "renewable": true,
-      "tags": [
-        "state",
-        "merit"
       ]
     },
     {
@@ -33364,42 +33212,6 @@
       ]
     },
     {
-      "id": 885,
-      "name": "Tennessee HOPE Scholarship",
-      "organization": "Tennessee Student Assistance Corporation (TELS)",
-      "amount": 4500,
-      "amountLabel": "$2,250-$2,850 per semester",
-      "deadline": "2026-09-01",
-      "description": "Tennessee Education Lottery merit scholarship for residents attending eligible in-state colleges. Freshmen and sophomores receive up to 2,250 dollars per semester, juniors and seniors up to 2,850 dollars. Requires a 21 ACT or 1060 SAT, or a weighted 3.0 GPA, and one year of Tennessee residency.",
-      "url": "https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-scholarship/",
-      "eligibility": {
-        "gpa_min": 3,
-        "grade_levels": [
-          "high_school_senior",
-          "college_freshman",
-          "college_sophomore",
-          "college_junior"
-        ],
-        "states": [
-          "Tennessee"
-        ],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "merit",
-      "noEssay": true,
-      "renewable": true,
-      "tags": [
-        "state"
-      ]
-    },
-    {
       "id": 886,
       "name": "Tennessee Promise",
       "organization": "Tennessee Higher Education Commission / tnAchieves",
@@ -33438,7 +33250,7 @@
       "organization": "Tennessee Higher Education Commission / TSAC",
       "amount": 2500,
       "amountLabel": "Last-dollar tuition and fees",
-      "deadline": "2026-09-01",
+      "deadline": "2027-06-30",
       "description": "Last-dollar grant that lets eligible adults attend a community college or college of applied technology tuition-free while pursuing an associate degree or certificate. Requires FAFSA and Tennessee residency; reapply annually through the TSAC portal.",
       "url": "https://tnreconnect.gov/",
       "eligibility": {
@@ -33464,7 +33276,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 888,
@@ -33472,7 +33285,7 @@
       "organization": "Tennessee Higher Education Commission",
       "amount": 1500,
       "amountLabel": "Up to $750 per semester",
-      "deadline": "2026-09-01",
+      "deadline": "2027-03-01",
       "description": "Need-based supplement added on top of the HOPE Scholarship for students whose family adjusted gross income is below the state threshold. Adds up to 750 dollars per semester at four-year schools. Requires FAFSA and HOPE eligibility.",
       "url": "https://www.collegefortn.org/tennessee-financial-aid/aspire-award/",
       "eligibility": {
@@ -33499,7 +33312,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 889,
@@ -33507,7 +33321,7 @@
       "organization": "Tennessee Higher Education Commission",
       "amount": 1000,
       "amountLabel": "Up to $500 per semester",
-      "deadline": "2026-09-01",
+      "deadline": "2027-03-01",
       "description": "Merit add-on to the HOPE Scholarship for students who meet both the GPA and test-score benchmarks. Adds up to 500 dollars per semester including summer terms. Requires HOPE eligibility and FAFSA.",
       "url": "https://www.collegefortn.org/tennessee-financial-aid/general-assembly-merit-scholarship/",
       "eligibility": {
@@ -33533,7 +33347,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 890,
@@ -33577,7 +33392,7 @@
       "organization": "Tennessee Higher Education Commission",
       "amount": 2000,
       "amountLabel": "Up to $2,000 per year",
-      "deadline": "2026-09-01",
+      "deadline": "2026-11-01",
       "description": "Lottery-funded grant of up to 2,000 dollars per year for students pursuing a certificate or diploma at a Tennessee College of Applied Technology. Requires Tennessee residency; no GPA or test-score requirement.",
       "url": "https://www.collegefortn.org/tennessee-financial-aid/wilder-naifeh-technical-skills-grant/",
       "eligibility": {
@@ -33603,7 +33418,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 892,
@@ -33611,7 +33427,7 @@
       "organization": "Tennessee Student Assistance Corporation",
       "amount": 1200,
       "amountLabel": "Tuition support per course",
-      "deadline": "2026-09-01",
+      "deadline": "2027-06-30",
       "description": "Lottery-funded grant helping Tennessee high school juniors and seniors pay for college courses taken while still in high school. Covers tuition and access fees for early courses and up to 600 dollars per course thereafter.",
       "url": "https://www.collegefortn.org/tennessee-financial-aid/dual-enrollment-grant/",
       "eligibility": {
@@ -33637,7 +33453,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 893,
@@ -33645,7 +33462,7 @@
       "organization": "Tennessee Student Assistance Corporation",
       "amount": 2000,
       "amountLabel": "$500-$1,000 per semester",
-      "deadline": "2026-09-01",
+      "deadline": "2027-03-01",
       "description": "Lottery-funded grant for qualifying post-9/11 veterans and National Guard members attending eligible Tennessee institutions. Pays up to 1,000 dollars per semester for full-time enrollment. Awarded first-come to Tennessee residents.",
       "url": "https://www.tn.gov/veteran/veteran-education/scholarships/veterans/helping-heroes-grant.html",
       "eligibility": {
@@ -33673,7 +33490,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 894,
@@ -33681,7 +33499,7 @@
       "organization": "Tennessee Student Assistance Corporation",
       "amount": 2500,
       "amountLabel": "Tuition and mandatory fees",
-      "deadline": "2026-09-01",
+      "deadline": "2027-03-01",
       "description": "Grant covering remaining tuition and mandatory fees for Tennessee students who were in state foster care, after other gift aid is applied. Available at eligible Tennessee colleges and colleges of applied technology.",
       "url": "https://www.collegefortn.org/tennessee-financial-aid/tennessee-hope-foster-child-tuition-grant/",
       "eligibility": {
@@ -33707,7 +33525,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 895,
@@ -52689,7 +52508,7 @@
       "organization": "Arkansas Single Parent Scholarship Fund (ASPSF)",
       "amount": 1600,
       "amountLabel": "Up to $1,600 per term (scales with credit hours)",
-      "deadline": "2026-09-01",
+      "deadline": "2027-02-01",
       "description": "Awards for low-to-moderate income single parents in Arkansas with at least 50% custody of a child under 18 who are enrolled in college, community college or trade school. Funds go directly to the recipient and can cover any expense including childcare, gas and supplies. Awarded fall, spring and summer.",
       "url": "https://aspsf.org/scholarships/",
       "eligibility": {
@@ -52717,7 +52536,8 @@
       "renewable": true,
       "tags": [
         "state"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1421,
@@ -53747,7 +53567,7 @@
       "organization": "Kansas Board of Regents",
       "amount": 2500,
       "amountLabel": "Tuition and fees at Kansas public institutions",
-      "deadline": "2026-08-31",
+      "deadline": "2027-01-31",
       "description": "Covers tuition and fees for enlisted Kansas Air and Army National Guard members and their dependents at Kansas public institutions. Full-time enrollment not required.",
       "url": "https://kansasregents.gov/scholarships_and_grants",
       "eligibility": {
@@ -53776,7 +53596,8 @@
       "tags": [
         "state",
         "military"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1451,
@@ -67897,7 +67718,7 @@
       "organization": "South Dakota Board of Regents",
       "amount": 7500,
       "amountLabel": "Up to $7,500 over four years",
-      "deadline": "2026-09-01",
+      "deadline": "2027-01-15",
       "description": "Statewide merit award for academically accomplished South Dakota high school graduates who attend an accredited college, university, or technical school in South Dakota. Requires a 3.5 GPA and a specific rigorous course load. Paid in increments across four years of enrollment.",
       "url": "https://sdbor.edu/cost-aid/scholarships/",
       "eligibility": {
@@ -67924,7 +67745,8 @@
         "state",
         "merit",
         "renewable"
-      ]
+      ],
+      "verifiedAt": "2026-09-02"
     },
     {
       "id": 1841,
@@ -67998,40 +67820,6 @@
       ]
     },
     {
-      "id": 1843,
-      "name": "Jump Start Scholarship",
-      "organization": "South Dakota Board of Regents",
-      "amount": 1500,
-      "amountLabel": "$1,500 for first year",
-      "deadline": "2026-09-01",
-      "description": "For South Dakota residents who attended a South Dakota public high school full-time for at least two semesters and graduate in three years or less. Pays $1,500 split across fall and spring of the first year at an accredited South Dakota postsecondary institution. Students who enroll in a fourth year of high school are ineligible.",
-      "url": "https://tdx.sdbor.edu/TDClient/33/Portal/KB/?CategoryID=37",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior"
-        ],
-        "states": [
-          "South Dakota"
-        ],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "merit",
-      "noEssay": true,
-      "renewable": false,
-      "tags": [
-        "state",
-        "merit"
-      ]
-    },
-    {
       "id": 1844,
       "name": "Critical Teaching Needs Scholarship",
       "organization": "South Dakota Board of Regents",
@@ -68067,42 +67855,6 @@
         "state",
         "field_specific",
         "education"
-      ]
-    },
-    {
-      "id": 1845,
-      "name": "South Dakota Needs-Based Scholarship Grant",
-      "organization": "South Dakota Board of Regents",
-      "amount": 2000,
-      "amountLabel": "$500 to $2,000",
-      "deadline": "2026-09-01",
-      "description": "Grant for South Dakota resident students with demonstrated unmet financial need attending a public university in the state. Requires completion of the FAFSA. Award ranges from $500 to $2,000 depending on need.",
-      "url": "https://tdx.sdbor.edu/TDClient/33/Portal/KB/ArticleDet?ID=311",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior",
-          "college_freshman",
-          "college_sophomore"
-        ],
-        "states": [
-          "South Dakota"
-        ],
-        "ethnicity": null,
-        "financial_need": true,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "need",
-      "noEssay": true,
-      "renewable": true,
-      "tags": [
-        "state",
-        "need"
       ]
     },
     {
