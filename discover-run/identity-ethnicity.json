@@ -1,0 +1,1340 @@
+[
+  {
+    "id": 1,
+    "name": "Frederick Douglass Bicentennial Scholarship",
+    "organization": "UNCF",
+    "amount": 10000,
+    "amountLabel": "Up to $10,000",
+    "deadline": "2026-09-10",
+    "description": "UNCF program awarding two $10,000 scholarships each year to exceptional HBCU seniors with high academic achievement, leadership, community service and unmet financial need. Application opened July 27, 2026 and closes September 10, 2026.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000juF0rYAE",
+    "eligibility": {
+      "gpa_min": 3.5,
+      "grade_levels": [
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 2,
+    "name": "AT&T and The NETwork BICP Lewis Latimer Scholarship",
+    "organization": "UNCF",
+    "amount": 2000,
+    "amountLabel": "Up to $2,000",
+    "deadline": "2026-09-21",
+    "description": "One time need based award for incoming college juniors or seniors in STEAM fields at any accredited four year college or HBCU, honoring African American inventor Lewis Latimer. Deadline September 21, 2026.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000jsD6PYAU",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu",
+      "stem"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 3,
+    "name": "Michael Jackson Endowed Scholarship",
+    "organization": "UNCF",
+    "amount": 4000,
+    "amountLabel": "Up to $4,000",
+    "deadline": "2026-09-30",
+    "description": "Provides financial assistance to Communications and Performing Arts majors attending a UNCF member institution during the 2026 to 2027 academic year. Requires a 3.0 GPA and awards up to $4,000 based on financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000iqQRhYAM",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "arts",
+        "liberal_arts"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 4,
+    "name": "Wm. Wrigley Foundation Scholarship",
+    "organization": "UNCF",
+    "amount": 5000,
+    "amountLabel": "Up to $5,000",
+    "deadline": "2026-09-30",
+    "description": "One time award up to $5,000 for undergraduates enrolled at UNCF member schools majoring in chemistry, economics, engineering, marketing, finance, business, accounting or computer science. Requires a 2.5 GPA and demonstrated financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000iqQjRYAU",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business",
+        "computer_science",
+        "engineering",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu",
+      "stem"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 5,
+    "name": "James J. and Margaret M. Kerrigan Endowed Scholarship",
+    "organization": "UNCF",
+    "amount": 5000,
+    "amountLabel": "Up to $5,000",
+    "deadline": "2026-09-30",
+    "description": "Financial support for full time college juniors or seniors in art or education fields at any accredited HBCU, with preference for K through 12 education or fine and performing arts majors. Requires 2.5 GPA, FAFSA and unmet financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000jj0LJYAY",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "arts",
+        "education"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 6,
+    "name": "Stephen K. Keiser STEM Scholarship",
+    "organization": "UNCF",
+    "amount": 2656,
+    "amountLabel": "Up to $2,656",
+    "deadline": "2026-10-07",
+    "description": "Established by Dr. Sally Belcher for college juniors or seniors majoring in STEM or STEM related programs at a UNCF member institution or accredited HBCU. Requires 3.0 GPA, FAFSA and demonstrated unmet financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000GaynQAC",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu",
+      "stem"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 7,
+    "name": "International Association of Minister's Wives and Widows Scholarship",
+    "organization": "UNCF",
+    "amount": 2500,
+    "amountLabel": "Up to $2,500",
+    "deadline": "2026-09-16",
+    "description": "One time need based scholarship for full time students at an accredited four year HBCU in any class year. Requires 2.5 GPA, FAFSA, a transcript, one recommendation and a short personal statement.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000hilLpYAI",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 8,
+    "name": "TMCF Lowe's Gap Scholarship",
+    "organization": "Thurgood Marshall College Fund",
+    "amount": 5000,
+    "amountLabel": "Up to $5,000",
+    "deadline": "2026-12-01",
+    "description": "Twenty five scholars attending TMCF member HBCUs and predominantly Black institutions receive up to $5,000 for the 2026 to 2027 year. Open to full time undergraduates majoring in business or STEM with a 3.0 GPA and financial need.",
+    "url": "https://tmcf.org/open-scholarships/2026-2027-tmcf-lowes-gap-scholarship/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 9,
+    "name": "TMCF Eastern Area Links Finish Line Scholarship",
+    "organization": "Thurgood Marshall College Fund",
+    "amount": 1500,
+    "amountLabel": "Up to $1,500",
+    "deadline": "2026-12-01",
+    "description": "Seventy five need based awards of up to $1,500 for full time undergraduate seniors at listed TMCF member schools including Howard, Hampton, Morgan State and other eastern region HBCUs. Requires a 2.5 GPA and demonstrated financial need.",
+    "url": "https://tmcf.org/open-scholarships/2026-2027-tmcf-eastern-area-links-finish-line-scholarship/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 10,
+    "name": "TMCF McDonald's Black and Positively Golden Scholarship",
+    "organization": "Thurgood Marshall College Fund",
+    "amount": 15000,
+    "amountLabel": "Up to $15,000",
+    "deadline": "2027-04-23",
+    "description": "Sixty need based awards of up to $15,000 for full time HBCU undergraduates with a 2.7 GPA and demonstrated leadership and financial need. Application opened August 3, 2026 and closes April 23, 2027.",
+    "url": "https://tmcf.org/open-scholarships/2027-2028-tmcf-mcdonalds-black-and-positively-golden-scholarship/",
+    "eligibility": {
+      "gpa_min": 2.7,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 11,
+    "name": "TMCF Enterprise Access HBCU Scholarship",
+    "organization": "Thurgood Marshall College Fund",
+    "amount": 15000,
+    "amountLabel": "Up to $15,000",
+    "deadline": "2027-01-08",
+    "description": "Eighty one need based awards of up to $15,000 for full time undergraduates at TMCF HBCU member schools, open to all majors with a 2.75 GPA and 2027 to 2028 FAFSA on file. Closes January 8, 2027.",
+    "url": "https://tmcf.org/open-scholarships/2027-2028-tmcf-enterprise-access-hbcu-scholarship/",
+    "eligibility": {
+      "gpa_min": 2.75,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 12,
+    "name": "Jackie Robinson Foundation Scholarship",
+    "organization": "Jackie Robinson Foundation",
+    "amount": 0,
+    "amountLabel": "Multi year award with comprehensive support",
+    "deadline": "2027-01-14",
+    "description": "Merit and need based multi year scholarship for graduating high school seniors who show academic excellence, leadership and community service. Application opened September 1, 2026 and all materials are due January 14, 2027.",
+    "url": "https://jackierobinson.org/apply/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 13,
+    "name": "Ron Brown Scholar Program",
+    "organization": "Ron Brown Scholar Program",
+    "amount": 40000,
+    "amountLabel": "$40,000 over four years",
+    "deadline": "2026-12-01",
+    "description": "Awards 20 to 25 scholarships of $40,000 over four years to Black or African American high school seniors who excel academically, show leadership and demonstrate financial need. Final application deadline is December 1 with materials due December 15.",
+    "url": "https://www.ronbrown.org/program/ron-brown-scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 14,
+    "name": "The Gates Scholarship",
+    "organization": "Bill and Melinda Gates Foundation",
+    "amount": 0,
+    "amountLabel": "Full cost of attendance not covered by other aid",
+    "deadline": "2026-09-15",
+    "description": "Highly selective last dollar scholarship covering the full unmet cost of attendance for outstanding Pell eligible high school seniors from low income households. Application opened July 15, 2026 and closes September 15, 2026.",
+    "url": "https://www.thegatesscholarship.org/scholarship",
+    "eligibility": {
+      "gpa_min": 3.3,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american",
+        "native_american",
+        "asian",
+        "hispanic",
+        "pacific_islander"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 15,
+    "name": "NAACP Agnes Jones Jackson Scholarship",
+    "organization": "NAACP",
+    "amount": 0,
+    "amountLabel": "Varies by program",
+    "deadline": "2027-05-22",
+    "description": "Non renewable NAACP Inspire Initiatives award for NAACP members enrolled full time or accepted at an accredited US college with a 3.0 GPA. The 2026 cycle ran April 13 to May 22, 2026 with the next cycle expected in spring 2027.",
+    "url": "https://naacp.org/find-resources/scholarships-awards-internships/scholarships",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 16,
+    "name": "Hubertus W. V. Willems Scholarship",
+    "organization": "NAACP",
+    "amount": 0,
+    "amountLabel": "Varies by program",
+    "deadline": "2027-05-22",
+    "description": "NAACP Inspire Initiatives award for male students pursuing careers in engineering, chemistry, physics or mathematical sciences. Applicants must be NAACP members with a 3.0 GPA, with applications expected to open in April 2027.",
+    "url": "https://naacp.org/find-resources/scholarships-awards-internships/scholarships",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "male",
+      "majors": [
+        "engineering",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 17,
+    "name": "AISES A.T. Anderson Scholarship",
+    "organization": "American Indian Science and Engineering Society",
+    "amount": 2000,
+    "amountLabel": "$1,000 undergraduate or $2,000 graduate",
+    "deadline": "2027-04-30",
+    "description": "Supports AISES members of American Indian, Alaska Native, Native Hawaiian, Pacific Islander and other North American indigenous heritage pursuing any STEM degree. Applications open December 15, 2026 and close April 30, 2027.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 18,
+    "name": "AISES ARDC Scholarship",
+    "organization": "American Indian Science and Engineering Society",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-04-30",
+    "description": "Funded by Amateur Radio Digital Communications for Indigenous AISES members studying electrical or computer engineering, information technology, mathematics and related fields. Requires 3.0 GPA and full time enrollment, with a April 30, 2027 deadline.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "computer_science",
+        "engineering",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 19,
+    "name": "AISES Polaris Academic Scholarship",
+    "organization": "American Indian Science and Engineering Society",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-04-30",
+    "description": "Polaris Foundation partnership award for Indigenous students enrolled full time at a four year college studying mechanical engineering, digital and information technology, manufacturing and supply chain or related STEM fields. Applications close April 30, 2027.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business",
+        "computer_science",
+        "engineering"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 20,
+    "name": "AISES Polaris Trade Scholarship",
+    "organization": "American Indian Science and Engineering Society",
+    "amount": 2000,
+    "amountLabel": "$2,000",
+    "deadline": "2027-04-30",
+    "description": "Supports Indigenous students in certificate or vocational programs such as welding, carpentry, electrical, diesel technology and more, for the 2026 to 2027 academic year. Requires a 2.0 GPA and full time enrollment, closing April 30, 2027.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 2.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 21,
+    "name": "Indigenous Peoples Education Fund Scholarship",
+    "organization": "AISES and the Indigenous Peoples Education Fund",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-04-30",
+    "description": "Provides financial support to enrolled members of any US state or federally recognized tribe entering college full time as first time freshmen pursuing a STEM degree. Requires a 3.0 GPA, with applications closing April 30, 2027.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 22,
+    "name": "AISES RISE Scholarship",
+    "organization": "AISES and Aristocrat Gaming",
+    "amount": 2000,
+    "amountLabel": "$2,000",
+    "deadline": "2027-04-30",
+    "description": "RISE supports Indigenous students pursuing degrees aligned with casino gaming industry careers including marketing, computer engineering, accounting and hospitality. Requires 3.0 GPA and full time enrollment, closing April 30, 2027.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business",
+        "engineering"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 23,
+    "name": "AISES Sports and Technology Scholarship",
+    "organization": "AISES and FanDuel Group",
+    "amount": 2500,
+    "amountLabel": "$2,500",
+    "deadline": "2027-04-30",
+    "description": "FanDuel partnership award for Indigenous full time students pursuing degrees aligned with casino gaming and technology careers such as software development, technology and supply chain. Requires a 3.0 GPA, closing April 30, 2027.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business",
+        "computer_science",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 24,
+    "name": "AISES Stellantis MCAP Scholarship",
+    "organization": "American Indian Science and Engineering Society",
+    "amount": 6500,
+    "amountLabel": "$6,500 annually for up to two years plus $7,000 tool allotment",
+    "deadline": "2027-05-30",
+    "description": "For Indigenous students accepted into a college Mopar CAP local curriculum preparing for automotive service careers. Open to enrolled citizens or descendants of federally recognized tribes, Native Hawaiians and Pacific Islanders.",
+    "url": "https://aises.org/scholarships/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american",
+        "pacific_islander"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 25,
+    "name": "Cobell Undergraduate Scholarship",
+    "organization": "Indigenous Education Inc.",
+    "amount": 5000,
+    "amountLabel": "Varies by need, up to about $5,000",
+    "deadline": "2027-03-31",
+    "description": "Merit and need based awards for enrolled members of US federally recognized tribes pursuing associate or bachelor degrees at accredited nonprofit institutions. The annual application window runs December 15 through March 31.",
+    "url": "https://cobellscholar.org/scholarships/undergraduate/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 26,
+    "name": "Cobell Graduate Summer Research Fellowship",
+    "organization": "Indigenous Education Inc.",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-01-10",
+    "description": "Funds graduate students conducting original research relevant to Native communities. The fellowship window opens September 1, 2026 and applications are due January 10, 2027, so it is open now.",
+    "url": "https://cobellscholar.org/scholarships/research-fellowship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 27,
+    "name": "American Indian College Fund Scholarships",
+    "organization": "American Indian College Fund",
+    "amount": 2500,
+    "amountLabel": "Average $2,000 to $3,000",
+    "deadline": "2027-05-31",
+    "description": "Merit based scholarships for American Indian and Alaska Native students in certificate, undergraduate or graduate programs at tribal colleges or accredited nonprofit schools. Applications open February 1 each year with a May 31 priority deadline.",
+    "url": "https://collegefund.org/students/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "native_american"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "native-american",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 28,
+    "name": "APIA Scholarship Program",
+    "organization": "Asian and Pacific Islander American Scholars",
+    "amount": 2500,
+    "amountLabel": "$2,500 one year up to $20,000 multi year",
+    "deadline": "2027-01-15",
+    "description": "Awards ranging from $2,500 one year to $20,000 multi year for degree seeking undergraduate students at accredited US colleges, with priority for students with significant financial need. The 2027 to 2028 application opens November 15, 2026 and closes January 15, 2027.",
+    "url": "https://apiascholars.org/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "asian",
+        "pacific_islander"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "asian",
+      "pacific-islander"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 29,
+    "name": "USPAACC CelebrASIAN Scholarships",
+    "organization": "US Pan Asian American Chamber of Commerce Education Foundation",
+    "amount": 5000,
+    "amountLabel": "$3,000 to $5,000",
+    "deadline": "2027-03-02",
+    "description": "Ten to twenty awards of $3,000 to $5,000 each year for Asian American high school seniors beginning full time study at an accredited postsecondary institution. Requires a 3.3 GPA, leadership, community service and financial need; the 2026 deadline was March 2.",
+    "url": "https://celebrasianconference.com/scholarships",
+    "eligibility": {
+      "gpa_min": 3.3,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "asian"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "asian",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 30,
+    "name": "HSF Scholar Program",
+    "organization": "Hispanic Scholarship Fund",
+    "amount": 5000,
+    "amountLabel": "$500 to $5,000 based on need",
+    "deadline": "2027-02-15",
+    "description": "Selects 10,000 students of Hispanic heritage annually for scholar support services and awards of $500 to $5,000. The 2026 application ran January 5 to February 15, 2026 and the next cycle is expected to open in early January 2027.",
+    "url": "https://www.hsf.net/scholarship/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "hispanic"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "hispanic",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 31,
+    "name": "Deloitte Foundation HACU Scholarship",
+    "organization": "Hispanic Association of Colleges and Universities",
+    "amount": 2500,
+    "amountLabel": "$2,500 per semester, renewable up to $10,000",
+    "deadline": "2027-05-31",
+    "description": "Sixty eight renewable awards of $2,500 per semester for undergraduates at HACU member institutions majoring in accounting, business, computer science, engineering, finance and related fields. Requires 3.0 GPA and financial aid eligibility, with the 2026 deadline of May 31 expected to repeat.",
+    "url": "https://hacu.net/programs/hacu-scholarship-program/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "hispanic"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business",
+        "computer_science",
+        "engineering"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "hispanic",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 32,
+    "name": "Coca-Cola First Generation HACU Scholarship",
+    "organization": "Hispanic Association of Colleges and Universities",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-05-15",
+    "description": "Seventeen awards of $5,000 for first generation college students attending or planning to attend HACU member institutions, open to graduating high school seniors and college students with at least a 3.0 GPA. The 2026 cycle closed May 15, 2026.",
+    "url": "https://hacu.net/programs/hacu-scholarship-program/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "hispanic"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "hispanic",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 33,
+    "name": "ScholarSHPE",
+    "organization": "Society of Hispanic Professional Engineers",
+    "amount": 0,
+    "amountLabel": "Varies by award",
+    "deadline": "2027-02-16",
+    "description": "Scholarships for active SHPE members pursuing STEM degrees at accredited two or four year colleges, requiring a 2.5 GPA. The 2026 application window ran February 2 to 16, 2026 with a similar window expected in February 2027.",
+    "url": "https://shpe.org/engage/programs/scholarshpe/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "hispanic"
+      ],
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "hispanic",
+      "stem",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  }
+]

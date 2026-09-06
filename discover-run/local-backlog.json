@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "name": "Community Scholarship",
+    "organization": "Sacramento Region Community Foundation",
+    "amount": 2500,
+    "amountLabel": "$2,500",
+    "deadline": "2027-03-12",
+    "description": "Need based award for Sacramento County high school seniors attending any accredited two year or four year college or trade school with preference for first generation students.",
+    "url": "https://www.sacregcf.org/students/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": true,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "sacramento",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 2,
+    "name": "Li Family Charitable Foundation Scholarship",
+    "organization": "Sacramento Region Community Foundation",
+    "amount": 3000,
+    "amountLabel": "$3,000",
+    "deadline": "2027-03-12",
+    "description": "Supports Sacramento region high school seniors and undergraduates with preference for first generation students and students facing significant life challenges.",
+    "url": "https://www.sacregcf.org/students/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": true,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "sacramento",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 3,
+    "name": "Mary Ellen Dolcini Scholarship",
+    "organization": "Sacramento Region Community Foundation",
+    "amount": 2500,
+    "amountLabel": "$2,500 to $10,000",
+    "deadline": "2027-03-12",
+    "description": "Awards students of Mexican American descent graduating from Davis, Da Vinci, King, Woodland or Pioneer high schools in Yolo County.",
+    "url": "https://www.sacregcf.org/students/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "yolo",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 4,
+    "name": "NorYo Opportunity Scholarship",
+    "organization": "Sacramento Region Community Foundation",
+    "amount": 1000,
+    "amountLabel": "$1,000 to $10,000",
+    "deadline": "2027-03-12",
+    "description": "Need based award for northern Yolo County seniors pursuing community college or trade school with preference for first generation students.",
+    "url": "https://www.sacregcf.org/students/",
+    "eligibility": {
+      "gpa_min": 2.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": true,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "yolo",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 5,
+    "name": "Schwab Rosenhouse Memorial Scholarship",
+    "organization": "Sacramento Region Community Foundation",
+    "amount": 2500,
+    "amountLabel": "$1,000 to $5,000",
+    "deadline": "2027-03-12",
+    "description": "For graduating seniors who have lived in El Dorado, Placer, Yolo or Sacramento counties for at least two years and attend school near Sacramento.",
+    "url": "https://www.sacregcf.org/students/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "sacramento",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 6,
+    "name": "Andy Peek Livestock Endowed Scholarship",
+    "organization": "Community Foundation of the North State",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2026-11-04",
+    "description": "Offered by the Red Bluff Bull and Gelding Sale for students whose intended major is agricultural studies. Applications for the 2026 27 cycle are open now.",
+    "url": "https://cfnorthstate.org/grant/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "shasta county"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 7,
+    "name": "Columbia Bank Kenneth R. Gifford Jr. Memorial Scholarship",
+    "organization": "Community Foundation of the North State",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2026-11-04",
+    "description": "Awards ten $1,000 scholarships to high school seniors attending school in Siskiyou, Shasta, Tehama, Glenn, Colusa, Placer or Sacramento counties.",
+    "url": "https://cfnorthstate.org/grant/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "shasta county"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Donald and Ann Gleason Memorial Scholarship",
+    "organization": "Community Foundation of the North State",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2026-11-04",
+    "description": "Supports Shasta County students with financial need seeking a college education in the medical field.",
+    "url": "https://cfnorthstate.org/grant/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "shasta county"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 9,
+    "name": "Gustafson Fritz Scholarship for Women",
+    "organization": "Community Foundation of the North State",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2026-11-04",
+    "description": "For female high school graduates in Shasta or Trinity County who demonstrate generosity, creativity and a strong work ethic.",
+    "url": "https://cfnorthstate.org/grant/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "female",
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "shasta county"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 10,
+    "name": "Lam Research Core Values Scholarship",
+    "organization": "East Bay Community Foundation",
+    "amount": 10000,
+    "amountLabel": "$10,000",
+    "deadline": "2027-01-31",
+    "description": "Employer funded awards for graduating seniors in the Fremont Unified and Livermore Valley Joint Unified school districts who best exemplify Lam Research core values.",
+    "url": "https://www.ebcf.org/grant/lam-research-core-values-scholarship/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "east bay",
+      "employer",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 11,
+    "name": "ACUMEN Scholarship",
+    "organization": "East Bay Community Foundation",
+    "amount": 6500,
+    "amountLabel": "$5,000 to $8,000",
+    "deadline": "2027-03-31",
+    "description": "Serves students from Youth Spirit Artworks, Oakland Tech and McClymonds high schools facing serious financial challenges who are committed to college.",
+    "url": "https://www.ebcf.org/grant/acumen-scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "east bay",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 12,
+    "name": "Thomas J. Sweeney Scholarship",
+    "organization": "East Bay Community Foundation",
+    "amount": 2000,
+    "amountLabel": "$1,000 to $2,000",
+    "deadline": "2027-05-31",
+    "description": "For students who are active members of IBEW Local 595 or whose parent or guardian is, honoring the labor leader Tom Sweeney.",
+    "url": "https://www.ebcf.org/grant/thomas-j-sweeney-scholarship/",
+    "eligibility": {
+      "gpa_min": 3.5,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "east bay",
+      "employer",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 13,
+    "name": "General Scholarship Program",
+    "organization": "Scholarship Foundation of Santa Barbara",
+    "amount": 3300,
+    "amountLabel": "$3,300 average award",
+    "deadline": "2027-01-31",
+    "description": "The largest community based scholarship provider in the nation awards need based funding to Santa Barbara County students pursuing undergraduate, graduate or vocational study.",
+    "url": "https://www.sbscholarship.org/apply-general/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "santa barbara",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 14,
+    "name": "Better Together STEM Scholarship",
+    "organization": "PG&E Corporation Foundation",
+    "amount": 5000,
+    "amountLabel": "$2,500 to $10,000",
+    "deadline": "2027-03-12",
+    "description": "Employer funded scholarships for students in PG&E service territory pursuing STEM degrees at a four year college in California or an HBCU.",
+    "url": "https://www.pge.com/en/about/educational-resources/grants-and-scholarships.html",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "California"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "computer_science",
+        "engineering",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "employer",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 15,
+    "name": "Mitchell Tufts Scholarship",
+    "organization": "The Dallas Foundation",
+    "amount": 2500,
+    "amountLabel": "$2,500",
+    "deadline": "2027-04-14",
+    "description": "Supports members or people active in the life of a Presbyterian Church USA congregation in North Central Texas who demonstrate financial need.",
+    "url": "https://www.dallasfoundation.org/what-we-do/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 16,
+    "name": "Myrna D. Schlegel AWARE Scholarship",
+    "organization": "The Dallas Foundation",
+    "amount": 2500,
+    "amountLabel": "$2,500",
+    "deadline": "2027-04-14",
+    "description": "Awards nursing students at listed Texas universities who plan to build a career in gerontology and dementia care.",
+    "url": "https://www.dallasfoundation.org/what-we-do/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 17,
+    "name": "Sunset Foundation Scholarship",
+    "organization": "The Dallas Foundation",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2027-04-14",
+    "description": "For graduating seniors of Sunset High School in Dallas with a 3.0 minimum GPA who demonstrate financial need.",
+    "url": "https://www.dallasfoundation.org/what-we-do/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 18,
+    "name": "Texas DPS Scholarship",
+    "organization": "Communities Foundation of Texas",
+    "amount": 5000,
+    "amountLabel": "up to $5,000",
+    "deadline": "2027-05-15",
+    "description": "Employer funded awards for current or retired Texas Department of Public Safety employees and their immediate family members.",
+    "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "employer",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 19,
+    "name": "Coca Cola Southwest Beverages Scholarship",
+    "organization": "Communities Foundation of Texas",
+    "amount": 5000,
+    "amountLabel": "up to $5,000",
+    "deadline": "2027-04-01",
+    "description": "Employer funded awards for dependents of full time Coca Cola Southwest Beverages employees with at least one year of service.",
+    "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "employer",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 20,
+    "name": "Bridges College Scholarship",
+    "organization": "Communities Foundation of Texas",
+    "amount": 10000,
+    "amountLabel": "up to $10,000",
+    "deadline": "2027-04-01",
+    "description": "One year awards for graduating seniors or past graduates of Bishop Lynch High School in Dallas with preference for Texas public universities.",
+    "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 21,
+    "name": "Simon Greenstone Panatier Scholarship",
+    "organization": "Communities Foundation of Texas",
+    "amount": 3000,
+    "amountLabel": "varies, $50,000 awarded annually",
+    "deadline": "2027-04-01",
+    "description": "Multiple one year awards for Dallas County seniors impacted by cancer directly or through an immediate family member.",
+    "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 22,
+    "name": "Jain Family First Responder Scholarship",
+    "organization": "Communities Foundation of Texas",
+    "amount": 10000,
+    "amountLabel": "up to $10,000",
+    "deadline": "2027-05-01",
+    "description": "For children of active full time North Texas first responders including police, firefighters, EMS and 911 dispatchers.",
+    "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+    "eligibility": {
+      "gpa_min": 2.7,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "dallas",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 23,
+    "name": "William and Susan Soza Scholarship",
+    "organization": "Communities Foundation of Texas",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2027-03-01",
+    "description": "One year awards for graduating seniors of Presidio High School in Presidio Texas with financial need.",
+    "url": "https://www.cftexas.org/scholarships/apply-for-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "presidio",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 24,
+    "name": "Houston Area Scholarship",
+    "organization": "Houston Livestock Show and Rodeo",
+    "amount": 20000,
+    "amountLabel": "$20,000 over four years",
+    "deadline": "2027-02-02",
+    "description": "Awards 350 four year scholarships to graduating seniors from Houston area public school districts across eight counties who attend a Texas college.",
+    "url": "https://www.rodeohouston.com/scholarships-and-grants/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "houston",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 25,
+    "name": "Area Go Texan Scholarship",
+    "organization": "Houston Livestock Show and Rodeo",
+    "amount": 20000,
+    "amountLabel": "$20,000 over four years",
+    "deadline": "2027-02-02",
+    "description": "Awards 79 four year scholarships to graduating seniors from public school districts in 68 participating Texas counties who attend a Texas college.",
+    "url": "https://www.rodeohouston.com/scholarships-and-grants/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "houston",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 26,
+    "name": "Texas Elks State 4 Year Scholarship",
+    "organization": "Texas Elks State Association",
+    "amount": 1000,
+    "amountLabel": "varies",
+    "deadline": "2027-01-30",
+    "description": "State level Elks scholarships including four year awards for Texas high school seniors submitted through local Elks lodges.",
+    "url": "https://texaselks.org/tesa-scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "elks",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 27,
+    "name": "Byon M. Morris Scholarship",
+    "organization": "The Community Foundation for Northeast Florida",
+    "amount": 4800,
+    "amountLabel": "$4,800 over four years",
+    "deadline": "2027-03-13",
+    "description": "Awards an Eagle Scout or Girl Scout Gold Award recipient graduating from a Northeast Florida high school with a 3.0 weighted GPA.",
+    "url": "https://www.jaxcf.org/2026-college-scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "jacksonville",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 28,
+    "name": "Dorothea B. Shaw Scholarship",
+    "organization": "The Community Foundation for Northeast Florida",
+    "amount": 8000,
+    "amountLabel": "$8,000 over four years",
+    "deadline": "2027-03-13",
+    "description": "For Duval County graduates attending an accredited postsecondary institution in the northeastern United States.",
+    "url": "https://www.jaxcf.org/2026-college-scholarships/",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "jacksonville",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 29,
+    "name": "Sam and Lydia Payne Scholarship",
+    "organization": "The Community Foundation for Northeast Florida",
+    "amount": 12000,
+    "amountLabel": "$12,000 over four years",
+    "deadline": "2027-03-13",
+    "description": "Supports three North Florida graduates with a 2.2 to 3.5 weighted GPA pursuing a bachelor degree full time.",
+    "url": "https://www.jaxcf.org/2026-college-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "jacksonville",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 30,
+    "name": "Talen Charles Birt Memorial Scholarship",
+    "organization": "The Community Foundation for Northeast Florida",
+    "amount": 2000,
+    "amountLabel": "$2,000",
+    "deadline": "2027-03-13",
+    "description": "For graduates of Andrew Jackson, First Coast, Jean Ribault or William M. Raines high schools in Duval County committed to academics and leadership.",
+    "url": "https://www.jaxcf.org/2026-college-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "jacksonville",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 31,
+    "name": "Elizabeth Edgar Hall Founders Scholarship",
+    "organization": "The Community Foundation for Northeast Florida",
+    "amount": 6000,
+    "amountLabel": "up to $6,000",
+    "deadline": "2027-03-13",
+    "description": "Awards female undergraduate students at Edward Waters University, Jacksonville University or the University of North Florida.",
+    "url": "https://www.jaxcf.org/2026-college-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "female",
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "jacksonville",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 32,
+    "name": "Della M. Levy Scholarship for Graduate Studies",
+    "organization": "The Community Foundation for Northeast Florida",
+    "amount": 4500,
+    "amountLabel": "$4,500",
+    "deadline": "2027-03-13",
+    "description": "Awards one female student pursuing a full time graduate degree at Jacksonville University or the University of North Florida.",
+    "url": "https://www.jaxcf.org/2026-college-scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "female",
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "jacksonville",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 33,
+    "name": "Dr. Linda McLucas Fisher Scholarship",
+    "organization": "The Community Foundation for Northeast Florida",
+    "amount": 500,
+    "amountLabel": "$500 per semester",
+    "deadline": "2027-03-13",
+    "description": "Supports female students age 25 or older pursuing a part time undergraduate degree at Florida State College at Jacksonville.",
+    "url": "https://www.jaxcf.org/2026-college-scholarships/",
+    "eligibility": {
+      "gpa_min": 2.0,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "female",
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "jacksonville",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 34,
+    "name": "C. Valentine Bates Memorial HOPE Scholarship",
+    "organization": "Florida State Elks Association",
+    "amount": 4000,
+    "amountLabel": "varies",
+    "deadline": "2027-01-15",
+    "description": "Serves Florida high school seniors with a 2.30 to 3.59 unweighted GPA who demonstrate leadership, service and citizenship.",
+    "url": "https://floridaelks.org/hope-scholarship",
+    "eligibility": {
+      "gpa_min": 2.3,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "elks"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 35,
+    "name": "Van Duren Memorial Scholarship",
+    "organization": "Florida State Elks Association",
+    "amount": 5000,
+    "amountLabel": "up to $5,000 per year",
+    "deadline": "2027-01-15",
+    "description": "Provides up to $5,000 per year to Florida graduating seniors and current college students attending an accredited American college.",
+    "url": "https://floridaelks.org/scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "elks"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 36,
+    "name": "Florida Elks JROTC Scholarship",
+    "organization": "Florida State Elks Association",
+    "amount": 1000,
+    "amountLabel": "varies",
+    "deadline": "2027-01-17",
+    "description": "Open to Florida high school senior JROTC cadets with a 3.0 unweighted GPA who demonstrate leadership and community service.",
+    "url": "https://floridaelks.org/jrotc",
+    "eligibility": {
+      "gpa_min": 3.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "elks"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 37,
+    "name": "Scholarships for Students Under 24",
+    "organization": "Community Foundation of Sarasota County",
+    "amount": 2500,
+    "amountLabel": "varies, over $2.1 million awarded annually",
+    "deadline": "2027-02-01",
+    "description": "One common application matches Sarasota Manatee Charlotte and DeSoto County residents age 24 and under with more than 90 scholarship funds.",
+    "url": "https://www.cfsarasota.org/students/scholarship-opportunities",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "sarasota",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 38,
+    "name": "Eccleston Callahan Memorial Scholarship",
+    "organization": "Central Florida Foundation",
+    "amount": 2500,
+    "amountLabel": "varies",
+    "deadline": "2027-04-30",
+    "description": "Endowed scholarship benefiting needy children and youth with disabilities pursuing postsecondary education in Central Florida.",
+    "url": "https://cffound.org/what-we-do/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "orlando",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 39,
+    "name": "Alpha Eagle Aviation and Science Foundation Scholarship",
+    "organization": "Central Florida Foundation",
+    "amount": 2500,
+    "amountLabel": "varies",
+    "deadline": "2027-03-15",
+    "description": "Supports tuition or book expenses for Embry Riddle Aeronautical University students from historically underrepresented groups in aviation or science.",
+    "url": "https://cffound.org/what-we-do/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Florida"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "orlando",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 40,
+    "name": "Austin Community Foundation General Scholarship",
+    "organization": "Austin Community Foundation",
+    "amount": 2500,
+    "amountLabel": "varies, 60 plus funds",
+    "deadline": "2027-03-25",
+    "description": "One universal application matches Central Texas students with more than 60 scholarship opportunities based on criteria and need.",
+    "url": "https://www.austincf.org/apply-for-funding/scholarships/opportunities/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [
+        "Texas"
+      ],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "local",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "state",
+      "local",
+      "austin",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  }
+]

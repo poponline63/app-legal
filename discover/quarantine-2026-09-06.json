@@ -1,0 +1,74 @@
+[
+  {
+    "id": 491,
+    "name": "Ronald McDonald House Charities New York Tri-State Area Scholarships",
+    "organization": "Ronald McDonald House Charities of the New York Tri-State Area",
+    "amount": 2000,
+    "amountLabel": "Up to $2,000+",
+    "deadline": "2027-02-13",
+    "description": "Scholarships for graduating high school seniors under 21 in the New York Tri-State area, including general and community-specific awards (African American Future Achievers, HACER for Hispanic students, and Asian-Pacific Students Increasing Achievement).",
+    "url": "https://www.rmhcnytristate.org",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [
+        "New York"
+      ],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "local",
+      "deadline-approx"
+    ],
+    "_quarantineReason": "rmhcnytristate.org is a hijacked domain now serving a gambling site; the charity's last Form 990 was FY2019 and it is off the IRS exempt list. No live scholarship page anywhere.",
+    "_quarantinedAt": "2026-09-06"
+  },
+  {
+    "id": 1976,
+    "name": "ASHP Foundation Professional Advancement Scholarship",
+    "organization": "ASHP Foundation",
+    "amount": 1000,
+    "amountLabel": "$1,000 plus meeting registration",
+    "deadline": "2026-09-01",
+    "description": "Provides graduating pharmacy students full ASHP Midyear Clinical Meeting registration plus travel support for professional development and networking.",
+    "url": "https://www.ashpfoundation.org/grants-and-awards/scholarships/professional-advancement-scholarships/midyear/students",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "stem",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "pharmacy"
+    ],
+    "_quarantineReason": "ASHP Foundation Professional Advancement (Midyear) 2026 deadline is not published; the 2025 cycle closed Sept 3. No verifiable current date, so not guessed.",
+    "_quarantinedAt": "2026-09-06"
+  }
+]
