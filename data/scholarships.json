@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "updatedAt": "2026-09-02",
+  "version": 25,
+  "updatedAt": "2026-09-06",
   "deadlinesVerifiedAs": "2026-09",
   "scholarships": [
     {
@@ -860,7 +860,7 @@
       "organization": "mikeroweWORKS Foundation",
       "amount": 5000,
       "amountLabel": "Up to $5,000",
-      "deadline": "2026-08-30",
+      "deadline": "2026-10-31",
       "description": "For students enrolling in a skilled trade or technical program such as welding, HVAC, plumbing, or CDL training who show a strong work ethic.",
       "url": "https://mikeroweworks.org/scholarship/",
       "eligibility": {
@@ -891,8 +891,7 @@
         "work-ethic",
         "skilled-trades"
       ],
-      "verifiedAt": "2026-08-06",
-      "deadlineApprox": true
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 26,
@@ -6767,7 +6766,7 @@
       "amountLabel": "Up to $8,400",
       "deadline": "2027-04-15",
       "description": "Need based grants for Illinois residents attending approved Illinois colleges. Funds run out early, so filing the FAFSA quickly matters.",
-      "url": "https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-program.html",
+      "url": "https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-program/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -6798,7 +6797,7 @@
         "need-based",
         "renewable"
       ],
-      "verifiedAt": "2026-08-06",
+      "verifiedAt": "2026-09-06",
       "deadlineApprox": true
     },
     {
@@ -9892,7 +9891,7 @@
       "amountLabel": "$2,000 to $10,000",
       "deadline": "2027-04-01",
       "description": "Scholarships for undergraduate and graduate students in materials science and engineering.",
-      "url": "https://www.tms.org/portal/EDUCATION/Scholarships",
+      "url": "https://www.tms.org/portal/portal/Membership/For_Students/Scholarships.aspx",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -9922,7 +9921,7 @@
         "materials",
         "engineering"
       ],
-      "verifiedAt": "2026-08-10",
+      "verifiedAt": "2026-09-06",
       "deadlineApprox": true
     },
     {
@@ -11600,7 +11599,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-01",
       "description": "Scholarships for students pursuing careers in zoo and aquarium science and conservation.",
-      "url": "https://www.aza.org/aza-scholarship-programs",
+      "url": "https://www.aza.org/scholarships",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -11630,7 +11629,7 @@
         "conservation",
         "animals"
       ],
-      "verifiedAt": "2026-08-10",
+      "verifiedAt": "2026-09-06",
       "deadlineApprox": true
     },
     {
@@ -11721,7 +11720,7 @@
       "amountLabel": "$1,500 and up",
       "deadline": "2027-03-15",
       "description": "Scholarships for students in strength and conditioning and exercise science.",
-      "url": "https://www.nsca.com/education/scholarships/",
+      "url": "https://www.nsca.com/about-us/nsca-foundation/scholarships/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -11750,7 +11749,7 @@
         "healthcare",
         "exercise-science"
       ],
-      "verifiedAt": "2026-08-10",
+      "verifiedAt": "2026-09-06",
       "deadlineApprox": true
     },
     {
@@ -18905,40 +18904,6 @@
       "renewable": false,
       "tags": [
         "state",
-        "deadline-approx"
-      ]
-    },
-    {
-      "id": 491,
-      "name": "Ronald McDonald House Charities New York Tri-State Area Scholarships",
-      "organization": "Ronald McDonald House Charities of the New York Tri-State Area",
-      "amount": 2000,
-      "amountLabel": "Up to $2,000+",
-      "deadline": "2027-02-13",
-      "description": "Scholarships for graduating high school seniors under 21 in the New York Tri-State area, including general and community-specific awards (African American Future Achievers, HACER for Hispanic students, and Asian-Pacific Students Increasing Achievement).",
-      "url": "https://www.rmhcnytristate.org",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "high_school_senior"
-        ],
-        "states": [
-          "New York"
-        ],
-        "ethnicity": null,
-        "financial_need": true,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": null,
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "community",
-      "noEssay": false,
-      "renewable": false,
-      "tags": [
-        "local",
         "deadline-approx"
       ]
     },
@@ -38191,7 +38156,7 @@
       "amountLabel": "Varies (approx $1,000+)",
       "deadline": "2027-02-01",
       "description": "NASA affiliated scholarships for undergraduates in STEM fields and pre-service STEM teachers at member Alabama institutions. Supports students pursuing aerospace and space related science and engineering careers. U.S. citizenship required.",
-      "url": "https://spacegrant.uah.edu/programs/scholarship-fellowship-programs.html",
+      "url": "https://www.uah.edu/asgc/applications/scholarship",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -38221,7 +38186,8 @@
       "tags": [
         "state",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1028,
@@ -45786,7 +45752,7 @@
       "amountLabel": "At least $1,250/year",
       "deadline": "2027-04-01",
       "description": "Scholarships administered by the Bridgeport Public Education Fund for graduates of Bridgeport Public Schools who meet GPA, attendance, and residency requirements. Supports local students transitioning to college.",
-      "url": "https://www.bpef.info/",
+      "url": "https://bridgeportpromisect.org/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -45809,7 +45775,8 @@
       "renewable": false,
       "tags": [
         "local"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1237,
@@ -47866,7 +47833,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-05-01",
       "description": "Scholarships for graduating high school seniors and undergraduate students who are legal residents of Metro Louisville. High school seniors and undergraduates must hold a 2.5 GPA or higher, and graduate applicants must hold a 3.0 or higher. Applicants must be U.S. citizens enrolled or accepted at an accredited institution.",
-      "url": "https://www.naacplou.org/scholarship",
+      "url": "https://www.lounaacp.org/scholarships",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -47893,7 +47860,8 @@
       "tags": [
         "local",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1295,
@@ -49352,7 +49320,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-02-01",
       "description": "Need based scholarship established to help middle income students whose families may not qualify for federal aid but still need help with college costs. Awards are based on financial need from the FAFSA and give priority to families with more than one child in college. Undergraduates must enroll in at least six hours per semester.",
-      "url": "http://cq5publish.ou.edu/scholarships/ou/SoonerHeritage/",
+      "url": "https://www.ou.edu/sfc/scholarships/cash/faq",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -49380,7 +49348,8 @@
       "tags": [
         "local",
         "need"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1336,
@@ -49530,7 +49499,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-02-01",
       "description": "Scholarships for active Oklahoma 4-H members based on 4-H involvement, leadership, community service, and academic achievement. Administered through Oklahoma State University Extension. Awards support graduating seniors and current college students continuing their education.",
-      "url": "https://oklahoma4h.okstate.edu/",
+      "url": "https://4h.okstate.edu/members/record-book-and-scholarship-information/record-book-and-scholarship-info.html",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -49557,7 +49526,8 @@
       "tags": [
         "state",
         "local"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1341,
@@ -53804,7 +53774,7 @@
       "amountLabel": "Up to $5,000",
       "deadline": "2027-03-17",
       "description": "Scholarship for students of African American heritage in the six-county Kansas City metro (including Wyandotte and Johnson counties in Kansas) who are graduating seniors, current college students, or adult learners. Recipients complete 16 hours of community service.",
-      "url": "https://www.blackcommunityfund.org/scholarships",
+      "url": "https://gkccf.academicworks.com/opportunities/4623",
       "eligibility": {
         "gpa_min": 0,
         "grade_levels": [
@@ -53834,7 +53804,8 @@
         "local",
         "identity",
         "diversity"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1459,
@@ -57470,7 +57441,7 @@
       "amountLabel": "Up to $5,500/year",
       "deadline": "2027-03-01",
       "description": "Nevada's state-funded need-based grant for low-income, college-ready students at a Nevada community or state college. Requires FAFSA and Nevada residency for tuition purposes.",
-      "url": "https://gotocollege.nevada.edu/paying-for-college/silver-state-opportunity-grant-ssog/",
+      "url": "https://nshe.nevada.edu/system-administration/departments/asa/students/financial-aid/silver-state-opportunity-grant/",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -57496,7 +57467,8 @@
         "state",
         "need",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1562,
@@ -57696,7 +57668,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-04-15",
       "description": "Scholarship for graduating Nevada high school seniors entering college, university, or trade school. Requires a leadership essay and two recommendation letters; partnership serving the local community since 1999.",
-      "url": "https://www.urbanchamber.org/scholarship-application/",
+      "url": "https://www.urbanchamber.org/hannah-brown-scholarship",
       "eligibility": {
         "gpa_min": 2.5,
         "grade_levels": [
@@ -57721,7 +57693,8 @@
         "local",
         "community-service",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1568,
@@ -58897,7 +58870,7 @@
       "amountLabel": "$3,000 base, up to $10,000 for top winners",
       "deadline": "2027-02-08",
       "description": "Each qualifying Hawaii high school selects an outstanding graduating senior for a $3,000 award, with district and statewide finalists receiving additional amounts. Renewable up to three years of undergraduate study.",
-      "url": "https://takitanifoundation.org/for-students-2/",
+      "url": "http://takitanifoundation.org/for-students-2/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -58922,7 +58895,8 @@
         "state",
         "merit",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1601,
@@ -59275,7 +59249,7 @@
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "Scholarship for Hawaii high school seniors, with focus on students pursuing business, culinary, or hospitality fields.",
-      "url": "https://yhatanews.com/russell-j-hata-scholarship-open-to-high-school-seniors/",
+      "url": "https://yhata.com/community/scholarships/",
       "eligibility": {
         "gpa_min": 3,
         "grade_levels": [
@@ -59303,7 +59277,8 @@
         "state",
         "field_specific",
         "deadline-approx"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1611,
@@ -63171,12 +63146,12 @@
     {
       "id": 1717,
       "name": "Winnie MacLaughlin Scholarship",
-      "organization": "New Hampshire Bar Foundation",
+      "organization": "New Hampshire Women's Bar Association",
       "amount": 2500,
       "amountLabel": "Varies",
       "deadline": "2027-03-01",
       "description": "Presented annually to a second-year law student at the University of New Hampshire Franklin Pierce School of Law who exemplifies academic excellence and has completed community service focused on advancing women in society.",
-      "url": "https://www.nhbarfoundation.org/",
+      "url": "https://www.nhwba.org/Winnie",
       "eligibility": {
         "gpa_min": null,
         "grade_levels": [
@@ -63203,7 +63178,8 @@
         "state",
         "field-specific",
         "law"
-      ]
+      ],
+      "verifiedAt": "2026-09-06"
     },
     {
       "id": 1718,
@@ -72388,40 +72364,6 @@
       "renewable": false,
       "tags": [
         "dental_hygiene"
-      ]
-    },
-    {
-      "id": 1976,
-      "name": "ASHP Foundation Professional Advancement Scholarship",
-      "organization": "ASHP Foundation",
-      "amount": 1000,
-      "amountLabel": "$1,000 plus meeting registration",
-      "deadline": "2026-09-01",
-      "description": "Provides graduating pharmacy students full ASHP Midyear Clinical Meeting registration plus travel support for professional development and networking.",
-      "url": "https://www.ashpfoundation.org/grants-and-awards/scholarships/professional-advancement-scholarships/midyear/students",
-      "eligibility": {
-        "gpa_min": null,
-        "grade_levels": [
-          "college_senior",
-          "grad_student"
-        ],
-        "states": [],
-        "ethnicity": null,
-        "financial_need": false,
-        "first_gen": false,
-        "military": false,
-        "gender": null,
-        "majors": [
-          "healthcare"
-        ],
-        "community_service": false,
-        "athletics": false
-      },
-      "category": "stem",
-      "noEssay": false,
-      "renewable": false,
-      "tags": [
-        "pharmacy"
       ]
     },
     {

@@ -1,0 +1,1375 @@
+[
+  {
+    "id": 1,
+    "name": "Elks Most Valuable Student Scholarship",
+    "organization": "Elks National Foundation",
+    "amount": 7500,
+    "amountLabel": "$1,000 to $7,500 per year (500 four year awards)",
+    "deadline": "2026-11-12",
+    "description": "The Elks National Foundation awards 500 four year scholarships ranging from $1,000 to $7,500 per year to US citizens who are current high school seniors. Applicants are judged on scholarship, leadership and financial need and do not need an Elks family relationship.",
+    "url": "https://www.elks.org/scholars/scholarships/MVS.cfm",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 2,
+    "name": "Elks Legacy Awards",
+    "organization": "Elks National Foundation",
+    "amount": 6000,
+    "amountLabel": "$6,000 ($1,500 per year for four years)",
+    "deadline": "2027-02-01",
+    "description": "Legacy Awards are $6,000 scholarships for children and grandchildren of living Elks members, with 400 awards offered each year including 149 at large awards open to any eligible applicant. Applicants must be high school seniors and complete an act of service with an Elks Lodge during college.",
+    "url": "https://www.elks.org/scholars/scholarships/Legacy.cfm",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 3,
+    "name": "Elks Emergency Educational Grants",
+    "organization": "Elks National Foundation",
+    "amount": 5000,
+    "amountLabel": "up to $5,000 per year",
+    "deadline": "2026-12-31",
+    "description": "Renewable one year grants of up to $5,000 for children of deceased or totally disabled Elks members who demonstrate financial need. Applicants must be unmarried, under 24, and enrolled full time in an accredited US college as undergraduate students.",
+    "url": "https://www.elks.org/scholars/scholarships/eefgrants.cfm",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 4,
+    "name": "American Legion Legacy Scholarship",
+    "organization": "The American Legion",
+    "amount": 20000,
+    "amountLabel": "up to $20,000 for children of the fallen",
+    "deadline": "2027-03-25",
+    "description": "Needs based scholarships of up to $20,000 for children of post 9/11 fallen servicemembers and up to $5,000 for children of post 9/11 veterans with a 50 percent or higher VA disability rating. Awards may be renewed by reapplying for up to six additional years.",
+    "url": "https://www.legion.org/get-involved/scholarships/the-american-legion-legacy-scholarship",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 5,
+    "name": "Samsung American Legion Scholarship",
+    "organization": "The American Legion and Samsung",
+    "amount": 10000,
+    "amountLabel": "$10,000 National Scholar awards",
+    "deadline": "2026-06-01",
+    "description": "Boys State and Girls State participants who are direct descendants of wartime veterans compete for ten $10,000 National Scholar awards, ten $5,000 runner up awards and $1,250 department finalist awards. Selection is based on academic record and school and community service involvement.",
+    "url": "https://www.legion.org/get-involved/scholarships/samsung-american-legion-scholarship",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 6,
+    "name": "National High School Oratorical Contest Scholarship",
+    "organization": "The American Legion",
+    "amount": 25000,
+    "amountLabel": "$25,000 first place plus state winner awards",
+    "deadline": "2027-02-28",
+    "description": "A constitutional speech contest for high school students under age 20 that awards $25,000 to the national first place winner, $22,500 for second, $20,000 for third, and $2,000 to each state winner competing at nationals. Over $203,500 in scholarships are distributed annually.",
+    "url": "https://www.legion.org/oratorical",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 7,
+    "name": "American Legion Baseball Scholarship",
+    "organization": "The American Legion",
+    "amount": 5000,
+    "amountLabel": "$500 department award up to $5,000 All Academic Team",
+    "deadline": "2026-07-01",
+    "description": "American Legion Baseball players are nominated by their department for a $500 scholarship, with eight All Academic Team members receiving an additional $2,500 and the top player an additional $5,000. Awards go to players with strong academics and baseball performance.",
+    "url": "https://www.legion.org/get-involved/youth-programs/scholarships/the-american-legion-baseball-scholarship",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 8,
+    "name": "American Legion Eagle Scout of the Year Scholarship",
+    "organization": "The American Legion",
+    "amount": 10000,
+    "amountLabel": "$10,000 plus three $2,500 runner up awards",
+    "deadline": "2026-03-01",
+    "description": "Eagle Scouts are nominated through their local American Legion department for a $10,000 national scholarship with three $2,500 runner up awards. The nomination window runs November 1 through March 1 each year.",
+    "url": "https://www.legion.org/get-involved/youth-programs/scholarships/american-legion-eagle-scout-of-the-year-scholarship",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "scouting",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 9,
+    "name": "Junior Shooting Sports Scholarship",
+    "organization": "The American Legion",
+    "amount": 5000,
+    "amountLabel": "$5,000 per category winner",
+    "deadline": "2027-03-01",
+    "description": "Winners of the American Legion 3 Position Junior Air Rifle Championship receive $5,000 scholarships in both Precision and Sporter categories, with second place finishers earning $1,000. Winners are honored at the National Convention.",
+    "url": "https://www.legion.org/get-involved/youth-programs/scholarships/junior-shooting-sports-scholarship",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 10,
+    "name": "VFW Voice of Democracy Scholarship",
+    "organization": "Veterans of Foreign Wars",
+    "amount": 35000,
+    "amountLabel": "$35,000 first place, over $1.6M total awarded",
+    "deadline": "2026-10-31",
+    "description": "A national audio essay contest for students in grades 9 through 12 on the theme What a Veteran Taught Me About America, with the national first place winner receiving $35,000. Nearly 28,000 students compete annually for a share of more than $1.6 million.",
+    "url": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 11,
+    "name": "VFW Patriot's Pen Essay Contest",
+    "organization": "Veterans of Foreign Wars",
+    "amount": 5000,
+    "amountLabel": "$5,000 national first place",
+    "deadline": "2026-10-31",
+    "description": "Students in grades 6 through 8 submit a 300 to 400 word essay on a patriotic theme, with the national first place winner receiving $5,000 and state winners receiving at least $500. More than $1 million is awarded annually.",
+    "url": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 12,
+    "name": "VFW Scout of the Year Scholarship",
+    "organization": "Veterans of Foreign Wars",
+    "amount": 5000,
+    "amountLabel": "$5,000 national award",
+    "deadline": "2026-03-01",
+    "description": "Registered Boy and Girl Scouts who earned the Eagle Scout, Girl Scout Gold Award, Venturing Summit Award or Sea Scout Quartermaster Award compete for recognition of standout citizenship and patriotism. Entries are submitted to local VFW Posts by March 1.",
+    "url": "https://www.vfw.org/community/youth-and-education/scout-of-the-year",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "scouting",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 13,
+    "name": "VFW Auxiliary Young American Creative Patriotic Art Contest",
+    "organization": "VFW Auxiliary",
+    "amount": 15000,
+    "amountLabel": "$15,000 national first place",
+    "deadline": "2027-03-31",
+    "description": "Students in grades 9 through 12 including home schooled students create an original patriotic artwork for a national contest with a $15,000 first place scholarship. A separate 3 Dimensional Patriotic Art Contest awards $2,500.",
+    "url": "https://vfwauxiliary.org/scholarships-2/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 14,
+    "name": "Kiwanis Children's Fund Scholarship",
+    "organization": "Kiwanis Children's Fund",
+    "amount": 2460,
+    "amountLabel": "minimum $2,460 (two awards for Key Club and two for Circle K)",
+    "deadline": "2027-02-01",
+    "description": "Graduating Key Club International members in good standing apply for two scholarships of at least $2,460 each, with two identical awards reserved for Circle K International members. Applications open November 1 and are due February 1.",
+    "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 15,
+    "name": "Wagner Family Scholarship",
+    "organization": "Kiwanis Children's Fund",
+    "amount": 4500,
+    "amountLabel": "minimum $4,500",
+    "deadline": "2027-02-01",
+    "description": "One scholarship of at least $4,500 is awarded to a deserving member in good standing of Key Club International who is graduating high school. Applications are posted November 1 and due February 1.",
+    "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 16,
+    "name": "National Eagle Scout Association Scholarships",
+    "organization": "National Eagle Scout Association (Scouting America)",
+    "amount": 50000,
+    "amountLabel": "up to $50,000 four year award",
+    "deadline": "2027-01-31",
+    "description": "Eagle Scout NESA members apply for scholarships including a four year $50,000 Cooke Scholarship, four year $30,000 awards, and one year awards of $5,000 to $10,000 per council service territory. Applicants must show service to community, Scouting and character.",
+    "url": "https://nesa.org/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "scouting"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 17,
+    "name": "4-H Youth in Action Awards",
+    "organization": "National 4-H Council",
+    "amount": 5000,
+    "amountLabel": "$5,000 scholarship",
+    "deadline": "2027-01-31",
+    "description": "Four 4 H youth who make a difference in their communities receive a $5,000 higher education scholarship plus a year of media training and national speaking opportunities. The 2028 application opens in January 2027.",
+    "url": "https://4-h.org/programs/4-h-youth-in-action-program/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 18,
+    "name": "NHS Scholarship",
+    "organization": "National Honor Society",
+    "amount": 2500,
+    "amountLabel": "$2 million across 600 students, up to $25,000",
+    "deadline": "2026-11-20",
+    "description": "The National Honor Society awards $2 million to 600 high school senior members each year based on the four pillars of scholarship, service, leadership and character. Applicants must be active NHS members in good standing planning to attend an accredited US college or trade school.",
+    "url": "https://www.nhs.us/scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 19,
+    "name": "ALA Children of Warriors National Presidents' Scholarship",
+    "organization": "American Legion Auxiliary",
+    "amount": 5000,
+    "amountLabel": "$5,000 (15 awards)",
+    "deadline": "2027-03-01",
+    "description": "Fifteen $5,000 scholarships are awarded annually to descendants of American Legion members who excel in academics and volunteer in their communities. Applications open in early October and close March 1.",
+    "url": "https://www.legion-aux.org/scholarships/children-of-warriors",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 20,
+    "name": "ALA Spirit of Youth Scholarship",
+    "organization": "American Legion Auxiliary",
+    "amount": 5000,
+    "amountLabel": "$1,000 per state up to $5,000 per division",
+    "deadline": "2027-03-01",
+    "description": "This fund supports ALA Junior members, Junior Members of the Year and Girls Nation participants pursuing undergraduate or technical education. Each state department receives one $1,000 award and five division winners receive $5,000 instead.",
+    "url": "https://www.legion-aux.org/scholarships/spirit-of-youth",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 21,
+    "name": "ALA Non-Traditional Student Scholarship",
+    "organization": "American Legion Auxiliary",
+    "amount": 2000,
+    "amountLabel": "$2,000 (5 awards)",
+    "deadline": "2027-03-01",
+    "description": "Five $2,000 scholarships help Legion Family members, veterans and spouses of active duty servicemembers or veterans pursue a degree later in life or resume interrupted studies. Applicants may be enrolled in trade, technical or degree programs.",
+    "url": "https://www.legion-aux.org/scholarships/non-traditional-student",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "non-traditional",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 22,
+    "name": "ALA Member Loyalty Scholarship",
+    "organization": "American Legion Auxiliary",
+    "amount": 2500,
+    "amountLabel": "$2,500 (10 awards)",
+    "deadline": "2027-03-01",
+    "description": "Ten $2,500 scholarships reward members who joined the ALA as Junior members and kept their membership into adulthood. Applicants must have three consecutive years of ALA membership and be current college students.",
+    "url": "https://www.legion-aux.org/scholarships/junior-member-loyalty",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 23,
+    "name": "Sertoma Hard of Hearing or Deaf Scholarship",
+    "organization": "Sertoma",
+    "amount": 3000,
+    "amountLabel": "$1,000 to $3,000",
+    "deadline": "2027-03-31",
+    "description": "The leading scholarship for hard of hearing or deaf students since 1994, open to high school seniors and undergraduates with clinically significant bilateral hearing loss pursuing a four year degree in any discipline. Requires a minimum 3.2 GPA and US citizenship.",
+    "url": "https://www.sertoma.org/what-we-do/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.2,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 24,
+    "name": "Sertoma Communicative Disorders Scholarship",
+    "organization": "Sertoma",
+    "amount": 1000,
+    "amountLabel": "$1,000",
+    "deadline": "2027-03-31",
+    "description": "Graduate students pursuing audiology or speech language pathology degrees at ASHA accredited US institutions compete for $1,000 awards funded by the Sertoma Annual Fund. Requires a minimum 3.5 GPA and US citizenship.",
+    "url": "https://www.sertoma.org/what-we-do/scholarships/",
+    "eligibility": {
+      "gpa_min": 3.5,
+      "grade_levels": [
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 25,
+    "name": "Optimist International Oratorical Contest",
+    "organization": "Optimist International",
+    "amount": 2500,
+    "amountLabel": "$2,500 district award up to $15,000 World Championship",
+    "deadline": "2027-05-15",
+    "description": "Students under 19 compete through local Optimist Clubs in a public speaking contest awarding more than $150,000 annually, with district winners receiving $2,500 and World Championship scholarships up to $15,000. Club level contests conclude by late May.",
+    "url": "https://www.optimist.org/member/scholarships4.cfm",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 26,
+    "name": "Optimist International Essay Contest",
+    "organization": "Optimist International",
+    "amount": 2500,
+    "amountLabel": "$2,500 district award",
+    "deadline": "2027-02-15",
+    "description": "Students under 19 who have not completed high school submit an essay on the assigned topic through their local Optimist Club, competing for a $2,500 district scholarship funded by the Optimist International Foundations.",
+    "url": "https://www.optimist.org/member/scholarships3.cfm",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 27,
+    "name": "Optimist Communication Contest for the Deaf and Hard of Hearing",
+    "organization": "Optimist International",
+    "amount": 2500,
+    "amountLabel": "$2,500 district award",
+    "deadline": "2027-02-15",
+    "description": "Youth who are deaf or hard of hearing compete through spoken presentation or sign language, modeled after the Optimist Oratorical Contest. Qualifying districts award a $2,500 scholarship funded by the Optimist International Foundation.",
+    "url": "https://www.optimist.org/member/scholarships2.cfm",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 28,
+    "name": "DAR America 250! Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 25000,
+    "amountLabel": "$25,000 (ten one time awards)",
+    "deadline": "2027-01-31",
+    "description": "Ten one time $25,000 scholarships honor America's 250th anniversary for students majoring in American History at accredited undergraduate or graduate programs. Requires US citizenship, a minimum 3.5 GPA and a one page essay on the nation's founding or volunteer achievements.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": 3.5,
+      "grade_levels": [
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "liberal_arts"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 29,
+    "name": "DAR Richard and Elizabeth Dean Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 5000,
+    "amountLabel": "$5,000 per year for up to four years",
+    "deadline": "2027-01-31",
+    "description": "Two scholarships of $5,000 per year for up to four consecutive years go to graduating high school students pursuing American Studies including history, government, literature, art history or music. Requires a 4.0 GPA and US citizenship.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": 4.0,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 30,
+    "name": "DAR Lillian and Arthur Dunn Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 2500,
+    "amountLabel": "$2,500 per year for up to four years",
+    "deadline": "2027-01-31",
+    "description": "A $2,500 scholarship awarded for up to four years to two children or stepchildren of dues paying DAR members. Applications are submitted through the DAR online portal which opens November 1 and closes January 31.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 31,
+    "name": "DAR Caroline E. Holt Nursing Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 2500,
+    "amountLabel": "$2,500 one time (3 awards)",
+    "deadline": "2027-01-31",
+    "description": "Three one time $2,500 awards go to students with financial need who have been accepted or are enrolled in an accredited school of nursing. Open to any nursing student regardless of DAR affiliation.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 32,
+    "name": "DAR Dr. Francis Anthony Beneventi Medical Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-01-31",
+    "description": "A $5,000 preferred amount scholarship for a student attending or planning to attend an accredited medical school, with a minimum 3.25 GPA. Recipients may reapply each year for up to four consecutive years.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": 3.25,
+      "grade_levels": [
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 33,
+    "name": "GFWC Success for Survivors Scholarship",
+    "organization": "General Federation of Women's Clubs",
+    "amount": 4000,
+    "amountLabel": "up to $4,000",
+    "deadline": "2027-02-15",
+    "description": "The GFWC Signature Program scholarship helps survivors of domestic and sexual violence pursue higher education and achieve financial and personal independence. The 2027 application posts October 1 with a February 15 deadline.",
+    "url": "https://www.gfwc.org/scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "female",
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 34,
+    "name": "National Garden Clubs College Scholarships",
+    "organization": "National Garden Clubs",
+    "amount": 3500,
+    "amountLabel": "$3,500 (about 40 awards)",
+    "deadline": "2027-02-01",
+    "description": "NGC awards scholarships to students majoring in horticulture, floriculture, landscape design, conservation, forestry, botany, environmental concerns and related fields. Applications are due February 1 through the online application.",
+    "url": "https://gardenclub.org/college-scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "arts",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 35,
+    "name": "Ernestine Keiser Memorial Scholarship",
+    "organization": "The Grange Foundation",
+    "amount": 1000,
+    "amountLabel": "$1,000 (two awards for 2027)",
+    "deadline": "2027-03-01",
+    "description": "Two $1,000 scholarships for 2027 honor long time Grange member Ernestine Keiser and support graduating seniors and postsecondary students who are Grange members in good standing with at least one year of membership. Applications are due March 1.",
+    "url": "https://grangefoundation.org/ernestine-memorial-scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 36,
+    "name": "DeMolay Foundation Scholarship",
+    "organization": "DeMolay Foundation",
+    "amount": 1000,
+    "amountLabel": "varies",
+    "deadline": "2027-03-31",
+    "description": "The DeMolay Foundation offers annual scholarships to active Senior DeMolays and members pursuing higher education. The 2027 application window runs January 1 through March 31 Central Time.",
+    "url": "https://foundation.demolay.org/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 37,
+    "name": "Knights of Columbus Scholarships",
+    "organization": "Knights of Columbus",
+    "amount": 2500,
+    "amountLabel": "varies by fund",
+    "deadline": "2027-04-22",
+    "description": "Scholarships for K of C members in good standing and their children entering freshman year at an approved Catholic college in the United States. Applications are available online March 5 through April 22 with renewals through June 30.",
+    "url": "https://www.kofc.org/en/what-we-do/scholarships/index.html",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  },
+  {
+    "id": 38,
+    "name": "AMVETS Scholarships",
+    "organization": "AMVETS National Service Foundation",
+    "amount": 4000,
+    "amountLabel": "$4,000 (veterans, spouses, children and grandchildren)",
+    "deadline": "2027-04-30",
+    "description": "AMVETS offers $4,000 annual scholarships to veterans, active duty, Guard and Reserve members, their spouses and their children or grandchildren after federal and state aid gaps are considered. A $12,000 skilled trades scholarship is also available.",
+    "url": "https://amvets.org/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": true,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "veterans",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06"
+  }
+]

@@ -1,0 +1,1059 @@
+[
+  {
+    "id": 14,
+    "name": "Kiwanis Children's Fund Scholarship",
+    "organization": "Kiwanis Children's Fund",
+    "amount": 2460,
+    "amountLabel": "minimum $2,460 (two awards for Key Club and two for Circle K)",
+    "deadline": "2027-02-01",
+    "description": "Graduating Key Club International members in good standing apply for two scholarships of at least $2,460 each, with two identical awards reserved for Circle K International members. Applications open November 1 and are due February 1.",
+    "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 15,
+    "name": "Wagner Family Scholarship",
+    "organization": "Kiwanis Children's Fund",
+    "amount": 4500,
+    "amountLabel": "minimum $4,500",
+    "deadline": "2027-02-01",
+    "description": "One scholarship of at least $4,500 is awarded to a deserving member in good standing of Key Club International who is graduating high school. Applications are posted November 1 and due February 1.",
+    "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 17,
+    "name": "4-H Youth in Action Awards",
+    "organization": "National 4-H Council",
+    "amount": 5000,
+    "amountLabel": "$5,000 scholarship",
+    "deadline": "2027-01-31",
+    "description": "Four 4 H youth who make a difference in their communities receive a $5,000 higher education scholarship plus a year of media training and national speaking opportunities. The 2028 application opens in January 2027.",
+    "url": "https://4-h.org/programs/4-h-youth-in-action-program/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_junior",
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": true,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 28,
+    "name": "DAR America 250! Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 25000,
+    "amountLabel": "$25,000 (ten one time awards)",
+    "deadline": "2027-01-31",
+    "description": "Ten one time $25,000 scholarships honor America's 250th anniversary for students majoring in American History at accredited undergraduate or graduate programs. Requires US citizenship, a minimum 3.5 GPA and a one page essay on the nation's founding or volunteer achievements.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": 3.5,
+      "grade_levels": [
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "liberal_arts"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 29,
+    "name": "DAR Richard and Elizabeth Dean Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 5000,
+    "amountLabel": "$5,000 per year for up to four years",
+    "deadline": "2027-01-31",
+    "description": "Two scholarships of $5,000 per year for up to four consecutive years go to graduating high school students pursuing American Studies including history, government, literature, art history or music. Requires a 4.0 GPA and US citizenship.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": 4,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 30,
+    "name": "DAR Lillian and Arthur Dunn Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 2500,
+    "amountLabel": "$2,500 per year for up to four years",
+    "deadline": "2027-01-31",
+    "description": "A $2,500 scholarship awarded for up to four years to two children or stepchildren of dues paying DAR members. Applications are submitted through the DAR online portal which opens November 1 and closes January 31.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": true,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 31,
+    "name": "DAR Caroline E. Holt Nursing Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 2500,
+    "amountLabel": "$2,500 one time (3 awards)",
+    "deadline": "2027-01-31",
+    "description": "Three one time $2,500 awards go to students with financial need who have been accepted or are enrolled in an accredited school of nursing. Open to any nursing student regardless of DAR affiliation.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 32,
+    "name": "DAR Dr. Francis Anthony Beneventi Medical Scholarship",
+    "organization": "National Society Daughters of the American Revolution",
+    "amount": 5000,
+    "amountLabel": "$5,000",
+    "deadline": "2027-01-31",
+    "description": "A $5,000 preferred amount scholarship for a student attending or planning to attend an accredited medical school, with a minimum 3.25 GPA. Recipients may reapply each year for up to four consecutive years.",
+    "url": "https://www.dar.org/national-society/scholarships",
+    "eligibility": {
+      "gpa_min": 3.25,
+      "grade_levels": [
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 36,
+    "name": "DeMolay Foundation Scholarship",
+    "organization": "DeMolay Foundation",
+    "amount": 1000,
+    "amountLabel": "varies",
+    "deadline": "2027-03-31",
+    "description": "The DeMolay Foundation offers annual scholarships to active Senior DeMolays and members pursuing higher education. The 2027 application window runs January 1 through March 31 Central Time.",
+    "url": "https://foundation.demolay.org/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "community",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "community-service",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "civic-service",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 1,
+    "name": "Frederick Douglass Bicentennial Scholarship",
+    "organization": "UNCF",
+    "amount": 10000,
+    "amountLabel": "Up to $10,000",
+    "deadline": "2026-09-10",
+    "description": "UNCF program awarding two $10,000 scholarships each year to exceptional HBCU seniors with high academic achievement, leadership, community service and unmet financial need. Application opened July 27, 2026 and closes September 10, 2026.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000juF0rYAE",
+    "eligibility": {
+      "gpa_min": 3.5,
+      "grade_levels": [
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 2,
+    "name": "AT&T and The NETwork BICP Lewis Latimer Scholarship",
+    "organization": "UNCF",
+    "amount": 2000,
+    "amountLabel": "Up to $2,000",
+    "deadline": "2026-09-21",
+    "description": "One time need based award for incoming college juniors or seniors in STEAM fields at any accredited four year college or HBCU, honoring African American inventor Lewis Latimer. Deadline September 21, 2026.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000jsD6PYAU",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu",
+      "stem"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 3,
+    "name": "Michael Jackson Endowed Scholarship",
+    "organization": "UNCF",
+    "amount": 4000,
+    "amountLabel": "Up to $4,000",
+    "deadline": "2026-09-30",
+    "description": "Provides financial assistance to Communications and Performing Arts majors attending a UNCF member institution during the 2026 to 2027 academic year. Requires a 3.0 GPA and awards up to $4,000 based on financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000iqQRhYAM",
+    "eligibility": {
+      "gpa_min": 3,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "arts",
+        "liberal_arts"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 4,
+    "name": "Wm. Wrigley Foundation Scholarship",
+    "organization": "UNCF",
+    "amount": 5000,
+    "amountLabel": "Up to $5,000",
+    "deadline": "2026-09-30",
+    "description": "One time award up to $5,000 for undergraduates enrolled at UNCF member schools majoring in chemistry, economics, engineering, marketing, finance, business, accounting or computer science. Requires a 2.5 GPA and demonstrated financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000iqQjRYAU",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business",
+        "computer_science",
+        "engineering",
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu",
+      "stem"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 5,
+    "name": "James J. and Margaret M. Kerrigan Endowed Scholarship",
+    "organization": "UNCF",
+    "amount": 5000,
+    "amountLabel": "Up to $5,000",
+    "deadline": "2026-09-30",
+    "description": "Financial support for full time college juniors or seniors in art or education fields at any accredited HBCU, with preference for K through 12 education or fine and performing arts majors. Requires 2.5 GPA, FAFSA and unmet financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000jj0LJYAY",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "arts",
+        "education"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 6,
+    "name": "Stephen K. Keiser STEM Scholarship",
+    "organization": "UNCF",
+    "amount": 2656,
+    "amountLabel": "Up to $2,656",
+    "deadline": "2026-10-07",
+    "description": "Established by Dr. Sally Belcher for college juniors or seniors majoring in STEM or STEM related programs at a UNCF member institution or accredited HBCU. Requires 3.0 GPA, FAFSA and demonstrated unmet financial need.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iiM000000GaynQAC",
+    "eligibility": {
+      "gpa_min": 3,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu",
+      "stem"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 7,
+    "name": "International Association of Minister's Wives and Widows Scholarship",
+    "organization": "UNCF",
+    "amount": 2500,
+    "amountLabel": "Up to $2,500",
+    "deadline": "2026-09-16",
+    "description": "One time need based scholarship for full time students at an accredited four year HBCU in any class year. Requires 2.5 GPA, FAFSA, a transcript, one recommendation and a short personal statement.",
+    "url": "https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000hilLpYAI",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": [
+        "african_american"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "minority",
+      "hbcu"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 30,
+    "name": "HSF Scholar Program",
+    "organization": "Hispanic Scholarship Fund",
+    "amount": 5000,
+    "amountLabel": "$500 to $5,000 based on need",
+    "deadline": "2027-02-15",
+    "description": "Selects 10,000 students of Hispanic heritage annually for scholar support services and awards of $500 to $5,000. The 2026 application ran January 5 to February 15, 2026 and the next cycle is expected to open in early January 2027.",
+    "url": "https://www.hsf.net/scholarship/",
+    "eligibility": {
+      "gpa_min": 2.5,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": [
+        "hispanic"
+      ],
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "hispanic",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "identity-ethnicity",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 0,
+    "name": "ABA Legal Opportunity Scholarship Fund",
+    "organization": "American Bar Association",
+    "amount": 15000,
+    "amountLabel": "$15,000 over three years",
+    "deadline": "2027-03-15",
+    "description": "Grants 15,000 dollars to 20 to 25 incoming first year law students from underrepresented backgrounds, distributed over three years of law school.",
+    "url": "https://www.americanbar.org/groups/diversity/diversity_pipeline/projects_initiatives/legal_opportunity_scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "law"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "merit",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "law",
+      "diversity"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-business-law-edu",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 0,
+    "name": "AGA National Collegiate Leadership Scholarship",
+    "organization": "Association of Government Accountants",
+    "amount": 3000,
+    "amountLabel": "Up to $3,000 trip and training award",
+    "deadline": "2026-10-15",
+    "description": "Sends college juniors and seniors in accounting, finance, or government fields to AGA National Leadership Training with travel, hotel, and registration covered.",
+    "url": "https://www.agacgfm.org/award-scholarship/national-collegiate-leadership-scholarship/",
+    "eligibility": {
+      "gpa_min": 3.2,
+      "grade_levels": [
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "business"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "stem",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "government-finance"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-business-law-edu",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 0,
+    "name": "Horatio Alger National Scholarship",
+    "organization": "Horatio Alger Association",
+    "amount": 25000,
+    "amountLabel": "$25,000",
+    "deadline": "2027-02-15",
+    "description": "Need based award for high school seniors who have faced and overcome significant adversity. Requires critical financial need and a record of perseverance and integrity.",
+    "url": "https://scholars.horatioalger.org/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": true,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "need",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "need-based",
+      "resilience"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-business-law-edu",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 0,
+    "name": "National Federation of the Blind Scholarship Program",
+    "organization": "National Federation of the Blind",
+    "amount": 10000,
+    "amountLabel": "$10,000",
+    "deadline": "2027-03-31",
+    "description": "Largest scholarship program for legally blind students in the United States with thirty merit awards of 10,000 dollars based on academic excellence, service, and leadership.",
+    "url": "https://scholarships.nfb.org/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "high_school_senior",
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "merit",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "disability"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-business-law-edu",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 0,
+    "name": "SBMEF National President's Scholarship",
+    "organization": "American Business Women's Association Stephen Bufton Memorial Educational Fund",
+    "amount": 10000,
+    "amountLabel": "$10,000",
+    "deadline": "2027-05-15",
+    "description": "Ten thousand dollar award for women US citizens with a 3.0 GPA attending an accredited four year college. Part of the Stephen Bufton Memorial Educational Fund program.",
+    "url": "https://sbmef.org/Scholarship/Details/4066",
+    "eligibility": {
+      "gpa_min": 3,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": "female",
+      "majors": null,
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "identity",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "women",
+      "business",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-business-law-edu",
+    "__verdict": "quarantine-blocked",
+    "__status": 500
+  },
+  {
+    "id": 0,
+    "name": "Rotary Foundation Global Grant Scholarship",
+    "organization": "Rotary International",
+    "amount": 30000,
+    "amountLabel": "$30,000+",
+    "deadline": "2026-10-15",
+    "description": "Graduate level funding for study abroad in one of Rotary's seven focus areas such as peace, disease prevention, and water access. Sponsored through local districts with varying deadlines.",
+    "url": "https://www.rotary.org/get-involved/rotary-scholarships",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "stem",
+        "liberal_arts"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "merit",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "graduate",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-business-law-edu",
+    "__verdict": "quarantine-blocked",
+    "__status": 429
+  },
+  {
+    "id": 6,
+    "name": "AANA Foundation Resident Scholarships",
+    "organization": "American Association of Nurse Anesthesiology Foundation",
+    "amount": 3000,
+    "amountLabel": "$3,000",
+    "deadline": "2027-03-01",
+    "description": "Merit and need based scholarships for nurse anesthesia residents who are AANA members enrolled in accredited programs. The application reopens in mid January 2027 with a March 1, 2027 deadline.",
+    "url": "https://www.aana.com/resident-hub/education-grants-and-scholarships/foundation-scholarship/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "stem",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-health-eng",
+    "__verdict": "quarantine-nomatch",
+    "__status": 200
+  },
+  {
+    "id": 11,
+    "name": "NSCA Foundation Scholarships",
+    "organization": "National Strength and Conditioning Association Foundation",
+    "amount": 2000,
+    "amountLabel": "$2,000",
+    "deadline": "2026-10-15",
+    "description": "Multiple $2,000 tuition scholarships for students pursuing strength and conditioning or related exercise science careers at associate through doctoral levels. Applications open August 1 and close October 15 each year.",
+    "url": "https://www.nsca.com/about-us/nsca-foundation/scholarships/",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "stem",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-health-eng",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  },
+  {
+    "id": 14,
+    "name": "National Health Service Corps Scholarship Program",
+    "organization": "Health Resources and Services Administration",
+    "amount": 0,
+    "amountLabel": "Full tuition plus stipend",
+    "deadline": "2027-04-16",
+    "description": "Covers full tuition, fees and a living stipend for primary care health clinicians in training, including nurses and physicians, in exchange for service in high need communities. The 2026 cycle closed April 16, 2026 and a similar spring deadline is expected for the next cycle.",
+    "url": "https://nhsc.hrsa.gov/scholarships/how-to-apply",
+    "eligibility": {
+      "gpa_min": null,
+      "grade_levels": [
+        "college_freshman",
+        "college_sophomore",
+        "college_junior",
+        "college_senior",
+        "grad_student"
+      ],
+      "states": [],
+      "ethnicity": null,
+      "financial_need": false,
+      "first_gen": false,
+      "military": false,
+      "gender": null,
+      "majors": [
+        "healthcare"
+      ],
+      "community_service": false,
+      "athletics": false
+    },
+    "category": "need",
+    "noEssay": false,
+    "renewable": false,
+    "tags": [
+      "national",
+      "deadline-approx"
+    ],
+    "verifiedAt": "2026-09-06",
+    "__beat": "majors-health-eng",
+    "__verdict": "quarantine-blocked",
+    "__status": 403
+  }
+]
