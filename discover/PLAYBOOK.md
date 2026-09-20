@@ -34,3 +34,13 @@ Repo: `C:\Users\popon\Desktop\Claude Code\recovered-apps\app-legal` (hosted data
 - Never push if validate or tsc fails.
 - One run = one commit per repo, fully revertible. The digest always names the revert command.
 - No dashes in any scholarship description (house style).
+
+## Run notes (learned the hard way)
+
+- **Both datasets, always.** `merge-discovery.mjs` writes hosted and bundled together. A run that hand-edits only `scholarme/src/data/scholarships.json` leaves installed apps on the old list, because the app fetches the hosted file and the bundle only ships with a new build. After any merge, confirm `data/scholarships.json` and the bundled copy hold the same entry count.
+- **Carry-in batches.** A run that dies before the merge leaves `passed.json` on disk. The next run should re-gate that batch (the gate re-fetches every URL and dedupes against live data) rather than re-research the same beats, then merge it together with its own fresh candidates.
+- **The 150 cap trims.** With two batches the total easily exceeds 150. Keep the trim balanced, 30 per beat, and write the remainder to `discover-run/<run>/carryover.json` so the next run starts from gated candidates.
+- **Validator warnings are still content bugs.** `validate-scholarships.mjs` warns, not errors, on past deadlines and unknown grade-level slugs, so it can print PASS while the list is stale or unmatchable. Roll passed deadlines to the next cycle with the `deadline-approx` tag, and use only the slugs in `data/validate-scholarships.mjs` (`high_school_junior` upward; there is no `high_school_freshman` or `high_school_sophomore`).
+- **Legacy lead-gen rows.** The blocklist only guards new candidates, so old bold.org / niche.com / scholarshipowl rows survive in the live list. Sweep for them and drop them; students should not be routed to data-harvest sites.
+- **This cron's own prompt is wrong about where the playbook lives.** The job text says "the Obsidian vault under Projects/ScholarMe". The real playbook is this file, `app-legal/discover/PLAYBOOK.md`; the vault note is `wiki/Project-ScholarMe.md` and holds run history, not the procedure.
+- **app-legal's remote can move under you.** Push with a fetch first; the repo takes unrelated commits (README, policy pages) between runs, so `git pull --rebase origin main` before pushing is the normal path.
