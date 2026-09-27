@@ -1,5 +1,5 @@
 {
-  "cursor": 5,
+  "cursor": 0,
   "note": "Weekly discovery rotates through these beats, 5 per run starting at cursor, wrapping around. Cursor advances by 5 each run so every week covers different ground and the backlog drains broadly. States list rotates for the local-backlog beat.",
   "stateRotation": [
     "California",
