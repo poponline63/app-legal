@@ -1,0 +1,56 @@
+name: Weekly feed upkeep
+
+# Keeps the live scholarship list from going stale even when the research-based
+# discovery job (run by an agent on the dev PC) does not run. Every Monday it:
+#   1. validates the file,
+#   2. checks every apply link and deadline (verify-live.mjs),
+#   3. drops awards past their deadline and links that return 404/410
+#      (prune-feed.mjs; removed rows are saved under discover/pruned-<date>.json
+#      so the next discovery run can re-verify and restore them),
+#   4. re-validates, and opens a pull request. It never merges on its own.
+
+on:
+  schedule:
+    - cron: '0 14 * * 1' # Mondays 14:00 UTC (07:00 Phoenix)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  upkeep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate structure
+        run: node data/validate-scholarships.mjs
+      - name: Check links and deadlines
+        run: node data/verify-live.mjs --json data/freshness-report.json
+      - name: Drop expired awards and dead links
+        run: node data/prune-feed.mjs --report data/freshness-report.json
+      - name: Re-validate
+        run: node data/validate-scholarships.mjs
+      - name: Open upkeep PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: weekly-feed-upkeep
+          add-paths: |
+            data/scholarships.json
+            data/freshness-report.json
+            data/freshness-report.md
+            discover/pruned-*.json
+          commit-message: 'Weekly feed upkeep: drop expired awards and dead links'
+          title: 'Weekly feed upkeep'
+          body: |
+            Automated weekly upkeep of the live scholarship list.
+
+            - Expired awards and 404/410 links are removed (see `discover/pruned-*.json`).
+            - Links that returned 403/5xx/timeouts are NOT removed; most are bot
+              protection. They are listed in `data/freshness-report.md` for a manual look.
+
+            Merging publishes to every installed copy of ScholarMe within a minute.
+          labels: data, automated
