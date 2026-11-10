@@ -1,71 +1,43 @@
 # Weekly Scholarship Discovery Digest
 
-**Run date:** 2026-09-27
-**Beats run (cursor 5 → 0):** identity-women-disability-lgbtq, noessay, majors-ag-trades-arts, identity-military-immigrant-religious, employer-union
-**Commits:** 52eedad (app-legal, hosted data + script + cursor) and 3ba79a6 (scholarme, bundled data)
-**Revert:** `git revert 52eedad && git push` (app-legal) and `git revert 3ba79a6 && git push` (scholarme). The digest commit that follows 52eedad only adds this file, so reverting the two above restores the previous list exactly.
+**Run date:** 2026-11-09
+**Beats run (cursor 0 → 5):** majors-health-eng, identity-ethnicity, civic-service, local-backlog, majors-business-law-edu
+**Commits:** `4f68e18` (app-legal, hosted data + cursor) and `dc5dabe` (scholarme, bundled data)
+**Revert:** `git revert 4f68e18 && git push` (app-legal) and `git revert dc5dabe && git push` (scholarme). The digest commit that follows `4f68e18` only adds this file, so reverting the two above restores the previous list exactly.
 
 ## Pipeline numbers
 
-Two candidate sets were gated this run, plus a browser recovery pass.
+Three candidate sets were gated this run: the carry-in batch, the pre-gated batch from the prior run's `passed.json`, and fresh research across five beats. A browser recovery pass followed the gate.
 
-**A. Carry-in batch from the 2026-09-20 cap trim (re-gated today)**
-
-- Candidates found: 68
+- Candidates found: 88 (39 carry-in + 35 pre-gated + 14 fresh)
 - Lead-gen dropped: 0
-- Already in the live list: 0
-- Checked live: 68
-- Passed (publishable): 67
-- Quarantined (blocked or no page-text match): 1
+- Already in the live list / cross-set dedup: 24 (the pre-gated batch overlapped the carry-in batch; both descend from the 2026-09-06 research set)
+- Checked live: 64
+- Passed (publishable): 61
+- Quarantined (blocked or no page-text match): 3
 - Dead (404/410): 0
 
-**B. Fresh research for this run, five beats**
+**Recovery pass** re-confirmed 2 of the 3 quarantined entries via browser-style fetch and merged them back (IEEE MTT-S Undergraduate/Pre-Graduate Scholarships, ASHRAE Undergraduate Engineering Scholarships). One was dropped: Gus Archie Memorial Scholarship (spe.org failed to fetch in both the gate and the recovery check).
 
-- Candidates found: 166
-- Lead-gen dropped: 0
-- Already in the live list: 33
-- Checked live: 133
-- Passed (publishable): 113
-- Quarantined: 18
-- Dead (404/410): 2
+**Merged total: 63** (61 gated + 2 recovered). Hosted version 29 → 30, total 2,111 → 2,174. Both datasets hold 2,174 entries.
 
-By beat (found to passed): identity-women-disability-lgbtq 39 to 29, noessay 32 to 15, majors-ag-trades-arts 27 to 18, identity-military-immigrant-religious 39 to 29, employer-union 29 to 22.
+## Fresh research (5 beats, 14 candidates, 14 passed)
 
-**C. Browser recovery pass**
+- identity-ethnicity: 5 → 5 (Freemont Foundation, HBCU Week NFL, Mary Mahoney Detroit, Hozho Foundation, Dakota Indian Foundation)
+- local-backlog: 6 → 6 (Ventura County CF, Yolo CF, Tri Counties Bank, Sierra Central, Collaboratory, JILK Family)
+- civic-service: 1 → 1 (Kansas 4-H)
+- majors-business-law-edu: 1 → 1 (WICPA Educational Foundation)
+- majors-health-eng: 1 → 1 (ELEVATE Nephrology Nursing Education)
 
-The gate got blocked (HTTP 403 or bot wall) on 15 candidates, so none could be proven either way. One agent re-opened all 15 in a real browser and read the pages. 11 confirmed and published. 4 dropped:
+## Post-merge cleanup
 
-- Alliant Credit Union Member Scholarship Drawing: its own page calls it a drawing with winners picked at random.
-- Text 4000 College Scholarship Sweepstakes (Huntington): a text to win promotion, not a scholarship.
-- Citizens Bank Scholarship: monthly random drawing sweepstakes by its official rules, and the site would not load at all.
-- First Tech Credit Union Scholarship: firsttechfed.com never loaded across five URL variants, so it stays unverified and unpublished.
-
-**Combined**
-
-- Unique after cross-set and live dedupe: 178
-- Cap applied: kept 150 (113 fresh, 26 carry-in, 11 recovered)
-- 39 gated candidates held in `discover-run/wk20260927/carryover.json` for the next run
-- **Published this run: 150**
-
-## Dataset state
-
-- Hosted entries: 2112 to **2261**
-- Hosted version: 26 to **28** (two merge passes, the main batch then the recovery batch)
-- Bundled (scholarme) entries: 2112 to **2261** (identical to hosted)
-- Expired entries: 0
-- `node data/validate-scholarships.mjs`: PASS, no problems
-- `node data/validate-scholarships.mjs --url https://poponline63.github.io/app-legal/data/scholarships.json`: PASS, live file serving version 28
-- `npx tsc --noEmit` (scholarme): clean
-
-## Cleanups folded into the same commit
-
-- **6 deadlines rolled** from a passed 2026 date to the equivalent 2027 date, each tagged `deadline-approx`: QuestBridge National College Match, Schwarzman Scholars, NRF Foundation University Retail Challenge, and three NAPABA Law Foundation awards.
-- **1 legacy lead-gen row dropped**: Regents Scholarship pointed at a fastweb.com page. The university's own pages for it return 404, so the row was removed rather than left routing students to a data-harvest site.
-- **New `data/roll-deadlines.mjs`** does both jobs on every run from now on. It rolls passed deadlines and sweeps legacy lead-gen rows across hosted and bundled together, asserts the two stay in step, and sets `updatedAt`. Before this the roll was done by hand each week.
+- `roll-deadlines.mjs`: rolled 16 passed deadlines to the next cycle (e.g. IEEE MTT-S, VFW Voice of Democracy, ASHRAE, AGC).
+- Fixed one grade-level slug bug on the AAa/e Foundation entry (removed invalid `high_school_freshman` / `high_school_sophomore`) in both datasets.
+- `validate-scholarships.mjs`: PASS, no problems. `npx tsc --noEmit`: clean.
+- `beats.json` cursor advanced 0 → 5. `scholarme/src/utils/matcher.ts` left untouched (other-lane uncommitted work preserved).
 
 ## Notes for the next run
 
-- `discover/beats.json` cursor is now 0, so the next run covers majors-health-eng, identity-ethnicity, civic-service, local-backlog (California, Texas, Florida) and majors-business-law-edu.
-- `discover-run/wk20260927/carryover.json` holds 39 already-gated candidates that the 150 cap trimmed. Feed them through the gate again rather than re-researching those beats.
-- The research agents left a `verify/store.json` page cache in the repo root. It is a run artifact, so it is now in `.gitignore`.
+- `discover/beats.json` cursor is now 5, so the next run covers identity-women-disability-lgbtq, noessay, majors-ag-trades-arts, identity-military-immigrant-religious, and employer-union.
+- The 150 cap was not reached this run (63 merged), so no carry-over file was written.
 - `discover/digest-config.json` does not exist, so no Discord webhook was posted.
